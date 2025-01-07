@@ -1,0 +1,223 @@
+# Horiuchi.Dome_F_2001.2008
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeF2001.Uemura.2008.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeF2001.Uemura.2008.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: glacier ice
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Horiuchi.Dome_F_2001.2008
+#------------------
+# Investigators
+#     Investigators: Horiuchi, Kazuho;Uchida, Tomoko;Sakamoto, Yuko;Ohta, Aoi;Matsuzaki, Hiroyuki;Shibata, Yasuyuki;Motoyama, Hideaki
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Horiuchi, Kazuho;Uchida, Tomoko;Sakamoto, Yuko;Ohta, Aoi;Matsuzaki, Hiroyuki;Shibata, Yasuyuki;Motoyama, Hideaki
+#     Published_Date_or_Year: 2008
+#     Published_Title: Ice core record of 10Be over the past millennium from Dome Fuji, Antarctica: A new proxy record of past solar activity and a powerful tool for stratigraphic dating
+#     Journal_Name: Quaternary Geochronology
+#     Volume: 3
+#     Edition: 
+#     Issue: 
+#     Pages: 253-261
+#     Report: 
+#     DOI: 10.1016/j.quageo.2008.01.003
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Dome F 2001
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -77.32
+#     Southernmost_Latitude: -77.32
+#     Easternmost_Longitude: 39.7
+#     Westernmost_Longitude: 39.7
+#     Elevation: 3810
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 695.0
+#     Most_Recent_Year: 1875.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , glacier ice, ,,N,   
+##d18O	,oxygen isotope ratio of O16:O18 in H2O from melted ice compared to VSMOW, ,permil, 1 2 3 4 5 6 7 8 9 10 11 12, glacier ice, deviation of oxygen isotope ratio 18O:16O in H2O sample compared to standard mean ocean water (V-SMOW), mass spectrometer, N,  ; climateInterpretation_seasonality changed - was originally Mean annual values; archiveType changed - was originally ice core;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1875.0	-55.07	
+1868.6	-55.11542	
+1862.18	-55.63942	
+1855.15	-54.77075	
+1846.87	-56.1373	
+1838.96	-56.21375	
+1830.35	-56.98484	
+1822.69	-55.44461	
+1815.0	-54.81436	
+1805.44	-56.84621	
+1795.28	-57.09841	
+1785.0	-56.00907	
+1777.57	-56.95044	
+1770.11	-55.02001	
+1762.57	-56.47017	
+1755.0	-54.0865	
+1746.68	-55.4526	
+1738.73	-55.45309	
+1730.75	-55.98498	
+1722.31	-55.01804	
+1713.82	-57.02022	
+1705.29	-57.10281	
+1697.58	-56.37818	
+1691.74	-56.79064	
+1685.0	-55.9849	
+1672.51	-55.71501	
+1660.6	-55.91853	
+1649.39	-56.79802	
+1637.5	-55.87576	
+1625.81	-56.83882	
+1615.36	-55.65325	
+1605.0	-55.63015	
+1595.53	-54.96355	
+1586.02	-56.24955	
+1576.93	-56.51255	
+1566.66	-55.5741	
+1555.42	-53.67313	
+1544.14	-54.78363	
+1533.38	-56.54008	
+1522.81	-56.10699	
+1512.08	-55.15989	
+1501.53	-56.2793	
+1490.23	-56.0212	
+1479.01	-57.27285	
+1467.73	-57.35593	
+1456.28	-57.14208	
+1445.0	-56.32747	
+1435.18	-54.45836	
+1425.43	-56.07528	
+1415.64	-56.61605	
+1405.81	-55.89034	
+1396.43	-56.43054	
+1387.5	-53.27694	
+1379.04	-53.91946	
+1371.45	-54.38254	
+1362.83	-54.80728	
+1354.08	-55.27381	
+1345.39	-55.56336	
+1337.09	-55.87651	
+1329.77	-56.21522	
+1321.61	-55.39101	
+1313.32	-56.27953	
+1305.0	-55.82676	
+1295.95	-54.39029	
+1286.31	-55.55343	
+1275.51	-55.43397	
+1266.65	-55.86742	
+1258.53	-56.31065	
+1248.9	-54.49933	
+1238.14	-55.92135	
+1227.62	-55.62004	
+1217.52	-56.19662	
+1208.51	-57.23967	
+1199.01	-56.4414	
+1188.13	-54.84586	
+1177.2	-56.7958	
+1166.58	-56.35863	
+1155.92	-55.22289	
+1145.0	-54.26623	
+1132.24	nan	
+1120.94	-56.66673	
+1109.61	-56.42831	
+1095.98	-56.58955	
+1082.3	-54.96431	
+1069.95	-55.11573	
+1057.57	-54.66689	
+1045.0	-55.65501	
+1035.11	-53.77237	
+1024.84	-54.53579	
+1015.0	-55.29183	
+1005.28	-55.27315	
+995.05	-55.76719	
+984.675	-54.98407	
+973.55	-54.71621	
+963.596	-56.11785	
+953.609	-55.96378	
+942.755	-55.47273	
+933.078	-55.90974	
+923.62	-55.51792	
+914.138	-54.74216	
+905.0	-55.63444	
+894.786	-55.94808	
+884.166	-54.79329	
+874.158	-56.34826	
+864.257	-55.46249	
+853.685	-58.18143	
+842.701	-55.45217	
+831.038	-56.46759	
+819.217	-56.26068	
+808.667	-55.94219	
+797.437	-56.3516	
+785.0	-57.27413	
+770.021	-55.57406	
+755.0	-55.44873	
+746.025	-55.45529	
+737.917	-55.24834	
+729.79	-54.27307	
+720.65	-54.34729	
+712.088	-56.01814	
+703.502	-55.1633	
+695.0	-56.03632	

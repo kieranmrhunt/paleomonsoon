@@ -1,0 +1,202 @@
+# Lamy.Chilean_margin__Southern_Ocean_(Pacific_sector).2002
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ChileanMargin.Lamy.2002-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ChileanMargin.Lamy.2002.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/lamy2002/
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Lamy.Chilean_margin__Southern_Ocean_(Pacific_sector).2002
+#------------------
+# Investigators
+#     Investigators: Lamy, Frank;Rühlemann, Carsten;Hebbeln, Dierk;Wefer, Gerold
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Southern0045aLamy2002_GeoB3313-1;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Inadequate chronological constraints, final record that was entered contained an updated age model and dating constraints;
+#------------------
+# Publication
+#     Authors: Lamy, Frank;Rühlemann, Carsten;Hebbeln, Dierk;Wefer, Gerold
+#     Published_Date_or_Year: 2002
+#     Published_Title: High- and low-latitude climate control on the position of the southern Peru-Chile Current during the Holocene
+#     Journal_Name: Paleoceanography
+#     Volume: 17
+#     Edition: 
+#     Issue: 
+#     Pages: PA000727
+#     Report: 
+#     DOI: 10.1029/2001PA000727
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Chilean margin, Southern Ocean (Pacific sector)
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -41
+#     Southernmost_Latitude: -41
+#     Easternmost_Longitude: -74.45
+#     Westernmost_Longitude: -74.45
+#     Elevation: -852
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -5721.25
+#     Most_Recent_Year: 1929.47368421053
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenone, N,  SST data from author not placed on age-depth scale; so I had to generate a control point-to-point linear interpolation using authors reported age control. All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; climateInterpretation_seasonality changed - was originally Annual; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1929.47368421053	14.17	
+1861.05263157895	14.58	
+1792.63157894737	14.7	
+1724.21052631579	14.53	
+1650.85106382979	14.67	
+1572.55319148936	14.91	
+1494.25531914894	14.62	
+1415.95744680851	14.81	
+1337.65957446809	14.89	
+1259.36170212766	15.03	
+1181.06382978723	14.97	
+1102.76595744681	15.34	
+1024.46808510638	15.33	
+946.170212765957	15.2	
+867.872340425532	15.03	
+789.574468085106	15.16	
+714.186046511628	15.17	
+676.976744186047	15.14	
+639.767441860465	15.14	
+565.348837209302	15.35	
+490.93023255814	15.29	
+416.511627906977	15.59	
+379.302325581395	15.56	
+342.093023255814	15.44	
+267.674418604651	15.28	
+193.255813953488	15.18	
+156.046511627907	15.08	
+81.6279069767443	15.04	
+7.20930232558135	15.01	
+-94.5614035087719	15.45	
+-223.684210526316	15.05	
+-352.80701754386	15.01	
+-481.929824561404	15.11	
+-611.052631578948	14.9	
+-740.175438596491	15.33	
+-869.298245614035	15.07	
+-998.421052631579	15.1	
+-1127.54385964912	15.32	
+-1256.66666666667	15.29	
+-1321.22807017544	15.29	
+-1385.78947368421	15.23	
+-1514.91228070175	15.17	
+-1644.0350877193	15.35	
+-1773.15789473684	15.54	
+-1899.75609756098	15.73	
+-2018.78048780488	15.76	
+-2137.80487804878	15.39	
+-2256.82926829268	15.33	
+-2375.85365853659	15.58	
+-2494.87804878049	15.46	
+-2613.90243902439	15.43	
+-2732.92682926829	15.31	
+-2851.9512195122	15.53	
+-2970.9756097561	15.41	
+-3090.0	15.53	
+-3133.13725490196	15.39	
+-3176.27450980392	15.51	
+-3219.41176470588	15.58	
+-3262.54901960784	15.55	
+-3305.6862745098	15.74	
+-3348.82352941176	15.81	
+-3391.96078431373	15.9	
+-3435.09803921569	15.86	
+-3478.23529411765	16.19	
+-3521.37254901961	16.1	
+-3564.50980392157	16.03	
+-3607.64705882353	16.15	
+-3671.25	15.84	
+-3796.25	16.03	
+-3921.25	15.77	
+-4046.25	15.51	
+-4171.25	15.65	
+-4296.25	15.56	
+-4421.25	15.33	
+-4546.25	15.63	
+-4671.25	15.52	
+-4796.25	15.44	
+-4921.25	15.47	
+-5046.25	15.16	
+-5171.25	15.27	
+-5296.25	15.5	
+-5421.25	15.32	
+-5546.25	15.41	
+-5671.25	15.49	
+-5721.25	15.15	

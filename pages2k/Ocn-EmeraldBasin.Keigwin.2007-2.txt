@@ -1,0 +1,295 @@
+# Emerald Basin, Nova Scotia marine sediment alkenone SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-EmeraldBasin.Keigwin.2007-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-EmeraldBasin.Keigwin.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/keigwin2005
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Emerald Basin, Nova Scotia marine sediment alkenone SST
+#------------------
+# Investigators
+#     Investigators: Sachs, J.P.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement;Êsee "Data (QC) tab" cell C6 for details
+#------------------
+# Publication
+#     Authors: Sachs, Julian P.
+#     Published_Date_or_Year: 2007
+#     Published_Title: Cooling of Northwest Atlantic slope waters during the Holocene
+#     Journal_Name: Geophysical Research Letters
+#     Volume: 34
+#     Edition: 
+#     Issue: 3
+#     Pages: L03609
+#     Report: 
+#     DOI: 10.1029/2006GL028495
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Emerald Basin, Nova Scotia
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 43.53
+#     Southernmost_Latitude: 43.53
+#     Easternmost_Longitude: -62.48
+#     Westernmost_Longitude: -62.48
+#     Elevation: -250
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 400.0
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Uk37	native data (alkenone ratio) used for calculating SST, Alkenone, ,,, marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenones, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,U37K index, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994);  
+##notes	quality-controlled data from Sachs (2007) - PLEASE USE QC DATA FOR ANALYSIS!!!!, ,,,, marine sediment, ,,C,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Uk37           temperature    notes	
+nan	0.312093763	8.03	nan	
+nan	0.312681967	8.05	nan	
+nan	0.31868602	8.23	nan	
+nan	0.326064227	8.44	nan	
+nan	0.3302697	8.57	nan	
+nan	0.327272132	8.48	nan	
+nan	0.335509537	8.72	nan	
+1950.0	0.331982701	8.62	nan	
+1820.0	0.324887194	8.41	nan	
+1570.0	0.335525616	8.721341659	nan	
+1510.0	0.338205544	8.800163059	nan	
+1440.0	0.340590177	8.870299337	nan	
+1360.0	0.340210855	8.859142795	nan	
+1250.0	0.34095705	8.881089692	nan	
+1150.0	0.346865029	9.054853783	nan	
+1040.0	0.351133532	9.180397989	nan	
+930.0	0.353904253	9.26188978	nan	
+830.0	0.36148126	9.484742945	nan	
+720.0	0.366396634	9.629312758	nan	
+620.0	0.370880497	9.76119108	nan	
+510.0	0.348199482	9.0941024045	mean	
+400.0	0.368175512	9.681632714	nan	
+310.0	0.364849572	9.583810949	nan	
+240.0	0.363332094	9.539179245	nan	
+160.0	0.370510205	9.75030015	nan	
+80.0	0.371903981	9.791293568	nan	
+0.0	0.376791562	9.93504593	nan	
+-70.0	0.383765293	10.14015567	nan	
+-150.0	0.392248879	10.38967291	nan	
+-230.0	0.384564016	10.16364752	nan	
+-300.0	0.393298377	10.42054049	nan	
+-380.0	0.397018622	10.52995947	nan	
+-460.0	0.394123391	10.44480563	nan	
+-530.0	0.395813119	10.49450349	nan	
+-610.0	0.399567269	10.60491967	nan	
+-690.0	0.398492804	10.57331777	nan	
+-760.0	0.415025293	11.05956743	nan	
+-840.0	0.406094932	10.79690975	nan	
+-920.0	0.403499712	10.72057978	nan	
+-1000.0	0.403536768	10.72166963	nan	
+-1070.0	0.402035249	10.67750733	nan	
+-1150.0	0.411748134	10.96318043	nan	
+-1230.0	0.397151565	10.53386956	nan	
+-1300.0	0.407642278	10.84241995	nan	
+-1380.0	0.412012067	10.97094315	nan	
+-1460.0	0.421974216	11.26394754	nan	
+-1530.0	0.406193074	10.7997963	nan	
+-1610.0	0.409550462	10.89854301	nan	
+-1690.0	0.414448027	11.04258903	nan	
+-1760.0	0.412133807	10.97452374	nan	
+-1840.0	0.426303798	11.39128818	nan	
+-1920.0	0.42317732	11.29933294	nan	
+-2000.0	0.430354029	11.51041261	nan	
+-2070.0	0.432338895	11.56879102	nan	
+-2150.0	0.430134351	11.50395149	nan	
+-2230.0	0.429735722	11.49222712	nan	
+-2300.0	0.4006743055	10.637479565	mean	
+-2380.0	0.405716743	10.785786545	mean	
+-2460.0	0.426178027	11.38758902	nan	
+-2530.0	0.452319115	12.15644457	nan	
+-2610.0	0.436990193	11.70559391	nan	
+-2690.0	0.443036038	11.88341288	nan	
+-2760.0	0.435478813	11.66114157	nan	
+-2920.0	0.431244769	11.53661086	nan	
+-3000.0	0.444776002	11.93458828	nan	
+-3070.0	0.449645758	12.07781642	nan	
+-3150.0	0.447252461	12.00742533	nan	
+-3230.0	0.45660475	12.28249265	nan	
+-3300.0	0.443696055	11.90282514	nan	
+-3380.0	0.4202608185	11.21355349	mean	
+-3460.0	0.458219987	12.32999962	nan	
+-3530.0	0.459941539	12.38063349	nan	
+-3610.0	0.479658567	12.96054608	nan	
+-3690.0	0.489436075	13.24811985	nan	
+-3760.0	0.486808389	13.17083497	nan	
+-3840.0	0.494550403	13.39854126	nan	
+-3920.0	0.473120108	12.76823846	nan	
+-3990.0	0.468795667	12.64104904	nan	
+-4070.0	0.508552011	13.81035327	nan	
+-4150.0	0.505928585	13.73319369	nan	
+-4230.0	0.499175241	13.53456591	nan	
+-4300.0	0.4383885765	11.74672284	mean	
+-4380.0	0.497717403	13.49168833	nan	
+-4460.0	0.4713384035	12.715835395	mean	
+-4530.0	0.499255849	13.53693672	nan	
+-4610.0	0.501558617	13.60466519	nan	
+-4690.0	0.504467861	13.6902312	nan	
+-4760.0	0.500847856	13.58376048	nan	
+-4840.0	0.51791211	14.08565028	nan	
+-4920.0	0.522181056	14.21120754	nan	
+-4990.0	0.540775761	14.75811061	nan	
+-5060.0	0.530978361	14.46995179	nan	
+-5130.0	0.52129694	14.18520412	nan	
+-5200.0	0.538510991	14.69149973	nan	
+-5270.0	0.532143709	14.50422674	nan	
+-5340.0	0.536514259	14.63277234	nan	
+-5410.0	0.481671553	13.01975156	nan	
+-5480.0	0.549793886	15.02334958	nan	
+-5550.0	0.554439839	15.15999526	nan	
+-5620.0	0.548177545	14.97581015	nan	
+-5690.0	0.540382035	14.74653044	nan	
+-5760.0	0.52786964	14.37851883	nan	
+-5830.0	0.537470376	14.6608934	nan	
+-5900.0	0.542479015	14.80820633	nan	
+-5970.0	0.539495435	14.72045396	nan	
+-6040.0	0.531903854	14.49717218	nan	
+-6110.0	0.522025515	14.2066328	nan	
+-6180.0	0.542224503	14.80072067	nan	
+-6250.0	0.554610338	15.16500994	nan	
+-6320.0	0.538605427	14.69427726	nan	
+-6390.0	0.533562947	14.54596904	nan	
+-6460.0	0.534234858	14.56573112	nan	
+-6530.0	0.532687131	14.52020975	nan	
+-6600.0	0.530970241	14.46971298	nan	
+-6670.0	0.528458782	14.39584653	nan	
+-6740.0	0.524993233	14.29391861	nan	
+-6810.0	0.518217596	14.09463518	nan	
+-6880.0	0.523629111	14.25379739	nan	
+-6950.0	0.537360745	14.65766898	nan	
+-7020.0	0.515024046	14.00070725	nan	
+-7090.0	0.482153087	13.03391432	nan	
+-7160.0	0.51934638	14.12783471	nan	
+-7230.0	0.532296209	14.50871204	nan	
+-7300.0	0.514618912	13.98879152	nan	
+-7370.0	0.519585322	14.13486242	nan	
+-7440.0	0.526841186	14.34827018	nan	
+-7510.0	0.532806514	14.52372099	nan	
+-7580.0	0.53728091	14.65532088	nan	
+-7650.0	0.528981665	14.41122543	nan	
+-7720.0	0.56398217	15.44065206	nan	
+-7790.0	0.549292967	15.00861668	nan	
+-7860.0	0.544573118	14.8697976	nan	
+-7930.0	0.539762794	14.72831747	nan	
+-8000.0	0.558144329	15.26895084	nan	
+-8070.0	0.548250676	14.97796106	nan	
+-8140.0	0.551739347	15.08056904	nan	
+-8210.0	0.543285775	14.83193456	nan	
+-8280.0	0.528019451	14.38292502	nan	
+-8350.0	0.550478461	15.04348414	nan	
+-8420.0	0.533991818	14.55858289	nan	
+-8490.0	0.553325897	15.12723227	nan	
+-8570.0	0.54137779	14.77581737	nan	
+-8640.0	0.534295089	14.56750262	nan	
+-8710.0	0.527845867	14.37781963	nan	
+-8780.0	0.531541108	14.48650317	nan	
+-8850.0	0.52812724	14.3860953	nan	
+-8920.0	0.522140971	14.21002855	nan	
+-8990.0	0.505663221	13.72538885	nan	
+-9060.0	0.518375124	14.09926835	nan	
+-9130.0	0.52885691	14.40755616	nan	
+-9200.0	0.520214827	14.15337726	nan	
+-9270.0	0.502781565	13.64063427	nan	
+-9340.0	0.505965369	13.73427557	nan	
+-9410.0	0.510655754	13.87222807	nan	
+-9480.0	0.508129684	13.79793188	nan	
+-9550.0	0.506413569	13.74745792	nan	
+-9620.0	0.500050607	13.56031197	nan	
+-9690.0	0.503724993	13.66838215	nan	
+-9760.0	0.503630138	13.66559229	nan	
+-9830.0	0.507505714	13.77957984	nan	
+-9900.0	0.510925405	13.88015896	nan	
+-9970.0	0.474779757	12.81705167	nan	
+-10040.0	0.486500237	13.16177168	nan	
+-10110.0	0.473945842	12.79252477	nan	
+-10180.0	0.491326369	13.30371674	nan	
+-10250.0	0.49551192	13.42682117	nan	
+-10320.0	0.513596266	13.95871371	nan	
+-10400.0	0.511125323	13.88603891	nan	
+-10470.0	0.505128514	13.70966218	nan	
+-10540.0	0.494629871	13.40087855	nan	
+-10610.0	0.511794111	13.90570915	nan	
+-10680.0	0.510968299	13.88142056	nan	
+-10760.0	0.518298346	14.09701018	nan	
+-10830.0	0.512601256	13.9294487	nan	
+-10900.0	0.520770423	14.16971831	nan	
+-10970.0	0.520979309	14.17586203	nan	

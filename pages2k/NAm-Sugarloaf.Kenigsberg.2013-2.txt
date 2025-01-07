@@ -1,0 +1,406 @@
+# 
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-Sugarloaf.Kenigsberg.2013-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-Sugarloaf.Kenigsberg.2013.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/15527
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: tree
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: 
+#------------------
+# Investigators
+#     Investigators: Kenigsberg, M.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Use original chronology and truncate at 1700
+#------------------
+# Publication
+#     Authors: Kenigsberg, M.
+#     Published_Date_or_Year: 
+#     Published_Title: World Data Center for Paleoclimatology
+#     Journal_Name: 
+#     Volume: 
+#     Edition: 
+#     Issue: 
+#     Pages: 
+#     Report: 
+#     DOI: 
+#     Online_Resource: https://www.ncdc.noaa.gov/paleo/study/15527
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Sugarloaf
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 60.1
+#     Southernmost_Latitude: 60.1
+#     Easternmost_Longitude: -134.4
+#     Westernmost_Longitude: -134.4
+#     Elevation: 1330
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1700.0
+#     Most_Recent_Year: 2003.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: ABLA
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , tree, ,,N,   
+##trsgi	,,,NA, 1 2 3 4 5 6 7 8 9 10 11 12, tree, ,,, ; climateInterpretation_seasonality changed - was originally Annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           trsgi	
+1700.0	0.415	
+1701.0	0.541	
+1702.0	0.351	
+1703.0	0.544	
+1704.0	0.442	
+1705.0	0.534	
+1706.0	0.409	
+1707.0	0.301	
+1708.0	0.497	
+1709.0	0.677	
+1710.0	0.799	
+1711.0	0.369	
+1712.0	0.584	
+1713.0	0.846	
+1714.0	0.766	
+1715.0	0.949	
+1716.0	1.031	
+1717.0	0.908	
+1718.0	0.57	
+1719.0	0.987	
+1720.0	0.78	
+1721.0	0.731	
+1722.0	1.113	
+1723.0	0.996	
+1724.0	1.262	
+1725.0	1.235	
+1726.0	1.101	
+1727.0	1.027	
+1728.0	1.051	
+1729.0	1.298	
+1730.0	1.11	
+1731.0	0.969	
+1732.0	1.342	
+1733.0	1.184	
+1734.0	1.058	
+1735.0	1.163	
+1736.0	0.841	
+1737.0	1.499	
+1738.0	1.609	
+1739.0	0.862	
+1740.0	0.963	
+1741.0	0.862	
+1742.0	0.867	
+1743.0	0.654	
+1744.0	0.694	
+1745.0	0.789	
+1746.0	0.763	
+1747.0	1.14	
+1748.0	1.23	
+1749.0	1.08	
+1750.0	1.047	
+1751.0	0.963	
+1752.0	0.817	
+1753.0	1.095	
+1754.0	0.642	
+1755.0	0.56	
+1756.0	0.523	
+1757.0	0.617	
+1758.0	0.664	
+1759.0	0.701	
+1760.0	0.672	
+1761.0	0.723	
+1762.0	0.722	
+1763.0	1.09	
+1764.0	1.024	
+1765.0	1.066	
+1766.0	1.577	
+1767.0	1.332	
+1768.0	0.463	
+1769.0	0.725	
+1770.0	0.781	
+1771.0	0.861	
+1772.0	0.995	
+1773.0	0.931	
+1774.0	1.291	
+1775.0	0.98	
+1776.0	0.888	
+1777.0	1.047	
+1778.0	0.985	
+1779.0	0.981	
+1780.0	0.974	
+1781.0	0.933	
+1782.0	0.927	
+1783.0	1.096	
+1784.0	0.931	
+1785.0	1.297	
+1786.0	1.083	
+1787.0	1.092	
+1788.0	0.899	
+1789.0	0.973	
+1790.0	0.983	
+1791.0	0.971	
+1792.0	1.162	
+1793.0	1.122	
+1794.0	0.954	
+1795.0	1.245	
+1796.0	1.006	
+1797.0	1.103	
+1798.0	0.899	
+1799.0	0.799	
+1800.0	1.074	
+1801.0	0.944	
+1802.0	1.084	
+1803.0	1.203	
+1804.0	1.254	
+1805.0	1.152	
+1806.0	1.268	
+1807.0	1.181	
+1808.0	1.027	
+1809.0	1.295	
+1810.0	0.665	
+1811.0	0.725	
+1812.0	0.625	
+1813.0	0.811	
+1814.0	0.653	
+1815.0	0.478	
+1816.0	0.686	
+1817.0	0.52	
+1818.0	0.833	
+1819.0	0.611	
+1820.0	0.626	
+1821.0	0.663	
+1822.0	0.732	
+1823.0	0.75	
+1824.0	0.826	
+1825.0	0.821	
+1826.0	0.889	
+1827.0	1.015	
+1828.0	1.281	
+1829.0	1.307	
+1830.0	0.98	
+1831.0	1.043	
+1832.0	0.97	
+1833.0	1.212	
+1834.0	1.12	
+1835.0	1.036	
+1836.0	0.748	
+1837.0	1.188	
+1838.0	1.091	
+1839.0	1.086	
+1840.0	1.289	
+1841.0	1.197	
+1842.0	0.999	
+1843.0	1.238	
+1844.0	1.342	
+1845.0	1.127	
+1846.0	0.887	
+1847.0	0.916	
+1848.0	1.184	
+1849.0	0.793	
+1850.0	0.713	
+1851.0	0.942	
+1852.0	1.24	
+1853.0	0.661	
+1854.0	1.154	
+1855.0	1.067	
+1856.0	0.906	
+1857.0	1.103	
+1858.0	1.247	
+1859.0	1.024	
+1860.0	1.042	
+1861.0	0.882	
+1862.0	0.865	
+1863.0	1.065	
+1864.0	0.86	
+1865.0	1.054	
+1866.0	0.85	
+1867.0	0.986	
+1868.0	1.105	
+1869.0	1.01	
+1870.0	1.06	
+1871.0	0.902	
+1872.0	0.877	
+1873.0	1.035	
+1874.0	1.061	
+1875.0	1.115	
+1876.0	0.896	
+1877.0	0.86	
+1878.0	0.879	
+1879.0	0.78	
+1880.0	0.874	
+1881.0	0.853	
+1882.0	0.945	
+1883.0	0.754	
+1884.0	1.238	
+1885.0	1.087	
+1886.0	1.1	
+1887.0	0.719	
+1888.0	0.786	
+1889.0	0.846	
+1890.0	1.041	
+1891.0	1.079	
+1892.0	1.049	
+1893.0	1.221	
+1894.0	0.921	
+1895.0	0.922	
+1896.0	1.072	
+1897.0	0.928	
+1898.0	0.606	
+1899.0	0.825	
+1900.0	0.991	
+1901.0	0.944	
+1902.0	1.009	
+1903.0	1.03	
+1904.0	0.564	
+1905.0	0.963	
+1906.0	0.832	
+1907.0	1.001	
+1908.0	1.013	
+1909.0	0.791	
+1910.0	1.014	
+1911.0	1.105	
+1912.0	0.865	
+1913.0	1.201	
+1914.0	1.121	
+1915.0	1.308	
+1916.0	1.232	
+1917.0	1.121	
+1918.0	1.301	
+1919.0	0.931	
+1920.0	0.932	
+1921.0	0.836	
+1922.0	0.996	
+1923.0	1.15	
+1924.0	0.791	
+1925.0	0.767	
+1926.0	1.086	
+1927.0	1.077	
+1928.0	0.782	
+1929.0	0.884	
+1930.0	1.127	
+1931.0	1.042	
+1932.0	0.931	
+1933.0	1.095	
+1934.0	1.097	
+1935.0	1.029	
+1936.0	1.08	
+1937.0	1.069	
+1938.0	1.282	
+1939.0	1.408	
+1940.0	1.247	
+1941.0	1.357	
+1942.0	1.3	
+1943.0	1.448	
+1944.0	1.707	
+1945.0	1.207	
+1946.0	1.415	
+1947.0	1.141	
+1948.0	1.338	
+1949.0	0.872	
+1950.0	1.322	
+1951.0	1.205	
+1952.0	0.837	
+1953.0	1.044	
+1954.0	0.964	
+1955.0	1.156	
+1956.0	0.697	
+1957.0	1.056	
+1958.0	0.912	
+1959.0	0.717	
+1960.0	0.76	
+1961.0	0.906	
+1962.0	0.854	
+1963.0	0.856	
+1964.0	0.978	
+1965.0	1.058	
+1966.0	0.892	
+1967.0	0.92	
+1968.0	0.953	
+1969.0	1.061	
+1970.0	0.769	
+1971.0	1.035	
+1972.0	0.803	
+1973.0	0.618	
+1974.0	0.816	
+1975.0	1.057	
+1976.0	0.961	
+1977.0	0.897	
+1978.0	0.79	
+1979.0	0.775	
+1980.0	1.013	
+1981.0	0.867	
+1982.0	1.195	
+1983.0	0.97	
+1984.0	0.899	
+1985.0	0.998	
+1986.0	0.952	
+1987.0	0.903	
+1988.0	0.84	
+1989.0	0.946	
+1990.0	0.866	
+1991.0	0.891	
+1992.0	1.023	
+1993.0	0.875	
+1994.0	1.127	
+1995.0	0.894	
+1996.0	1.048	
+1997.0	0.981	
+1998.0	0.896	
+1999.0	0.907	
+2000.0	0.956	
+2001.0	1.014	
+2002.0	0.993	
+2003.0	1.036	

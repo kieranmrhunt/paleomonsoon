@@ -1,0 +1,2637 @@
+paleoData_TSid,datasetName,archiveType,geo_meanLon,geo_meanLat,geo_siteName,pub1_dataUrl,resolution
+Africa_001,,speleothem,29.18,-24,Cold Air Cave,doi.org,1.056213018
+Africa_003,,lake sediment,28.53,-6.03,Lake Tanganyika,doi.org,20.87323944
+Africa_004,,lake sediment,28.53,-6.03,Lake Tanganyika,doi.org,20.87323944
+Africa_005,,lake sediment,28.53,-6.03,Lake Tanganyika,doi.org,20.87323944
+Africa_006,,lake sediment,28.53,-6.03,Lake Tanganyika,doi.org,20.87323944
+Ant_005,,glacier ice,-45.72,-79.57,Berkner Island (South),doi.org,1.002020202
+Ant_006,,glacier ice,-3.43,-75.58,Site DML07,doi.org,1.009137056
+Ant_007,,glacier ice,-0.01,-75,Site DML05,doi.org,1
+Ant_008,,glacier ice,6.5,-75.17,Site DML17,doi.org,1.014242116
+Ant_011,,glacier ice,112.807,-66.77,DSS,doi.org,1
+Ant_012,,glacier ice,123.39,-75.1,Dome C,,13.78664388
+Ant_013,,glacier ice,123.39,-75.1,Dome C,,13.78664388
+Ant_014,,glacier ice,-86.9,-74.57,Ferrigno,doi.org,1
+Ant_017,,glacier ice,11.54,-70.86,Coastal DML,doi.org,1
+Ant_022,,glacier ice,-57.685,-64.2017,James Ross Island,doi.org,1
+Ant_023,,glacier ice,43,-84,Plateau Remote,doi.org,1
+Ant_024,,glacier ice,-84.25,-75.92,Siple Station,doi.org,1
+Ant_025,,glacier ice,159.18,-72.82,TALDICE,doi.org,10.91504396
+Ant_026,,glacier ice,159.06,-72.8,Talos Dome,doi.org,1
+Ant_027,,glacier ice,162.5332,-77.3302,VLG,doi.org,1
+Ant_028,,glacier ice,104.8005,-78.2785,Vostok,doi.org,1
+Ant_029,,glacier ice,104.8005,-78.2785,Vostok,doi.org,1
+Ant_030,,glacier ice,-112.09,-79.46,WDC05A,doi.org,1
+Ant_031,,glacier ice,-112.09,-79.46,WDC06A,doi.org,0.050013379
+Ant_031dD,,glacier ice,-112.09,-79.46,WDC06A,doi.org,0.050013379
+Ant_033,,glacier ice,167.6765,-77.515,MES,doi.org,0.082075138
+Ant_035,,glacier ice,158.72,-77.78,Taylor Dome,doi.org,1.86281343
+Ant_037,,glacier ice,-111.24,-79.3838,US-ITASE-2000-1,doi.org,0.101099707
+Ant_050,,glacier ice,-107.99,-86.5,US-ITASE-2002-4,doi.org,0.117583697
+Arc_001,,lake sediment,-150.47,68.09,Blue Lake,doi.org,1
+Arc_002,,tree,101,72,Avam-Taimyr,doi.org,1
+Arc_004,,lake sediment,-69.53,81.35,Lower Murray Lake,doi.org,1.01010101
+Arc_005,,glacier ice,-61.13,77.17,Camp Century,doi.org,1
+Arc_007,,tree,-146.59,61.03,Gulf of Alaska,doi.org,1
+Arc_008,,tree,-140.7,67.9,Yukon,doi.org,1
+Arc_011,,glacier ice,-38.08,72.1,GISP2,doi.org,1
+Arc_012,,tree,19.6,68.26,Tornetrask,doi.org,1
+Arc_012mxd,,tree,19.6,68.26,Tornetrask,doi.org,1
+Arc_016,,tree,147,69.5,Indigirka,doi.org,1
+Arc_018,,glacier ice,24.02,79.83,Austfonna,doi.org,1.081374322
+Arc_020,,lake sediment,-77.9,82.83,Lake C2,doi.org,1
+Arc_021,,lake sediment,-19.8,64.6,Hvítárvatn,doi.org,1
+Arc_023,,tree,125.87,70.67,Lena River,doi.org,1
+Arc_024,,lake sediment,-61.35,66.73,Lake Donard Baffin Island,doi.org,1
+Arc_026,,glacier ice,-37.63,73.94,NGT B16,doi.org,1
+Arc_027,,glacier ice,-36.4,76.62,NGT B18,doi.org,1
+Arc_028,,glacier ice,-41.14,80,NGT B21,doi.org,1
+Arc_029,,lake sediment,-68.83,69.87,Big Round Lake,doi.org,1
+Arc_031,,glacier ice,-42.32,75.1,NGRIP1,doi.org,1
+Arc_032,,glacier ice,-73.1,80.7,Agassiz,doi.org,1
+Arc_033,,glacier ice,-37.32,71.12,Crete,doi.org,1
+Arc_034,,glacier ice,-43.83,65.18,Dye,doi.org,1
+Arc_035,,glacier ice,-37.64,72.58,GRIP,doi.org,1
+Arc_036,,documents,-18.37,64.77,Iceland,Manually Entered,33
+Arc_037,,marine sediment,7.64,66.97,Vøring Plateau,doi.org,20.30602007
+Arc_039,,lake sediment,-143.6,61.35,Moose Lake,doi.org,43.24435484
+Arc_040,,lake sediment,-145.66,61.9,Hudson Lake,doi.org,67.47857143
+Arc_041,,lake sediment,-145.4,66.07,Screaming Lynx Lake,doi.org,41.85
+Arc_042,,lake sediment,-50.7,67,Braya Sø,doi.org,34.05710227
+Arc_043,,glacier ice,-82.5,75.33,Devon Ice Cap,doi.org,5
+Arc_044,,glacier ice,-66.75,67.25,Penny Ice Cap P96,doi.org,25
+Arc_045,,marine sediment,-17.7,66.55,MD992275,doi.org,18.51030928
+Arc_048,,lake sediment,25.42,60.28,Lake Hampträsk,doi.org,13.78695652
+Arc_049,,lake sediment,30.12,64.28,Lake Pieni-Kauro,doi.org,43.32857143
+Arc_051,,glacier ice,-65.75,67.25,Penny Ice Cap P96,doi.org,25
+Arc_052,,lake sediment,-83.79,65.1,Lake 4,doi.org,50.4962963
+Arc_053,,marine sediment,5.26,63.76,Storegga Slide,doi.org,8.618189504
+Arc_056,,glacier ice,-26.73,71.27,Renland,doi.org,5
+Arc_057,,tree,15.5,65.2,Kittelfjall,doi.org,1
+Arc_058,,tree,16.1,65.9,Armarnaes,doi.org,1
+Arc_059,,tree,17.6,66.6,Tjeggelvas,doi.org,1
+Arc_060,,tree,18.2,66.3,Arjeplog,doi.org,1
+Arc_061,,tree,18.2,66.3,Arjeplog,doi.org,1
+Arc_065,,glacier ice,17.425,78.8647,"Lomonosovfonna , Svalbard",doi.org,1
+Arc_066,,glacier ice,17.425,78.8647,"Lomonosovfonna , Svalbard",doi.org,1
+Arc_070,,lake sediment,-146.2,61.5,Hallet Lake,doi.org,10.91693738
+Arc_071,,lake sediment,-146.2,61.5,Hallet Lake,doi.org,10.91693738
+Arc_072,,lake sediment,-146.2,61.5,Hallet Lake,doi.org,10.91693738
+Arc_073,,lake sediment,-146.2,61.5,Hallet Lake,doi.org,10.91693738
+Arc_074,,lake sediment,-146.2,61.5,Hallet Lake,doi.org,10.91693738
+Arc_075,,lake sediment,-69.883,62.917,"Soper Lake, Baffin Island, Canada",doi.org,1
+Arc_076,,lake sediment,-69.883,62.917,"Soper Lake, Baffin Island, Canada",doi.org,1
+Arc_077,,lake sediment,13.9311,78.0217,Kongressvatnet,doi.org,16.29357798
+Arc_078,,lake sediment,13.9311,78.0217,Kongressvatnet,doi.org,16.29357798
+Arc_088,,glacier ice,94.82,80.52,"Akademii Nauk Ice Cap, Severnaya Zemlya (Russian Arctic)",doi.org,1
+Arc_089,,glacier ice,94.82,80.52,"Akademii Nauk Ice Cap, Severnaya Zemlya (Russian Arctic)",doi.org,1
+Arc_090,,glacier ice,94.82,80.52,"Akademii Nauk Ice Cap, Severnaya Zemlya (Russian Arctic)",doi.org,1
+Arc_091,,tree,-133.87,68.625,Mackenzie Delta,doi.org,1.085714286
+Arc_093,,tree,-133.87,68.625,Mackenzie Delta,doi.org,1
+Arc_094,,tree,-133.87,68.625,Mackenzie Delta,doi.org,1.1
+Arc_096,,tree,-133.87,68.625,Mackenzie Delta,doi.org,1
+Arc_099,,glacier ice,65.63,80.783,Windy Dome,doi.org,1
+Arc_099d18O,,glacier ice,65.63,80.783,Windy Dome,doi.org,1
+Arc_100,,tree,68,66.8,Yamalia,doi.org,1
+Arc_101,,tree,68,66.8,Yamalia,doi.org,1
+Arc_150,,tree,15.73,68.73,Forfjorddalen,doi.org,1
+Arc_151,,glacier ice,-80.4,78.4,"Prince-of-Wales, Ellesmere Isl.",doi.org,1
+Arc_152,,tree,13.3375,63.2475,"Jamtland, Sweden",doi.org,1
+Arc_162,,tree,65.6,66.9,Polar Urals,doi.org,1
+Asia_001,,tree,87.77,50.08,"Altai Mt., Aktru Valley",doi.org,1
+Asia_002,,tree,88.1,49.62,"Altai Mt., Djasator",doi.org,1
+Asia_003,,tree,85.23,50.87,"Altai Mt., Jablonsky Pass.",Manually Entered,1
+Asia_004,,tree,87.83,50.3,"Altai Mt., Kuraisky Ridge",doi.org,1
+Asia_005,,tree,87.83,50.27,"Altai Mt., Kuraisky Steppe",doi.org,1
+Asia_006,,tree,87.28,49.72,"Altai Mt., Samakha Steppe",doi.org,1
+Asia_007,,tree,87.72,50.14,"Altai Mt., Korumdu Valley",doi.org,1
+Asia_008,,tree,87.92,50.12,"Altai Mt., Tjute Valley",doi.org,1
+Asia_009,,tree,87.67,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_010,,tree,87.97,50.68,"Altai Mt., Ulagan Valley",doi.org,1
+Asia_011,,tree,87.65,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_012,,tree,87.65,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_013,,tree,87.65,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_014,,tree,87.65,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_015,,tree,87.65,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_016,,tree,87.65,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_017,,tree,87.65,50.48,"Altai Mt., Ust Ulagan Lake",doi.org,1
+Asia_018,,tree,85.37,50.15,"Altai Mt., Ust Koksa Hill",doi.org,1
+Asia_019,,tree,85.37,50.15,"Altai Mt., Ust Koksa Hill",doi.org,1
+Asia_020,,tree,85.37,50.15,"Altai Mt., Ust Koksa Hill",doi.org,1
+Asia_021,,tree,85.37,50.15,"Altai Mt., Ust Koksa Hill",doi.org,1
+Asia_022,,tree,85.37,50.15,"Altai Mt., Ust Koksa Hill",doi.org,1
+Asia_023,,tree,85.37,50.15,"Altai Mt., Ust Koksa Hill",doi.org,1
+Asia_024,,tree,85.37,50.15,"Altai Mt., Ust Koksa Hill",doi.org,1
+Asia_025,,tree,90.65,27.58,BT001,doi.org,1
+Asia_026,,tree,90.73,27.67,BT002,doi.org,1
+Asia_027,,tree,90.77,27.7,BT003,doi.org,1
+Asia_028,,tree,90.68,27.7,BT004,doi.org,1
+Asia_029,,tree,90.72,27.67,BHUTTD,Manually Entered,1
+Asia_030,,tree,90.13,27.63,BT006,doi.org,1
+Asia_031,,tree,90.65,27.58,BT008,doi.org,1
+Asia_032,,tree,90.97,27.42,BT009,doi.org,1
+Asia_033,,tree,89.38,27.25,BT010,doi.org,1
+Asia_034,,tree,90,27.45,BHUTSP,Manually Entered,1
+Asia_035,,tree,89.75,27.95,BT018,doi.org,1
+Asia_036,,tree,90.15,27.45,BT011,doi.org,1
+Asia_037,,tree,90.15,27.45,BT005,doi.org,1
+Asia_038,,tree,100.27,30.23,CHIN020,doi.org,1
+Asia_039,,tree,99.93,28.98,CHIN021,doi.org,1
+Asia_040,,tree,100.08,29.28,CHIN018,doi.org,1
+Asia_041,,tree,99.93,29.15,CHIN019,doi.org,1
+Asia_042,,tree,99.3,27.33,CHIN027,doi.org,1
+Asia_043,,tree,100.82,34.75,DEZQIN,Manually Entered,1
+Asia_044,,tree,100.8,34.73,GOUQIN,Manually Entered,1
+Asia_045,,tree,100.78,34.73,HEBQIN,Manually Entered,1
+Asia_046,,tree,100.72,34.72,LAJQIN,Manually Entered,1
+Asia_047,,tree,101.53,37.93,GHEGAN,Manually Entered,1
+Asia_048,,tree,98.08,36.3,CHIN006,Manually Entered,1
+Asia_049,,tree,98.08,37,CHIN005,Manually Entered,1
+Asia_050,,tree,98.08,36.65,DUSHJP,Manually Entered,1
+Asia_051,,tree,100.35,35.07,MQAXJP,Manually Entered,1
+Asia_052,,tree,99.78,34.78,MQBXJP,Manually Entered,1
+Asia_053,,tree,99.67,34.72,MQDXJP,Manually Entered,1
+Asia_054,,tree,99.68,34.75,MQFXJP,Manually Entered,1
+Asia_055,,tree,99.68,34.75,MQRXJP,Manually Entered,1
+Asia_056,,tree,100.8,34.78,TDAXJP,Manually Entered,1
+Asia_057,,tree,100.82,34.78,TDBXJP,Manually Entered,1
+Asia_058,,tree,100.82,34.78,HBLXJP,Manually Entered,1
+Asia_059,,tree,100.82,34.78,HBMXJP,Manually Entered,1
+Asia_060,,tree,100.82,34.78,HBHXJP,Manually Entered,1
+Asia_061,,tree,107.8,33.75,BARELC,Manually Entered,1
+Asia_062,,tree,110.08,34.48,CHIN004,Manually Entered,1
+Asia_063,,tree,107.8,33.65,SANGTS,Manually Entered,1
+Asia_064,,tree,93.3,43.85,CHIN029,doi.org,1
+Asia_065,,tree,119.43,30.33,TIANMU,Manually Entered,1
+Asia_066,,tree,98.68,37.03,WULANJ,Manually Entered,1
+Asia_067,,tree,96.13,33.8,QUMAJP,Manually Entered,1
+Asia_068,,tree,96.28,33.72,ZHIDJP,Manually Entered,1
+Asia_069,,tree,104.47,34.63,ZHANGX,doi.org,1
+Asia_070,,tree,99.75,28.9,CHIN017,doi.org,1
+Asia_071,,tree,101.92,31.78,CHIN016,doi.org,1
+Asia_072,,tree,99.37,27.37,PTCYUN,Manually Entered,1
+Asia_073,,tree,99.3,27.33,CHIN027,doi.org,1
+Asia_074,,tree,87.18,43.18,HXBURU,Manually Entered,1
+Asia_075,,tree,100.07,35,DQHZHO,Manually Entered,1
+Asia_076,,tree,99.8,27.62,CHIN026,doi.org,1
+Asia_077,,tree,99.68,38.7,HYGJUP,Manually Entered,1
+Asia_078,,tree,100.35,35.07,MQACJP,Manually Entered,1
+Asia_079,,tree,99.35,27.58,CHIN037,Manually Entered,1
+Asia_080,,tree,99.28,27.58,CHIN038,Manually Entered,1
+Asia_081,,tree,99.02,28.03,CHIN039,Manually Entered,1
+Asia_082,,tree,98.98,28.03,CHIN040,Manually Entered,1
+Asia_083,,tree,98.4,27.88,CHIN041,Manually Entered,1
+Asia_084,,tree,97.23,37.47,CHIN050,Manually Entered,1
+Asia_085,,tree,97.22,37.47,CHIN051,Manually Entered,1
+Asia_086,,tree,97.53,37.45,CHIN052,Manually Entered,1
+Asia_087,,tree,98.05,37.43,CHIN053,Manually Entered,1
+Asia_088,,tree,97.78,37.45,CHIN054,Manually Entered,1
+Asia_089,,tree,97.05,37.52,CHIN055,Manually Entered,1
+Asia_090,,tree,110.08,34.47,CHIN056,Manually Entered,1
+Asia_091,,tree,110.08,34.47,CHIN057,Manually Entered,1
+Asia_092,,tree,110.08,34.47,CHIN058,Manually Entered,1
+Asia_093,,tree,96.13,33.8,CHIN059,Manually Entered,1
+Asia_094,,tree,98.4,37.32,CHIN060,Manually Entered,1
+Asia_095,,tree,98.63,37.03,CHIN061,Manually Entered,1
+Asia_096,,tree,98.67,37.03,CHIN062,Manually Entered,1
+Asia_097,,tree,98.22,36.75,CHIN063,Manually Entered,1
+Asia_098,,tree,98.42,36.68,CHIN064,Manually Entered,1
+Asia_099,,tree,95.72,32.67,CHIN065,Manually Entered,1
+Asia_100,,tree,96.28,33.72,CHIN066,Manually Entered,1
+Asia_101,,tree,122.8,-5.5,INDO005,doi.org,1
+Asia_102,,tree,78.93,30.98,GANGCD,Manually Entered,1
+Asia_103,,tree,76.43,33.08,RANGCD,Manually Entered,1
+Asia_104,,tree,77.23,31.2,INDI015,Manually Entered,1
+Asia_105,,tree,76.87,10.18,INDI025,Manually Entered,1
+Asia_106,,tree,76.67,10,KERALA,Manually Entered,1
+Asia_107,,tree,78.17,31.37,INDI024,Manually Entered,1
+Asia_108,,tree,142.55,43.77,JAPA008,Manually Entered,1
+Asia_109,,tree,142.55,43.77,JAPA008,Manually Entered,1
+Asia_110,,tree,145.6,43.88,RUSS219,doi.org,1
+Asia_111,,tree,130.5,30.33,JAPA020,Manually Entered,1
+Asia_112,,tree,142.18,44.35,JAPA013,Manually Entered,1
+Asia_113,,tree,145.47,43.22,JAPA015,Manually Entered,1
+Asia_114,,tree,138.22,35.73,JAPA016,Manually Entered,1
+Asia_115,,tree,143.2,43.5,JAPA014,Manually Entered,1
+Asia_116,,tree,142.12,44.95,JAPA012,Manually Entered,1
+Asia_117,,tree,130.53,30.37,JAPA018,Manually Entered,1
+Asia_118,,tree,130.53,30.37,JAPA017,Manually Entered,1
+Asia_119,,tree,130.45,30.33,JAPA018,Manually Entered,1
+Asia_120,,tree,133.12,33.73,JAPA019,Manually Entered,1
+Asia_121,,tree,72.58,40.17,KYRG002,Manually Entered,1
+Asia_122,,tree,72.58,40.17,KYRG003,doi.org,1
+Asia_123,,tree,72.58,40.17,KYRG004,doi.org,1
+Asia_124,,tree,72.58,40.17,KYRG005,doi.org,1
+Asia_125,,tree,72.58,40.17,KYRG007,Manually Entered,1
+Asia_126,,tree,72.58,40.2,KYRG008,Manually Entered,1
+Asia_127,,tree,71.47,39.92,KYRG009,Manually Entered,1
+Asia_128,,tree,72.62,40.17,KYRG010,Manually Entered,1
+Asia_129,,tree,71.5,39.83,KYRG011,Manually Entered,1
+Asia_130,,tree,71.5,39.83,SHIYAT,Manually Entered,1
+Asia_131,,tree,72.58,40.17,ESPERG,Manually Entered,1
+Asia_132,,tree,71.5,39.83,SHIESP,Manually Entered,1
+Asia_133,,tree,160.5,55,RUSS236,Manually Entered,1
+Asia_134,,tree,77.35,43.35,KAZ001,doi.org,1
+Asia_135,,tree,79.05,42.2,KYRG012,Manually Entered,1
+Asia_136,,tree,79.47,42.15,KYRG013,Manually Entered,1
+Asia_137,,tree,78.97,42.42,KYRG014,Manually Entered,1
+Asia_138,,tree,79.45,42.15,KYRG015,Manually Entered,1
+Asia_139,,tree,88.37,48.6,MONG016,doi.org,1
+Asia_140,,tree,101.32,46.32,MONG027,doi.org,1
+Asia_141,,tree,91,49.97,MONG017,doi.org,1
+Asia_142,,tree,90.98,49.97,MONG018,doi.org,1
+Asia_143,,tree,90.97,47.1,MONG019,doi.org,1
+Asia_144,,tree,88.87,48.27,MONG020,doi.org,1
+Asia_145,,tree,107.47,48.35,MONG021,doi.org,1
+Asia_146,,tree,94.88,49.37,MONG033,doi.org,1
+Asia_147,,tree,91.57,49.92,MONG009,Manually Entered,1
+Asia_148,,tree,99.87,48.17,MONG015,Manually Entered,1
+Asia_149,,tree,88.5,48.5,MONG024,doi.org,1
+Asia_150,,tree,88.8,48.7,MONG025,doi.org,1
+Asia_151,,tree,100.12,46.82,MONG026,doi.org,1
+Asia_152,,tree,107,47.77,MONG002,Manually Entered,1
+Asia_153,,tree,111.68,48.83,MONG028,doi.org,1
+Asia_154,,tree,91.43,49.87,MONG029,doi.org,1
+Asia_155,,tree,98.93,48.3,SODAPS,Manually Entered,1
+Asia_156,,tree,94.88,49.38,MONG030,doi.org,1
+Asia_157,,tree,100.03,47.27,MONG010,Manually Entered,1
+Asia_158,,tree,100.42,47.43,MONG014,Manually Entered,1
+Asia_159,,tree,91.55,49.7,MONG007,Manually Entered,1
+Asia_160,,tree,103.22,48.98,MONG012,doi.org,1
+Asia_161,,tree,97.4,48.25,MONG031,doi.org,1
+Asia_162,,tree,107.5,47.78,MONG006,doi.org,1
+Asia_163,,tree,100.27,48.13,MONG011,doi.org,1
+Asia_164,,tree,100.95,46.52,MONG032,doi.org,1
+Asia_165,,tree,101.95,46.78,Hushre,Manually Entered,1
+Asia_166,,tree,107.45,47.95,MONG004,Manually Entered,1
+Asia_167,,tree,82.08,29.48,NEPA003,Manually Entered,1
+Asia_168,,tree,86.45,27.7,NEPA010,Manually Entered,1
+Asia_169,,tree,86.28,27.7,NEPA014,Manually Entered,1
+Asia_170,,tree,83.7,28.38,NEPA015,Manually Entered,1
+Asia_171,,tree,86.33,27.73,NEPA018,Manually Entered,1
+Asia_172,,tree,82.12,29.47,NEPA019,Manually Entered,1
+Asia_173,,tree,82.03,29.52,NEPA025,Manually Entered,1
+Asia_174,,tree,85.43,28.18,NEPA029,Manually Entered,1
+Asia_175,,tree,87.27,27.78,NEPA030,Manually Entered,1
+Asia_176,,tree,87.2,27.67,NEPA032,Manually Entered,1
+Asia_177,,tree,87.2,27.73,NEPA036,Manually Entered,1
+Asia_178,,tree,83.73,28.77,BURGPW,Manually Entered,1
+Asia_179,,tree,88.02,27.5,NEPA021,Manually Entered,1
+Asia_180,,tree,87.98,27.5,NEPA027,Manually Entered,1
+Asia_181,,tree,88.02,27.83,NEPA042,doi.org,1
+Asia_182,,tree,87.2,27.73,ENEPAB,Manually Entered,1
+Asia_183,,tree,75.5,35.17,ESPPAK,Manually Entered,1
+Asia_184,,tree,74.8,35.33,PAKI017,Manually Entered,1
+Asia_185,,tree,74.8,35.33,PAKI018,Manually Entered,1
+Asia_186,,tree,74.58,36.03,PAKI001,doi.org,1
+Asia_187,,tree,74.58,36.03,PAKI002,doi.org,1
+Asia_188,,tree,74.58,36.03,PAKI003,doi.org,1
+Asia_189,,tree,74.58,36.03,PAKI004,doi.org,1
+Asia_190,,tree,71.63,35.68,PAKI020,Manually Entered,1
+Asia_191,,tree,71.63,35.68,PAKI021,Manually Entered,1
+Asia_192,,tree,71.73,35.9,PAKI022,Manually Entered,1
+Asia_193,,tree,71.73,35.9,PAKI023,Manually Entered,1
+Asia_194,,tree,74.58,35.03,PAKI024,Manually Entered,1
+Asia_195,,tree,74.03,36.33,PAKI006,doi.org,1
+Asia_196,,tree,74.03,36.33,PAKI007,doi.org,1
+Asia_197,,tree,74.78,35.45,PAKI025,Manually Entered,1
+Asia_198,,tree,71.93,35.35,PAKI027,Manually Entered,1
+Asia_199,,tree,74.12,35.4,PAKI028,Manually Entered,1
+Asia_200,,tree,74.33,35.83,PAKI029,Manually Entered,1
+Asia_201,,tree,74.18,35.88,PAKI030,Manually Entered,1
+Asia_202,,tree,75.08,36.58,PAKI009,doi.org,1
+Asia_203,,tree,75.08,36.58,PAKI010,doi.org,1
+Asia_204,,tree,75.08,36.58,PAKI011,doi.org,1
+Asia_205,,tree,75.08,36.58,PAKI012,doi.org,1
+Asia_206,,tree,74.08,35.5,PAKI031,Manually Entered,1
+Asia_207,,tree,74.75,35.5,PAKI033,Manually Entered,1
+Asia_208,,tree,74.18,36.15,PAKI035,Manually Entered,1
+Asia_209,,tree,74.18,36.15,PAKI036,Manually Entered,1
+Asia_210,,tree,75.5,35.17,PAKI014,doi.org,1
+Asia_211,,tree,75.5,35.17,PAKI015,doi.org,1
+Asia_212,,tree,75.5,35.17,PAKI016,doi.org,1
+Asia_213,,tree,70.78,35,PAKI039,Manually Entered,1
+Asia_214,,tree,71.8,35.35,PAKI040,doi.org,1
+Asia_215,,tree,74.88,35.88,HRPCSM,Manually Entered,1
+Asia_216,,tree,143.13,51.83,NOGSAK,Manually Entered,1
+Asia_217,,tree,98.87,31.95,CHIN042,Manually Entered,1
+Asia_218,,tree,97.03,31.12,CHIN047,Manually Entered,1
+Asia_219,,tree,96.48,31.23,CHIN049,Manually Entered,1
+Asia_220,,tree,91.97,29.3,CHIN043,Manually Entered,1
+Asia_221,,tree,97.03,31.12,CHIN046,Manually Entered,1
+Asia_222,,tree,93.95,29.07,CHIN044,Manually Entered,1
+Asia_223,,tree,94.67,29.62,CHIN045,Manually Entered,1
+Asia_224,,tree,91.52,30.3,CHIN048,Manually Entered,1
+Asia_225,,tree,92,29.35,CENTIB,Manually Entered,1
+Asia_226,,tree,98.93,19.28,TH001,doi.org,1
+Asia_227,,tree,121.38,24.53,TW001,doi.org,1
+Asia_228,,tree,104.1,21.67,MCCHFH,doi.org,1
+Asia_229,,tree,108.73,12.22,VIET001,doi.org,1
+Asia_230,,borehole,59.5,55,Sourth and Middle Urals,doi.org,50
+Asia_233,,hybrid,145.725,43.955,Kunashir Island,doi.org,1
+Asia_235,,hybrid,145.725,43.955,Kunashir Island,doi.org,1
+Asia_236,,glacier ice,85.72,28.38,Dasuopu,doi.org,1
+Asia_237,,glacier ice,85.72,28.38,Dasuopu,doi.org,1
+Asia_238,,glacier ice,85.72,28.38,Dasuopu,doi.org,1
+Asia_239,,glacier ice,85.72,28.38,Dasuopu,doi.org,1
+Asia_240,,glacier ice,85.72,28.38,Dasuopu,doi.org,1
+Asia_247,,glacier ice,81.48,35.28,Guliya,doi.org,10
+Asia_248,,glacier ice,81.48,35.28,Guliya,doi.org,10
+Asia_249,,glacier ice,81.48,35.28,Guliya,doi.org,10
+Asia_250,,glacier ice,81.48,35.28,Guliya,doi.org,10
+Asia_251,,glacier ice,81.48,35.28,Guliya,doi.org,10
+Asia_252,,glacier ice,81.48,35.28,Guliya,doi.org,10
+Asia_305,,glacier ice,89.0833,33.9167,Puruogangri,doi.org,10
+Asia_317,,documents,117.5,30,East China,Manually Entered,10
+Asia_318,,documents,120,34,East China region,Manually Entered,10
+Asia_319,,documents,114,23,South China,Manually Entered,10
+Asia_320,,documents,113,29,Central China,Manually Entered,10
+Asia_321,,documents,121,24,Fujian and Taiwan,Manually Entered,10
+Asia_324,,documents,118.8,32.1,Lower reaches of the Yangtze River,Manually Entered,10
+Asia_325,,documents,114.5,30.5,Middle reaches of the Yangtze River,Manually Entered,10
+Asia_326,,documents,112.5,23.5,Guangdong and Guangxi province,Manually Entered,10
+Asia_327,,documents,118,25,Zhejiang and Fujian province,Manually Entered,10
+Asia_328,,documents,116.5,28,Hunan-Jiangsu,Manually Entered,10
+Asia_329,,documents,113.23,23.16,Guangdong,Manually Entered,10
+Asia_331,,marine sediment,65.9167,24.8333,SO90-39KG/SO130-275KL,doi.org,9.19650655
+Asia_332,,marine sediment,65.9167,24.8333,SO90-39KG/SO130-275KL,doi.org,9.19650655
+Asia_335,,marine sediment,65.9167,24.8333,SO90-39KG/SO130-275KL,doi.org,9.19650655
+Aus_010,,tree,145.87,-42.27,Buckleys Chance Tasmania (Site ID: BCH),doi.org,1
+Aus_015,,tree,147.75,-41.31,CTP East Tasmania,doi.org,1
+Aus_020,,tree,145.65,-41.67,CTP West Tasmania,doi.org,1
+Aus_041,,tree,145.53,-41.83,Mt. Read,doi.org,1
+Aus_057,,tree,170.28,-43.23,Oroko,doi.org,1
+Aus_062,,tree,171,-43,Pink Pine NZ,doi.org,1
+Aus_067,,tree,167.8,-47,Stewart Island,doi.org,1
+Aus_071,,tree,175.98,-40.07,Takapari Cedar,doi.org,1
+can1101,,tree,-72.05,-40.1,Central Andes composite 11,manual,1
+Eur_001,,speleothem,11.6,47.1,"Spannagel Cave,",doi.org,2.868271955
+Eur_002,,lake sediment,9.8,46.5,Lake Silvaplana,doi.org,1
+Eur_003,,lake sediment,9.8,46.5,Lake Silvaplana,doi.org,1
+Eur_005,,tree,28.325,62,Finnish Lakelands,doi.org,1
+Eur_007,,lake sediment,7.5,46.15,Seebergsee,doi.org,1
+Eur_008,,speleothem,-3.5,42.9,Northern Spain,doi.org,4.746394231
+Eur_009,,marine sediment,-19.53,61.48,"RAPiD-17-5P, South Iceland",doi.org,15.95714286
+Eur_010,,marine sediment,-8.9,41.1,Coast of Portugal,doi.org,9.124294643
+Eur_014,,tree,25,68,Northern Scandinavia,doi.org,1.000466636
+Eur_015,,tree,20,49,Tatra Mountains,doi.org,1
+Eur_016,,tree,25.3,47,Eastern Carpathian Mountains (Romania),doi.org,1
+Eur_017,,tree,10.7,47,European Alps,doi.org,1.00039968
+Eur_018,,tree,7.8,46.4,Lötschental,doi.org,1
+Eur_019,,tree,7.5,44,Maritime French Alps,doi.org,1
+Eur_020,,tree,1,42.5,Spanish Pyrenees,doi.org,1
+Eur_022,,documents,13,49,Central Europe,doi.org,1
+Eur_024,,lake sediment,0.75,42.5,Central and Eastern Pyrenees (NE Spain),doi.org,25.74545455
+Eur_025,,lake sediment,0.75,42.5,Central and Eastern Pyrenees (NE Spain),doi.org,25.74545455
+Eur_026,,documents,24.75,59.4,Tallinn,doi.org,1.020408163
+Eur_027,,documents,24.75,59.4,Tallinn,doi.org,1.037344398
+LPD016ef221,,marine sediment,-91.42,27.2,"Pigmy Basin, Gulf of Mexico box core PBBC-1",Manually Entered,13.11075676
+LPD027eca7f,,marine sediment,16.72,-29.14,"South Atlantic, West Africa",doi.org,30.8877551
+LPD06f9eeb7,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD071f9a58,,marine sediment,-13.9,55.5,Feni Drift,doi.org,22.97087379
+LPD07a4e733,,marine sediment,-64.77,10.77,Cariaco Basin,doi.org,1.360988473
+LPD0b6c7700,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,5.757045517
+LPD0d8fd260,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPD0e0867fe,,marine sediment,-4.3133,36.2053,Alboran Sea,doi.org,29.27979592
+LPD0e67730a,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD0e900372,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,4.770123429
+LPD1079b4bb,,coral,114.1833,-21.8333,"Bundegi reef, Ningaloo",doi.org,1
+LPD10e9f8f7,,marine sediment,4.03,40.5,Minorca contourite,doi.org,18.57142857
+LPD13a78f9b,,marine sediment,-16.7327,16.8402,Eastern tropical North Atlantic,doi.org,11.25628141
+LPD16c5b9d8,,marine sediment,-9.3498,38.556,"Tagus mud patch, southern portuguese margin, North Atlantic",doi.org,49.10365854
+LPD1779972c,,marine sediment,-83.58,24.59,Dry Tortugas,doi.org,22.24413793
+LPD1a0245b7,,marine sediment,125.82,6.3,Philippines,doi.org,22.53571429
+LPD1d5a1714,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD1d7b7842,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD21b789e2,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPD24dd89b2,,coral,118.9667,-17.5167,"Imperieuse, Rowley Shoals",doi.org,1
+LPD2757d69f,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPD2b450772,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD2d0bd641,,marine sediment,-17.82,62.08,"RAPiD-12-1K, South Iceland Rise, northeast North Atlantic",doi.org,78.08223684
+LPD2f76c77a,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD2ff44dc6,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD3100fe0a,,coral,113.8167,-23.0333,"Coral Bay, Ningaloo",doi.org,1
+LPD312b2365,,marine sediment,4.03,40.5,Minorca contourite,doi.org,18.57142857
+LPD335d863f,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,2.136395037
+LPD33714919,,coral,113.7667,-28.4667,Houtman Abrolhos Islands,doi.org,1
+LPD34478ed4,,marine sediment,-16.7327,16.8402,Eastern tropical North Atlantic,doi.org,17.49189189
+LPD378db911,,coral,113.7667,-28.4667,Houtman Abrolhos Islands,doi.org,1
+LPD3d8f4f9c,,marine sediment,-62.48,43.53,"Emerald Basin, Nova Scotia",doi.org,110.7142857
+LPD41213ce8,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPD4437dd9f,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD44c75538,,marine sediment,-79.29,24.765,"Great Bahama bank, 125MC",doi.org,50.37037037
+LPD44e382ee,,marine sediment,-17.82,62.08,"RAPiD-12-1K, South Iceland Rise, northeast North Atlantic",doi.org,78.08223684
+LPD47182517,,marine sediment,-13.9,55.5,Feni Drift,doi.org,22.97087379
+LPD4dd77d54,,marine sediment,16.72,-29.14,"South Atlantic, West Africa",doi.org,30.8877551
+LPD5024de7f,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPD53e179ad,,marine sediment,44.3,11.955,P178-15P,doi.org,17.60952381
+LPD572f7cc3,,marine sediment,-91.42,27.2,"Pigmy Basin, Gulf of Mexico box core PBBC-1",Manually Entered,13.20505051
+LPD5757fb67,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD57d40973,,marine sediment,-93.93,27.55,"Fisk Basin, Gulf of Mexico",doi.org,18.8
+LPD644f0a81,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD667b69d2,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD68872399,,marine sediment,-62.48,43.53,"Emerald Basin, Nova Scotia",doi.org,110.7142857
+LPD692315c3,,lake sediment,126.36,42.17,Sihailongwa lake,doi.org,15.04859813
+LPD6997b626,,marine sediment,-9.3498,38.556,"Tagus mud patch, southern portuguese margin, North Atlantic",doi.org,49.10365854
+LPD6c1fc0ed,,coral,114.1833,-21.8333,"Bundegi reef, Ningaloo",doi.org,1
+LPD6d96dc7c,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,2.598271739
+LPD6dbf8788,,marine sediment,4.03,40.5,Minorca contourite,doi.org,14.625
+LPD70878a8b,,coral,118.9667,-17.5167,"Imperieuse, Rowley Shoals",doi.org,1
+LPD708fb697,,marine sediment,-64.77,10.77,Cariaco Basin,doi.org,1.360988473
+LPD711f7893,,marine sediment,-62.48,43.53,"Emerald Basin, Nova Scotia",doi.org,76.9047619
+LPD71606a7f,,marine sediment,-10.0983,30.845,"Cape Ghir, NW Africa",doi.org,11.45876289
+LPD72b1e1cd,,coral,119.3667,-17.2667,"Clerke Reef, Rowley Shoals",doi.org,1
+LPD7311e829,,coral,118.9667,-17.5167,"Imperieuse, Rowley Shoals",doi.org,1
+LPD733ab786,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD7457ad38,,coral,119.3667,-17.2667,"Clerke Reef, Rowley Shoals",doi.org,1
+LPD74bc6584,,coral,119.3667,-17.2667,"Clerke Reef, Rowley Shoals",doi.org,1
+LPD74ecb1ea,,marine sediment,-16.7327,16.8402,Eastern tropical North Atlantic,doi.org,11.25628141
+LPD77e777b0,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,2.137055224
+LPD796b99d7,,coral,119.3667,-17.2667,"Clerke Reef, Rowley Shoals",doi.org,1
+LPD7abab671,,borehole,112.807,-66.77,DSS,Manually Entered,256.9705882
+LPD7b4c186e,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD7bdc35f5,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD7be6185d,,coral,113.7667,-28.4667,Houtman Abrolhos Islands,doi.org,1
+LPD7bf8ef76,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD7c7e19c5,,marine sediment,-79.29,24.765,"Great Bahama bank, 125MC",doi.org,50.37037037
+LPD7d7c7d71,,marine sediment,-79.29,24.765,"Great Bahama bank, 125MC",doi.org,50.37037037
+LPD7d948e2c,,coral,113.8167,-23.0333,"Coral Bay, Ningaloo",doi.org,1
+LPD7f64d877,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD7fd5bd52,,marine sediment,4.03,40.5,Minorca contourite,doi.org,14.625
+LPD81e53153,,marine sediment,44.3,11.955,P178-15P,doi.org,8.266666667
+LPD81e7ab49,,coral,114.1833,-21.8333,"Bundegi reef, Ningaloo",doi.org,1
+LPD8248269c,,marine sediment,-64.77,10.77,Cariaco Basin,doi.org,1.360988473
+LPD84ab67b9,,marine sediment,-10.0983,30.845,"Cape Ghir, NW Africa",doi.org,11.45876289
+LPD873b43d0,,marine sediment,-13.9,55.5,Feni Drift,doi.org,22.97087379
+LPD8bd4e07e,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPD8c7da1f7,,marine sediment,-79.26,24.58,Great Bahama Bank,doi.org,24.58333333
+LPD94261173,,marine sediment,-91.42,27.2,"Pigmy Basin, Gulf of Mexico box core PBBC-1",Manually Entered,13.20505051
+LPD9716f325,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD97433e99,,marine sediment,-91.42,27.2,"Pigmy Basin, Gulf of Mexico box core PBBC-1",Manually Entered,13.11075676
+LPD9774ea11,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPD995c6f3c,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,46.5
+LPD9b023bc9,,marine sediment,-83.58,24.59,Dry Tortugas,doi.org,22.24413793
+LPD9c86dbd0,,marine sediment,-10.0983,30.845,"Cape Ghir, NW Africa",doi.org,11.86792453
+LPDa1e215a3,,marine sediment,-79.26,24.58,Great Bahama Bank,doi.org,24.58333333
+LPDa49fbfb8,,marine sediment,-62.48,43.53,"Emerald Basin, Nova Scotia",doi.org,76.9047619
+LPDa6797d7c,,marine sediment,-9.3498,38.556,"Tagus mud patch, southern portuguese margin, North Atlantic",doi.org,12.43225806
+LPDa7464709,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPDa77273bb,,marine sediment,16.72,-29.14,"South Atlantic, West Africa",doi.org,23.26415094
+LPDa7a4074f,,borehole,-112.125,-79.463,WAIS-Divide,doi.org,1
+LPDaa786707,,coral,114.1833,-21.8333,"Bundegi reef, Ningaloo",doi.org,1
+LPDabae85f2,,marine sediment,16.72,-29.14,"South Atlantic, West Africa",doi.org,23.26415094
+LPDae761fd0,,coral,114.1833,-21.8333,"Bundegi reef, Ningaloo",doi.org,1
+LPDasan2012,,marine sediment,-4.7496,35.986,Alboran Sea,Manually Entered,27.7027027
+LPDb2294566,,lake sediment,126.36,42.17,Sihailongwa lake,doi.org,15.04859813
+LPDb44bf261,,marine sediment,-93.93,27.55,"Fisk Basin, Gulf of Mexico",doi.org,18.8
+LPDb7290ea4,,marine sediment,-13.9,55.5,Feni Drift,doi.org,22.97087379
+LPDb7ba9166,,marine sediment,-9.3498,38.556,"Tagus mud patch, southern portuguese margin, North Atlantic",doi.org,12.43225806
+LPDb9285123,,borehole,-112.125,-79.463,WAIS-Divide,doi.org,1
+LPDba471ae7,,marine sediment,-13.9,55.5,Feni Drift,doi.org,22.97087379
+LPDbceb5d84,,marine sediment,-13.9,55.5,Feni Drift,doi.org,22.97087379
+LPDbff7f105,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,2.136395037
+LPDc07746c5,,marine sediment,-79.26,24.58,Great Bahama Bank,doi.org,24.58333333
+LPDc08ab49e,,marine sediment,-10.0983,30.845,"Cape Ghir, NW Africa",doi.org,11.86792453
+LPDc2846a24,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,2.137055224
+LPDc95b8887,,coral,118.9667,-17.5167,"Imperieuse, Rowley Shoals",doi.org,1
+LPDd0b10380,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPDd376af3b,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPDd7f4a944,,marine sediment,-83.58,24.59,Dry Tortugas,doi.org,22.24413793
+LPDd8240377,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPDdc74a376,,lake sediment,126.36,42.17,Sihailongwa lake,doi.org,17.30652174
+LPDdcf3abca,,coral,113.9667,-21.9,"Tantabiddi reef, Ningaloo",doi.org,1
+LPDe1fb72db,,coral,119.3667,-17.2667,"Clerke Reef, Rowley Shoals",doi.org,1
+LPDe51d17e8,,marine sediment,-64.77,10.77,Cariaco Basin,doi.org,1.360988473
+LPDe6c52b99,,marine sediment,-79.29,24.765,"Great Bahama bank, 125MC",doi.org,50.37037037
+LPDe759ea6b,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,4.770123429
+LPDe85bf987,,coral,113.7667,-28.4667,Houtman Abrolhos Islands,doi.org,1
+LPDe897b7c7,,coral,119.3667,-17.2667,"Clerke Reef, Rowley Shoals",doi.org,1
+LPDe9d8175e,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPDea4376b6,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPDecbc762e,,marine sediment,-93.93,27.55,"Fisk Basin, Gulf of Mexico",doi.org,18.8
+LPDee8a8404,,marine sediment,-93.93,27.55,"Fisk Basin, Gulf of Mexico",doi.org,18.8
+LPDefb3d2b0,,marine sediment,-79.26,24.58,Great Bahama Bank,doi.org,24.58333333
+LPDf2047c95,,coral,113.8167,-23.0333,"Coral Bay, Ningaloo",doi.org,1
+LPDf316b97e,,coral,113.8167,-23.0333,"Coral Bay, Ningaloo",doi.org,1
+LPDf7751317,,lake sediment,146.8749,-43.3646,Duckhole Lake,doi.org,4.770123429
+LPDf7af3f2e,,coral,113.8167,-23.0333,"Coral Bay, Ningaloo",doi.org,1
+LPDf7bace53,,marine sediment,-83.58,24.59,Dry Tortugas,doi.org,22.24413793
+LPDfac5c056,,marine sediment,5.885,78.96,"West Spitzberg, Fram Strait",doi.org,48.692
+LPDfbd80fa1,,marine sediment,-16.7327,16.8402,Eastern tropical North Atlantic,doi.org,17.49189189
+LPDfc71e6bc,,coral,118.9667,-17.5167,"Imperieuse, Rowley Shoals",doi.org,1
+Malawi04,,lake sediment,34.2883,-10.0033,Lake Malawi,doi.org,20.37142857
+Malawi05,,lake sediment,34.2883,-10.0033,Lake Malawi,doi.org,20.37142857
+mxdSampleDensity,,tree,19.6,68.26,Tornetrask,doi.org,1
+NAm_001,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_002,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_003,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_004,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_005,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_006,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_007,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_008,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_009,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_010,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_011,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_012,,tree,-114.2,46.7,Carlton Ridge,doi.org,1
+NAm_013,,tree,-109.6,43,Fremont Glacier,,1
+NAm_014,,tree,-109.6,43,Fremont Glacier,,1
+NAm_015,,tree,-109.6,43,Fremont Glacier,,1
+NAm_016,,tree,-109.6,43,Fremont Glacier,,1
+NAm_017,,tree,-109.6,43,Fremont Glacier,,1
+NAm_018,,tree,-109.6,43,Fremont Glacier,,1
+NAm_019,,tree,-109.6,43,Fremont Glacier,,1
+NAm_020,,tree,-109.6,43,Fremont Glacier,,1
+NAm_021,,tree,-109.6,43,Fremont Glacier,,1
+NAm_022,,tree,-109.6,43,Fremont Glacier,,1
+NAm_023,,tree,-109.6,43,Fremont Glacier,,1
+NAm_024,,tree,-109.6,43,Fremont Glacier,,1
+NAm_025,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_026,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_027,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_028,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_029,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_030,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_031,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_032,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_033,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_034,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_035,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_036,,tree,-116.5,37,Great Basin 4500yr Composite Chronology,doi.org,1
+NAm_037,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_038,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_039,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_040,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_041,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_042,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_043,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_044,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_045,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_046,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_047,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_048,,tree,-111.4,35.3,San Franciso Peaks Update,doi.org,1
+NAm_049,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_050,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_051,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_052,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_053,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_054,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_055,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_056,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_057,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_058,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_059,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_060,,tree,-118.3,36.5,Siberian Outpost View,doi.org,1
+NAm_061,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_062,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_063,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_064,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_065,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_066,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_068,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_069,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_070,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_071,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_072,,tree,-147.8,60.4,Herring Alpine,,1
+NAm_075,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_076,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_077,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_078,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_080,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_081,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_082,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_083,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_087,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_088,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_089,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_090,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_092,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_093,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_094,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_095,,tree,-149.6,63.7,Denali National Park,doi.org,1
+NAm_1009,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1010,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1011,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1012,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1013,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1014,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1015,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1016,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1017,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1018,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1019,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1020,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1021,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1022,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1023,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1024,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1025,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1026,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1027,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1028,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1029,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1030,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1031,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1032,,tree,-67.7,56.2,Lac Romanel (Feucht),doi.org,1
+NAm_1057,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1058,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1059,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1060,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1061,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1062,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1063,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1064,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1065,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1066,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1067,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1069,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1070,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1071,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1072,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1073,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1074,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1075,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1076,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1077,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1078,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1079,,tree,-139.7,61.7,Don Jek River Bridge,doi.org,1
+NAm_1107,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1108,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1109,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1110,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1112,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1113,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1114,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1115,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1119,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1120,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1121,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1122,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1124,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1125,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1126,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1127,,tree,-127.3,54.9,Smithers Ski Area,doi.org,1
+NAm_1153,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1154,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1155,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1156,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1157,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1158,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1159,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1160,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1161,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1162,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1163,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1164,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1165,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1166,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1167,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1168,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1169,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1170,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1171,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1172,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1173,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1174,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1175,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1176,,tree,-120.7,53.3,Bell Mountain,doi.org,1
+NAm_1203,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1204,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1205,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1206,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1208,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1209,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1210,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1211,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1215,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1216,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1217,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1218,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1220,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1221,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1222,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1223,,tree,-117,52.3,Sunwapta Pass,doi.org,1
+NAm_1225,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1226,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1227,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1228,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1229,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1230,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1232,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1233,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1234,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1235,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1237,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1238,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1239,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1240,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1241,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1242,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1244,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1245,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1246,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1247,,tree,-116.2,51.8,Peyto Lake,doi.org,1
+NAm_1299,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1300,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1301,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1302,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1304,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1305,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1306,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1307,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1311,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1312,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1313,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1314,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1316,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1317,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1318,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1319,,tree,-123.1,49.4,Vancouver Cyprus Provincial Park,doi.org,1
+NAm_1347,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1348,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1349,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1350,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1352,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1353,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1354,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1355,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1359,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1360,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1361,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1362,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1364,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1365,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1366,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1367,,tree,-125.2,49.2,Arrowsmith Mountain,doi.org,1
+NAm_1381,,tree,-118.9,49.9,Big White,,1
+NAm_1382,,tree,-118.9,49.9,Big White,,1
+NAm_1383,,tree,-118.9,49.9,Big White,,1
+NAm_1384,,tree,-118.9,49.9,Big White,,1
+NAm_1385,,tree,-118.9,49.9,Big White,,1
+NAm_1386,,tree,-118.9,49.9,Big White,,1
+NAm_1387,,tree,-118.9,49.9,Big White,,1
+NAm_1388,,tree,-118.9,49.9,Big White,,1
+NAm_1389,,tree,-118.9,49.9,Big White,,1
+NAm_1390,,tree,-118.9,49.9,Big White,,1
+NAm_1391,,tree,-118.9,49.9,Big White,,1
+NAm_1392,,tree,-118.9,49.9,Big White,,1
+NAm_1393,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1394,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1395,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1396,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1397,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1398,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1399,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1400,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1401,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1402,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1403,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1404,,tree,-115.9,67.2,Coppermine River,doi.org,1
+NAm_1405,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1406,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1407,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1408,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1409,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1410,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1411,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1412,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1413,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1414,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1415,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1416,,tree,-103.9,64,Hornby Cabin,doi.org,1
+NAm_1417,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1418,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1419,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1420,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1421,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1422,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1424,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1425,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1426,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1427,,tree,-138.3,65,Twisted Tree Heartrot Hill,doi.org,1
+NAm_1429,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1430,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1431,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1432,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1433,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1434,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1435,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1436,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1437,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1438,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1439,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1440,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1441,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1442,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1443,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1444,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1445,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1446,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1447,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1448,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1449,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_145,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1450,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1451,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1452,,tree,-77.8,55.3,Bonif  historisc,doi.org,1
+NAm_1453,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1454,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1455,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1456,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1457,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1458,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1459,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1460,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1461,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1462,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1463,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1464,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1465,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1466,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1467,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1468,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1469,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_147,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1470,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1471,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1472,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1473,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1474,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1475,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1476,,tree,-117.3,51.4,"Athabasca, historisch",doi.org,1
+NAm_1477,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1478,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1479,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_148,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1480,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1481,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1482,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1483,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1484,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1485,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1486,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1487,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1488,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1489,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_149,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1490,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1491,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1492,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1493,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1494,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1495,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1496,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1497,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1498,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_1499,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_150,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1500,,tree,-117.3,52.3,Athabasca Glacier,doi.org,1
+NAm_152,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_153,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_154,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_155,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1561,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1562,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1563,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1564,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1565,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1566,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1568,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1569,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_157,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1570,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1571,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1572,,tree,-61.5,56.9,Medusa Bay,Manually Entered,1
+NAm_1573,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1574,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1575,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1576,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1577,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1578,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1580,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1581,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1582,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1583,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1584,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1585,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1586,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1587,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1588,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1589,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_159,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1590,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1591,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1592,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1593,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1594,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1595,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1596,,tree,-117.1,50.2,Meadow Mountain,doi.org,1
+NAm_1597,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1598,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1599,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_160,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1600,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1601,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1602,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1603,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1604,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1605,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1606,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1607,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_1608,,tree,-117.2,49.4,Ymir,doi.org,1
+NAm_161,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_162,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1633,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1634,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1635,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1636,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1637,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1638,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1639,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_164,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1640,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1641,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1642,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1643,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1644,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1645,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1646,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1647,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1648,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1649,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_165,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1650,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1651,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1652,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1653,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1654,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1655,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1656,,tree,-118.6,50.6,Park Mountain,doi.org,1
+NAm_1657,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1658,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1659,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_166,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1660,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1661,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1662,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1663,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1664,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1665,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1666,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1667,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1668,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1669,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_167,,tree,-147.3,61.8,Eureka Summit,doi.org,1
+NAm_1670,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1671,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1672,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1673,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1674,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1675,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1676,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1677,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1678,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1679,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_1680,,tree,-118.9,49.7,Big White 2,doi.org,1
+NAm_169,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_170,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_1705,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1706,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1707,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1708,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1709,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_171,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_1710,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1711,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1712,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1713,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1714,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1715,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1716,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1717,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1718,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1719,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_172,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_1720,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1721,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1722,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1723,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1724,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1725,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1726,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1727,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_1728,,tree,-121.5,50.7,Cornwall Hills,doi.org,1
+NAm_173,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_174,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_1741,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1742,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1743,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1744,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1745,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1746,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1747,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1748,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1749,,tree,-61,56,Ittyhauk Bay,,1
+NAm_175,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_1750,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1751,,tree,-61,56,Ittyhauk Bay,,1
+NAm_1752,,tree,-61,56,Ittyhauk Bay,,1
+NAm_176,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_177,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_178,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_179,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_180,,tree,-152.7,58.1,Settlement Point Afognak Island,,1
+NAm_1801,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1802,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1803,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1804,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1805,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1806,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1807,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1808,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1809,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_181,,tree,-141.7,60,Miners Well,,1
+NAm_1810,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1811,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1812,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1813,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1814,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1815,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1816,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1817,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1818,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1819,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_182,,tree,-141.7,60,Miners Well,,1
+NAm_1820,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1821,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1822,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1823,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1824,,tree,-127.8,69.5,Eagle Fecal/Ptarmigan Merge,,1
+NAm_1825,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1826,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1827,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1828,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1829,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_183,,tree,-141.7,60,Miners Well,,1
+NAm_1830,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1831,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1832,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1833,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1834,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1835,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1836,,tree,-94,58,Manitoba composite,doi.org,1
+NAm_1837,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1838,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1839,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_184,,tree,-141.7,60,Miners Well,,1
+NAm_1840,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1841,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1842,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1843,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1844,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1845,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1846,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1847,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1848,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_1849,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_185,,tree,-141.7,60,Miners Well,,1
+NAm_1850,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1851,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1852,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1853,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1854,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1855,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1856,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1857,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1858,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_1859,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_186,,tree,-141.7,60,Miners Well,,1
+NAm_1860,,tree,-115.3,50.8,French Glacier,doi.org,1
+NAm_187,,tree,-141.7,60,Miners Well,,1
+NAm_1873,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1874,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1875,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1876,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1877,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1878,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1879,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_188,,tree,-141.7,60,Miners Well,,1
+NAm_1880,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1881,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1882,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1883,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_1884,,tree,-138.5,60.2,Landslide,doi.org,1
+NAm_189,,tree,-141.7,60,Miners Well,,1
+NAm_190,,tree,-141.7,60,Miners Well,,1
+NAm_191,,tree,-141.7,60,Miners Well,,1
+NAm_192,,tree,-141.7,60,Miners Well,,1
+NAm_1921,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1922,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1923,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1924,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1925,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1926,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1927,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1928,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1929,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1930,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1931,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1932,,tree,-136.8,59.9,Blanchard River,,1
+NAm_1933,,tree,-136.6,59.8,Nadahini,,1
+NAm_1934,,tree,-136.6,59.8,Nadahini,,1
+NAm_1935,,tree,-136.6,59.8,Nadahini,,1
+NAm_1936,,tree,-136.6,59.8,Nadahini,,1
+NAm_1937,,tree,-136.6,59.8,Nadahini,,1
+NAm_1938,,tree,-136.6,59.8,Nadahini,,1
+NAm_1939,,tree,-136.6,59.8,Nadahini,,1
+NAm_1940,,tree,-136.6,59.8,Nadahini,,1
+NAm_1941,,tree,-136.6,59.8,Nadahini,,1
+NAm_1942,,tree,-136.6,59.8,Nadahini,,1
+NAm_1943,,tree,-136.6,59.8,Nadahini,,1
+NAm_1944,,tree,-136.6,59.8,Nadahini,,1
+NAm_195,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_196,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_1969,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_197,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_1970,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1971,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1972,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1973,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1974,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1975,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1976,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1977,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1978,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1979,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_198,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_1980,,tree,-128.4,61.4,Rock Glacier Yukon,,1
+NAm_1993,,tree,-133.4,59.6,Snake Creek,,1
+NAm_1995,,tree,-133.4,59.6,Snake Creek,,1
+NAm_1996,,tree,-133.4,59.6,Snake Creek,,1
+NAm_1997,,tree,-133.4,59.6,Snake Creek,,1
+NAm_1998,,tree,-133.4,59.6,Snake Creek,,1
+NAm_1999,,tree,-133.4,59.6,Snake Creek,,1
+NAm_200,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_2000,,tree,-133.4,59.6,Snake Creek,,1
+NAm_2001,,tree,-133.4,59.6,Snake Creek,,1
+NAm_2002,,tree,-133.4,59.6,Snake Creek,,1
+NAm_2003,,tree,-133.4,59.6,Snake Creek,,1
+NAm_2004,,tree,-133.4,59.6,Snake Creek,,1
+NAm_2005,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2006,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2007,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2008,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2009,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_201,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_2010,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2011,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2012,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2013,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2014,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2015,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_2016,,tree,-134.4,60.1,Sugarloaf,,1
+NAm_202,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_203,,tree,-147.8,63.3,Canyon Creek,,1
+NAm_2041,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2042,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2043,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2044,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2045,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2046,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2047,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2048,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2049,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2050,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2051,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2052,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2053,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2054,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2055,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2056,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2057,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2058,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2059,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2060,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2061,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2062,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2063,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2064,,tree,-115.8,51.1,Sunshine Meadows,doi.org,1
+NAm_2065,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2066,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2067,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2068,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2069,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2070,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2071,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2072,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2073,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2074,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2075,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2076,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2077,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2078,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2079,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2080,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2081,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2082,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2083,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2084,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2085,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2086,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2087,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2088,,tree,-117.2,52.2,Athabasca Glacier 2,doi.org,1
+NAm_2089,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2090,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2091,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2092,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2093,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2094,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2095,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2096,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2097,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2098,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2099,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2100,,tree,-118.3,52.7,Bennington,doi.org,1
+NAm_2113,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2114,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2115,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2116,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2117,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2118,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2119,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2120,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2121,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2122,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2123,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2124,,tree,-116.5,51.7,Bow Summit/Peyto Lake,doi.org,1
+NAm_2125,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2126,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2127,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2128,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2129,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2130,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2131,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2132,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2133,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2134,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2135,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2136,,tree,-117.3,52.9,Cardinal Divide,doi.org,1
+NAm_2149,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2150,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2151,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2152,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2153,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2154,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2155,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2156,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2157,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2158,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2159,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2160,,tree,-117.9,52.6,Geraldine Lakes,doi.org,1
+NAm_2161,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2162,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2163,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2164,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2165,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2166,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2168,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2169,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_217,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2170,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2171,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2172,,tree,-115,50.6,Highwood Pass,doi.org,1
+NAm_2173,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2174,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2175,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2176,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2177,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2178,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2179,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_218,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2180,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2181,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2182,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_2183,,tree,-117.2,52.2,Hilda,doi.org,1
+NAm_219,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_220,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2209,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_221,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2210,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2211,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2212,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2213,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2214,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2215,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2216,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2217,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2218,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_2219,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_222,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2220,,tree,-115.2,50.9,Nakiska,doi.org,1
+NAm_223,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2233,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2234,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2235,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2236,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2237,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2238,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2239,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_224,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2240,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2241,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2242,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2243,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_2244,,tree,-118.2,53,Pyramid Mountain,doi.org,1
+NAm_225,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2257,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2258,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2259,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_226,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2260,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2261,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2262,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2263,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2264,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2265,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2266,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2267,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2268,,tree,-118,52.9,Signal Mountain,doi.org,1
+NAm_2269,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_227,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2270,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2271,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2272,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2273,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2274,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2275,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2276,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2277,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2278,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_2279,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_228,,tree,-159.6,67.1,Kobuk/Noatak,,1
+NAm_2280,,tree,-119.5,53.2,Small River,doi.org,1
+NAm_229,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_230,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_2305,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2306,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2307,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2308,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2309,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_231,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_2310,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2311,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2312,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2313,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2314,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2315,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_2316,,tree,-117.7,52.8,Surprise Valley,doi.org,1
+NAm_232,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_233,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_234,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_235,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_236,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_237,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_2377,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2379,,tree,-105.6,40.1,Arapahoe,,1
+NAm_238,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_2380,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2381,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2382,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2384,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2385,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2386,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2387,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2389,,tree,-105.6,40.1,Arapahoe,,1
+NAm_239,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_2391,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2392,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2393,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2394,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2396,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2397,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2398,,tree,-105.6,40.1,Arapahoe,,1
+NAm_2399,,tree,-105.6,40.1,Arapahoe,,1
+NAm_240,,tree,-162.2,65.2,Almond Butter Lower,,1
+NAm_241,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_242,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_243,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_244,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2449,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_245,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2451,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2452,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2453,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2454,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2455,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2456,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2457,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2459,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_246,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2460,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2461,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2463,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2464,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2465,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2466,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2467,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2468,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2469,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_247,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2470,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2471,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2472,,tree,-107.7,37.9,Red Mountain Pass Silverton,,1
+NAm_2475,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2476,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2477,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2478,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_248,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2480,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2481,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2482,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2483,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2487,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2488,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2489,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_249,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2490,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2492,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2493,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2494,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2495,,tree,-105,39.3,Pike Peaks,doi.org,1
+NAm_2499,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_250,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2500,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2501,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2502,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2504,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2505,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2506,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2507,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_251,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_2511,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2512,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2513,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2514,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2516,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2517,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2518,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_2519,,tree,-107.6,38.7,Cottonwood Pass,doi.org,1
+NAm_252,,tree,-162.2,65.2,Almond Butter Upper,,1
+NAm_253,,tree,-162.3,65.2,Burnt Over,,1
+NAm_254,,tree,-162.3,65.2,Burnt Over,,1
+NAm_255,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2557,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2558,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2559,,tree,-105.9,39.9,Fool Creek,,1
+NAm_256,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2560,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2561,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2562,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2563,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2564,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2565,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2566,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2567,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2568,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2569,,tree,-105.9,39.9,Fool Creek,,1
+NAm_257,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2570,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2571,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2572,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2573,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2574,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2575,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2576,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2577,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2578,,tree,-105.9,39.9,Fool Creek,,1
+NAm_2579,,tree,-105.9,39.9,Fool Creek,,1
+NAm_258,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2580,,tree,-105.9,39.9,Fool Creek,,1
+NAm_259,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2595,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_2596,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_2597,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_2598,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_260,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2600,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_2601,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_2602,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_2603,,tree,-105.8,40.6,Cameron Pass,,1
+NAm_261,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2619,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_262,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2620,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2621,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2622,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2624,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2625,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2626,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2627,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_263,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2631,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2632,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2633,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2634,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2636,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2637,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2638,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_2639,,tree,-114.7,43.9,Galena Pass Sawtooth National Forest,doi.org,1
+NAm_264,,tree,-162.3,65.2,Burnt Over,,1
+NAm_2653,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2655,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2656,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2657,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2658,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2659,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2660,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2661,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2662,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2663,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2664,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2665,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2666,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2667,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2668,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2669,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2670,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2671,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2672,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2673,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2674,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2675,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2676,,tree,-114.5,44.6,Sleeping Deer Road,,1
+NAm_2689,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2690,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2691,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2692,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2693,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2694,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2695,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2696,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2697,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2698,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2699,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2700,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2701,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2702,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2703,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2704,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2705,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2706,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2707,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2708,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2709,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2710,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2711,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2712,,tree,-70.8,44.8,Elephant Mountain,,1
+NAm_2713,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2714,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2715,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2716,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2717,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2718,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2719,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2720,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2721,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2722,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2723,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2724,,tree,-115.5,31,La Tasajera (San Pedro Martir),,1
+NAm_2725,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2726,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2727,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2728,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2729,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2730,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2731,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2732,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2733,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2734,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2735,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2736,,tree,-106.3,25.1,Cienega de Nuestra Senora de Guadalupe,,1
+NAm_2739,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2740,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2741,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2742,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2744,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2745,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2746,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2747,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2751,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2752,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2753,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2754,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2756,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2757,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2758,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_2759,,tree,-112.5,45.8,Highland Fire Outlook,doi.org,1
+NAm_277,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2773,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2774,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2775,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2776,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2777,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2778,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2779,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_278,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2780,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2781,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2782,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2783,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2784,,tree,-111.3,45.3,Yellow Mountain Ridge,,1
+NAm_2785,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2786,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2787,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2788,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2789,,tree,-114.3,45.9,Baker Lake,,1
+NAm_279,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2790,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2791,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2792,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2793,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2794,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2795,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2796,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2797,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2798,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2799,,tree,-114.3,45.9,Baker Lake,,1
+NAm_280,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2800,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2801,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2802,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2804,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2805,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2806,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2807,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2808,,tree,-114.3,45.9,Baker Lake,,1
+NAm_2809,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_281,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2810,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2811,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2812,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2813,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2814,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2815,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2816,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2817,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2818,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2819,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_282,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2820,,tree,-113.2,46.3,Flint Creek Range,,1
+NAm_2823,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_2824,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_2825,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_2826,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_2828,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_2829,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_283,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2830,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_2831,,tree,-113.4,46,Pintlers,doi.org,1
+NAm_2833,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2834,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2835,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2836,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2837,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2838,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2839,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_284,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2840,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2841,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2842,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2843,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2844,,tree,-113.4,46,Pintlers Two,doi.org,1
+NAm_2845,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2846,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2847,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2848,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2849,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_285,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_2850,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2851,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2852,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2853,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2854,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2855,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_2856,,tree,-114,49,Rowe Lakes,doi.org,1
+NAm_286,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_287,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_288,,tree,-162.2,65.2,Windy Ridge Alaska,,1
+NAm_289,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_290,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_291,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_292,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_293,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_294,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_295,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_296,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_297,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_298,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_299,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_300,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3001,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3002,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3003,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3004,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3005,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3006,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3007,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3008,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3009,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_301,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3010,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3011,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3012,,tree,-115.5,40.2,Pearl Peak,,1
+NAm_3013,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3014,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3015,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3016,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3017,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3018,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3019,,tree,-114.2,38.5,Mount Washington,,1
+NAm_302,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3020,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3021,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3022,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3023,,tree,-114.2,38.5,Mount Washington,,1
+NAm_3024,,tree,-114.2,38.5,Mount Washington,,1
+NAm_303,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_304,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_305,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_306,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_307,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_308,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3085,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3086,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3087,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3088,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3089,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_309,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3090,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3091,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3092,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3093,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3094,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3095,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3096,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3097,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3098,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3099,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_310,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3100,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3101,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3102,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3103,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3104,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3105,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3106,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3107,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_3108,,tree,-122.2,43,Crater Lake NE,doi.org,1
+NAm_311,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3111,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3112,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3113,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3114,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3116,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3117,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3118,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3119,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_312,,tree,-143.1,62.4,Nabesna Mine,,1
+NAm_3123,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3124,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3125,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3126,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3128,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3129,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3130,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3131,,tree,-121.7,45.3,Barlow Pass   am Mt.Hood,doi.org,1
+NAm_3181,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3182,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3183,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3184,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3185,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3186,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3187,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3188,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3189,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3190,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3191,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3192,,tree,-114.4,49.3,Tamarack Bowl,,1
+NAm_3229,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3230,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3231,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3232,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3233,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3234,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3236,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3237,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3238,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3239,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3241,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3242,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3243,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3244,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3245,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3246,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3248,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3249,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3250,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3251,,tree,-113.9,37.6,Ceader Breaks,doi.org,1
+NAm_3277,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3278,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3279,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3280,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3281,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3282,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3283,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3284,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3285,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3286,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3287,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3288,,tree,-114.5,49.8,Vicary Mine,,1
+NAm_3351,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3352,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3353,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3354,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3356,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3357,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3358,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3359,,tree,-121.3,47.3,Granite Mountain,,1
+NAm_3375,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3376,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3377,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3378,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3380,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3381,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3382,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3383,,tree,-120.3,48.3,Scatter Lake,,1
+NAm_3385,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3386,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3387,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3388,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3389,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3390,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3391,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3392,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3393,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3394,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3395,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3396,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3397,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3399,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3400,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3401,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3402,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3404,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3405,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3406,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3407,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3408,,tree,-120.7,48.7,Harts Pass N1,,1
+NAm_3409,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3410,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3411,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3412,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3413,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3414,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3416,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3417,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3418,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3419,,tree,-120.7,48.7,Harts Pass N2,,1
+NAm_3421,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3422,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3423,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3424,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3425,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3426,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3428,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3429,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3430,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3431,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3433,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3434,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3435,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3436,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3437,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3438,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3440,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3441,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3442,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3443,,tree,-122.2,46.2,Mt. St. Helens,doi.org,1
+NAm_3469,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3470,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3471,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3472,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3473,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3474,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3476,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3477,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3478,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3479,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3480,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3481,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3482,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3483,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3484,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3485,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3486,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3488,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3489,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3490,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3491,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3492,,tree,-118.3,48.7,Sherman Creek Pass,doi.org,1
+NAm_3517,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3518,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3519,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3520,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3521,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3522,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3524,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3525,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3526,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3527,,tree,-123.8,47.9,Hoh Lake High,,1
+NAm_3555,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3556,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3557,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3558,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3560,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3561,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3562,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3563,,tree,-121.5,46.2,Mount Adams Low,,1
+NAm_3589,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3590,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3591,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3592,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3593,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3594,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3596,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3597,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3598,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3599,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3601,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3602,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3603,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3604,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3605,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3606,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3608,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3609,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_361,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3610,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3611,,tree,-107.1,44.2,Powder River Pass,doi.org,1
+NAm_3615,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3616,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3617,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3618,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_362,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3620,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3621,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3622,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3623,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3627,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3628,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3629,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_363,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3630,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3632,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3633,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3634,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3635,,tree,-107.7,41.3,Medicine Bow Peak,doi.org,1
+NAm_3639,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_364,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3640,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3641,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3642,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3644,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3645,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3646,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3647,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_365,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3651,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3652,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3653,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3654,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3656,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3657,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3658,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_3659,,tree,-110.1,44.4,Sylvan Pass bei Cody,doi.org,1
+NAm_366,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3661,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3663,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3664,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3665,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3666,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3667,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3668,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3669,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_367,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3670,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3671,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3672,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3673,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3675,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3676,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3677,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3678,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3679,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_368,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3680,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3681,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3682,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3683,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3684,,tree,-107.9,44.8,Granite Pass   Hunt Mountain,doi.org,1
+NAm_3687,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3688,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3689,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_369,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3690,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3692,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3693,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3694,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3695,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3699,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_370,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3700,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3701,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3702,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3704,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3705,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3706,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3707,,tree,-110.1,43.7,Togwatee Pass,doi.org,1
+NAm_3709,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_371,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3710,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3711,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3712,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3713,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3714,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3715,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3716,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3717,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3718,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3719,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_372,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3720,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3721,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3722,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3723,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3724,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3725,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3726,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3728,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3729,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_373,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3730,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3731,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_3732,,tree,-106.2,41.4,Sheep Trail,,1
+NAm_374,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3745,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3746,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3747,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3748,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3749,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_375,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3750,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3751,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3752,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3753,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3754,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3755,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3756,,tree,-142,62,Wrangells Composite,doi.org,1
+NAm_3757,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3758,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3759,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_376,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3760,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3761,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3762,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3763,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3764,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3765,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3766,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3767,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3768,,tree,-152,67,Northern Alaska Composite,doi.org,1
+NAm_3769,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_377,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3770,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3771,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3772,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3773,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3774,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3775,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3776,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3777,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3778,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_3779,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_378,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3780,,tree,-141.6,68.7,Firth River 1236,doi.org,1
+NAm_379,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3794,,tree,-71.35,54.21,"L1_CANA458, L12_CANA459, L16_CANA460, L18_CANA461, L20_CANA462, L22_CANA463",doi.org,1
+NAm_3795,,tree,-71.35,54.21,"L1_CANA458, L12_CANA459, L16_CANA460, L18_CANA461, L20_CANA462, L22_CANA463",doi.org,1
+NAm_3796,,tree,-71.35,54.21,"L1_CANA458, L12_CANA459, L16_CANA460, L18_CANA461, L20_CANA462, L22_CANA463",doi.org,1
+NAm_3798,,lake sediment,-89.7,46.2,Hell's Kitchen Lake,doi.org,27.2027027
+NAm_380,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3801,,lake sediment,-70.1,44.5,Basin Pond,doi.org,29.05454545
+NAm_3804,,lake sediment,-79,33.8,Clear Pond,doi.org,40.59574468
+NAm_3807,,lake sediment,-67.9,46.3,Conroy Lake,doi.org,29.20895522
+NAm_381,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_3810,,lake sediment,-91.5,45.3,Dark Lake,doi.org,23.84210526
+NAm_3816,,lake sediment,-91.5,45.3,Ruby Lake,doi.org,24.11428571
+NAm_3819,,lake sediment,-91.5,45.3,LittlePine Lake,doi.org,22.28125
+NAm_382,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_383,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_384,,tree,-142.7,61.3,Big Bend Lake,,1
+NAm_385,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_3851,,lake sediment,-91,48,Lake of the Clouds,doi.org,14.46153846
+NAm_3852,,lake sediment,-91,48,Lake of the Clouds,doi.org,14.46153846
+NAm_3853,,lake sediment,-75.1,45.8,Lac Noir,doi.org,9.342990654
+NAm_386,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_3865,,lake sediment,-122.9,50.2,Green Lake,doi.org,1
+NAm_3866,,lake sediment,-122.9,50.2,Green Lake,doi.org,1
+NAm_387,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_388,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_389,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_390,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_391,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_392,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_393,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_394,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_395,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_396,,tree,-148.3,60.5,Prince William Sound,,1
+NAm_409,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_410,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_411,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_412,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_413,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_414,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_415,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_416,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_417,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_418,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_419,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_420,,tree,-131.6,55.3,Deer Mountain,,1
+NAm_421,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_422,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_423,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_424,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_425,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_426,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_427,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_428,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_429,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_430,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_431,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_432,,tree,-134.6,58.4,McGinnis Trail,,1
+NAm_433,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_434,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_435,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_436,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_437,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_438,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_439,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_440,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_441,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_442,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_443,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_444,,tree,-132,56,Southern Alaska composite,doi.org,1
+NAm_445,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_446,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_447,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_448,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_449,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_450,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_451,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_452,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_453,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_454,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_455,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_456,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_457,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_458,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_459,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_460,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_461,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_462,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_463,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_464,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_465,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_466,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_467,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_468,,tree,-162.3,65.2,Seward Composite,doi.org,1
+NAm_481,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_483,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_484,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_485,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_486,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_488,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_489,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_490,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_491,,tree,-135.4,57.1,Starrigawan  Old Sitka,,1
+NAm_505,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_507,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_508,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_509,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_510,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_512,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_513,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_514,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_515,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_517,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_519,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_520,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_521,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_522,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_524,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_525,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_526,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_527,,tree,-110.2,35.4,Snow Bowl San Francisco Peak,doi.org,1
+NAm_553,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_554,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_555,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_556,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_557,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_558,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_560,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_561,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_562,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_563,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_565,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_566,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_567,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_568,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_569,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_570,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_572,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_573,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_574,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_575,,tree,-110.8,32.5,Mt. Lemon,doi.org,1
+NAm_613,,tree,-118.2,36.5,Flower Lake,,1
+NAm_614,,tree,-118.2,36.5,Flower Lake,,1
+NAm_615,,tree,-118.2,36.5,Flower Lake,,1
+NAm_616,,tree,-118.2,36.5,Flower Lake,,1
+NAm_617,,tree,-118.2,36.5,Flower Lake,,1
+NAm_618,,tree,-118.2,36.5,Flower Lake,,1
+NAm_619,,tree,-118.2,36.5,Flower Lake,,1
+NAm_620,,tree,-118.2,36.5,Flower Lake,,1
+NAm_621,,tree,-118.2,36.5,Flower Lake,,1
+NAm_622,,tree,-118.2,36.5,Flower Lake,,1
+NAm_623,,tree,-118.2,36.5,Flower Lake,,1
+NAm_624,,tree,-118.2,36.5,Flower Lake,,1
+NAm_625,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_626,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_627,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_628,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_629,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_630,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_631,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_632,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_633,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_634,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_635,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_636,,tree,-118.4,36.3,Timber Gap Upper,,1
+NAm_637,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_638,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_639,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_640,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_641,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_642,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_643,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_644,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_645,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_646,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_647,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_648,,tree,-118.2,36.3,Cirque Peak,,1
+NAm_661,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_662,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_663,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_664,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_665,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_666,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_667,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_668,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_669,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_670,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_671,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_672,,tree,-118.1,37.2,Sheep Mountain,,1
+NAm_747,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_748,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_749,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_750,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_752,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_753,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_754,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_755,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_759,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_760,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_761,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_762,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_764,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_765,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_766,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_767,,tree,-119.3,37.8,Yosemite Park   E Eingang,doi.org,1
+NAm_769,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_770,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_771,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_772,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_773,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_774,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_775,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_776,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_777,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_778,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_779,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_780,,tree,-119.2,37.9,Dana Plateau Inyo National Forest,,1
+NAm_793,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_794,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_795,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_796,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_797,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_798,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_799,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_800,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_801,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_802,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_803,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_804,,tree,-119.2,37.8,Spillway Lake Yosemite National Park,,1
+NAm_805,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_806,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_807,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_808,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_809,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_810,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_811,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_812,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_813,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_814,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_815,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_816,,tree,-116.8,34.1,Fish Creek Trail (San Gorgonio),,1
+NAm_865,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_866,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_867,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_868,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_869,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_870,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_871,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_872,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_873,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_874,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_875,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_876,,tree,-118.3,36.3,Boreal Plateau,,1
+NAm_877,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_878,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_879,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_880,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_881,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_882,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_883,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_884,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_885,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_886,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_887,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_888,,tree,-118.2,36.4,Upper Wright Lakes,Manually Entered,1
+NAm_913,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_914,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_915,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_916,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_917,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_918,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_919,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_920,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_921,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_922,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_923,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_924,,tree,-68.4,58.4,Fort Chimo (Merged),doi.org,1
+NAm_937,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_938,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_939,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_940,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_941,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_942,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_943,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_944,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_945,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_946,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_947,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_948,,tree,-138.6,68.6,Spruce Creek,doi.org,1
+NAm_961,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_962,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_963,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_964,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_965,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_966,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_967,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_968,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_969,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_970,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_971,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_972,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_973,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_974,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_975,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_976,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_977,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_978,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_979,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_980,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_981,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_982,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_983,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NAm_984,,tree,-111,62.7,Pethai Peninsula,doi.org,1
+NPMlaanila2,,tree,27.33333333,68.49166667,Laanila,,1
+NPMlaanila3,,tree,27.33333333,68.49166667,Laanila,,1
+NPMlaanila4,,tree,27.33333333,68.49166667,Laanila,,1
+O2kLR_007,,marine sediment,6.77,78.91,Western Svalbard,doi.org,40.36170213
+O2kLR_009,,marine sediment,6.77,78.91,Western Svalbard,doi.org,42.02
+O2kLR_017,,marine sediment,-93.93,26.68,"Garrison Basin, Gulf of Mexico",doi.org,23.167
+O2kLR_019,,marine sediment,-93.93,26.68,"Garrison Basin, Gulf of Mexico",doi.org,23.167
+O2kLR_045,,marine sediment,-17.42,66.55,North Iceland/North Atlantic,doi.org,3.882563107
+O2kLR_046,,marine sediment,-17.42,66.55,North Iceland/North Atlantic,doi.org,3.882555243
+O2kLR_048,,marine sediment,-27.91,57.45,South Iceland/North Atlantic,doi.org,7.361012296
+O2kLR_066,,marine sediment,-83.26,24.33,Dry Tortugas,doi.org,26.57714286
+O2kLR_068,,marine sediment,-83.26,24.33,Dry Tortugas,doi.org,26.57714286
+O2kLR_074,,marine sediment,-62.8,45.89,"Emerald Basin,OCE326 MC-29D",doi.org,32.63265306
+O2kLR_076,,marine sediment,-62.8,45.89,"Emerald Basin,OCE326 MC-29D",doi.org,32.63265306
+O2kLR_112,,marine sediment,-10.2685,30.85,"Cape Ghir, NW Africa",doi.org,32.33432432
+O2kLR_113,,marine sediment,-10.2685,30.85,"Cape Ghir, NW Africa",doi.org,26.79284987
+O2kLR_114,,marine sediment,65.92,24.83,Arabian Sea,doi.org,16.91953125
+O2kLR_116,,marine sediment,65.92,24.83,Arabian Sea,doi.org,20.66822034
+O2kLR_148,,marine sediment,119.2,-3.53,Makassar Strait,doi.org,10.53181818
+O2kLR_149,,marine sediment,119.2,-3.53,Makassar Strait,doi.org,10
+O2kLR_150,,coral,146.595,-18.315,Great Barrier Reef,doi.org,5.12345679
+O2kLR_151,,coral,146.595,-18.315,Great Barrier Reef,doi.org,5.12345679
+O2kLR_152,,coral,146.595,-18.315,Great Barrier Reef,doi.org,5.12345679
+O2kLR_166,,marine sediment,122.5,24.8,Okinawa Trough (ODP Hole 195-1202B),doi.org,24.99074074
+O2kLR_175,,marine sediment,141.78,36.03,Kuroshio Current,doi.org,28.67644737
+O2kLR_177,,marine sediment,141.78,36.03,Kuroshio Current,doi.org,138.0918869
+O2kLR_183,,marine sediment,-120.02,34.23,Santa Barbara Basin (California),doi.org,1.247596899
+O2kLR_184,,marine sediment,-120.02,34.23,Santa Barbara Basin (California),doi.org,1.247683689
+O2kLR_189,,marine sediment,-74.45,-41,"Chilean margin, Southern Ocean (Pacific sector)",doi.org,91.08004386
+O2kLR_195,,marine sediment,-75.16,-44.15,Southern Chile Margin,doi.org,36.28070175
+O2kLR_197,,marine sediment,-75.16,-44.15,Southern Chile Margin,doi.org,36.54169492
+Ocean2kHR_001,,coral,40.1,-3.2,Malindi,doi.org,1
+Ocean2kHR_002,,coral,45.1,-12.65,Mayotte,doi.org,0.166666667
+Ocean2kHR_003,,coral,45.1,-12.65,Mayotte,doi.org,0.166671598
+Ocean2kHR_004,,coral,45.1,-12.65,Mayotte,doi.org,0.166666667
+Ocean2kHR_005,,coral,45.1,-12.65,Mayotte,doi.org,0.166666667
+Ocean2kHR_006,,coral,115.5757,-8.2473,Lombok,doi.org,0.083333333
+Ocean2kHR_007,,coral,39.5,-8.0167,Mafia,doi.org,0.206775701
+Ocean2kHR_008,,coral,113.965,-21.905,Ningaloo,doi.org,0.152287582
+Ocean2kHR_009,,coral,113.965,-21.905,Ningaloo,doi.org,0.152287582
+Ocean2kHR_010,,coral,98.52,-0.13,Mentawai Islands,doi.org,0.083684841
+Ocean2kHR_011,,coral,55,-4.62,Mahe,doi.org,0.083337072
+Ocean2kHR_012,,coral,40.1,-3.2,Malindi,doi.org,0.083453497
+Ocean2kHR_013,,coral,55.25,-21.0333,Reunion,doi.org,0.166670061
+Ocean2kHR_014,,coral,34.97,29.42,"Aqaba, Jordan",,1
+Ocean2kHR_015,,coral,34.97,29.42,"Aqaba, Jordan",,1
+Ocean2kHR_016,,coral,34.97,29.42,"Aqaba, Jordan",,1
+Ocean2kHR_017,,coral,34.97,29.42,"Aqaba, Jordan",,1
+Ocean2kHR_018,,coral,34.31,27.8483,"Sinai Peninsula, Red Sea",,0.187134503
+Ocean2kHR_019,,coral,34.32,27.85,Red Sea,doi.org,0.166666667
+Ocean2kHR_020,,coral,43.58,-23.15,Ifaty,doi.org,0.166666667
+Ocean2kHR_021,,coral,43.58,-23.15,Ifaty,doi.org,1
+Ocean2kHR_022,,coral,43.6195,-23.3572,Ifaty,doi.org,1
+Ocean2kHR_023,,coral,113.77,-28.47,Houtman Abrolhos,doi.org,0.13067212
+Ocean2kHR_024,,coral,113.77,-28.47,Houtman Abrolhos,doi.org,0.13067212
+Ocean2kHR_025,,coral,113.772,-28.4609,Houtman Abrolhos,doi.org,1.104166667
+Ocean2kHR_026,,coral,113.749,-28.4589,Houtman Abrolhos,doi.org,1.072847682
+Ocean2kHR_027,,coral,113.749,-28.4589,Houtman Abrolhos,doi.org,1.087248322
+Ocean2kHR_094,,coral,-64.9888,30.6486,Bermuda south shore,doi.org,1
+Ocean2kHR_095,,coral,-64.9888,30.6486,Bermuda south shore,doi.org,1
+Ocean2kHR_096,,coral,-66.75,11.77,"Los Roques, Venezuela",doi.org,0.083333333
+Ocean2kHR_097,,coral,-61.49,16.2,Guadeloupe,doi.org,0.085900415
+Ocean2kHR_098,,coral,-61.49,16.2,Guadeloupe,doi.org,0.085900415
+Ocean2kHR_099,,coral,-67,17.93,"Turrumote Reef, Puerto Rico",doi.org,1.003968254
+Ocean2kHR_100,,coral,-67,17.93,"Turrumote Reef, Puerto Rico",doi.org,1.003968254
+Ocean2kHR_101,,coral,-67,17.93,"Turrumote Reef, Puerto Rico",doi.org,1.003968254
+Ocean2kHR_105,,coral,-64.7,32.467,"North East Breakers, Bermuda",doi.org,0.083333333
+Ocean2kHR_106,,coral,-64.7,32.467,"North East Breakers, Bermuda",doi.org,0.083333333
+Ocean2kHR_107,,coral,-22.8883,16.76,"Pedra de Lume, Cape Verde Islands",doi.org,0.083333333
+Ocean2kHR_108,,coral,-60.85,11.17,"Buccoo Reef, Tobago",,1
+Ocean2kHR_109,,coral,-60.85,11.17,"Buccoo Reef, Tobago",,1
+Ocean2kHR_110,,coral,-60.85,11.17,"Buccoo Reef, Tobago",,1
+Ocean2kHR_111,,coral,-60.85,11.17,"Buccoo Reef, Tobago",,1
+Ocean2kHR_112,,sclerosponge,-76.053,23.766,"Tongue of the Ocean, Exuma Sound Bahamas",doi.org,1
+Ocean2kHR_113,,sclerosponge,-76.053,23.766,"Tongue of the Ocean, Exuma Sound Bahamas",doi.org,1
+Ocean2kHR_114,,sclerosponge,-76.577,23.504,"Tongue of the Ocean, Exuma Sound Bahamas",doi.org,1
+Ocean2kHR_115,,sclerosponge,-76.577,23.504,"Tongue of the Ocean, Exuma Sound Bahamas",doi.org,1
+Ocean2kHR_116,,coral,-80.75,24.93,Florida Bay,doi.org,1
+Ocean2kHR_117,,coral,-80.75,24.93,Florida Bay,doi.org,1
+Ocean2kHR_118,,coral,-80.17,25.38,Biscayne Bay,doi.org,1
+Ocean2kHR_122,,bivalve,-69.8017,43.6561,Gulf of Maine,doi.org,2.957317073
+Ocean2kHR_123,,coral,-82.3,24.6,Dry Tortugas,doi.org,0.083333333
+Ocean2kHR_124,,coral,-64.5417,30.0867,Bermuda,doi.org,2.909090909
+Ocean2kHR_125,,coral,-64.5417,30.0867,Bermuda,doi.org,2.958333333
+Ocean2kHR_126,,sclerosponge,-77.95,18.4667,Montego Bay Jamaica,doi.org,3.718390805
+Ocean2kHR_127,,sclerosponge,-77.95,18.4667,Montego Bay Jamaica,doi.org,3.75739645
+Ocean2kHR_128,,sclerosponge,-78.95,17.5333,Pedro Bank Jamaica,doi.org,5.153846154
+Ocean2kHR_129,,sclerosponge,-78.95,17.5333,Pedro Bank Jamaica,doi.org,5.428571429
+Ocean2kHR_130,,coral,-78.62,25.84,Gingerbreads Bahamas,doi.org,1
+Ocean2kHR_131,,coral,-86.74,20.83,"Punta Maroma, Mexico",doi.org,1
+Ocean2kHR_132,,coral,-149.8333,-17.5,Moorea,doi.org,1
+Ocean2kHR_133,,coral,166.99,-15,Vanuatu,doi.org,1
+Ocean2kHR_134,,coral,166.4667,-22.475,Amedee Island,doi.org,0.083333333
+Ocean2kHR_135,,coral,-157.2473,1.6792,Kiritimati,doi.org,0.083332831
+Ocean2kHR_136,,coral,-157.2473,1.6792,Kiritimati,doi.org,0.083332831
+Ocean2kHR_137,,coral,112.33,16.85,"Xisha Island, South China Sea",doi.org,0.083418319
+Ocean2kHR_138,,coral,-82,7.95,"Secas Island, Panama",doi.org,0.101671565
+Ocean2kHR_139,,coral,-162.13,5.87,Palmyra,doi.org,0.206331213
+Ocean2kHR_140,,coral,145.8167,-5.2167,"Madang Lagoon, Papua New Guinea",doi.org,0.25
+Ocean2kHR_141,,coral,144.8833,-4.15,"Laing Island, Papua New Guinea",doi.org,0.25
+Ocean2kHR_142,,coral,179.23,-16.82,"Savusavu Bay, Fiji",doi.org,1
+Ocean2kHR_143,,coral,150.5,-2.5,"New Ireland, Papua",doi.org,0.083693753
+Ocean2kHR_144,,coral,151.9772,-4.1916,Rabaul,doi.org,0.083329065
+Ocean2kHR_145,,coral,151.9772,-4.1916,Rabaul,doi.org,0.083329065
+Ocean2kHR_146,,coral,151.9772,-4.1916,Rabaul,doi.org,0.083329065
+Ocean2kHR_147,,coral,-159.8278,-21.2378,Rarotonga,doi.org,0.125002314
+Ocean2kHR_148,,coral,-159.8278,-21.2378,Rarotonga,doi.org,0.125002314
+Ocean2kHR_149,,coral,-159.8278,-21.2378,Rarotonga,doi.org,0.124997686
+Ocean2kHR_150,,coral,-159.8278,-21.2378,Rarotonga,doi.org,0.125
+Ocean2kHR_151,,coral,-159.8278,-21.2378,Rarotonga,doi.org,0.125
+Ocean2kHR_152,,coral,-159.8278,-21.2378,Rarotonga,doi.org,0.124993271
+Ocean2kHR_153,,coral,-159.8278,-21.2378,Rarotonga,doi.org,0.124993271
+Ocean2kHR_154,,coral,166.04,-15.94,Vanuatu,doi.org,0.083333333
+Ocean2kHR_155,,coral,166.04,-15.94,Vanuatu,doi.org,0.083333333
+Ocean2kHR_156,,coral,179.2333,-16.8167,Savusavu Bay,doi.org,1
+Ocean2kHR_157,,coral,179.2333,-16.8167,Savusavu Bay,doi.org,1
+Ocean2kHR_158,,coral,179.2333,-16.8167,Savusavu Bay,doi.org,1
+Ocean2kHR_159,,coral,-174.7167,-19.9333,Hafera Island,doi.org,1
+Ocean2kHR_160,,coral,-162.13,5.87,Palmyra,doi.org,0.08332838
+Ocean2kHR_161,,coral,-162.13,5.87,Palmyra,doi.org,0.08332838
+Ocean2kHR_162,,coral,-162.13,5.87,Palmyra,doi.org,0.083330855
+Ocean2kHR_163,,coral,142.1941,27.1059,Miyanohama,doi.org,0.16666712
+Ocean2kHR_164,,coral,142.1941,27.1059,Miyanohama,doi.org,0.16666712
+Ocean2kHR_165,,coral,142.1941,27.1059,Miyanohama,doi.org,0.16666712
+Ocean2kHR_166,,coral,144.8359,13.5982,Double Reef,doi.org,0.083334655
+Ocean2kHR_167,,coral,153,-22.1,Abraham Reef,doi.org,1.036036036
+Ocean2kHR_168,,coral,153,-22.1,Abraham Reef,doi.org,1.036036036
+Ocean2kHR_169,,coral,-109.2131,10.2773,Clipperton Atoll,doi.org,0.083333333
+Ocean2kHR_170,,coral,-109.2131,10.2773,Clipperton Atoll,doi.org,0.083333333
+Ocean2kHR_171,,coral,124.833,-1.5,Bunaken Island,doi.org,0.083331206
+Ocean2kHR_172,,coral,145.82,-5.22,"Madang Lagoon, Papua New Guinea",doi.org,0.25
+Ocean2kHR_173,,coral,-91.23,-0.4,Urvina Bay,doi.org,1.03601108
+Ocean2kHR_174,,coral,167.2,-15.7,"Malo Channel, Espiritu Santo Island, Vanuatu",doi.org,0.067142857
+Ocean2kHR_175,,coral,167.2,-15.7,"Malo Channel, Espiritu Santo Island, Vanuatu",doi.org,0.067142857
+Ocean2kHR_176,,coral,167.2,-15.7,"Malo Channel, Espiritu Santo Island, Vanuatu",doi.org,0.067142857
+Ocean2kHR_177,,coral,173,1,Maiana,doi.org,0.166666667
+Ocean2kHR_178,,coral,172,1,Tarawa,doi.org,0.083333333
+Ocean2kHR_179,,coral,166.9283,-0.53296,Nauru,doi.org,0.121378882
+Ocean2kHR_180,,coral,166.9283,-0.53296,Nauru,doi.org,0.121378882
+Ocean2kHR_181,,coral,134.3837,7.2708,Palau,doi.org,0.083333333
+Ocean2kHR_182,,coral,134.3837,7.2708,Palau,doi.org,0.083333333
+Ocean2kHR_183,,coral,134.2503,7.2859,Palau,doi.org,0.083333333
+Ocean2kHR_184,,coral,134.2503,7.2859,Palau,doi.org,0.083333333
+Ocean2kHR_185,,coral,-109.2131,10.2773,Clipperton,doi.org,0.08333333
+Ocean2kHR_186,,coral,-109.2131,10.2773,Clipperton,doi.org,0.08333333
+Ocean2kHR_187,,coral,-109.2131,10.2773,Clipperton,doi.org,0.08333333
+Ocean2kHR_188,,coral,-109.2131,10.2773,Clipperton,doi.org,0.083375337
+Ocean2kHR_189,,coral,-109.2131,10.2773,Clipperton,doi.org,0.083375337
+Ocean2kHR_190,,coral,146.0333,-16.7167,GBR,doi.org,2.164835165
+Ocean2kHR_191,,coral,146.0333,-16.7167,GBR,doi.org,2.164835165
+Ocean2kHR_192,,coral,146.0333,-16.7167,GBR,doi.org,2.164835165
+Ocean2kHR_193,,coral,148.43,-17.73,Coral Sea,doi.org,5
+Ocean2kHR_194,,coral,148.43,-17.73,Coral Sea,doi.org,5
+PYT6B1VXPJH,,lake sediment,126.36,42.17,Sihailongwa lake,doi.org,15.04859813
+PYT7SYB6YG2,,marine sediment,-10.0983,30.845,"Cape Ghir, NW Africa",doi.org,11.86792453
+PYT8GKKY6KC,,marine sediment,-9.3498,38.556,"Tagus mud patch, southern portuguese margin, North Atlantic",doi.org,12.43225806
+PYT9AHP5G65,,glacier ice,-107.99,-86.5,US-ITASE-2002-4,doi.org,0.117045711
+PYTE7VH7UMO,,speleothem,-3.5,42.9,Northern Spain,doi.org,4.746394231
+PYTEXTV36GE,,lake sediment,34.2883,-10.0033,Lake Malawi,doi.org,20.37142857
+PYTIA9T379Z,,marine sediment,141.78,36.03,Kuroshio Current,doi.org,138.0918869
+PYTKP5366IT,,marine sediment,-9.3498,38.556,"Tagus mud patch, southern portuguese margin, North Atlantic",doi.org,49.10365854
+PYTOKR86OXI,,lake sediment,-71.8167,-45.5167,Laguna Escondida,doi.org,1
+PYTTQ9BOYQZ,,marine sediment,-9.3498,38.556,"Tagus mud patch, southern portuguese margin, North Atlantic",doi.org,49.10365854
+PYTWT2GH0OQ,,marine sediment,4.03,40.5,Minorca contourite,doi.org,14.625
+PYTYS6A5PNT,,coral,-82,7.95,"Secas Island, Panama",doi.org,0.101671565
+PYTZ0SKSIEY,,marine sediment,-62.48,43.53,"Emerald Basin, Nova Scotia",doi.org,76.9047619
+PYTZXOVGF3P,,marine sediment,4.03,40.5,Minorca contourite,doi.org,14.625
+SAm_010,,tree,-71.92,-41.17,Central Andes composite 15,doi.org,1
+SAm_011,,tree,-71.5,-38.5,Central Andes composite 6,doi.org,1
+SAm_012,,tree,-71.5,-38.5,Central Andes composite 6,doi.org,1
+SAm_013,,tree,-71.5,-38.5,Central Andes composite 6,doi.org,1
+SAm_014,,tree,-71.5,-38.5,Central Andes composite 6,doi.org,1
+SAm_015,,tree,-71.5,-38.5,Central Andes composite 6,doi.org,1
+SAm_016,,tree,-71.25,-39.33,Central Andes composite 9,doi.org,1
+SAm_017,,tree,-71.25,-39.33,Central Andes composite 9,doi.org,1
+SAm_018,,tree,-71.25,-39.33,Central Andes composite 9,doi.org,1
+SAm_019,,tree,-71.25,-39.33,Central Andes composite 9,doi.org,1
+SAm_020,,tree,-71.25,-39.33,Central Andes composite 9,doi.org,1
+SAm_024,,lake sediment,-70.92,-33.85,Laguna Aculeo,doi.org,1
+SAm_0241,,lake sediment,-70.92,-33.85,Laguna Aculeo,doi.org,1
+SAm_0242,,lake sediment,-70.92,-33.85,Laguna Aculeo,doi.org,1
+SAm_0243,,lake sediment,-70.92,-33.85,Laguna Aculeo,doi.org,1
+SAm_0244,,lake sediment,-70.92,-33.85,Laguna Aculeo,doi.org,1
+SAm_025,,lake sediment,-70.5,-32.2667,Laguna Chepical,doi.org,1
+SAm_026,,lake sediment,-70.5,-32.2667,Laguna Chepical,doi.org,1
+SAm_031,,lake sediment,-71.8167,-45.5167,Laguna Escondida,doi.org,1
+SAm_032,,lake sediment,-71.8167,-45.5167,Laguna Escondida,doi.org,1
+SAm_033,,lake sediment,-71.8167,-45.5167,Laguna Escondida,doi.org,1
+SAm_034,,lake sediment,-71.8167,-45.5167,Laguna Escondida,doi.org,1
+SAm_035,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_036,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_037,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_038,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_039,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_040,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_041,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_042,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_043,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_044,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_045,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1
+SAm_046,,glacier ice,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1

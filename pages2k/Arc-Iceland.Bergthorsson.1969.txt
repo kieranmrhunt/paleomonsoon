@@ -1,0 +1,133 @@
+# Bergthorsson.Iceland.1969
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-Iceland.Bergthorsson.1969.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-Iceland.Bergthorsson.1969.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/14188
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: documents
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Bergthorsson.Iceland.1969
+#------------------
+# Investigators
+#     Investigators: Bergthorsson, Pall
+#------------------
+# Description_Notes_and_Keywords
+#     Description: multi-decadal MAT, 50-year or so averages of exactly dated historical documentary information. A hiatus in the 15th and part of the 16th centuries (FCL)
+#------------------
+# Publication
+#     Authors: Bergthorsson, Pall
+#     Published_Date_or_Year: 1969
+#     Published_Title: An estimate of drift ice and temperature in Iceland in 1000 years
+#     Journal_Name: Jokull
+#     Volume: 19
+#     Edition: 
+#     Issue: 
+#     Pages: 94-101
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Iceland
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 64.77
+#     Southernmost_Latitude: 64.77
+#     Easternmost_Longitude: -18.37
+#     Westernmost_Longitude: -18.37
+#     Elevation: 0
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 945.0
+#     Most_Recent_Year: 1935.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , documents, ,,N,   
+##temperature	annual mean temperature, ,,degC, 1 2 3 4 5 6 7 8 9 10 11 12, documents, from documentary data, ,, x=Ice occurrence;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+945.0	4.0258039231	
+975.0	3.3285392946	
+1005.0	4.0525824164	
+1035.0	3.7351665814	
+1065.0	3.4582949468	
+1095.0	4.27927	
+1125.0	4.7090725778	
+1155.0	4.2839485096	
+1185.0	3.4372881097	
+1215.0	3.2571386379	
+1245.0	3.3099765521	
+1275.0	3.0573050542	
+1305.0	3.1833255818	
+1335.0	3.2492748745	
+1365.0	3.3104197188	
+1485.0	3.31741014	
+1515.0	3.3169838596	
+1545.0	3.2501416034	
+1575.0	3.3050467383	
+1605.0	3.0840989927	
+1635.0	3.1128065341	
+1665.0	3.409054706	
+1695.0	3.0646190233	
+1725.0	3.3054817115	
+1755.0	2.9264320317	
+1785.0	2.9934331471	
+1815.0	3.0912593803	
+1845.0	3.3440295091	
+1875.0	2.9475486072	
+1905.0	3.2888659447	
+1935.0	4.3605163505	

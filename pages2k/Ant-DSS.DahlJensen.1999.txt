@@ -1,0 +1,137 @@
+# Law Dome Borehole temperature record
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DSS.DahlJensen.1999.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DSS.DahlJensen.1999.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: requested from AJO
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: borehole
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Law Dome Borehole temperature record
+#------------------
+# Investigators
+#     Investigators: van Ommen, Tas; Morgan, Vin; Elcheikh, Alan; Dahl-Jensen, Dorthe
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 6742BC to 1995 AD
+#------------------
+# Publication
+#     Authors: Dahl-Jensen, Dorthe;Morgan, Vin;Elcheikh, Alan
+#     Published_Date_or_Year: 1999
+#     Published_Title: Monte Carlo inverse modelling of the Law Dome (Antarctica) tempature profile
+#     Journal_Name: Annals of Glaciology
+#     Volume: 29
+#     Edition: 
+#     Issue: 
+#     Pages: 145-150
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: DSS
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -66.77
+#     Southernmost_Latitude: -66.77
+#     Easternmost_Longitude: 112.807
+#     Westernmost_Longitude: 112.807
+#     Elevation: 1370
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -6742.0
+#     Most_Recent_Year: 1995.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , borehole, ,,N,   
+##temperature	surface temperature, ,,degC, 1 2 3 4 5 6 7 8 9 10 11 12, borehole, ,inverse model, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+-6742.0	-20.72	
+-5502.0	-20.4	
+-4438.0	-20.54	
+-3524.0	-20.51	
+-2738.0	-20.95	
+-2064.0	-20.99	
+-1484.0	-19.7	
+-986.0	-19.28	
+-559.0	-19.49	
+-192.0	-19.79	
+124.0	-20.09	
+395.0	-20.84	
+628.0	-21.41	
+827.0	-21.65	
+999.0	-21.99	
+1147.0	-22.19	
+1273.0	-22.25	
+1382.0	-22.02	
+1476.0	-21.82	
+1556.0	-21.74	
+1625.0	-21.63	
+1684.0	-22.01	
+1735.0	-22.28	
+1779.0	-22.24	
+1816.0	-22.05	
+1849.0	-22.36	
+1876.0	-21.87	
+1900.0	-22.21	
+1921.0	-21.95	
+1938.0	-21.97	
+1953.0	-22.08	
+1966.0	-21.97	
+1977.0	-21.65	
+1987.0	-21.66	
+1995.0	-21.2	

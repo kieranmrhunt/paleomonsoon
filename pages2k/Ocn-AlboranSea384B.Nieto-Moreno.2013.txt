@@ -1,0 +1,156 @@
+# Nieto-Moreno.Alboran_Sea.2013
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-AlboranSea384B.Nieto-Moreno.2013.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-AlboranSea384B.Nieto-Moreno.2013.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.802259
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Nieto-Moreno.Alboran_Sea.2013
+#------------------
+# Investigators
+#     Investigators: Nieto-Moreno, V.; Martínez-Ruiz, F.; Willmott, V.; García-Orellana, J.; Masqué, P.; Sinninghe Damsté, J. S.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement
+#------------------
+# Publication
+#     Authors: Nieto-Moreno, V.;Martínez-Ruiz, F.;Willmott, V.;García-Orellana, J.;Masqué, P.;Sinninghe Damsté, J.S.
+#     Published_Date_or_Year: 2005
+#     Published_Title: Climate conditions in the westernmost Mediterranean over the last two millennia: An integrated biomarker approach
+#     Journal_Name: Organic Geochemistry
+#     Volume: 55
+#     Edition: 
+#     Issue: 
+#     Pages: 1-10
+#     Report: 
+#     DOI: 10.1016/j.orggeochem.2012.11.001
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: The oceans mediate the response of global climate to natural and anthropogenic forcings. Yet for the Common Era (past 2000 years) global ocean sea surface temperature (SST) variations, and the underlying driving mechanisms, are poorly constrained. Here we present a global synthesis of Common Era SSTs derived solely from marine archives. The synthesis uses 57 individual SST reconstructions that meet strict quality control criteria. We find an SST cooling trend during 0-1800 CE that is robust against explicit tests for potential biases in the reconstructions. The surface cooling trend for 801-1800 CE is qualitatively consistent with an independent synthesis of terrestrial temperature reconstructions, and with SST simulated by an ensemble of climate model simulations using best estimates of past forcings. Single and cumulative forcing climate model simulations suggest that the ocean SST cooling trend is not a response to orbital forcing, which is globally weak over this interval, but rather to increased frequency of explosive volcanism in recent centuries. This finding provides support for the hypothesis that ocean dynamics transform episodic volcanic forcing into a centennial and global-scale cooling trend.
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Climate conditions in the westernmost Mediterranean over the last two millennia: An integrated biomarker approach
+#     Journal_Name: Organic Geochemistry
+#     Volume: 55
+#     Edition: 
+#     Issue: 
+#     Pages: 1-10
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Alboran Sea
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 35.986
+#     Southernmost_Latitude: 35.986
+#     Easternmost_Longitude: -4.7496
+#     Westernmost_Longitude: -4.7496
+#     Elevation: -1022
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 980.0
+#     Most_Recent_Year: 2005.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenone, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; archiveType changed - was originally marine sediments; MUE1998: T(sediments) = (Uk’37-0.044)/0.033; (Müller et al.; (1998); global (60S-60N); 0-29ºC; annual at 0 m; n=370; R2=0.958);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    depth	
+2005.0	19.45	nan	
+1998.0	19.86	nan	
+1992.0	19.2	nan	
+1985.0	18.96	nan	
+1979.0	20.33	nan	
+1973.0	18.97	nan	
+1966.0	19.54	nan	
+1960.0	18.95	nan	
+1953.0	20.37	nan	
+1947.0	19.79	nan	
+1880.0	20.16	nan	
+1847.0	19.26	nan	
+1813.0	19.73	nan	
+1780.0	19.14	nan	
+1747.0	19.29	nan	
+1713.0	18.66	nan	
+1680.0	19.13	nan	
+1647.0	18.85	nan	
+1613.0	18.76	nan	
+1580.0	19.71	nan	
+1547.0	18.62	nan	
+1513.0	19.22	nan	
+1480.0	18.79	nan	
+1447.0	18.94	nan	
+1413.0	19.12	nan	
+1380.0	19.33	nan	
+1347.0	19.01	nan	
+1313.0	18.87	nan	
+1280.0	19.29	nan	
+1247.0	18.89	nan	
+1213.0	19.32	nan	
+1180.0	19.29	nan	
+1147.0	18.89	nan	
+1113.0	19.11	nan	
+1080.0	19.36	nan	
+1047.0	19.82	nan	
+1013.0	18.99	nan	
+980.0	19.93	nan	

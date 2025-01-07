@@ -1,0 +1,320 @@
+# South Iceland Rise, subpolar North Atlantic, marine sediment Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-RAPiD-12-1K.Thornalley.2009-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-RAPiD-12-1K.Thornalley.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/thornalley2009/thornalley2009.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: South Iceland Rise, subpolar North Atlantic, marine sediment Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Thornalley, D.J.R; Elderfield, H.; McCave, N
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Thornalley, David J. R.;Elderfield, Harry;McCave, I. Nick
+#     Published_Date_or_Year: 2009
+#     Published_Title: Holocene oscillations in temperature and salinity of the surface subpolar North Atlantic
+#     Journal_Name: Nature
+#     Volume: 457
+#     Edition: 
+#     Issue: 7230
+#     Pages: 711-714
+#     Report: 
+#     DOI: 10.1038/nature07717
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: RAPiD-12-1K, South Iceland Rise, northeast North Atlantic
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 62.08
+#     Southernmost_Latitude: 62.08
+#     Easternmost_Longitude: -17.82
+#     Westernmost_Longitude: -17.82
+#     Elevation: -1938
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -9918.5
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from foram G. bulloides; are are in units of mmol/mol, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 5 6 7, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally MJJ; climateInterpretation_seasonality changed - was originally 5/6/2007; climateInterpretation_seasonality changed - was originally 5 6 2007; BAR2005: Mg/Ca=0.794*exp(0.10*SST); (Barker et al.; (2005); in combination with Thornalley et al.; (2009); error ±1.3°C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature    depth	
+1950.0	2.385	10.9967748901546	0.0	
+1887.5	2.404	11.0781809954496	2.0	
+1825.0	2.224	10.2994701435493	4.0	
+1762.5	2.311	10.6820853167662	6.0	
+1700.0	2.154	9.98007804831728	8.0	
+1637.5	2.485	11.4094447728359	10.0	
+1575.0	2.277	10.536052694826	12.0	
+1512.5	2.195	10.1667480508671	14.0	
+1450.0	2.407	11.091248023695	16.0	
+1387.5	2.527	11.5755755441743	18.0	
+1325.0	nan	nan	20.0	
+1251.78125	2.37	10.9372049613907	22.0	
+1178.5625	2.321	10.7269801342427	24.0	
+1105.34375	2.442	11.2361023966579	26.0	
+1032.125	2.34	10.806412628664	28.0	
+958.90625	2.262	10.4703522045656	30.0	
+885.6875	2.373	10.9470495277726	32.0	
+812.46875	2.367	10.9218408752939	34.0	
+739.25	2.369	10.9317869417381	36.0	
+666.03125	2.317	10.7093188116484	38.0	
+592.8125	2.345	10.8297288715734	40.0	
+519.59375	2.044	9.45643995477784	42.0	
+446.375	2.368	10.9286226113655	44.0	
+373.15625	2.244	10.3876210461311	46.0	
+299.9375	2.333	10.778129133786	48.0	
+226.71875	2.185	10.1235717496299	50.0	
+153.5	2.355	10.8729979888726	52.0	
+93.2777777777778	2.256	10.440974714232	54.0	
+33.0555555555557	2.266	10.4869176720437	56.0	
+-27.1666666666667	nan	nan	58.0	
+-87.3888888888887	2.098	9.71597962813959	60.0	
+-147.611111111111	nan	nan	62.0	
+-207.833333333333	2.467	11.3384099843337	64.0	
+-268.055555555556	2.187	10.1335436057695	66.0	
+-328.277777777778	1.955	9.0094069175358	68.0	
+-388.5	2.29	10.5928184283078	70.0	
+-448.722222222222	2.294	10.6112100974215	72.0	
+-508.944444444445	1.941	8.94102673463862	74.0	
+-569.166666666667	2.483	11.402758811252	76.0	
+-629.388888888889	2.368	10.9265733622587	78.0	
+-689.611111111111	2.12	9.82051383348586	80.0	
+-749.833333333333	2.259	10.4577751420027	82.0	
+-810.055555555556	2.278	10.5377803771734	84.0	
+-870.277777777778	2.013	9.30507709884546	86.0	
+-930.5	2.325	10.7442516609218	88.0	
+-1047.21428571429	2.251	10.4209085866828	90.0	
+-1163.92857142857	2.087	9.66212472007554	92.0	
+-1280.64285714286	2.298	10.6290295743537	94.0	
+-1397.35714285714	2.281	10.5537058415257	96.0	
+-1514.07142857143	1.889	8.66941819746226	98.0	
+-1630.78571428571	2.232	10.3347562834812	100.0	
+-1747.5	2.064	9.55502534625267	102.0	
+-1864.21428571429	2.561	11.7091337805003	104.0	
+-1980.92857142857	2.154	9.9790805939661	106.0	
+-2097.64285714286	2.35	10.8504883586777	108.0	
+-2214.35714285714	2.156	9.98948935123731	110.0	
+-2331.07142857143	2.209	10.2322470912254	112.0	
+-2447.78571428571	2.042	9.44440321139485	114.0	
+-2564.5	2.479	11.3833083028269	116.0	
+-2708.35714285714	nan	nan	118.0	
+-2852.21428571429	2.308	10.6704798409072	120.0	
+-2996.07142857143	nan	nan	122.0	
+-3139.92857142857	2.047	9.46821105323678	124.0	
+-3283.78571428571	2.121	9.82400128934777	126.0	
+-3427.64285714286	2.473	11.359808235589	128.0	
+-3571.5	2.041	9.44263473652968	130.0	
+-3715.35714285714	1.958	9.02682054738806	132.0	
+-3859.21428571429	2.098	9.71467126949393	134.0	
+-4003.07142857143	2.403	11.0759616151223	136.0	
+-4146.92857142857	nan	nan	138.0	
+-4290.78571428571	2.212	10.2460891598509	140.0	
+-4434.64285714286	nan	nan	142.0	
+-4578.5	1.895	8.6995675422733	144.0	
+-4673.65625	2.078	9.62235655030942	146.0	
+-4768.8125	2.295	10.6152277222128	148.0	
+-4863.96875	2.188	10.1364228548523	150.0	
+-4959.125	2.21	10.2349528095659	152.0	
+-5054.28125	2.019	9.33124745151535	154.0	
+-5149.4375	2.508	11.5012398126269	156.0	
+-5244.59375	2.179	10.0973426674439	158.0	
+-5339.75	2.153	9.97536768368397	160.0	
+-5530.0625	2.237	10.3563741741212	164.0	
+-5720.375	2.381	10.9836101520764	168.0	
+-5910.6875	2.107	9.75880600386415	172.0	
+-6101.0	2.085	9.65314668147092	176.0	
+-6142.15	2.215	10.2605913218908	180.0	
+-6183.3	2.336	10.7909307522367	184.0	
+-6224.45	2.385	10.9973711851554	188.0	
+-6265.6	2.097	9.71286268035029	192.0	
+-6306.75	1.99	9.18964735318217	196.0	
+-6347.9	2.461	11.3107040255905	200.0	
+-6389.05	1.989	9.18214270498308	204.0	
+-6430.2	1.998	9.23003117398903	208.0	
+-6471.35	2.419	11.1407302775528	212.0	
+-6512.5	2.183	10.1133019111177	216.0	
+-6577.40476190476	1.996	9.2184293416941	220.0	
+-6642.30952380952	2.233	10.3392832719683	224.0	
+-6707.21428571429	2.134	9.88765344186367	228.0	
+-6772.11904761905	2.302	10.6435458388552	232.0	
+-6837.02380952381	1.98	9.13998811651584	236.0	
+-6901.92857142857	2.165	10.0297844390986	240.0	
+-6966.83333333333	2.135	9.89330371212436	244.0	
+-7031.7380952381	1.881	8.62716725880893	248.0	
+-7096.64285714286	2.185	10.1227360797211	252.0	
+-7161.54761904762	2.293	10.6065837386633	256.0	
+-7226.45238095238	2.234	10.3461914527205	260.0	
+-7291.35714285714	2.077	9.61497777474487	264.0	
+-7356.26190476191	nan	nan	268.0	
+-7421.16666666667	2.207	10.2209250413197	272.0	
+-7486.07142857143	2.085	9.655744800102	276.0	
+-7550.97619047619	2.546	11.6533310596108	280.0	
+-7615.88095238095	2.181	10.1049452586146	284.0	
+-7680.78571428571	2.129	9.86261077871265	288.0	
+-7745.69047619048	2.345	10.8279271544803	292.0	
+-7810.59523809524	2.701	12.2419986911235	296.0	
+-7875.5	2.259	10.4548621970118	300.0	
+-7893.0	nan	nan	304.0	
+-7910.5	2.221	10.2855010604847	308.0	
+-7928.0	nan	nan	312.0	
+-7945.5	2.073	9.59431676998735	316.0	
+-7963.0	nan	nan	320.0	
+-7980.5	2.246	10.3977432544444	324.0	
+-7998.0	nan	nan	328.0	
+-8015.5	2.095	9.7040644905822	332.0	
+-8033.0	nan	nan	336.0	
+-8050.5	2.163	10.0224609131111	340.0	
+-8063.625	nan	nan	343.0	
+-8081.125	2.291	10.5951108180312	347.0	
+-8098.625	nan	nan	351.0	
+-8116.125	2.062	9.54449244324185	355.0	
+-8133.625	nan	nan	359.0	
+-8151.125	2.291	10.5981186776431	363.0	
+-8168.625	nan	nan	367.0	
+-8186.125	nan	nan	371.0	
+-8208.0	nan	nan	376.0	
+-8225.5	2.128	9.85821672844391	380.0	
+-8243.0	nan	nan	384.0	
+-8260.5	nan	nan	388.0	
+-8272.13333333333	nan	nan	392.0	
+-8283.76666666667	2.321	10.7281903995098	396.0	
+-8295.4	nan	nan	400.0	
+-8307.03333333333	nan	nan	404.0	
+-8318.66666666667	nan	nan	408.0	
+-8330.3	2.152	9.96860333324439	412.0	
+-8341.93333333333	nan	nan	416.0	
+-8353.56666666667	nan	nan	420.0	
+-8365.2	nan	nan	424.0	
+-8376.83333333333	2.379	10.9715769456444	428.0	
+-8388.46666666667	nan	nan	432.0	
+-8400.1	nan	nan	436.0	
+-8411.73333333333	nan	nan	440.0	
+-8423.36666666666	2.129	9.86303199836183	444.0	
+-8435.0	nan	nan	448.0	
+-8467.75	2.587	11.8111367576818	452.0	
+-8500.5	nan	nan	456.0	
+-8533.25	2.416	11.1279271618896	460.0	
+-8566.0	nan	nan	464.0	
+-8598.75	2.066	9.562161155093	468.0	
+-8631.5	nan	nan	472.0	
+-8664.25	2.115	9.79591753378374	476.0	
+-8697.0	nan	nan	480.0	
+-8724.21904761905	2.282	10.5556000661527	484.0	
+-8751.4380952381	nan	nan	488.0	
+-8778.65714285714	2.249	10.4127618269027	492.0	
+-8805.87619047619	nan	nan	496.0	
+-8833.09523809524	2.194	10.1645295072344	500.0	
+-8860.31428571429	nan	nan	504.0	
+-8887.53333333333	2.423	11.1554080650813	508.0	
+-8914.75238095238	nan	nan	512.0	
+-8941.97142857143	2.27	10.5060246620251	516.0	
+-8969.19047619048	nan	nan	520.0	
+-8996.40952380952	2.409	11.0977040957965	524.0	
+-9023.62857142857	nan	nan	528.0	
+-9050.84761904762	2.41	11.1037869555017	532.0	
+-9078.06666666667	nan	nan	536.0	
+-9105.28571428571	2.407	11.0920378761743	540.0	
+-9132.50476190476	nan	nan	544.0	
+-9159.72380952381	2.308	10.6716512095092	548.0	
+-9186.94285714286	nan	nan	552.0	
+-9214.1619047619	2.322	10.7314353620977	556.0	
+-9241.38095238095	nan	nan	560.0	
+-9268.6	1.989	9.1809259185252	564.0	
+-9295.81904761905	nan	nan	568.0	
+-9323.03809523809	1.988	9.17837040806505	572.0	
+-9350.25714285714	nan	nan	576.0	
+-9377.47619047619	2.284	10.5664511516636	580.0	
+-9404.69523809524	2.072	9.5933050765519	584.0	
+-9440.75	1.995	9.21261406621314	588.0	
+-9479.75	2.075	9.60404368975171	592.0	
+-9518.75	1.929	8.87758318370355	596.0	
+-9557.75	1.999	9.23073562119237	600.0	
+-9596.75	1.811	8.2466094948045	604.0	
+-9635.75	2.101	9.72910921521403	608.0	
+-9665.0	1.931	8.88584846213923	611.0	
+-9704.0	2.045	9.45970543539391	615.0	
+-9743.0	2.358	10.8853439707881	619.0	
+-9782.0	1.935	8.90723427062696	623.0	
+-9821.0	2.126	9.84691233604164	627.0	
+-9860.0	1.991	9.19218099620598	631.0	
+-9899.0	2.261	10.4647849610065	635.0	
+-9918.5	2.168	10.0455103575514	637.0	

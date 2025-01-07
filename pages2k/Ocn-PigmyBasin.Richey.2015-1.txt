@@ -1,0 +1,227 @@
+# Gulf of Mexico, Pigmy Atlantic marine sediment Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-PigmyBasin.Richey.2015-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-PigmyBasin.Richey.2015.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:410856366157434::::P1_STUDY_ID:5584
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gulf of Mexico, Pigmy Atlantic marine sediment Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Richey J.N; Poore, R.Z; Flower, B.P; Quinn, T.M; Hollander, D.J.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: McGregor, H.V.;Evans, M. N.;Goosse, H.;Leduc, G.;Martrat, B.;Addison, J.A.;Mortyn, P.G.;Oppo, D.W. abd Seidenkrantz, M.S.;Sicre, M.A.;Phipps, S.J.;Selvaraj, K.;Thirumalai, K.;Filipsson, H.L.,Ersek, V.
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/NGEO2510
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: US-NSF
+#     Grant: OCE-0318361
+#------------------
+# Site_Information
+#     Site_Name: Pigmy Basin, Gulf of Mexico box core PBBC-1
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 27.2
+#     Southernmost_Latitude: 27.2
+#     Easternmost_Longitude: -91.42
+#     Westernmost_Longitude: -91.42
+#     Elevation: -2259
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 593.37
+#     Most_Recent_Year: 1900.67
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+nan	40.0	56.0	40.0	nan	15.0	nan	20.0	9.0	Not reported assume(?) it is G. ruber  (400 yr reservoir correction)	CALIB 5.0	17.0	350.0	5.0	
+nan	40.0	248.0	169.0	nan	100.0	nan	105.0	121.0	NA (400 yr reservoir correction)	CALIB 5.0	102.5	535.0	5.0	
+nan	40.0	621.0	584.0	nan	230.0	nan	235.0	546.0	NA (400 yr reservoir correction)	CALIB 5.0	232.5	1000.0	5.0	
+nan	35.0	731.0	704.0	nan	295.0	nan	300.0	665.0	NA (400 yr reservoir correction)	CALIB 5.0	297.5	1160.0	5.0	
+nan	40.0	1038.0	991.0	nan	400.0	nan	405.0	942.0	NA (400 yr reservoir correction)	CALIB 5.0	402.5	1445.0	5.0	
+nan	40.0	1282.0	1239.0	nan	500.0	nan	505.0	1200.0	NA (400 yr reservoir correction)	CALIB 5.0	502.5	1680.0	5.0	
+nan	35.0	1398.0	1362.0	nan	575.0	nan	580.0	1312.0	NA (400 yr reservoir correction)	CALIB 5.0	577.5	1825.0	5.0	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	Mg/Ca on G. ruber (W), ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature    depth	
+1900.67	3.98256061232781	24.25	2.0	
+1888.34	3.99340905558901	24.28	2.5	
+1876.0	3.87565353064119	23.95	3.0	
+1863.67	3.68093630671264	23.38	3.5	
+1851.34	3.83056009545891	23.82	4.0	
+1839.0	3.89183766460433	24.0	4.5	
+1826.67	3.87162317533448	23.94	5.0	
+1814.34	3.86044937106326	23.91	5.5	
+1802.0	3.5827336157924	23.08	6.0	
+1789.67	3.70251339426021	23.44	6.5	
+1777.34	3.77390411742511	23.65	7.0	
+1765.01	3.77686700316161	23.66	7.5	
+1752.67	4.01967859019696	24.35	8.0	
+1740.34	3.49793780024069	22.81	8.5	
+1728.01	3.77674122709609	23.66	9.0	
+1715.67	3.841	23.85	9.5	
+1703.34	3.30973075866413	22.2	10.0	
+1691.01	3.53323680403019	22.92	10.5	
+1678.67	3.56336731978295	23.02	11.0	
+1654.01	3.78241915736815	23.68	12.0	
+1641.68	3.68500159131385	23.39	12.5	
+1629.34	3.37051571280867	22.4	13.0	
+1604.68	3.99833848868828	24.3	14.0	
+1592.34	3.67542517187229	23.36	14.5	
+1580.01	3.79444534064298	23.71	15.0	
+1567.68	4.13275895896587	24.66	15.5	
+1555.34	3.78854824385731	23.7	16.0	
+1543.01	4.01450940848732	24.34	16.5	
+1530.68	3.73280811274442	23.53	17.0	
+1518.35	3.73735287088086	23.55	17.5	
+1506.01	3.73918780095518	23.55	18.0	
+1493.68	3.46580979171505	22.71	18.5	
+1481.35	3.93337722355382	24.11	19.0	
+1469.01	4.3348724144743	25.19	19.5	
+1456.68	3.9206856864392	24.08	20.0	
+1444.35	4.20760203594216	24.86	20.5	
+1407.35	3.5753786168416	23.05	22.0	
+1382.68	4.09760161247372	24.57	23.0	
+1370.35	3.87752486639258	23.95	23.5	
+1358.02	4.07507633611365	24.51	24.0	
+1345.68	4.01859003803541	24.35	24.5	
+1333.35	3.90948530246313	24.05	25.0	
+1321.02	4.0420524394695	24.42	25.5	
+1308.68	3.7966044121728	23.72	26.0	
+1296.35	3.83041630906619	23.82	26.5	
+1284.02	3.65248262542002	23.29	27.0	
+1271.69	3.63090420262448	23.22	27.5	
+1259.35	3.6682794740933	23.34	28.0	
+1247.02	3.88046029611108	23.96	28.5	
+1222.35	3.86291589757658	23.91	29.5	
+1210.02	3.8776079935764	23.96	30.0	
+1197.69	4.11561400139509	24.62	30.5	
+1185.35	3.8252921308915	23.8	31.0	
+1173.02	3.62584103925528	23.21	31.5	
+1160.69	3.85433799142722	23.89	32.0	
+1148.36	3.93274765462331	24.11	32.5	
+1136.02	4.03371830260426	24.39	33.0	
+1123.69	4.25869486190908	25.0	33.5	
+1111.36	3.63077267568088	23.22	34.0	
+1099.02	3.86104348462968	23.91	34.5	
+1086.69	3.43295392695775	22.6	35.0	
+1074.36	3.77834468666589	23.67	35.5	
+1062.02	3.47620758317333	22.74	36.0	
+1049.69	4.06100551370498	24.47	36.5	
+1037.36	4.19039699481404	24.82	37.0	
+1025.03	4.05345137909969	24.45	37.5	
+1012.69	3.38022907667571	22.43	38.0	
+1000.36	4.03937697861673	24.41	38.5	
+988.03	4.976844580355	26.73	39.0	
+975.69	4.26505577851245	25.01	39.5	
+963.36	4.18842307029851	24.81	40.0	
+951.03	4.91930504116399	26.6	40.5	
+938.69	3.9568381625048	24.18	41.0	
+926.36	3.97743881120619	24.24	41.5	
+914.03	4.70571986167626	26.11	42.0	
+901.7	5.06151255694459	26.92	42.5	
+889.36	4.68351650043337	26.05	43.0	
+877.03	4.58455610007161	25.82	43.5	
+864.7	4.34337466780759	25.22	44.0	
+852.36	4.10744929944144	24.59	44.5	
+840.03	3.90326301348791	24.03	45.0	
+827.7	3.92783672990143	24.1	45.5	
+815.36	4.03866528754864	24.41	46.0	
+790.7	4.20020628896236	24.84	47.0	
+778.37	4.16754929960468	24.76	47.5	
+766.03	4.17835843934009	24.79	48.0	
+753.7	4.84662947346425	26.43	48.5	
+741.37	4.63303898251377	25.93	49.0	
+729.03	3.84101423203082	23.85	49.5	
+716.7	3.9071427500012	24.04	50.0	
+704.37	4.57562756097733	25.79	50.5	
+692.03	4.58072711374542	25.81	51.0	
+679.7	4.70794930418838	26.11	51.5	
+667.37	4.89073441623807	26.53	52.0	
+655.04	4.61794278055152	25.9	52.5	
+642.7	4.83316065904092	26.4	53.0	
+630.37	4.80586976480908	26.34	53.5	
+618.04	4.78725893274574	26.3	54.0	
+605.7	4.57167310728255	25.78	54.5	
+593.37	4.85106853720207	26.44	55.0	

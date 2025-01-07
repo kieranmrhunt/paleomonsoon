@@ -1,0 +1,211 @@
+# Paquette.Lac_Noir.2013
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-LacNoir.Paquette.2013.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-LacNoir.Paquette.2013.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/18735
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Paquette.Lac_Noir.2013
+#------------------
+# Investigators
+#     Investigators: Paquette, Nathalie;Gajewski, Konrad
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Paquette, Nathalie;Gajewski, Konrad
+#     Published_Date_or_Year: 2013
+#     Published_Title: Climatic change causes abrupt changes in forest composition, inferred from a high-resolution pollen record, southwestern Quebec, Canada
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 75
+#     Edition: 
+#     Issue: 
+#     Pages: 169-180
+#     Report: 
+#     DOI: 10.1016/j.quascirev.2013.06.007
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Lac Noir
+#     Location: 
+#     Country: Canada
+#     Northernmost_Latitude: 45.8
+#     Southernmost_Latitude: 45.8
+#     Easternmost_Longitude: -75.1
+#     Westernmost_Longitude: -75.1
+#     Elevation: 176
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -56.7
+#     Most_Recent_Year: 943.0
+#     Time_Unit: BP
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	Mean temperature of JJA, ,,degC, 6 7 8 9, lake sediment, ,,, ; climateInterpretation_seasonality changed - was originally June-August;  
+##age	Years before present (1950) BP, ,,BP, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    age	
+2006.7	17.77	-56.7	
+2004.4	18.41	-54.4	
+2002.1	18.33	-52.1	
+1999.8	17.56	-49.8	
+1997.5	17.1	-47.5	
+1995.2	17.78	-45.2	
+1992.9	17.71	-42.9	
+1990.6	17.09	-40.6	
+1988.3	17.71	-38.3	
+1987.0	17.04	-37.0	
+1977.0	17.56	-27.0	
+1967.0	17.71	-17.0	
+1957.0	17.86	-7.0	
+1947.0	17.32	3.0	
+1937.0	17.59	13.0	
+1927.0	17.66	23.0	
+1917.0	17.68	33.0	
+1907.0	18.22	43.0	
+1897.0	18.02	53.0	
+1887.0	17.83	63.0	
+1877.0	17.99	73.0	
+1867.0	17.6	83.0	
+1857.0	17.54	93.0	
+1847.0	17.83	103.0	
+1837.0	17.19	113.0	
+1827.0	17.71	123.0	
+1817.0	17.54	133.0	
+1807.0	17.01	143.0	
+1797.0	17.56	153.0	
+1787.0	16.96	163.0	
+1777.0	17.47	173.0	
+1767.0	17.44	183.0	
+1757.0	16.71	193.0	
+1747.0	17.24	203.0	
+1737.0	17.0	213.0	
+1727.0	17.29	223.0	
+1717.0	17.0	233.0	
+1707.0	16.9	243.0	
+1697.0	17.18	253.0	
+1687.0	17.67	263.0	
+1677.0	17.29	273.0	
+1667.0	17.26	283.0	
+1657.0	17.27	293.0	
+1647.0	17.51	303.0	
+1637.0	17.28	313.0	
+1627.0	17.78	323.0	
+1617.0	17.8	333.0	
+1607.0	16.96	343.0	
+1597.0	16.97	353.0	
+1587.0	17.43	363.0	
+1577.0	17.44	373.0	
+1567.0	17.23	383.0	
+1557.0	16.98	393.0	
+1547.0	17.34	403.0	
+1537.0	17.71	413.0	
+1527.0	18.33	423.0	
+1517.0	17.39	433.0	
+1507.0	17.59	443.0	
+1497.0	17.39	453.0	
+1487.0	17.76	463.0	
+1477.0	17.0	473.0	
+1467.0	18.1	483.0	
+1457.0	17.63	493.0	
+1447.0	17.48	503.0	
+1437.0	17.0	513.0	
+1427.0	17.0	523.0	
+1417.0	17.13	533.0	
+1407.0	17.13	543.0	
+1397.0	17.27	553.0	
+1387.0	17.52	563.0	
+1377.0	17.29	573.0	
+1367.0	17.76	583.0	
+1357.0	18.2	593.0	
+1347.0	17.41	603.0	
+1337.0	18.06	613.0	
+1327.0	17.13	623.0	
+1317.0	17.0	633.0	
+1307.0	17.0	643.0	
+1297.0	17.0	653.0	
+1287.0	17.39	663.0	
+1277.0	18.56	673.0	
+1267.0	17.69	683.0	
+1257.0	17.86	693.0	
+1247.0	17.69	703.0	
+1237.0	18.57	713.0	
+1227.0	17.68	723.0	
+1217.0	17.0	733.0	
+1207.0	18.06	743.0	
+1197.0	18.06	753.0	
+1187.0	17.34	763.0	
+1177.0	16.97	773.0	
+1167.0	17.12	783.0	
+1157.0	17.7	793.0	
+1147.0	17.29	803.0	
+1137.0	17.39	813.0	
+1127.0	18.06	823.0	
+1117.0	18.1	833.0	
+1107.0	17.67	843.0	
+1097.0	18.06	853.0	
+1087.0	17.39	863.0	
+1077.0	18.72	873.0	
+1067.0	17.28	883.0	
+1057.0	17.99	893.0	
+1047.0	18.38	903.0	
+1037.0	18.58	913.0	
+1027.0	18.1	923.0	
+1017.0	18.57	933.0	
+1007.0	17.76	943.0	

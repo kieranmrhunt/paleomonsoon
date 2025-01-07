@@ -1,0 +1,131 @@
+Name of famine (if any),Area Affected,Start Year,End Year,1-nmi,2-nwi,3-nci,4-nei,5-wpi,6-epi,7-spi,aismr
+,Bangalore (to possible Coromandel Coast),1509,1509,0,0,0,0,0,0,1,0
+,Deccan to South India,1520,1520,0,0,0,0,1,1,1,1
+,Malabar Coast,1521,1521,0,0,0,0,0,0,1,0
+,Gujarat; Multan,1525,1526,0,1,0,0,0,0,0,0
+,Ahmednagar,1528,1528,0,0,0,0,1,0,0,0
+,Kashmir,1534,1534,1,0,0,0,0,0,0,0
+,Cambay,1539,1540,0,1,0,0,0,0,0,0
+,Sindh,1540,1542,0,1,0,0,0,0,0,0
+,Parava,1544,1544,0,0,0,0,0,0,1,0
+,Kollam,1549,1551,0,0,0,0,0,0,1,0
+,Punjab,1549,1551,1,1,0,0,0,0,0,1
+,Delhi,1555,1556,0,1,0,0,0,0,0,0
+,Cochin,1557,1557,0,0,0,0,0,0,1,0
+,Goa,1564,1564,0,0,0,0,1,0,1,1
+,Cambay,1569,1571,0,1,0,0,0,0,0,0
+,Fishery Coast; Tamil Nadu; Goa,1569,1571,0,0,0,0,0,0,1,0
+,Sirhind,1572,1572,1,1,0,0,0,0,0,1
+,Gujarat; Bengal; Bihar; Scarcity in UP,1574,1575,0,1,1,1,0,0,0,1
+,Kashmir,1576,1576,1,0,0,0,0,0,0,0
+,Kutch; Punjab,1577,1577,1,1,0,0,0,0,0,1
+,Bikaner,1578,1578,0,1,0,0,0,0,0,0
+,Goa,1591,1591,0,0,0,0,1,0,1,1
+,Punjab; Doab,1595,1598,1,1,1,0,0,0,0,1
+,Udaipur Hill Tracts,1613,1613,0,1,0,0,0,0,0,0
+,Doab; Mewar (only 1614; roughly),1614,1616,1,1,0,0,0,0,0,1
+,Kashmir,1616,1617,1,0,0,0,0,0,0,0
+,Southern Mughal Empire; Coromandel,1618,1619,0,0,0,0,0,1,1,1
+,Goa,1619,1619,0,0,0,0,1,1,0,1
+,South East India (since 1620),1620,1622,0,0,0,0,0,1,1,1
+,Fishery Coast,1626,1626,0,0,0,0,0,0,1,0
+,Masulipatam,1628,1628,0,0,0,0,0,1,0,0
+,Deccan,1629,1632,0,0,0,0,1,1,0,1
+,Entire India,1630,1633,1,1,1,1,1,1,1,1
+,Northern India,1635,1635,1,1,1,1,0,0,0,1
+,South-East India,1636,1636,1,1,0,0,0,0,0,1
+,Punjab,1636,1636,1,1,0,0,0,0,0,1
+,Central India; South-East India,1640,1641,0,0,1,0,1,1,1,1
+,Kashmir,1641,1642,1,0,0,0,0,0,0,0
+,East Coast of India,1642,1642,0,0,0,0,0,1,1,1
+,Madurai to Coromandel Coast,1644,1644,0,0,0,0,0,0,1,0
+,Madurai to Coromandel Coast,1646,1649,0,0,0,0,0,0,1,0
+,Punjab,1646,1648,1,1,0,0,0,0,0,1
+,Agra to Ahmedabad,1647,1647,0,1,0,0,0,0,0,0
+,Goa,1649,1649,0,0,0,0,1,0,1,1
+,North-Central India,1650,1651,0,0,1,0,0,0,0,0
+,Kashmir,1651,1651,1,0,0,0,0,0,0,0
+,Northwest to East India,1658,1661,0,1,1,1,0,1,0,1
+,South-East India,1659,1661,0,0,0,0,0,1,1,1
+,Central North India; Mewar,1661,1661,0,1,1,0,0,0,0,1
+,Eastern Bengal,1662,1663,0,0,0,1,0,0,0,0
+,Punjab to Gujarat,1663,1664,1,1,0,0,0,0,0,1
+,South-East India,1663,1664,0,0,0,0,0,1,1,1
+,Jaipur,1665,1665,0,1,0,0,0,0,0,0
+,Bombay,1669,1670,0,0,0,0,1,0,0,0
+,Bihar; Bengal,1670,1671,0,0,1,1,0,0,0,1
+,Deccan (Bombay Karanatak),1671,1673,0,0,0,0,1,1,0,1
+,Madurai to Gingee,1673,1675,0,0,0,0,0,0,1,0
+,Gujarat,1673,1675,0,1,0,0,0,0,0,0
+,Marwar,1678,1678,0,1,0,0,0,0,0,0
+,Madurai,1678,1678,0,0,0,0,0,0,1,0
+,Negapatnam,1681,1681,0,0,0,0,0,0,1,0
+,Marwar,1681,1681,0,1,0,0,0,0,0,0
+,Ahmedabad,1682,1682,0,1,0,0,0,0,0,0
+,Kashmir,1685,1685,1,0,0,0,0,0,0,0
+,Southern India,1685,1686,0,0,0,0,0,0,1,0
+,South-East India; Deccan (only 1687); Golconda (1685-1687),1685,1689,0,0,0,0,1,1,1,1
+,Mandi state; Delhi (possibly),1688,1688,1,1,1,0,0,0,0,1
+,Gujarat,1690,1690,0,1,0,0,0,0,0,0
+,Coromandel Coast,1694,1697,0,0,0,0,0,0,1,0
+,Gujarat to Rajasthan; Marwar to North Gujarat,1694,1697,0,1,0,0,0,0,0,0
+,Satara,1699,1700,0,0,0,0,1,0,0,0
+,Deccan,1702,1704,0,0,0,0,1,1,0,1
+,Thurr and Parker; Sindh,1703,1703,0,1,0,0,0,0,0,0
+,Deccan,1705,1707,0,0,0,0,1,1,0,1
+,Marwar,1705,1705,0,1,0,0,0,0,0,0
+,Southern India,1708,1709,0,0,0,0,0,0,1,0
+,Calcutta; East Coast,1710,1712,0,0,0,1,0,1,0,1
+,Jaipur,1711,1711,0,1,0,0,0,0,0,0
+,Coromandel Coast,1711,1712,0,0,0,0,0,0,1,0
+,Osmanabad (possibly to Nanded),1713,1713,0,0,0,0,1,0,0,0
+,Jaipur,1716,1716,0,1,0,0,0,0,0,0
+,Madras to Madurai,1717,1720,0,0,0,0,0,0,1,0
+,Gujarat,1717,1719,0,1,0,0,0,0,0,0
+,Canavay; Mysore,1721,1723,0,0,0,0,1,0,1,1
+,Kashmir,1723,1724,1,0,0,0,0,0,0,0
+,Gujarat (possibly),1723,1723,0,1,0,0,0,0,0,0
+,Tamil Nadu,1727,1728,0,0,0,0,0,0,1,0
+,South-West India; Coromandel Coast,1729,1729,0,0,0,0,0,0,1,0
+,Ludhiana,1730,1730,1,1,0,0,0,0,0,1
+,Coromandel Coast to Orissa,1731,1731,0,0,0,0,0,1,1,1
+,Gujarat; Kashmir,1731,1732,1,1,0,0,0,0,0,1
+,Madras (extended to South-East India by 1734),1733,1736,0,0,0,0,0,1,1,1
+,East Coast,1737,1738,0,0,0,0,0,1,1,1
+,Malwa to Ahmedabad,1737,1738,0,1,0,0,0,0,0,0
+,Coromandel Coast to Tanjore (since 1737),1737,1738,0,0,0,0,0,0,1,0
+,Bengal,1738,1738,0,0,0,1,0,1,0,1
+,Delhi,1739,1739,0,1,0,0,0,0,0,0
+,Eastern Tamil Nadu,1741,1741,0,0,0,0,0,0,1,0
+,Gujarat,1742,1743,0,1,0,0,0,0,0,0
+,Kashmir; Nara area in Sindh (till 1752),1745,1752,1,1,0,0,0,0,0,1
+,Gujarat; Rajasthan; Osmanabad,1746,1747,0,1,0,0,0,0,0,0
+,Coromandel Coast; Mysore,1746,1747,0,0,0,0,0,0,1,0
+,Bellary,1750,1751,0,0,0,0,1,0,1,1
+,East Gujarat,1751,1751,0,1,0,0,0,0,0,0
+,South-West Sindh,1752,1755,0,1,0,0,0,0,0,0
+,Rohtak (in Haryana),1753,1754,1,1,0,0,0,0,0,1
+,Kashmir,1754,1755,1,0,0,0,0,0,0,0
+,South-East Tamil Nadu (till 1756),1755,1756,0,0,0,0,0,0,1,0
+,Adoni,1756,1756,0,0,0,0,0,1,0,0
+,Gujarat; Marwar,1756,1756,0,1,0,0,0,0,0,0
+,Kutch to Sindh,1757,1760,0,1,0,0,0,0,0,0
+,Punjab,1758,1761,1,1,0,0,0,0,0,1
+,East Tamil Nadu (till 1760),1759,1760,0,0,0,0,0,0,1,0
+,Bengal,1761,1761,0,0,1,1,0,0,0,1
+,Mewat; parts of Rajasthan,1761,1761,0,1,0,0,0,0,0,0
+,Multan,1762,1762,0,1,0,0,0,0,0,0
+,Mewar; Rajasthan,1763,1763,0,1,0,0,0,0,0,0
+,Kashmir,1765,1765,1,0,0,0,0,0,0,0
+Great Bengal Famine,Bihar; Western Bengal,1769,1770,0,0,1,1,0,0,0,1
+Chalisa famine,Delhi; Western Oudh; Eastern Punjab region; Rajputana; and Kashmir,1783,1784,1,1,0,0,0,0,0,1
+Doji bara famine or Skull famine,Madras Presidency; Hyderabad; Southern Maratha country; Deccan; Gujarat; and Marwar,1791,1792,0,1,0,0,1,1,1,1
+Agra famine of 1837–1838,Central Doab and trans-Jumna districts of the North-Western Provinces (later Agra Province); including Delhi and Hissar,1837,1838,0,1,0,0,0,0,0,0
+Upper Doab famine of 1860–1861,Upper Doab of Agra; Delhi and Hissar divisions of the Punjab; Eastern Rajputana,1860,1861,0,1,0,0,0,0,0,0
+Orissa famine of 1866,Orissa (also 1867) and Bihar; Bellary and Ganjam districts of Madras,1865,1867,0,0,1,0,1,1,1,1
+Rajputana famine of 1869,Ajmer; Western Agra; Eastern Punjab; Rajputana,1868,1870,0,1,0,0,0,0,0,0
+Bihar famine of 1873–1874,Bihar,1873,1874,0,0,1,0,0,0,0,0
+Great Famine of 1876–1878 (also Southern India famine of 1876–1878),Madras and Bombay; Mysore and Hyderabad,1876,1878,0,0,0,0,1,0,1,1
+Indian famine of 1896–1897,Madras; Bombay Deccan; Bengal; United Provinces; Central Provinces. Also parts of Punjab specially Bagar tract. Northern and eastern Rajputana; parts of Central India and Hyderabad,1896,1897,0,1,1,1,1,0,1,1
+Indian famine of 1899–1900,Bombay; Central Provinces; Berar; Ajmer. Also parts of Punjab specially Bagar tract; Hyderabad; Rajputana; Central India; Baroda; Kathiawar; Cutch;,1899,1900,0,1,1,0,1,0,0,1
+Bengal famine of 1943,Bengal,1943,1944,0,0,1,1,0,0,0,1

@@ -1,0 +1,407 @@
+# Luckman.Ymir.2005
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-Ymir.Wilson.2005-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-Ymir.Wilson.2005.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/5529
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: tree
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Luckman.Ymir.2005
+#------------------
+# Investigators
+#     Investigators: Luckman, B. H.;Wilson, R. J. S.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Truncate early portion with low sample depth, pass
+#------------------
+# Publication
+#     Authors: Luckman, B. H.;Wilson, R. J. S.
+#     Published_Date_or_Year: 2005
+#     Published_Title: Summer temperatures in the Canadian Rockies during the last millennium: a revised record
+#     Journal_Name: Clim Dyn
+#     Volume: 24
+#     Edition: 
+#     Issue: 2-3
+#     Pages: 131-144
+#     Report: 
+#     DOI: 10.1007/s00382-004-0511-0
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Ymir
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 49.4
+#     Southernmost_Latitude: 49.4
+#     Easternmost_Longitude: -117.2
+#     Westernmost_Longitude: -117.2
+#     Elevation: 1980
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1693.0
+#     Most_Recent_Year: 1997.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: PCEN
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , tree, ,,N,   
+##trsgi	,,,NA, summer, tree, ,,,  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           trsgi	
+1693.0	1.101	
+1694.0	0.659	
+1695.0	0.792	
+1696.0	0.877	
+1697.0	0.976	
+1698.0	1.031	
+1699.0	0.752	
+1700.0	0.781	
+1701.0	0.629	
+1702.0	0.648	
+1703.0	0.757	
+1704.0	0.499	
+1705.0	0.886	
+1706.0	1.139	
+1707.0	1.241	
+1708.0	1.235	
+1709.0	0.99	
+1710.0	1.011	
+1711.0	1.229	
+1712.0	1.287	
+1713.0	1.001	
+1714.0	1.14	
+1715.0	1.077	
+1716.0	1.252	
+1717.0	1.314	
+1718.0	1.006	
+1719.0	0.849	
+1720.0	0.752	
+1721.0	1.086	
+1722.0	1.155	
+1723.0	0.711	
+1724.0	0.961	
+1725.0	0.953	
+1726.0	0.996	
+1727.0	0.978	
+1728.0	1.052	
+1729.0	1.238	
+1730.0	1.262	
+1731.0	1.067	
+1732.0	1.119	
+1733.0	1.091	
+1734.0	1.12	
+1735.0	0.94	
+1736.0	1.014	
+1737.0	0.913	
+1738.0	1.048	
+1739.0	1.294	
+1740.0	0.607	
+1741.0	0.979	
+1742.0	0.9	
+1743.0	0.944	
+1744.0	0.998	
+1745.0	1.231	
+1746.0	0.658	
+1747.0	0.875	
+1748.0	0.926	
+1749.0	0.707	
+1750.0	0.858	
+1751.0	1.125	
+1752.0	0.695	
+1753.0	0.885	
+1754.0	0.842	
+1755.0	0.564	
+1756.0	1.001	
+1757.0	0.908	
+1758.0	0.595	
+1759.0	0.576	
+1760.0	0.752	
+1761.0	0.877	
+1762.0	0.664	
+1763.0	0.847	
+1764.0	0.617	
+1765.0	0.8	
+1766.0	0.561	
+1767.0	0.784	
+1768.0	0.772	
+1769.0	0.724	
+1770.0	0.822	
+1771.0	0.826	
+1772.0	0.705	
+1773.0	0.881	
+1774.0	0.717	
+1775.0	0.342	
+1776.0	0.686	
+1777.0	0.553	
+1778.0	0.615	
+1779.0	0.49	
+1780.0	0.395	
+1781.0	0.818	
+1782.0	0.42	
+1783.0	0.812	
+1784.0	0.401	
+1785.0	0.561	
+1786.0	0.63	
+1787.0	0.373	
+1788.0	0.716	
+1789.0	0.311	
+1790.0	0.976	
+1791.0	0.645	
+1792.0	0.799	
+1793.0	0.581	
+1794.0	1.103	
+1795.0	0.864	
+1796.0	0.938	
+1797.0	0.709	
+1798.0	0.829	
+1799.0	0.589	
+1800.0	0.852	
+1801.0	0.798	
+1802.0	0.882	
+1803.0	1.146	
+1804.0	1.351	
+1805.0	1.099	
+1806.0	1.004	
+1807.0	1.344	
+1808.0	1.182	
+1809.0	0.941	
+1810.0	0.748	
+1811.0	0.954	
+1812.0	0.985	
+1813.0	0.71	
+1814.0	0.669	
+1815.0	0.615	
+1816.0	1.012	
+1817.0	1.154	
+1818.0	0.978	
+1819.0	0.727	
+1820.0	0.572	
+1821.0	0.8	
+1822.0	0.755	
+1823.0	0.625	
+1824.0	0.502	
+1825.0	0.86	
+1826.0	0.664	
+1827.0	0.98	
+1828.0	1.066	
+1829.0	0.92	
+1830.0	0.809	
+1831.0	0.985	
+1832.0	0.466	
+1833.0	0.799	
+1834.0	1.259	
+1835.0	0.871	
+1836.0	0.563	
+1837.0	0.734	
+1838.0	0.713	
+1839.0	1.085	
+1840.0	0.816	
+1841.0	0.915	
+1842.0	0.921	
+1843.0	1.1	
+1844.0	0.819	
+1845.0	0.992	
+1846.0	1.136	
+1847.0	1.206	
+1848.0	1.259	
+1849.0	0.741	
+1850.0	0.726	
+1851.0	0.826	
+1852.0	0.931	
+1853.0	0.876	
+1854.0	0.678	
+1855.0	0.856	
+1856.0	0.648	
+1857.0	0.768	
+1858.0	0.784	
+1859.0	1.141	
+1860.0	0.955	
+1861.0	0.954	
+1862.0	1.062	
+1863.0	1.236	
+1864.0	0.817	
+1865.0	1.017	
+1866.0	0.727	
+1867.0	0.6	
+1868.0	0.715	
+1869.0	0.443	
+1870.0	0.448	
+1871.0	0.816	
+1872.0	0.843	
+1873.0	0.939	
+1874.0	0.907	
+1875.0	0.75	
+1876.0	0.532	
+1877.0	0.641	
+1878.0	1.03	
+1879.0	0.661	
+1880.0	0.927	
+1881.0	0.985	
+1882.0	1.202	
+1883.0	0.896	
+1884.0	0.739	
+1885.0	1.121	
+1886.0	1.193	
+1887.0	0.892	
+1888.0	1.079	
+1889.0	0.943	
+1890.0	1.006	
+1891.0	1.045	
+1892.0	1.025	
+1893.0	0.855	
+1894.0	1.021	
+1895.0	1.095	
+1896.0	1.134	
+1897.0	1.099	
+1898.0	1.076	
+1899.0	0.796	
+1900.0	1.137	
+1901.0	1.069	
+1902.0	1.039	
+1903.0	1.194	
+1904.0	1.467	
+1905.0	1.017	
+1906.0	0.862	
+1907.0	0.832	
+1908.0	1.172	
+1909.0	1.015	
+1910.0	1.111	
+1911.0	1.122	
+1912.0	1.177	
+1913.0	1.19	
+1914.0	1.107	
+1915.0	0.622	
+1916.0	0.834	
+1917.0	1.136	
+1918.0	1.205	
+1919.0	1.054	
+1920.0	1.098	
+1921.0	0.871	
+1922.0	0.981	
+1923.0	0.627	
+1924.0	0.63	
+1925.0	0.815	
+1926.0	0.587	
+1927.0	0.752	
+1928.0	0.831	
+1929.0	0.723	
+1930.0	0.629	
+1931.0	0.774	
+1932.0	0.966	
+1933.0	1.267	
+1934.0	1.248	
+1935.0	0.905	
+1936.0	1.203	
+1937.0	0.982	
+1938.0	1.471	
+1939.0	0.918	
+1940.0	1.216	
+1941.0	1.137	
+1942.0	0.921	
+1943.0	1.073	
+1944.0	1.401	
+1945.0	1.423	
+1946.0	1.137	
+1947.0	1.214	
+1948.0	1.375	
+1949.0	1.393	
+1950.0	1.624	
+1951.0	1.375	
+1952.0	1.304	
+1953.0	1.175	
+1954.0	1.271	
+1955.0	1.272	
+1956.0	1.181	
+1957.0	1.185	
+1958.0	1.422	
+1959.0	1.009	
+1960.0	1.266	
+1961.0	1.175	
+1962.0	1.095	
+1963.0	1.465	
+1964.0	1.176	
+1965.0	1.812	
+1966.0	1.627	
+1967.0	1.633	
+1968.0	0.746	
+1969.0	1.203	
+1970.0	1.413	
+1971.0	1.031	
+1972.0	0.846	
+1973.0	1.241	
+1974.0	1.095	
+1975.0	1.121	
+1976.0	0.932	
+1977.0	1.214	
+1978.0	1.073	
+1979.0	1.268	
+1980.0	0.909	
+1981.0	0.871	
+1982.0	0.927	
+1983.0	0.929	
+1984.0	1.263	
+1985.0	1.069	
+1986.0	1.026	
+1987.0	1.329	
+1988.0	1.317	
+1989.0	1.302	
+1990.0	1.367	
+1991.0	0.746	
+1992.0	1.24	
+1993.0	0.76	
+1994.0	1.23	
+1995.0	0.645	
+1996.0	0.745	
+1997.0	0.714	

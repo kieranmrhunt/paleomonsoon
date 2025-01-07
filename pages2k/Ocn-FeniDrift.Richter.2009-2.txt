@@ -1,0 +1,229 @@
+# ENAM9606,M200309_North Atlantic_marine sediment Mg/Ca SST based om Globigerina bulloides
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-FeniDrift.Richter.2009-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-FeniDrift.Richter.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: ENAM9606,M200309_North Atlantic_marine sediment Mg/Ca SST based om Globigerina bulloides
+#------------------
+# Investigators
+#     Investigators: Richter, T.O.; Peeters, F.J.C.; van Weering, T.C.E.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Richter, T.O.;Peeters, F.J.C.;van Weering, T.C.E.
+#     Published_Date_or_Year: 2009
+#     Published_Title: Late Holocene (0–2.4kaBP) surface water temperature and salinity variability, Feni Drift, NE Atlantic Ocean
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 28
+#     Edition: 
+#     Issue: 19-20
+#     Pages: 1941-1955
+#     Report: 
+#     DOI: 10.1016/j.quascirev.2009.04.008
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Feni Drift
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 55.5
+#     Southernmost_Latitude: 55.5
+#     Easternmost_Longitude: -13.9
+#     Westernmost_Longitude: -13.9
+#     Elevation: -2543
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -368.0
+#     Most_Recent_Year: 1998.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##notes	original composite dataset from Richter et al. (2009) - PLEASE USE QC DATA FOR ANALYSIS!!!!, ,,,, marine sediment, ,,C,   
+##temperature	Mg/Ca SST, Globigerina bulloides, ,degC, 4 5 6 7, marine sediment, ,Converted into calcification temperatures with the species-specific equation of Anand et al. (2003) based on data from Elderfield and Ganssen (2000)  (ANA2003), N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally AMJJ; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+##depth_bottom	depth, ,,cm, , marine sediment, bottom of sample, ,N,  ; paleoData_variableName changed - was originally depthLower_cm; paleoData_variableName changed - was originally depth_bottom; paleoData_variableName changed - was originally depth_bottom;  
+##depth_top	depth, ,,cm, , marine sediment, top of sample, ,N,  ; paleoData_variableName changed - was originally depthUpper_cm; paleoData_variableName changed - was originally depth_top; paleoData_variableName changed - was originally depth_top;  
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from foram G. bulloides; and are in units of mmol/mol, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           notes          temperature    depth_bottom   depth_top      Mg_Ca	
+1998.0	M200309	12.94	0.5	0.5	2.31	
+1987.0	M200309	10.99	1.5	1.5	1.973	
+1975.0	M200309	10.53	2.5	2.5	1.901	
+1962.0	M200309	10.44	3.5	3.5	1.887	
+1949.0	M200309	11.39	4.5	4.5	2.038	
+1936.0	M200309	13.38	5.5	5.5	2.394	
+1924.0	M200309	10.1	6.5	6.5	1.836	
+1911.0	M200309	13.34	7.5	7.5	2.387	
+1898.0	M200309	13.44	8.5	8.5	2.406	
+1885.0	M200309	12.4	9.5	9.5	2.211	
+1871.0	M200309	12.85	10.5	10.5	2.294	
+1835.0	M200309	13.15	11.5	11.5	2.349	
+1799.0	M200309	14.62	12.5	12.5	2.647	
+1763.0	M200309	14.14	13.5	13.5	2.547	
+1727.0	M200309	12.99	14.5	14.5	2.32	
+1691.0	M200309	14.71	15.5	15.5	2.666	
+1655.0	M200309	14.46	16.5	16.5	2.612	
+1618.0	M200309	14.23	17.5	17.5	2.564	
+1582.0	M200309	13.78	18.5	18.5	2.472	
+1560.0	ENAM9606	11.61	0.5	0.5	2.075	
+1547.0	ENAM9606	11.95	1.5	1.5	2.132	
+1535.0	ENAM9606	12.66	2.5	2.5	2.258	
+1522.0	ENAM9606	12.96	3.5	3.5	2.313	
+1510.0	ENAM9606	13.19	4.5	4.5	2.359	
+1497.0	ENAM9606	11.35	5.5	5.5	2.032	
+1485.0	ENAM9606	11.37	6.5	6.5	2.035	
+1472.0	ENAM9606	12.36	7.5	7.5	2.204	
+1460.0	ENAM9606	11.7	8.5	8.5	2.09	
+1448.0	ENAM9606	12.19	9.5	9.5	2.174	
+1436.0	ENAM9606	12.92	10.5	10.5	2.307	
+1424.0	ENAM9606	12.67	11.5	11.5	2.26	
+1413.0	ENAM9606	13.45	12.5	12.5	2.408	
+1401.0	ENAM9606	14.19	13.5	13.5	2.556	
+1389.0	ENAM9606	12.1	14.5	14.5	2.158	
+1378.0	ENAM9606	13.25	15.5	15.5	2.37	
+1366.0	ENAM9606	14.07	16.5	16.5	2.532	
+1354.0	ENAM9606	13.34	17.5	17.5	2.386	
+1342.0	ENAM9606	14.56	18.5	18.5	2.635	
+1329.0	ENAM9606	12.5	19.5	19.5	2.229	
+1317.0	ENAM9606	13.05	20.5	20.5	2.331	
+1304.0	ENAM9606	13.69	21.5	21.5	2.456	
+1291.0	ENAM9606	14.49	22.5	22.5	2.62	
+1277.0	ENAM9606	13.28	23.5	23.5	2.375	
+1263.0	ENAM9606	14.45	24.5	24.5	2.612	
+1249.0	ENAM9606	14.34	25.5	25.5	2.587	
+1234.0	ENAM9606	12.83	26.5	26.5	2.29	
+1220.0	ENAM9606	14.56	27.5	27.5	2.635	
+1204.0	ENAM9606	13.91	28.5	28.5	2.498	
+1188.0	ENAM9606	13.18	29.5	29.5	2.356	
+1172.0	ENAM9606	14.0	30.5	30.5	2.518	
+1156.0	ENAM9606	15.06	31.5	31.5	2.744	
+1139.0	ENAM9606	14.47	32.5	32.5	2.615	
+1121.0	ENAM9606	13.59	33.5	33.5	2.435	
+1103.0	ENAM9606	14.35	34.5	34.5	2.589	
+1085.0	ENAM9606	14.17	35.5	35.5	2.553	
+1066.0	ENAM9606	14.04	36.5	36.5	2.525	
+1047.0	ENAM9606	12.84	37.5	37.5	2.292	
+1027.0	ENAM9606	13.26	38.5	38.5	2.371	
+1006.0	ENAM9606	13.58	39.5	39.5	2.433	
+986.0	ENAM9606	14.45	40.5	40.5	2.611	
+964.0	ENAM9606	14.46	41.5	41.5	2.613	
+943.0	ENAM9606	14.24	42.5	42.5	2.566	
+920.0	ENAM9606	12.98	43.5	43.5	2.318	
+897.0	ENAM9606	13.79	44.5	44.5	2.475	
+874.0	ENAM9606	14.2	45.5	45.5	2.559	
+851.0	ENAM9606	14.91	46.5	46.5	2.71	
+827.0	ENAM9606	14.69	47.5	47.5	2.663	
+802.0	ENAM9606	14.24	48.5	48.5	2.568	
+777.0	ENAM9606	14.64	49.5	49.5	2.652	
+751.0	ENAM9606	15.33	50.5	50.5	2.804	
+726.0	ENAM9606	12.68	51.5	51.5	2.263	
+699.0	ENAM9606	13.58	52.5	52.5	2.434	
+672.0	ENAM9606	13.21	53.5	53.5	2.361	
+645.0	ENAM9606	14.19	54.5	54.5	2.556	
+617.0	ENAM9606	13.95	55.5	55.5	2.507	
+589.0	ENAM9606	13.63	56.5	56.5	2.443	
+560.0	ENAM9606	15.03	57.5	57.5	2.737	
+531.0	ENAM9606	14.62	58.5	58.5	2.648	
+501.0	ENAM9606	15.22	59.5	59.5	2.779	
+471.0	ENAM9606	13.62	60.5	60.5	2.44	
+440.0	ENAM9606	13.48	61.5	61.5	2.414	
+409.0	ENAM9606	14.54	62.5	62.5	2.629	
+377.0	ENAM9606	15.13	63.5	63.5	2.758	
+345.0	ENAM9606	13.99	64.5	64.5	2.516	
+312.0	ENAM9606	15.65	65.5	65.5	2.877	
+279.0	ENAM9606	15.66	66.5	66.5	2.881	
+245.0	ENAM9606	14.43	67.5	67.5	2.607	
+212.0	ENAM9606	15.63	68.5	68.5	2.873	
+177.0	ENAM9606	15.46	69.5	69.5	2.833	
+143.0	ENAM9606	13.57	70.5	70.5	2.431	
+108.0	ENAM9606	13.08	71.5	71.5	2.337	
+72.0	ENAM9606	14.98	72.5	72.5	2.726	
+37.0	ENAM9606	14.24	73.5	73.5	2.567	
+1.0	ENAM9606	14.98	74.5	74.5	2.726	
+-36.0	ENAM9606	13.34	75.5	75.5	2.386	
+-72.0	ENAM9606	15.29	76.5	76.5	2.795	
+-109.0	ENAM9606	14.85	77.5	77.5	2.697	
+-145.0	ENAM9606	14.62	78.5	78.5	2.648	
+-182.0	ENAM9606	15.04	79.5	79.5	2.74	
+-219.0	ENAM9606	13.65	80.5	80.5	2.448	
+-256.0	ENAM9606	13.81	81.5	81.5	2.479	
+-294.0	ENAM9606	14.95	82.5	82.5	2.719	
+-331.0	ENAM9606	15.45	83.5	83.5	2.832	
+-368.0	ENAM9606	15.64	84.5	84.5	2.874	

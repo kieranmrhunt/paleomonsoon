@@ -1,0 +1,130 @@
+geo_meanLon,geo_meanLat,archiveType,seasonality,reference,geo_siteName,pub1_dataUrl,paleoData_TSid,resolution
+28.25,71.05,POL,SUM,Allen et al. 2007,Over Gunnarsfjorden,http://www1.ncdc.noaa.gov/pub/data/paleo/paleolimnology/arctic/fennoscandia-v2.xls,OverGunnarsfjorden,49.16004536
+-153.63,62.55,LAK,SUM,Hu et al. 2001,Farewell_Lake,Personal communication,Farewell_Lake,44.748275862068965
+2,52,DOC,ANN,Lamb 1965,Central_England,From Table 2,Central_England,29.487179487179485
+28.25,71.05,POL,WIN,Allen et al. 2007,Over Gunnarsfjorden,http://www1.ncdc.noaa.gov/pub/data/paleo/paleolimnology/arctic/fennoscandia-v2.xls,Over_Gunnarsfjorden,49.16004536
+17.42,78.85,ICE,WIN,Divine et al. 2011,Lomonosovfonna,Personal communication,Lomonosovfonna,1.0
+-53.94,66.74,SEA,SUM,Sha et al. 2012,Holsteinsborg Dyb,Personal Communication (inverted values),Holsteinsborg_Dyb,11.157407407407407
+65.92,24.83,SEA,ANN,Doose-Rolinski et al. 2001,SO90-39KG,http://doi.pangaea.de/10.1594/PANGAEA.61822,SO90_39KG,17.304347826086957
+-66.6,17.88,SEA,WIN,Nyberg et al. 2002,Caribbean Sea,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/nyberg2002/nyberg2002.txt,CaribbeanSea,68.22222222222223
+-77.54,82.47,LAK,SUM,Lamoureux and Bradley 1996,Lake_C2,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/canada/ellesmere/c2-1996.txt,Lake_C2,1.0
+5.18,52.1,DOC,SUM,van Engelen et al. 2001,DeBilt summer,Digitized from Fig. 2,DeBilt_summer,25.004673469387757
+-42.32,75.1,ICE,ANN,Vinther et al. 2006,NorthGRIP,www.iceandclimate.nbi.ku.dk/data/Kaufman_etal_2009_data_29sep2009.pdf,NorthGRIP,1.0
+-18,66.54,SEA,SUM,Butler et al. 2013,Grimsey,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/butler2013/butler2013-chron.txt,Grimsey,1.0
+7.64,66.97,SEA,SUM,Berner et al. 2011,MD95_2011,http://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/DatabaseS1-All-proxy-records.xlsx,MD95_2011,8.633570351079136
+-61.13,77.17,ICE,ANN,Camp Century,Vinther et al. 2009,Data source,CampCentury,22.916666666666668
+126.51,42.21,LAK,ANN,Hong et al. 2009,Hani,Digitized from Fig. 4b,Hani,18.906737704918037
+-16.73,16.83,SEA,ANN,Kuhnert and Mulitza 2011,GeoB 9501-5,http://doi.pangaea.de/10.1594/PANGAEA.773754,GeoB95015,7.921052631578948
+69.17,66.92,TRE,SUM,Briffa et al. 2013,Yamal,http://www.cru.uea.ac.uk/cru/papers/briffa2013qsr/,Yamal,1.0
+5.18,52.1,DOC,WIN,van Engelen et al. 2001,DeBilt winter,Digitized from Fig. 1,DeBilt_winter,25.0
+87.61,51.76,LAK,ANN,Kalugin et al. 2009,Teletskoe_Lake,Personal communication,Teletskoe_Lake,1.0
+-37.32,71.12,ICE,ANN,Vinther et al. 2010,Crete,http://www.iceandclimate.nbi.ku.dk/data/Vinther_etal_2010_data_02feb2010.xls/,Crete,1.0
+-19.30,66.30,SEA,SUM,Sicre et al. 2011,MD99-2275_45,Personal communication,MD99-2275_45,3.2950819672131146
+-50.42,67,LAK,SUM,von Gunten et al. 2012,Braya_So,ftp://ftp.ncdc.noaa.gov/pub/.../braya-so2012.txt?,Braya_So,8.447552447552448
+6.47,45.59,LAK,SUM,Millet et al. 2009,Lake_Anterne,Personal communication,Lake_Anterne,36.903225806451616
+145.00,35.00,OTH,ANN,McCabe-Glynn et al. 2013,Kuroshio Extension,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/northamerica/usa/california/crystal2013.txt,KuroshioExtension,1.0
+-74.01,43.45,POL,SUM,Gajewski 1988,Clear_Pond,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,Clear_Pond,40.0
+20,41,TRE,SUM,Seim et al. 2012,Albania,http://www.nature.com/ngeo/journal/v6/n5/extref/ngeo1797-s2.xlsx,Albania,1.0
+76.45,32.5,TRE,SUM,Ram et al. 2011,Western_Himalaya,Digitized from Fig. 8,Western_Himalaya,4.982626168224299
+15.71,68.78,TRE,SUM,McCarroll et al. 2013,Forfjorddalen,Personal communication,Forfjorddalen,1.0
+25.0,62.0,LAK,ANN,Tiljander et al. 2006,Lake_Korttajarvi,"""Inverted values; ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/europe/finland/korttajarvi2003.txt""",Lake_Korttajarv,1.0
+-69.32,81.21,LAK,SUM,Cook et al. 2009,Lower_Murray_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/canada/ellesmere/lower-murray2008.txt,Lower_Murray_Lake,1.0
+-89.42,46.11,POL,SUM,Gajewski 1988,Hells_Kitchen_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,Hells_Kitchen_Lake,23.877551020408163
+-61.35,66.66,LAK,SUM,Moore et al. 2001,Donard_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/canada/baffin/donard_2001.txt,Donard_Lake,1.0
+-141.00,59.00,TRE,ANN,Wiles et al. 2014,Gulf_of_Alaska,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/gulf_of_alaska/goa2014temperature.txt,Gulf_of_Alaska,1.0
+94.82,80.52,ICE,ANN,Opel et al. 2013,Akademii Nauk,http://doi.pangaea.de/10.1594/PANGAEA.824732,AkademiiNauk,1.0
+-38.5,72.6,ICE,ANN,Grootes and Stuiver 1997,GISP2,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/d18o1yr.txt,GISP2_d18O,1.0
+33.50,67.50,TRE,SUM,McCarroll et al. 2013,Khibiny,Personal communication,Khibiny,1.0
+114.0,35.0,DOC,WIN,Ge et al. 2003,East_China,http://www.ncdc.noaa.gov/paleo/pubs/ge2003/ge2003.html,East_China,30.0
+-13.99,55.65,SEA,ANN,Richter et al. 2009,Feni_Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,Feni_Drift,17.955882352941178
+17.88,39.75,SEA,ANN,Taricco et al. 2009,Gulf_of_Taranto,Personal communication,Gulf_of_Taranto,3.8684210526315788
+88.00,55.00,TRE,SUM,Myglan et al. 2012,Southern Altai,Digitized,SouthernAltai,1.0
+-43.49,65.11,ICE,ANN,Vinther et al. 2010,Dye-3,http://www.iceandclimate.nbi.ku.dk/data/Vinther_etal_2010_data_02feb2010.xls/,Dye_3,1.0
+13.0,66.0,SPE,ANN,Linge et al. 2001,SG95,Personal communication,SG95,23.9722
+98.5,36.5,,TRE,ANN,Liu et al. 2009,Personal communication,Tibet,1.0
+102.33,34.24,LAK,ANN,He et al. 2013,Gahai Lake,Personal communication,Gahai_Lake,5.81424
+122.5,24.8,SEA,ANN,Wu et al. 2012,ODP Hole 1202B,http://doi.pangaea.de/10.1594/PANGAEA.803648,ODP_Hole_1202B,29.70731707317073
+-76.00,80.25,ICE,ANN,Fisher et al. 1995,Agassiz,http://www.iceandclimate.nbi.ku.dk/data/agassiz_gicc05_20y_april2008.xls/,Agassiz,1.0
+65.75,66.83,TRE,SUM,Briffa et al. 2013,Polar_Urals,http://www.cru.uea.ac.uk/cru/papers/briffa2013qsr/,Polar_Urals,1.0
+19.8,68.31,TRE,SUM,Melvin et al. 2013,Tornetrask,http://www.cru.uea.ac.uk/cru/papers/melvin2012holocene/,Tornetrask,1.0
+72,40,TRE,SUM,Esper et al. 2003,Tien_Shan,Digitized from Fig. 2b,Tien_Shan,6.080517766497462
+-67.88,46.28,POL,SUM,Gajewski 1988,Conroy_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,Conroy_Lake,24.4375
+-142.95,60.78,LAK,SUM,Loso 2009,Iceberg_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/alaska/iceberg2008.txt,Iceberg_Lake,1.0152542372881357
+148.15,70.53,TRE,SUM,Solomina and Alverson 2004,Indigirka,Digitized from Fig 2i,Indigirka,26.63648805434783
+-21.37,65.03,LAK,SUM,Geirsdotir et al. 2009,Haukdalsvatn,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/europe/iceland/haukadalsvatn2008.txt,Haukadalsvatn,3.682926829268293
+-91.42,27.2,SEA,ANN,Richey et al. 2007,Pigmy Basin,ftp://rock.geosociety.org/pub/reposit/2007/2007102.pdf,Pigmy_Basin,15.626666666666667
+-19.3,66.3,SEA,SUM,Ran et al. 2011,MD99-2275,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/cunningham2013/readme-cunningham2013.txt,MD99-2275,7.323529411764706
+30.12,64.28,LAK,ANN,Luoto and Helama 2010,Lake_Pieni-Kauro,Personal communication,Lake_Pieni-Kauro,45.76923076923077
+-117.15,52.15,TRE,SUM,Luckman and Wilson 2005,ColumbiaIceField,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/canada/icefields-summer-maxt.txt,ColumbiaIceField,1.0
+8.00,46.00,TRE,SUM,Buntgen et al. 2011,CentralEurope,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/europe/buentgen2011europe.txt,CentralEurope,1.0
+13.93,78.02,LAK,SUM,DAndrea et al. 2012,Kongressvatnet,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/europe/norway/kongressvatnet2012.txt,Kongressvatnet,12.625
+-143.61,61.37,LAK,SUM,Clegg et al. 2010,Moose_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/insecta/chironomidae/northamerica/usa/alaska/moose2010.txt,Moose_Lake,30.974170750000003
+-118.90,36.90,TRE,SUM,Graumlich 1993,SouthernSierraNevada,http://geography.uoregon.edu/GeogR/data/csv/sierra.csv,SouthernSierraNevada,1.0
+-36.4,76.6,ICE,ANN,Fischer et al. 1998,B18,http://doi.pangaea.de/10.1594/PANGAEA.57158,B18,1.0
+96.4,38.1,ICE,ANN,Thompson et al. 2006,Dunde,Personal communication,Dunde,10.0
+-150.46,68.08,LAK,SUM,Bird et al. 2009,Blue_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/alaska/blue2008.txt,Blue_Lake,1.0
+-159.14,60.01,LAK,SUM,Kaufman et al. 2012,Lone Spruce Pond,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/alaska/lonespruce2012.txt,LoneSprucePond,6.957006155688624
+-145.40,66.07,LAK,SUM,Clegg et al. 2011,Screaming Lynx Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/insecta/chironomidae/northamerica/usa/alaska/alaska2011midge-t.txt,Screaming_Lynx_Lake,29.80952380952381
+-10.1,30.85,SEA,ANN,McGregor et al. 2007,GeoB6008-1,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/mcgregor2007/mcgregor2007.txt,GeoB6008_1,9.8
+96.9,36.00,TRE,ANN,Wang et al. 2013,Qamdo,Personal communication,Qamdo,1.0
+109.50,39.50,POL,ANN,Sun et al. 2013,Qigai Nuur,Personal communication,Qigai_Nuur,15.948955555555557
+-71.25,44.25,POL,SUM,Gajewski 1988,Lake_of_the_Clouds,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,Lake_of_the_Clouds,14.626865671641792
+8.0,46.3,TRE,SUM,Buntgen et al. 2006,The_Alps,Personal communication,Alps,1.0
+-3.50,42.90,SPE,ANN,Martin-Chivelet et al. 2011,NorthernSpain,Digitized from Fig 7,NorthernSpain,24.63768116122449
+93.00,70.00,TRE,SUM,Briffa et al. 2008,Avam-Taimyr,http://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/DatabaseS1-All-proxy-records.xlsx,Avam_Taimyr,1.0
+-27.91,57.45,SEA,SUM,Sicre et al. 2011,RAPiD21-3K,http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sicre2011/sicre2011.txt,RAPiD213K,7.32305303
+-80.4,78.4,ICE,ANN,Kinnard et al. 2011,Prince_of_Wales,http://www04.sub.su.se:2335/nature/journal/v479/n7374/extref/nature10581-s2.xls,Prince_of_Wales,1.0
+29.0,63.0,LAK,ANN,Haltia-Hovi et al. 2007,Lake_Lehmilampi,"""Inverted values; ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/europe/finland/lehmilampi2007.txt""",Lake_Lehmilampi,1.0
+0.77,42.64,LAK,WIN,Pla and Catalan 2005,Lake_Redon,Personal communication,Lake_Redon,25.51063829787234
+98.93,48.3,TRE,SUM,D'Arrigo et al. 2001,Sol_Dav,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/ljungqvist2009/ljungqvist2009recons.txt,Sol_Dav,1.0
+-76.4,39.0,SEA,WIN,Cronin et al. 2003,Chesapeake_Bay,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/cronin2000/chesapeake_paleosalinity.txt,Chesapeake_Bay,3.4099716713881025
+130.3,30.2,OTH,ANN,Kitagawa and Matsumoto 1995,Yakushima Island,"""Inverted values; Digitized from Fig. 3""",Yakushima_Island,11.86241237113402
+25.00,69.00,TRE,SUM,Helema et al. 2010,Finnish_Lapland,http://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/DatabaseS1-All-proxy-records.xlsx,Finnish_Lapland,1.0
+6.77,78.92,SEA,SUM,Spielhagen et al. 2011,MSM05/5_712-1,http://doi.pangaea.de/10.1594/PANGAEA.755092,MSM05_5_712_1,36.294117647058826
+-146.2,61.5,LAK,SUM,McKay et al. 2008,Hallet_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/ljungqvist2009/ljungqvist2009recons.txt,Hallet_Lake,9.547619047619047
+-118.33,36.27,TRE,SUM,Lloyd and Graumlich 1997,Boreal Plateau,Personal communication,BorealPlateau,1.0
+93.90,38.85,LAK,ANN,He et al. 2013,Sugan Lake,Personal communication,Sugan_Lake,12.000749504950495
+15.38,67.26,SPE,ANN,Linge et al. 2009,FM3,Personal communication,FM3,32.57837837837838
+-26.7,71.3,ICE,ANN,Vinther et al. 2008,Renland,Personal communication,Renland,1.0
+81.48,35.28,ICE,ANN,Thompson et al. 2006,Guliya,Personal communication,Guliya,10.0
+-118.22,36.37,TRE,SUM,Lloyd and Graumlich 1997,Upper Wright Lakes,Personal communication,UpperWrightLakes,1.0
+141.8,36,SEA,ANN,Isono et al. 2009,North Pacific Gyre,http://science.sciencemag.org/highwire/filestream/594506/field_highwire_adjunct_files/1/Marcott.SM.database.S1.xlsx,North_Pacific_Gyre,24.53061224489796
+5.26,63.76,SEA,ANN,Sejrup et al. 2010,NorwegianSea,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/sejrup2010/sejrup2010.txt,NorwegianSea,7.628787878787879
+11.4,47.05,SPE,ANN,Mangini et al. 2005,Spannagel_Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/europe/austria/spannagel2005.txt,Spannagel_Cave,2.721822541966427
+114,39,TRE,SUM,Salzer et al. 2014,Great Basin,Personal communication,GreatBasin,1.0
+-18.37,64.00,DOC,ANN,Bergthorsson 1969,Iceland,Digitized from Fig. 6,Iceland,33.0
+-66.6,17.88,SEA,SUM,Nyberg et al. 2002,Caribbean_Sea,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/nyberg2002/nyberg2002.txt,Caribbean_Sea,68.22222222222223
+-64.56,10.42,SEA,WIN,Wurtzel et al. 2013,Cariaco Basin,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/wurtzel2013/wurtzel2013-composite.txt,CariacoBasin,1.0
+-108.2,24.27,SEA,ANN,Barron and Bukry 2007,Pescadero_Basin,Personal Communication,Pescadero_Basin,37.03125
+-38.5,72.6,ICE,ANN,Kobashi et al. 2011,GISP2,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/gisp2-temperature2011.xls,GISP2,1.0
+-68.5,69.83,LAK,SUM,Thomas and Briner 2009,Big_Round_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/canada/baffin/big-round2008.txt,Big_Round_Lake,1.0
+-84.56,42.77,POL,SUM,Bernabo 1981,Jones_Lake,Digitized from Fig.9,Jones_Lake,9.569924528301886
+-64.56,10.42,SEA,SUM,Wurtzel et al. 2013,Cariaco Basin,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/wurtzel2013/wurtzel2013-composite.txt,Cariaco_Basin,1.0
+115.56,39.47,SPE,SUM,Tan et al. 2003,ShiHua_Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/china/shihua_tan2003.txt,ShiHua_Cave,1.0
+-17.22,66.33,SEA,SUM,Jiang et al. 2005,North Iceland Shelf,ftp://rock.geosociety.org/pub/reposit/2005/2005010.pdf,North_Iceland_Shelf_SUM,16.664702157142855
+7.28,44.05,TRE,SUM,Bungten et al. 2012,Vallee des Merveilles,NOAA,Vallee_des_Merveilles,1.0
+-17.22,66.33,SEA,WIN,Jiang et al. 2005,North Iceland Shelf,ftp://rock.geosociety.org/pub/reposit/2005/2005010.pdf,North_Iceland_Shelf_WIN,16.66485714285714
+-37.38,72.35,ICE,ANN,Vinther et al. 2010,GRIP,http://www.iceandclimate.nbi.ku.dk/data/Vinther_etal_2010_data_02feb2010.xls/,GRIP,1.0
+119.27,-3.53,SEA,ANN,Oppo et al. 2009,Indo-Pacific_Warm_Pool,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/oppo2009/oppo2009.txt,Indo_Pacific_Warm_Pool,10.0
+-155.00,0.00,OTH,ANN,Thompson et al. 2013,NINO4 region,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/trop/quelccaya/quelccaya2013nino4sst.txt,NINO4_region,10.0
+-8.9,41.1,SEA,ANN,Abrantes et al. 2011,Coast of Porto,Digitized from Fig. 4a,Coast_of_Porto,8.886269565217392
+121.0,32.0,DOC,ANN,Zhang et al. 2008,Yangtze_Delta,Digitized from Fig.3,Yangtze_Delta,12.078694519277109
+-82.5,75.33,ICE,ANN,Fisher et al. 1983,Devon_Island,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/polar/devon/d7273del_5yr.txt,Devon_Ice_Cap,5.0
+-19.53,61.47,SEA,ANN,Moffa-Sanchez et al. 2014,RAPiD-35-25B,Personal communication,RAPiD-35-25B,15.957142857142857
+25,68,TRE,SUM,Esper et al. 2012,Northern Scandinavia,Personal communication,NorthernScandinavia,1.0
+-70.03,44.28,POL,SUM,Gajewski 1988,Basin_Pond,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,Basin_Pond,26.363636363636363
+33.4,109.05,SPE,ANN,Paulsen et al. 2003,Buddha Cave,Personal communication,Buddha_Cave,2.4564681724845996
+6.7,46.8,POL,ANN,Filippi et al. 1999,Lake_Neuchatel,Digitized from figure X,Lake_Neuchatel,37.95045161290322
+76.0,35.0,TRE,ANN,Esper et al. 2002,Karakorum Mountains,Personal communication,Karakorum_Mts,1.0
+13.3,63.1,TRE,SUM,Linderholm and Gunnarson 2005,Jamtland,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/ljungqvist2009/ljungqvist2009recons.txt,Jamtland,1.01696352841391
+-57.63,33.72,SEA,ANN,Keigwin 1996,Bermuda_Rise,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/ljungqvist2009/ljungqvist2009recons.txt,Bermuda_Rise,57.5
+24.00    , 61.00    ,LAK,ANN,Ojala and Alenius 2005,Lake_Nautajarvi,"""Inverted values; ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/europe/finland/nautajarvi2005.txt""",Lake_Nautajarvi,1.0
+-111.4,35.2,TRE,SUM,Salzer and Kipfmueller 2005,Arizona,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/northamerica/usa/colorado-plateau2005.txt,Southern_Colorado_Plateau,1.0
+27.30,68.50,TRE,SUM,McCarroll et al. 2013,Laanila,Personal communication,Laanila,1.0
+-7.34,43.32,LAK,ANN,Martinez-Cortizas et al. 1999,100. Penido_Vello,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/ljungqvist2009/ljungqvist2009recons.txt,Penido_Vello,43.42857142857143
+74.99,36.37,OTH,ANN,Treydte et al. 2009,Karakorum_Mountains,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/isotope/asia/pakistan/karakorum2006iso.txt,Karakorum_Mountains,1.0
+-65.5,67.2,ICE,ANN,Fisher et al. 1998,Penny Ice Cap,http://www04.sub.su.se:2335/nature/journal/v479/n7374/extref/nature10581-s2.xls,PennyIceCap,1.0
+19.7,47.99,POL,ANN,Sumegi et al. 2009,Nadas_Lake,Digitized from Fig.8,Nadas_Lake,18.711311475409836
+119.08,1.4,SEA,ANN,Newton et al. 2011,Indonesian Throughflow,Digitized from Fig. 2,IndonesianThroughflow,6.696321212121212
+25.10,47.20,TRE,SUM,Popa and Kern 2009,EasternCarpathians,http://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/DatabaseS1-All-proxy-records.xlsx,EasternCarpathians,1.0
+-117.15,52.15,OTH,WIN,Edwards et al. 2008,ColombiaIcefield_Win,Personal communication,ColombiaIcefield_Win,10.0

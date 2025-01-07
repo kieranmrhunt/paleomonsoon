@@ -1,0 +1,151 @@
+# Gajewski.Clear_Pond.1988
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-ClearPond.Gajewski.1988.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-ClearPond.Gajewski.1988.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/6221
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gajewski.Clear_Pond.1988
+#------------------
+# Investigators
+#     Investigators: Gajewski, K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Gajewski, K.
+#     Published_Date_or_Year: 1988
+#     Published_Title: Late holocene climate changes in eastern North America estimated from pollen data
+#     Journal_Name: Quaternary Research
+#     Volume: 29
+#     Edition: 
+#     Issue: 3
+#     Pages: 255-262
+#     Report: 
+#     DOI: 10.1016/0033-5894(88)90034-8
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Clear Pond
+#     Location: 
+#     Country: USA
+#     Northernmost_Latitude: 33.8
+#     Southernmost_Latitude: 33.8
+#     Easternmost_Longitude: -79
+#     Westernmost_Longitude: -79
+#     Elevation: 513
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -10.0
+#     Most_Recent_Year: 1898.0
+#     Time_Unit: BP
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	Mean temperature of the warmest month, ,,degC, 7, lake sediment, ,,, ; climateInterpretation_seasonality changed - was originally July;  
+##age	Years before present (1950) BP, ,,BP, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    age	
+1960.0	18.4	-10.0	
+1926.0	18.4	24.0	
+1892.0	19.1	58.0	
+1857.0	18.4	93.0	
+1823.0	18.9	127.0	
+1759.0	18.7	191.0	
+1702.0	18.6	248.0	
+1660.0	19.0	290.0	
+1622.0	18.2	328.0	
+1588.0	18.5	362.0	
+1555.0	18.9	395.0	
+1523.0	19.2	427.0	
+1495.0	18.9	455.0	
+1452.0	18.5	498.0	
+1413.0	18.8	537.0	
+1376.0	19.4	574.0	
+1341.0	19.1	609.0	
+1305.0	18.8	645.0	
+1268.0	18.4	682.0	
+1228.0	18.9	722.0	
+1183.0	18.6	767.0	
+1133.0	18.9	817.0	
+1080.0	18.8	870.0	
+1024.0	19.0	926.0	
+968.0	19.4	982.0	
+922.0	18.5	1028.0	
+875.0	19.3	1075.0	
+826.0	19.5	1124.0	
+779.0	19.8	1171.0	
+736.0	19.2	1214.0	
+698.0	19.0	1252.0	
+662.0	19.5	1288.0	
+628.0	19.8	1322.0	
+594.0	20.1	1356.0	
+560.0	20.8	1390.0	
+523.0	19.7	1427.0	
+491.0	19.8	1459.0	
+456.0	19.9	1494.0	
+417.0	20.3	1533.0	
+375.0	19.9	1575.0	
+332.0	20.1	1618.0	
+290.0	19.2	1660.0	
+249.0	19.5	1701.0	
+208.0	19.7	1742.0	
+166.0	19.3	1784.0	
+127.0	20.2	1823.0	
+89.0	19.8	1861.0	
+52.0	20.2	1898.0	

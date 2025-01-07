@@ -1,0 +1,152 @@
+# ZhangD..Hunan-Jiangsu.1980
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Hunan-Jiangsu.Zhang.1980.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Hunan-Jiangsu.Zhang.1980.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: documents
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: ZhangD..Hunan-Jiangsu.1980
+#------------------
+# Investigators
+#     Investigators: Zhang D.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Decadal resolution. Elevation estimated from GoogleEarth; rounded to 100 m
+#------------------
+# Publication
+#     Authors: Zhang D.
+#     Published_Date_or_Year: 1980
+#     Published_Title: Winter temperature changes during the last 500 years in south China
+#     Journal_Name: Chin. Sci. Bull.
+#     Volume: 6
+#     Edition: 
+#     Issue: 
+#     Pages: 497–500
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Hunan-Jiangsu
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 28
+#     Southernmost_Latitude: 28
+#     Easternmost_Longitude: 116.5
+#     Westernmost_Longitude: 116.5
+#     Elevation: 2300
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1470.0
+#     Most_Recent_Year: 1960.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , documents, ,,N,   
+##temperature	Frequency of cold/warm years; winter temperature, ,,index, winter, documents, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1470.0	-0.101104870418385	
+1480.0	-0.0881580981764977	
+1490.0	-0.404157337142958	
+1500.0	-0.0880442038753589	
+1510.0	-0.184744007363491	
+1520.0	0.56353270054	
+1530.0	-0.720004978581131	
+1540.0	0.570092882015798	
+1550.0	0.570149438180398	
+1560.0	-0.0812711592233047	
+1570.0	1.37008048957802	
+1580.0	1.12503125388652	
+1590.0	1.16378438162359	
+1600.0	1.10578272247768	
+1610.0	0.80267919810451	
+1620.0	-0.126102187684242	
+1630.0	-0.719465358810068	
+1640.0	-0.100189008291076	
+1650.0	-0.71290831757824	
+1660.0	0.190175894002746	
+1670.0	-0.0806757696725148	
+1680.0	-1.32551844910833	
+1690.0	-0.106373732912914	
+1700.0	0.545154474773639	
+1710.0	-1.35760850074823	
+1720.0	-0.138462995520185	
+1730.0	0.500161641667631	
+1740.0	0.964631273128827	
+1750.0	0.751826042229786	
+1760.0	1.13244210344764	
+1770.0	0.513272575944034	
+1780.0	-1.37013739724754	
+1790.0	-0.750860263874019	
+1800.0	1.37776625523082	
+1810.0	-1.70538674039258	
+1820.0	-0.112129589173098	
+1830.0	-0.0927223889502283	
+1840.0	-2.58245644719842	
+1850.0	-2.69850610835995	
+1860.0	-1.20200060024914	
+1870.0	-0.724636036166593	
+1880.0	-0.724577126142895	
+1890.0	0.513914307481945	
+1900.0	1.38474980390451	
+1910.0	0.501122273012314	
+1920.0	0.494738826903131	
+1930.0	0.488338095330719	
+1940.0	1.07535473365929	
+1950.0	-0.130778801754539	
+1960.0	-0.182312180544366	

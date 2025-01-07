@@ -1,0 +1,182 @@
+# Fisher.Penny_Ice_Cap_P96.1998
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-PennyIceCapP96.Fisher.1998.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-PennyIceCapP96.Fisher.1998.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/2474
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: glacier ice
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Fisher.Penny_Ice_Cap_P96.1998
+#------------------
+# Investigators
+#     Investigators: Fisher, D. A.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Fisher et al report episodic scouring of winter snow, some random warm bias in the isotopic signal
+#------------------
+# Publication
+#     Authors: Fisher, D. A.
+#     Published_Date_or_Year: 1998
+#     Published_Title: Penny Ice Cap cores, Baffin Island, Canada, and the Wisconsinan Foxe Dome connection: Two states of Hudson Bay ice cover
+#     Journal_Name: Science
+#     Volume: 279
+#     Edition: 
+#     Issue: 5351
+#     Pages: 692-695
+#     Report: 
+#     DOI: 10.1126/science.279.5351.692
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Penny Ice Cap P96
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 67.25
+#     Southernmost_Latitude: 67.25
+#     Easternmost_Longitude: -66.75
+#     Westernmost_Longitude: -66.75
+#     Elevation: 1810
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 5.0
+#     Most_Recent_Year: 1980.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , glacier ice, ,,N,   
+##d18O	,,,permil, 1 2 3 4 5 6 7 8 9 10 11 12, glacier ice, ,,, ; archiveType changed - was originally ice core;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+5.0	-24.4961	
+30.0	-23.7103	
+55.0	-23.8844	
+80.0	-23.8177	
+105.0	-24.2269	
+130.0	-23.8702	
+155.0	-23.4817	
+180.0	-23.4861	
+205.0	-24.9171	
+230.0	-24.1387	
+255.0	-24.2848	
+280.0	-24.1377	
+305.0	-24.37	
+330.0	-24.2376	
+355.0	-23.9733	
+380.0	-23.6605	
+405.0	-23.8488	
+430.0	-24.4284	
+455.0	-24.28	
+480.0	-23.8699	
+505.0	-24.0217	
+530.0	-23.6045	
+555.0	-24.1057	
+580.0	-24.2279	
+605.0	-24.2847	
+630.0	-24.3695	
+655.0	-24.128	
+680.0	-24.5117	
+705.0	-24.2519	
+730.0	-24.164	
+755.0	-24.1182	
+780.0	-23.9845	
+805.0	-24.1983	
+830.0	-24.2749	
+855.0	-24.3155	
+880.0	-24.0786	
+905.0	-24.0786	
+930.0	-23.9228	
+955.0	-24.0185	
+980.0	-24.7188	
+1005.0	-24.3009	
+1030.0	-24.2004	
+1055.0	-24.1054	
+1080.0	-24.0712	
+1105.0	-24.3934	
+1130.0	-24.0811	
+1155.0	-24.6711	
+1180.0	-23.6473	
+1205.0	-24.2987	
+1230.0	-24.0002	
+1255.0	-24.6458	
+1280.0	-24.5008	
+1305.0	-23.9456	
+1330.0	-24.2147	
+1355.0	-23.6743	
+1380.0	-24.2874	
+1405.0	-23.9306	
+1430.0	-24.0599	
+1455.0	-24.5308	
+1480.0	-24.1072	
+1505.0	-24.3774	
+1530.0	-24.733	
+1555.0	-24.902	
+1580.0	-23.8977	
+1605.0	-23.9462	
+1630.0	-23.5986	
+1655.0	-24.4806	
+1680.0	-24.4104	
+1705.0	-24.7863	
+1730.0	-24.699	
+1755.0	-24.3235	
+1780.0	-24.4846	
+1805.0	-24.3462	
+1830.0	-24.5694	
+1855.0	-24.3414	
+1880.0	-24.2922	
+1905.0	-23.686	
+1930.0	-23.8947	
+1955.0	-24.2954	
+1980.0	-24.2424	

@@ -1,0 +1,239 @@
+# Jiang.MD992275.2005
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-MD992275.Jiang.2005.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-MD992275.Jiang.2005.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://rock.geosociety.org/pub/reposit/2005/2005010.pdf
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Jiang.MD992275.2005
+#------------------
+# Investigators
+#     Investigators: Jiang, Hui;Eiríksson, Jón;Schulz, Michael;Knudsen, Karen-Luise;Seidenkrantz, Marit-Solveig
+#------------------
+# Description_Notes_and_Keywords
+#     Description: A newer, higher-resolution record has been published by Jiang et al. (2015, Geology: doi:10.1130/G36377.1; data at: http://www.ncdc.noaa.gov/paleo/study/17635)
+#------------------
+# Publication
+#     Authors: Jiang, Hui;Eiríksson, Jón;Schulz, Michael;Knudsen, Karen-Luise;Seidenkrantz, Marit-Solveig
+#     Published_Date_or_Year: 2005
+#     Published_Title: Evidence for solar forcing of sea-surface temperature on the North Icelandic Shelf during the late Holocene
+#     Journal_Name: Geology
+#     Volume: 33
+#     Edition: 
+#     Issue: 
+#     Pages: 3-13
+#     Report: 
+#     DOI: 10.1130/G21130.1
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: MD992275
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 66.55
+#     Southernmost_Latitude: 66.55
+#     Easternmost_Longitude: -17.7
+#     Westernmost_Longitude: -17.7
+#     Elevation: -470
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 156.6
+#     Most_Recent_Year: 1952.1
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+age14C         age14CUncertaintyageUncertainty depth          age            deltaR         labID          deltaRUncertainty	
+nan	nan	1.0	0.0	-56.0	0.0	NA	0.0	
+nan	nan	1.0	20.0	3.0	0.0	NA	0.0	
+501.0	22.0	nan	21.5	nan	488.0	AAR-11472	75.0	
+595.0	25.0	nan	27.0	nan	488.0	AAR-11473	75.0	
+695.0	50.0	nan	39.5	nan	488.0	AAR-11474	75.0	
+745.0	60.0	nan	38.5	nan	488.0	AAR-8418	75.0	
+491.0	34.0	nan	43.5	nan	488.0	AAR-9808	75.0	
+666.0	41.0	nan	58.5	nan	612.0	AAR-9809	75.0	
+475.0	36.0	nan	70.5	nan	612.0	AAR-7702	75.0	
+695.0	45.0	nan	99.5	nan	612.0	AAR-7116	75.0	
+785.0	40.0	nan	136.5	nan	612.0	AAR-7117	75.0	
+nan	nan	1.0	137.0	233.0	0.0	NA	0.0	
+895.0	45.0	nan	158.5	nan	612.0	AAR-6089	75.0	
+815.0	45.0	nan	169.0	nan	612.0	AAR-7118	75.0	
+945.0	35.0	nan	198.5	nan	612.0	AAR-7119	75.0	
+nan	nan	1.0	215.0	473.0	0.0	NA	0.0	
+nan	nan	10.0	245.0	540.0	0.0	NA	0.0	
+1265.0	45.0	nan	258.0	nan	612.0	AAR-7120	75.0	
+nan	nan	1.0	275.0	650.0	0.0	NA	0.0	
+1420.0	60.0	nan	295.5	nan	612.0	AAR-7121	75.0	
+1555.0	35.0	nan	325.0	nan	579.0	AAR-6931	75.0	
+nan	nan	3.0	357.0	1076.0	0.0	NA	0.0	
+1710.0	45.0	nan	368.5	nan	579.0	AAR-7122	75.0	
+1905.0	40.0	nan	409.5	nan	579.0	AAR-6932	75.0	
+2020.0	40.0	nan	417.5	nan	600.0	AAR-6933	100.0	
+2262.0	42.0	nan	475.5	nan	600.0	AAR-7703	100.0	
+nan	nan	44.0	496.0	1780.0	0.0	NA	0.0	
+2245.0	40.0	nan	508.5	nan	600.0	AAR-6934	100.0	
+2470.0	55.0	nan	526.5	nan	600.0	AAR-9648	100.0	
+2530.0	45.0	nan	548.5	nan	0.0	AAR-6935	0.0	
+2680.0	65.0	nan	573.5	nan	0.0	AAR-7123	0.0	
+2765.0	38.0	nan	609.5	nan	0.0	AAR-9649	0.0	
+3110.0	70.0	nan	619.0	nan	0.0	AAR-6936	0.0	
+2940.0	45.0	nan	635.5	nan	0.0	AAR-9650	0.0	
+2960.0	70.0	nan	641.5	nan	0.0	AAR-9651	0.0	
+3144.0	45.0	nan	660.5	nan	0.0	AAR-9652	0.0	
+3345.0	45.0	nan	668.5	nan	0.0	AAR-7124	0.0	
+3230.0	65.0	nan	696.5	nan	0.0	AAR-9653	0.0	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	Diatoms; tranfers function, ,,degC, 6 7 8, marine sediment, ,,, ; climateInterpretation_seasonality changed - was originally 6/7/2008; climateInterpretation_seasonality changed - was originally 6/7/2008;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1952.1	6.0705	
+1944.8	6.8495	
+1939.65	7.0073	
+1934.6	7.3879	
+1925.0	5.8513	
+1916.2	6.5327	
+1908.5	6.5746	
+1898.9	7.4927	
+1889.8	7.1984	
+1880.8	7.0789	
+1872.0	5.5579	
+1862.0	6.5524	
+1852.7	6.3	
+1843.2	7.3933	
+1832.5	7.0554	
+1821.0	7.2154	
+1811.7	5.7278	
+1803.2	7.3543	
+1793.1	7.2757	
+1781.4	7.0237	
+1772.0	7.0936	
+1762.5	7.8395	
+1752.8	7.0945	
+1743.3	6.5663	
+1732.1	7.2932	
+1719.7	6.7329	
+1707.1	6.4874	
+1693.0	6.6389	
+1679.3	6.1653	
+1665.6	6.9067	
+1650.0	6.993	
+1634.4	6.9085	
+1618.5	6.7351	
+1600.6	6.9503	
+1587.8	7.0301	
+1572.0	6.6508	
+1554.4	6.7056	
+1538.4	6.6986	
+1522.6	7.608	
+1505.9	6.1022	
+1491.0	6.9607	
+1474.7	6.8487	
+1461.1	7.0327	
+1448.7	6.3605	
+1436.8	6.858	
+1425.8	6.719	
+1414.5	6.0741	
+1403.0	6.6948	
+1388.7	6.2925	
+1371.4	6.8942	
+1355.8	7.1933	
+1336.4	7.0332	
+1316.1	7.4312	
+1298.8	7.6023	
+1278.0	7.3866	
+1253.0	7.0919	
+1228.1	7.0426	
+1203.4	6.4842	
+1177.5	7.6362	
+1150.2	6.7832	
+1126.0	7.114	
+1100.7	7.6157	
+1074.0	7.7419	
+1046.9	7.3443	
+1020.5	7.6977	
+995.2	6.9998	
+968.4	6.2986	
+938.8	7.472	
+912.7	7.8746	
+885.9	6.8239	
+859.1	6.395	
+838.0	7.5316	
+816.4	7.7732	
+794.3	7.423	
+771.4	6.7734	
+749.5	6.964	
+727.1	7.4861	
+704.7	8.1686	
+682.0	7.789	
+659.6	7.8874	
+637.2	7.6365	
+612.3	7.5636	
+585.8	8.5481	
+558.8	7.6091	
+530.5	7.1479	
+501.8	7.6675	
+473.8	7.8094	
+445.1	8.051	
+416.8	7.8018	
+388.4	7.0808	
+358.9	6.9199	
+330.0	7.7717	
+301.7	7.5475	
+274.6	7.7576	
+246.8	7.6982	
+216.7	7.428	
+186.9	7.021	
+156.6	7.289	

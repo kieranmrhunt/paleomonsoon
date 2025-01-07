@@ -1,0 +1,161 @@
+# Pla.Central_and_Eastern_Pyrenees_(NE_Spain).2004
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Eur-CentralandEasternPyrenees.Pla.2004.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Eur-CentralandEasternPyrenees.Pla.2004.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Pla.Central_and_Eastern_Pyrenees_(NE_Spain).2004
+#------------------
+# Investigators
+#     Investigators: Pla, Sergi;Catalan, Jordi
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Excluded related to sample information and error estimates
+#------------------
+# Publication
+#     Authors: Pla, Sergi;Catalan, Jordi
+#     Published_Date_or_Year: 2004
+#     Published_Title: Chrysophyte cysts from lake sediments reveal the submillennial winter/spring climate variability in the northwestern Mediterranean region throughout the Holocene
+#     Journal_Name: Climate Dynamics
+#     Volume: 24
+#     Edition: 
+#     Issue: 
+#     Pages: 263-278
+#     Report: 
+#     DOI: 10.1007/s00382-004-0482-1
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Central and Eastern Pyrenees (NE Spain)
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 42.5
+#     Southernmost_Latitude: 42.5
+#     Easternmost_Longitude: 0.75
+#     Westernmost_Longitude: 0.75
+#     Elevation: 2280
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -44.0
+#     Most_Recent_Year: 1372.0
+#     Time_Unit: BP
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##uncertainty_temperature	Error estimate for temperature, Chrysophyte cysts from lake sediment, ,degC, , lake sediment, ,modern analog, N,  ; paleoData_variableName changed - was originally uncertainty_temperature; paleoData_variableName changed - was originally uncertainty_temperature; paleoData_variableName changed - was originally uncertainty_temperature;  
+##sampleID	sample Name, sediment core, ,,, lake sediment, ,,N,  ; paleoData_variableName changed - was originally sample;  
+##temperature	Chrysophyte cyst derived temperature anomaly, Chrysophyte cysts from lake sediment, ,degC, winter/spring, lake sediment, ,modern analog, C,   
+##age	Years before present (1950) BP, ,,BP, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           uncertainty_temperaturesampleID       temperature    age	
+1994.0	0.13984	RCA003	0.0	-44.0	
+1984.0	0.15345	RCA006	0.09114	-34.0	
+1963.0	0.16085	RCA009	-0.19458	-13.0	
+1943.0	0.13493	RCA012	0.07387	7.0	
+1932.0	0.14066	RCA015	-0.42006	18.0	
+1916.0	0.1819	RCA018	-0.47293	34.0	
+1905.0	0.18423	RCA021	-0.45136	45.0	
+1900.0	0.15445	RCA024	-0.26746	50.0	
+1865.83	0.18184	RCA027	0.0267	84.17	
+1831.67	0.19046	RCA030	-0.00911	118.33	
+1797.5	0.16562	RCA033	-0.19458	152.5	
+1763.33	0.19874	RCA036	-0.5804	186.67	
+1729.17	0.19907	RCA039	-0.27541	220.83	
+1695.0	0.20688	RCA042	-0.33944	255.0	
+1660.83	0.19101	RCA045	-0.27641	289.17	
+1626.67	0.17213	RCA048	-0.45272	323.33	
+1592.5	0.24079	RCA051	-0.45298	357.5	
+1558.33	0.27158	RCA054	-0.50968	391.67	
+1524.17	0.24619	RCA057	-0.68694	425.83	
+1490.0	0.19974	RCA060	-0.4556	460.0	
+1469.69	0.22486	RCA063	-0.2817	480.31	
+1449.38	0.22744	RCA066	-0.21809	500.62	
+1429.08	0.1979	RCA069	-0.26096	520.92	
+1408.77	0.20947	RCA072	-0.54926	541.23	
+1388.46	0.22262	RCA075	-0.77216	561.54	
+1368.15	0.16585	RCA078	0.09831	581.85	
+1347.85	0.29124	RCA081	-0.95083	602.15	
+1327.54	0.28051	RCA084	-0.93508	622.46	
+1307.23	0.24342	RCA087	-0.7696	642.77	
+1270.0	0.1833	RCA095	-0.32813	680.0	
+1221.9	0.23393	RCA098	-0.39037	728.1	
+1195.66	0.20011	RCA101	-0.41943	754.34	
+1169.42	0.21139	RCA104	-0.83928	780.58	
+1143.19	0.22452	RCA107	-0.94759	806.81	
+1116.95	0.23743	RCA110	-0.91592	833.05	
+1090.71	0.21781	RCA113	-0.6049	859.29	
+1064.47	0.22399	RCA116	-0.6749	885.53	
+1038.24	0.20541	RCA119	-1.039	911.76	
+1012.0	0.24183	RCA122	-0.40425	938.0	
+986.96	0.29303	RCA125	-0.35499	963.04	
+961.92	0.24199	RCA127	0.07779	988.08	
+945.23	0.27258	RCA130	-0.45796	1004.77	
+920.19	0.24157	RCA133	0.22066	1029.81	
+895.15	0.25225	RCA136	0.27102	1054.85	
+870.12	0.24656	RCA139	-0.31133	1079.88	
+845.08	0.22384	RCA142	0.00152	1104.92	
+820.04	0.24564	RCA145	-0.13428	1129.96	
+795.0	0.29127	RCA148	-0.44895	1155.0	
+769.96	0.26315	RCA151	-0.14962	1180.04	
+744.92	0.2888	RCA154	-0.08622	1205.08	
+719.88	0.31265	RCA157	0.00586	1230.12	
+694.85	0.28571	RCA160	-0.24945	1255.15	
+669.81	0.27932	RCA163	-0.13836	1280.19	
+619.73	0.25176	RCA168	0.22804	1330.27	
+603.04	0.30376	RCA171	-0.21474	1346.96	
+578.0	0.35641	RCA174	-0.05361	1372.0	

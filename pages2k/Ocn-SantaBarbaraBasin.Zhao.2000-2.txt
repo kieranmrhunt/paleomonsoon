@@ -1,0 +1,678 @@
+# Zhao.Santa_Barbara_Basin_(California).2000
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SantaBarbaraBasin.Zhao.2000-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SantaBarbaraBasin.Zhao.2000.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/study/17755
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Zhao.Santa_Barbara_Basin_(California).2000
+#------------------
+# Investigators
+#     Investigators: Zhao, Meixun;Eglinton, Geoffrey;Read, Gareth;Schimmelmann, Arndt
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Pacific1582Zhao2000_Hendy2012_Schimmelmann2013_SABA87-2, SABA88-1 Zhao et al., (2000) alkenone record with the age model from Hendy et al., (2012) and Schimmelmann et al., (2013). Combination of two cores (SABA87-2 and SABA88-1) recovered from the same drill site. Data sorted based on age.;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset contains NaN values and datapoints whose chronology is not QC'd;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.
+#------------------
+# Publication
+#     Authors: Zhao, Meixun;Eglinton, Geoffrey;Read, Gareth;Schimmelmann, Arndt
+#     Published_Date_or_Year: 2000
+#     Published_Title: An alkenone (U37K′) quasi-annual sea surface temperature record (A.D. 1440 to 1940) using varved sediments from the Santa Barbara Basin
+#     Journal_Name: Organic Geochemistry
+#     Volume: 31
+#     Edition: 
+#     Issue: 
+#     Pages: 903-917
+#     Report: 
+#     DOI: 10.1016/S0146-6380(00)00034-6
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Santa Barbara Basin (California)
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 34.23
+#     Southernmost_Latitude: 34.23
+#     Easternmost_Longitude: -120.02
+#     Westernmost_Longitude: -120.02
+#     Elevation: -590
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1297.5429
+#     Most_Recent_Year: 1940.1
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, , marine sediment, ,alkenone, N,  All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; composite core depths [raw depth in core = 254 cm]; see table 1 at http://dx.doi.org/10.1016/j.quaint.2012.09.006; PRA1988: T(cultures) = (Uk37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25�C; n=22; R2=0.994);  
+##core	ID number of core used to generate composite record, ,,,, marine sediment, ,,C,  All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; composite core depths [raw depth in core = 254 cm]; see table 1 at http://dx.doi.org/10.1016/j.quaint.2012.09.006;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    core	
+1940.1	16.4	saba 87-2	
+1938.7	16.0	saba 87-2	
+1937.5	15.7	saba 87-2	
+1936.9	15.4	saba 87-2	
+1936.0	15.5	saba 87-2	
+1934.7	15.2	saba 87-2	
+1934.0	15.1	saba 87-2	
+1933.4	15.3	saba 87-2	
+1932.7	14.9	saba 87-2	
+1931.7	15.4	saba 87-2	
+1930.9	15.1	saba 87-2	
+1930.3	15.5	saba 87-2	
+1929.4	14.9	saba 87-2	
+1928.6	15.1	saba 87-2	
+1927.7	15.4	saba 87-2	
+1927.0	15.2	saba 87-2	
+1926.1	15.1	saba 87-2	
+1925.2	15.2	saba 87-2	
+1924.3	15.4	saba 87-2	
+1923.5	15.4	saba 87-2	
+1922.7	15.3	saba 87-2	
+1922.3	15.5	saba 87-2	
+1921.6	15.3	saba 87-2	
+1920.9	15.4	saba 87-2	
+1920.4	15.0	saba 87-2	
+1919.9	15.0	saba 87-2	
+1919.5	15.5	saba 87-2	
+1919.2	15.7	saba 87-2	
+1918.6	15.6	saba 87-2	
+1918.1	15.3	saba 87-2	
+1917.0	15.6	saba 87-2	
+1916.2	15.4	saba 87-2	
+1915.2	15.3	saba 87-2	
+1914.2	15.3	saba 87-2	
+1913.7	15.8	saba 87-2	
+1913.3	15.5	saba 87-2	
+1912.8	14.9	saba 87-2	
+1912.6	15.1	saba 87-2	
+1912.1	14.7	saba 87-2	
+1911.6	14.9	saba 87-2	
+1911.1	15.1	saba 87-2	
+1910.8	15.5	saba 87-2	
+1910.6	15.0	saba 87-2	
+1910.3	14.8	saba 87-2	
+1909.4	14.9	saba 87-2	
+1908.3	14.9	saba 87-2	
+1907.8	15.0	saba 87-2	
+1907.3	nan	saba 87-2	
+1906.7	nan	saba 87-2	
+1905.9	14.7	saba 87-2	
+1905.1	14.8	saba 87-2	
+1904.6	14.6	saba 87-2	
+1904.1	14.6	saba 87-2	
+1902.9	14.6	saba 87-2	
+1901.7	14.5	saba 87-2	
+1900.9	13.9	saba 87-2	
+1900.6	14.5	saba 87-2	
+1900.3	nan	saba 87-2	
+1899.9	14.5	saba 87-2	
+1899.5	14.8	saba 87-2	
+1899.0	14.9	saba 87-2	
+1898.4	15.1	saba 87-2	
+1897.4	15.4	saba 87-2	
+1896.4	14.9	saba 87-2	
+1895.8	15.0	saba 87-2	
+1895.3	15.1	saba 87-2	
+1894.9	14.6	saba 87-2	
+1894.7	15.5	saba 87-2	
+1894.65	nan	saba 87-2	
+1894.65	nan	saba 87-2	
+1894.6	15.3	saba 87-2	
+1894.4	15.3	saba 87-2	
+1894.2	15.1	saba 87-2	
+1894.0	15.0	saba 87-2	
+1893.8	15.3	saba 87-2	
+1892.9	15.1	saba 87-2	
+1892.4	15.6	saba 87-2	
+1892.0	15.4	saba 87-2	
+1891.4	15.4	saba 87-2	
+1891.0	15.2	saba 87-2	
+1890.7	15.4	saba 87-2	
+1890.0	15.0	saba 87-2	
+1889.7	15.5	saba 87-2	
+1889.4	15.4	saba 87-2	
+1889.0	15.2	saba 87-2	
+1888.5	nan	saba 87-2	
+1888.5	nan	saba 87-2	
+1888.5	nan	saba 87-2	
+1888.5	nan	saba 87-2	
+1888.5	14.6	saba 87-2	
+1888.0	14.9	saba 87-2	
+1887.5	15.0	saba 87-2	
+1887.1	14.7	saba 87-2	
+1886.8	14.9	saba 87-2	
+1886.3	14.9	saba 87-2	
+1885.7	15.2	saba 87-2	
+1885.3	15.3	saba 87-2	
+1884.5	15.2	saba 87-2	
+1883.6	16.0	saba 87-2	
+1882.6	15.9	saba 87-2	
+1881.5	15.7	saba 87-2	
+1880.9	15.7	saba 87-2	
+1880.0	14.9	saba 87-2	
+1879.4	15.5	saba 87-2	
+1878.8188	15.9	saba 87-2	
+1878.6	15.6	saba 87-2	
+1878.1	15.7	saba 87-2	
+1877.6	15.1	saba 87-2	
+1877.1	16.0	saba 87-2	
+1876.5	16.0	saba 87-2	
+1875.8	16.2	saba 87-2	
+1875.1	nan	saba 87-2	
+1874.5	15.2	saba 87-2	
+1874.1	15.8	saba 87-2	
+1873.8	17.5	saba 87-2	
+1873.6	16.3	saba 87-2	
+1873.2	16.1	saba 87-2	
+1872.8	16.0	saba 87-2	
+1872.4	16.3	saba 87-2	
+1872.0	16.4	saba 87-2	
+1871.1	16.1	saba 87-2	
+1870.0	16.4	saba 87-2	
+1869.0	15.1	saba 87-2	
+1868.0	15.7	saba 87-2	
+1867.1278	16.1	saba 87-2	
+1866.3258	nan	saba 87-2	
+1865.6698	15.9	saba 87-2	
+1864.9052	16.3	saba 87-2	
+1864.1788	15.9	saba 87-2	
+1863.3563	15.9	saba 87-2	
+1862.4062	15.8	saba 87-2	
+1861.7206	15.6	saba 87-2	
+1861.0407	15.0	saba 87-2	
+1860.0	15.9	saba 87-2	
+1858.7	15.8	saba 87-2	
+1858.0	15.6	saba 87-2	
+1857.0	15.9	saba 87-2	
+1856.6	15.1	saba 87-2	
+1856.0	15.8	saba 87-2	
+1855.1	15.7	saba 87-2	
+1854.2	15.5	saba 87-2	
+1853.2	15.6	saba 87-2	
+1852.0	15.3	saba 87-2	
+1851.6	nan	saba 87-2	
+1851.0	nan	saba 87-2	
+1850.0	15.6	saba 87-2	
+1849.6	15.6	saba 87-2	
+1848.0	15.8	saba 87-2	
+1846.2	15.3	saba 87-2	
+1845.6	nan	saba 87-2	
+1844.6	nan	saba 87-2	
+1844.0	15.7	saba 87-2	
+1843.0	15.3	saba 87-2	
+1842.0	15.3	saba 87-2	
+1841.3	nan	saba 87-2	
+1840.6	16.0	saba 87-2	
+1839.8	15.7	saba 87-2	
+1838.9	15.6	saba 87-2	
+1838.0	15.5	saba 87-2	
+1837.1	15.6	saba 87-2	
+1836.0	15.5	saba 87-2	
+1835.0	15.6	saba 87-2	
+1833.2	nan	saba 87-2	
+1830.9	15.3	saba 87-2	
+1828.5	15.0	saba 87-2	
+1826.7	14.9	saba 87-2	
+1825.0	15.5	saba 87-2	
+1822.7	15.1	saba 87-2	
+1820.8	15.4	saba 87-2	
+1819.0	15.6	saba 87-2	
+1817.0	15.6	saba 87-2	
+1815.9	16.3	saba 87-2	
+1814.4	15.6	saba 87-2	
+1812.0	15.7	saba 87-2	
+1811.0	15.7	saba 87-2	
+1809.8	15.4	saba 87-2	
+1808.2	15.2	saba 87-2	
+1806.5	15.0	saba 87-2	
+1804.8	15.3	saba 87-2	
+1803.7	15.6	saba 87-2	
+1802.1	15.2	saba 87-2	
+1800.0	15.6	saba 87-2	
+1799.1	15.3	saba 87-2	
+1797.8	15.5	saba 87-2	
+1795.0	15.4	saba 87-2	
+1793.4	15.6	saba 87-2	
+1792.0	15.8	saba 87-2	
+1790.9	15.4	saba 87-2	
+1789.3	15.4	saba 87-2	
+1788.1	15.4	saba 87-2	
+1787.0	15.5	saba 87-2	
+1786.0	15.4	saba 87-2	
+1784.0	15.5	saba 87-2	
+1783.0	15.7	saba 87-2	
+1781.2	15.6	saba 87-2	
+1779.9	16.1	saba 87-2	
+1778.2	16.1	saba 87-2	
+1777.2	16.3	saba 87-2	
+1777.0	nan	saba 87-2	
+1776.0	15.6	saba 87-2	
+1775.0	15.9	saba 87-2	
+1774.6	16.0	saba 87-2	
+1774.1	15.9	saba 87-2	
+1773.0	16.0	saba 87-2	
+1771.9	15.7	saba 87-2	
+1771.0	15.6	saba 87-2	
+1770.2	15.6	saba 87-2	
+1769.0	15.6	saba 87-2	
+1768.2	15.6	saba 87-2	
+1767.5	15.5	saba 87-2	
+1767.1	15.9	saba 87-2	
+1766.5	16.4	saba 87-2	
+1765.9	16.1	saba 87-2	
+1765.0	16.2	saba 87-2	
+1764.0	16.0	saba 87-2	
+1763.6	15.8	saba 87-2	
+1762.5	15.9	saba 87-2	
+1761.0	15.8	saba 87-2	
+1760.5	16.1	saba 87-2	
+1759.3	15.9	saba 87-2	
+1758.4	15.6	saba 87-2	
+1757.0	15.6	saba 87-2	
+1755.9	15.8	saba 87-2	
+1753.9	15.5	saba 87-2	
+1752.0	15.7	saba 87-2	
+1751.1	15.6	saba 87-2	
+1750.5	nan	saba 87-2	
+1749.7	15.5	saba 87-2	
+1748.9	15.9	saba 87-2	
+1748.3	16.2	saba 87-2	
+1747.4	15.4	saba 87-2	
+1746.5	15.3	saba 87-2	
+1745.8	15.6	saba 87-2	
+1745.0	15.7	saba 87-2	
+1744.5	16.3	saba 87-2	
+1744.0	15.9	saba 87-2	
+1743.1	15.8	saba 87-2	
+1742.0	16.1	saba 87-2	
+1740.7	16.0	saba 87-2	
+1740.2	16.2	saba 87-2	
+1739.0	15.9	saba 87-2	
+1738.0	15.9	saba 87-2	
+1736.9	15.3	saba 88-1	
+1736.0	15.4	saba 88-1	
+1735.0	15.3	saba 88-1	
+1734.0	15.3	saba 88-1	
+1732.0	15.5	saba 88-1	
+1730.6	15.2	saba 88-1	
+1729.0	15.4	saba 88-1	
+1728.3	15.4	saba 88-1	
+1727.8	15.5	saba 88-1	
+1727.4	15.6	saba 88-1	
+1726.9	15.4	saba 88-1	
+1726.5	15.6	saba 88-1	
+1725.8	15.3	saba 88-1	
+1725.1	15.3	saba 88-1	
+1724.6	15.2	saba 88-1	
+1723.9	15.4	saba 88-1	
+1723.1	15.8	saba 88-1	
+1722.5	15.4	saba 88-1	
+1722.0	15.5	saba 88-1	
+1721.5	15.4	saba 88-1	
+1720.9	15.6	saba 88-1	
+1720.3	15.7	saba 88-1	
+1719.8	15.8	saba 88-1	
+1719.2	15.5	saba 88-1	
+1718.8	15.9	saba 88-1	
+1718.1	15.7	saba 88-1	
+1717.5	15.8	saba 88-1	
+1716.9	15.7	saba 88-1	
+1716.0	15.2	saba 88-1	
+1715.6	15.3	saba 88-1	
+1715.2	15.7	saba 88-1	
+1714.7	15.4	saba 88-1	
+1713.9	15.6	saba 88-1	
+1712.9	15.7	saba 88-1	
+1712.1	15.4	saba 88-1	
+1711.6	15.5	saba 88-1	
+1711.1	15.4	saba 88-1	
+1710.7	15.1	saba 88-1	
+1710.0	15.1	saba 88-1	
+1709.0	15.0	saba 88-1	
+1707.9	15.1	saba 88-1	
+1707.0	15.3	saba 88-1	
+1706.0	15.6	saba 88-1	
+1704.5	15.7	saba 88-1	
+1703.0	15.6	saba 88-1	
+1702.0	15.8	saba 88-1	
+1701.4	15.5	saba 88-1	
+1700.9	15.4	saba 88-1	
+1700.6	15.7	saba 88-1	
+1700.2	15.6	saba 88-1	
+1697.9458	15.7	saba 88-1	
+1696.3852	15.6	saba 88-1	
+1694.8245	15.5	saba 88-1	
+1693.2639	15.6	saba 88-1	
+1691.5299	15.4	saba 88-1	
+1689.7959	15.4	saba 88-1	
+1687.7151	15.3	saba 88-1	
+1686.848	15.9	saba 88-1	
+1685.981	15.3	saba 88-1	
+1684.7672	15.1	saba 88-1	
+1683.9002	15.2	saba 88-1	
+1682.513	14.1	saba 88-1	
+1681.646	15.5	saba 88-1	
+1680.6056	15.9	saba 88-1	
+1679.0449	15.9	saba 88-1	
+1678.5247	15.5	saba 88-1	
+1677.6577	15.7	saba 88-1	
+1676.9641	15.4	saba 88-1	
+1675.7503	15.2	saba 88-1	
+1674.8833	15.2	saba 88-1	
+1673.8429	15.1	saba 88-1	
+1672.1089	15.4	saba 88-1	
+1670.3748	15.2	saba 88-1	
+1669.5078	15.4	saba 88-1	
+1668.4674	15.5	saba 88-1	
+1667.0802	15.4	saba 88-1	
+1665.8664	15.4	saba 88-1	
+1664.3058	15.4	saba 88-1	
+1663.2654	15.6	saba 88-1	
+1661.7047	15.8	saba 88-1	
+1659.9707	15.6	saba 88-1	
+1658.2367	15.6	saba 88-1	
+1656.8495	15.3	saba 88-1	
+1655.8091	15.4	saba 88-1	
+1654.4219	15.6	saba 88-1	
+1651.474	15.4	saba 88-1	
+1649.5666	15.4	saba 88-1	
+1648.006	16.4	saba 88-1	
+1647.139	16.6	saba 88-1	
+1646.0986	16.5	saba 88-1	
+1645.4049	16.3	saba 88-1	
+1644.5379	15.5	saba 88-1	
+1644.0177	16.0	saba 88-1	
+1642.8039	15.9	saba 88-1	
+1642.1103	16.1	saba 88-1	
+1641.0699	15.9	saba 88-1	
+1640.3763	15.4	saba 88-1	
+1639.8561	nan	saba 88-1	
+1639.1625	nan	saba 88-1	
+1638.4689	nan	saba 88-1	
+1637.6019	nan	saba 88-1	
+1637.2551	nan	saba 88-1	
+1637.2551	nan	saba 88-1	
+1636.5614	nan	saba 88-1	
+1635.6944	nan	saba 88-1	
+1635.0008	nan	saba 88-1	
+1634.3072	nan	saba 88-1	
+1633.4402	nan	saba 88-1	
+1632.2264	15.4	saba 88-1	
+1631.3594	16.0	saba 88-1	
+1630.4924	16.4	saba 88-1	
+1629.6254	16.4	saba 88-1	
+1628.0647	16.6	saba 88-1	
+1626.5041	15.6	saba 88-1	
+1624.4233	16.4	saba 88-1	
+1622.8627	16.4	saba 88-1	
+1621.8223	16.8	saba 88-1	
+1620.9553	16.4	saba 88-1	
+1620.2616	15.1	saba 88-1	
+1618.3542	16.3	saba 88-1	
+1616.2734	16.4	saba 88-1	
+1615.5798	16.7	saba 88-1	
+1614.8862	16.5	saba 88-1	
+1614.0192	15.1	saba 88-1	
+1612.9788	16.0	saba 88-1	
+1611.5915	16.2	saba 88-1	
+1610.5511	16.6	saba 88-1	
+1608.9905	16.3	saba 88-1	
+1607.4299	15.2	saba 88-1	
+1605.1757	15.6	saba 88-1	
+1604.1353	16.2	saba 88-1	
+1602.9214	16.1	saba 88-1	
+1600.8406	15.9	saba 88-1	
+1599.4534	15.1	saba 88-1	
+1598.9332	16.1	saba 88-1	
+1598.2396	16.4	saba 88-1	
+1597.7194	16.3	saba 88-1	
+1596.5056	16.0	saba 88-1	
+1594.4247	15.2	saba 88-1	
+1593.2109	16.1	saba 88-1	
+1592.1705	16.1	saba 88-1	
+1590.6099	15.3	saba 88-1	
+1588.8759	15.5	saba 88-1	
+1585.928	14.8	saba 88-1	
+1584.3674	15.6	saba 88-1	
+1581.9398	15.7	saba 88-1	
+1580.5526	16.0	saba 88-1	
+1578.4718	15.5	saba 88-1	
+1576.5643	14.9	saba 88-1	
+1574.1367	15.4	saba 88-1	
+1571.8825	15.4	saba 88-1	
+1569.6282	15.4	saba 88-1	
+1568.0676	15.1	saba 88-1	
+1566.507	14.8	saba 88-1	
+1564.4262	15.7	saba 88-1	
+1562.5188	15.8	saba 88-1	
+1560.6113	15.9	saba 88-1	
+1558.5305	15.9	saba 88-1	
+1557.3167	15.1	saba 88-1	
+1555.5827	15.3	saba 88-1	
+1553.8487	15.6	saba 88-1	
+1552.4614	15.1	saba 88-1	
+1550.7274	15.9	saba 88-1	
+1548.9934	15.4	saba 88-1	
+1547.2594	nan	saba 88-1	
+1545.352	15.8	saba 88-1	
+1543.6179	15.6	saba 88-1	
+1542.0573	15.3	saba 88-1	
+1540.6701	14.9	saba 88-1	
+1539.9765	15.9	saba 88-1	
+1538.9361	15.5	saba 88-1	
+1537.7223	15.2	saba 88-1	
+1536.6819	14.1	saba 88-1	
+1535.1212	14.3	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1532.0	nan	saba 88-1	
+1530.4629	15.4	saba 88-1	
+1529.2674	15.9	saba 88-1	
+1526.5348	15.3	saba 88-1	
+1524.3146	15.8	saba 88-1	
+1521.9236	15.5	saba 88-1	
+1519.8742	15.5	saba 88-1	
+1516.8	15.6	saba 88-1	
+1513.2135	15.0	saba 88-1	
+1509.7978	15.5	saba 88-1	
+1507.0652	15.0	saba 88-1	
+1504.6742	15.4	saba 88-1	
+1502.1124	15.1	saba 88-1	
+1499.8921	14.7	saba 88-1	
+1497.5011	15.1	saba 88-1	
+1494.2562	15.8	saba 88-1	
+1491.8652	16.0	saba 88-1	
+1489.3034	15.6	saba 88-1	
+1487.2539	15.5	saba 88-1	
+1483.3258	16.3	saba 88-1	
+1480.764	15.5	saba 88-1	
+1479.0562	15.6	saba 88-1	
+1477.3483	15.8	saba 88-1	
+1475.6404	15.3	saba 88-1	
+1473.2494	15.8	saba 88-1	
+1471.8831	15.7	saba 88-1	
+1468.809	15.7	saba 88-1	
+1466.2472	15.8	saba 88-1	
+1464.8809	15.26	saba 88-1	
+1461.9775	15.85	saba 88-1	
+1458.7326	15.74	saba 88-1	
+1456.8539	15.59	saba 88-1	
+1455.3169	15.56	saba 88-1	
+1453.0966	14.79	saba 88-1	
+1451.3888	15.32	saba 88-1	
+1448.3146	15.71	saba 88-1	
+1446.6067	15.68	saba 88-1	
+1444.8989	15.74	saba 88-1	
+1444.8989	nan	saba 88-1	
+1443.0202	15.91	saba 88-1	
+1441.4831	15.59	saba 88-1	
+1439.7753	15.76	saba 88-1	
+1438.0674	15.85	saba 88-1	
+1436.018	15.71	saba 88-1	
+1432.9438	15.74	saba 88-1	
+1431.236	15.53	saba 88-1	
+1429.5281	15.41	saba 88-1	
+1428.3326	15.68	saba 88-1	
+1426.9663	15.47	saba 88-1	
+1425.7708	15.76	saba 88-1	
+1424.4045	15.59	saba 88-1	
+1423.5506	15.5	saba 88-1	
+1422.0135	15.15	saba 88-1	
+1420.9888	15.53	saba 88-1	
+1419.6225	15.74	saba 88-1	
+1418.2562	16.03	saba 88-1	
+1417.2315	15.56	saba 88-1	
+1415.8652	14.88	saba 88-1	
+1414.1573	15.03	saba 88-1	
+1411.5955	15.71	saba 88-1	
+1410.2292	15.53	saba 88-1	
+1408.8629	15.74	saba 88-1	
+1407.3258	15.94	saba 88-1	
+1405.4472	15.68	saba 88-1	
+1403.9101	16.29	saba 88-1	
+1402.2022	15.94	saba 88-1	
+1401.0067	15.79	saba 88-1	
+1399.2989	15.76	saba 88-1	
+1397.0787	15.74	saba 88-1	
+1395.3708	15.21	saba 88-1	
+1393.3213	15.15	saba 88-1	
+1391.7843	15.21	saba 88-1	
+1389.3933	15.18	saba 88-1	
+1386.8315	15.68	saba 88-1	
+1385.1236	15.97	saba 88-1	
+1383.0742	16.32	saba 88-1	
+1381.5371	16.18	saba 88-1	
+1379.1461	16.82	saba 88-1	
+1378.301	17.18	saba 88-1	
+1376.602	15.44	saba 88-1	
+1375.4694	15.5	saba 88-1	
+1374.1102	15.56	saba 88-1	
+1372.0714	15.62	saba 88-1	
+1369.8061	15.76	saba 88-1	
+1367.5408	15.44	saba 88-1	
+1365.2755	15.74	saba 88-1	
+1364.1429	15.59	saba 88-1	
+1363.1235	15.79	saba 88-1	
+1361.8776	15.71	saba 88-1	
+1360.7449	15.82	saba 88-1	
+1359.1592	15.59	saba 88-1	
+1357.6867	16.0	saba 88-1	
+1356.2143	15.97	saba 88-1	
+1355.3082	15.82	saba 88-1	
+1353.949	15.82	saba 88-1	
+1352.8163	15.91	saba 88-1	
+1351.5704	15.85	saba 88-1	
+1350.4378	15.62	saba 88-1	
+1349.4184	15.71	saba 88-1	
+1348.2857	15.59	saba 88-1	
+1347.6061	15.71	saba 88-1	
+1346.0204	15.79	saba 88-1	
+1344.8878	15.85	saba 88-1	
+1342.849	15.62	saba 88-1	
+1340.4704	15.59	saba 88-1	
+1339.2245	15.38	saba 88-1	
+1337.8653	15.97	saba 88-1	
+1336.9592	15.5	saba 88-1	
+1336.9592	nan	saba 88-1	
+1335.6	15.47	saba 88-1	
+1333.5612	15.68	saba 88-1	
+1331.5224	15.41	saba 88-1	
+1329.8235	15.21	saba 88-1	
+1328.1245	15.24	saba 88-1	
+1326.0857	15.44	saba 88-1	
+1324.6133	16.06	saba 88-1	
+1323.2541	15.94	saba 88-1	
+1322.2347	15.68	saba 88-1	
+1320.0827	15.41	saba 88-1	
+1318.7235	15.47	saba 88-1	
+1317.3643	15.26	saba 88-1	
+1315.2122	14.88	saba 88-1	
+1313.4	15.03	saba 88-1	
+1311.0214	15.12	saba 88-1	
+1309.7755	15.85	saba 88-1	
+1307.85	15.62	saba 88-1	
+1307.0571	15.65	saba 88-1	
+1306.0378	15.82	saba 88-1	
+1304.1122	15.38	saba 88-1	
+1302.8663	15.5	saba 88-1	
+1300.9408	15.53	saba 88-1	
+1299.4684	15.09	saba 88-1	
+1298.5622	14.79	saba 88-1	
+1297.5429	14.97	saba 88-1	

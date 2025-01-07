@@ -1,0 +1,142 @@
+# Gajewski.Dark_Lake.1988
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-DarkLake.Gajewski.1988.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-DarkLake.Gajewski.1988.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/6221
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gajewski.Dark_Lake.1988
+#------------------
+# Investigators
+#     Investigators: Gajewski, K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Gajewski, K.
+#     Published_Date_or_Year: 1988
+#     Published_Title: Late holocene climate changes in eastern North America estimated from pollen data
+#     Journal_Name: Quaternary Research
+#     Volume: 29
+#     Edition: 
+#     Issue: 3
+#     Pages: 255-262
+#     Report: 
+#     DOI: 10.1016/0033-5894(88)90034-8
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Dark Lake
+#     Location: 
+#     Country: USA
+#     Northernmost_Latitude: 45.3
+#     Southernmost_Latitude: 45.3
+#     Easternmost_Longitude: -91.5
+#     Westernmost_Longitude: -91.5
+#     Elevation: 334
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1044
+#     Most_Recent_Year: 906.0
+#     Time_Unit: BP
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	Mean temperature of the warmest month, ,,degC, 7, lake sediment, ,,, ; climateInterpretation_seasonality changed - was originally July;  
+##age	Years before present (1950) BP, ,,BP, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    age	
+1950.0	20.4	0.0	
+1937.0	20.4	13.0	
+1924.0	20.7	26.0	
+1911.0	20.6	39.0	
+1898.0	20.5	52.0	
+1886.0	20.2	64.0	
+1873.0	19.3	77.0	
+1860.0	19.7	90.0	
+1847.0	19.5	103.0	
+1834.0	19.6	116.0	
+1828.0	20.4	122.0	
+1821.0	19.8	129.0	
+1815.0	19.8	135.0	
+1809.0	19.9	141.0	
+1792.0	19.0	158.0	
+1775.0	19.3	175.0	
+1761.0	19.3	189.0	
+1749.0	19.5	201.0	
+1736.0	19.2	214.0	
+1727.0	19.6	223.0	
+1709.0	19.7	241.0	
+1655.0	19.5	295.0	
+1605.0	19.5	345.0	
+1561.0	19.3	389.0	
+1517.0	19.5	433.0	
+1480.0	19.9	470.0	
+1438.0	20.0	512.0	
+1405.0	20.5	545.0	
+1374.0	19.8	576.0	
+1345.0	19.7	605.0	
+1318.0	20.0	632.0	
+1290.0	19.8	660.0	
+1263.0	20.0	687.0	
+1232.0	20.0	718.0	
+1200.0	20.0	750.0	
+1164.0	20.0	786.0	
+1126.0	20.0	824.0	
+1086.0	19.7	864.0	
+1044.0	19.9	906.0	

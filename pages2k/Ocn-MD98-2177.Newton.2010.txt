@@ -1,0 +1,229 @@
+# Makassar Strait Indonesian marine sediment Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MD98-2177.Newton.2010.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MD98-2177.Newton.2010.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/12906
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Makassar Strait Indonesian marine sediment Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Newton, A.; Thunell, R.; Scott, L.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: In original online data source, Newton et al only provide Mg/Ca ratios, so these had to be converted to Mg/Ca SST using equations in paper. Also, no age-depth model was provided, though 14C date information was, so a direct point-to-point linear interpolation age model was generated. All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Newton, A.;Thunell, R.;Stott, L.
+#     Published_Date_or_Year: 2010
+#     Published_Title: Changes in the Indonesian Throughflow during the past 2000 yr
+#     Journal_Name: Geology
+#     Volume: 39
+#     Edition: 
+#     Issue: 1
+#     Pages: 63-66
+#     Report: 
+#     DOI: 10.1130/G31421.1
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: U.S. National Science Foundation
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Makassar Strait
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 1.4033
+#     Southernmost_Latitude: 1.4033
+#     Easternmost_Longitude: 119.078
+#     Westernmost_Longitude: 119.078
+#     Elevation: -968
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 160.0
+#     Most_Recent_Year: 1890.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+nan	45.0	nan	60.0	nan	nan	nan	nan	nan	Planktonic foram (marine reservoir 75 +/- 80 yrs)	CALIB5.0	0.0	570.0	nan	
+nan	60.0	nan	605.0	nan	nan	nan	nan	nan	Planktonic foram (marine reservoir 75 +/- 80 yrs)	CALIB5.0	500.0	1110.0	nan	
+nan	45.0	nan	1220.0	nan	nan	nan	nan	nan	Planktonic foram (marine reservoir 75 +/- 80 yrs)	CALIB5.0	940.0	1745.0	nan	
+nan	45.0	nan	1790.0	nan	nan	nan	nan	nan	Planktonic foram (marine reservoir 75 +/- 80 yrs)	CALIB5.0	1300.0	2260.0	nan	
+nan	45.0	nan	3240.0	nan	nan	nan	nan	nan	Planktonic foram (marine reservoir 75 +/- 80 yrs)	CALIB5.0	2000.0	3460.0	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; DEK2002: Mg/Ca=0.38*exp(0.09*[SST-0.61 (core depth km)]); (Dekens et al.; (2002); core tops; G ruber);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    depth	
+1890.0	28.51	0.0	
+1879.1	28.88	1.0	
+1868.2	28.59	2.0	
+1857.3	28.7	3.0	
+1846.4	28.71	4.0	
+1835.5	28.91	5.0	
+1824.6	28.67	6.0	
+1813.7	27.95	7.0	
+1802.8	28.55	8.0	
+1791.9	28.83	9.0	
+1781.0	28.23	10.0	
+1770.1	27.48	11.0	
+1759.2	28.21	12.0	
+1748.3	28.39	13.0	
+1737.4	28.38	14.0	
+1726.5	28.53	15.0	
+1715.6	28.22	16.0	
+1704.7	28.15	17.0	
+1693.8	28.18	18.0	
+1682.9	27.59	19.0	
+1672.0	28.24	20.0	
+1661.1	27.86	21.0	
+1650.2	29.09	22.0	
+1639.3	28.67	23.0	
+1628.4	28.83	24.0	
+1617.5	28.55	25.0	
+1606.6	28.15	26.0	
+1584.8	28.67	28.0	
+1573.9	28.46	29.0	
+1563.0	28.43	30.0	
+1552.1	28.79	31.0	
+1541.2	28.77	32.0	
+1530.3	28.33	33.0	
+1519.4	29.0	34.0	
+1508.5	28.14	35.0	
+1497.6	28.77	36.0	
+1486.7	28.39	37.0	
+1475.8	29.24	38.0	
+1464.9	29.33	39.0	
+1454.0	28.91	40.0	
+1443.1	28.18	41.0	
+1432.2	28.34	42.0	
+1421.3	29.19	43.0	
+1410.4	28.69	44.0	
+1399.5	29.13	45.0	
+1388.6	28.96	46.0	
+1377.7	29.25	47.0	
+1366.8	28.7	48.0	
+1355.9	28.05	49.0	
+1345.0	28.93	50.0	
+1331.022727	28.51	51.0	
+1317.045455	28.76	52.0	
+1303.068182	28.73	53.0	
+1289.090909	28.56	54.0	
+1275.113636	27.65	55.0	
+1261.136364	29.19	56.0	
+1247.159091	28.19	57.0	
+1233.181818	28.43	58.0	
+1219.204545	28.9	59.0	
+1205.227273	29.52	60.0	
+1191.25	29.09	61.0	
+1177.272727	28.97	62.0	
+1163.295455	28.37	63.0	
+1149.318182	28.42	64.0	
+1135.340909	29.54	65.0	
+1121.363636	29.11	66.0	
+1107.386364	28.52	67.0	
+1093.409091	28.34	68.0	
+1079.431818	29.01	69.0	
+1065.454545	28.95	70.0	
+1051.477273	28.46	71.0	
+1037.5	29.0	72.0	
+1023.522727	29.18	73.0	
+1009.545455	29.13	74.0	
+995.5681818	29.53	75.0	
+981.5909091	29.41	76.0	
+967.6136364	28.81	77.0	
+953.6363636	28.67	78.0	
+939.6590909	28.62	79.0	
+925.6818182	29.16	80.0	
+897.7272727	28.55	82.0	
+869.7727273	28.1	84.0	
+841.8181818	28.41	86.0	
+813.8636364	27.85	88.0	
+785.9090909	28.73	90.0	
+757.9545455	28.9	92.0	
+730.0	29.0	94.0	
+698.3333333	28.72	96.0	
+666.6666667	28.95	98.0	
+635.0	29.36	100.0	
+603.3333333	28.56	102.0	
+571.6666667	28.79	104.0	
+540.0	29.19	106.0	
+508.3333333	28.58	108.0	
+476.6666667	28.84	110.0	
+445.0	28.69	112.0	
+413.3333333	28.07	114.0	
+381.6666667	28.75	116.0	
+350.0	28.75	118.0	
+318.3333333	28.83	120.0	
+286.6666667	28.43	122.0	
+255.0	28.48	124.0	
+223.3333333	28.32	126.0	
+191.6666667	28.4	128.0	
+160.0	28.5	130.0	

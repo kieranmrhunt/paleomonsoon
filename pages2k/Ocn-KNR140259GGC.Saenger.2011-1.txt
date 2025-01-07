@@ -1,0 +1,156 @@
+# WEq Atlantic marine sediment Mg/Ca SST (59GGC)
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-KNR140259GGC.Saenger.2011-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-KNR140259GGC.Saenger.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:3800011116671332::::P1_STUDY_ID:11816
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: WEq Atlantic marine sediment Mg/Ca SST (59GGC)
+#------------------
+# Investigators
+#     Investigators: Saenger, C.; Came, R.E.; Oppo, D.W.; Keigwin, L.D.; Cohen, A.L.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Saenger, Casey;Came, Rosemarie E.;Oppo, Delia W.;Keigwin, Lloyd D.;Cohen, Anne L.
+#     Published_Date_or_Year: 2011
+#     Published_Title: Regional climate variability in the western subtropical North Atlantic during the past two millennia
+#     Journal_Name: Paleoceanography
+#     Volume: 26
+#     Edition: 
+#     Issue: 2
+#     Pages: n/a-n/a
+#     Report: 
+#     DOI: 10.1029/2010pa002038
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: Ocean Climate Change Institute (WHOI)
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: Climate Change Institute (OCCI)
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: National Science Foundation
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: KNR140‐2‐59GGC, Carolina Slope, western North Atlantic
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 32.977
+#     Southernmost_Latitude: 32.977
+#     Easternmost_Longitude: -76.316
+#     Westernmost_Longitude: -76.316
+#     Elevation: -1205
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 450.0
+#     Most_Recent_Year: 1850.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+useInAgeModel  notes          supportedActivityactivityUncertaintythickness      materialDated  labID          reservoirAge14CUncertaintydelta13C       ageUncertainty age14C         reservoirAge14CfractionModern age14Cuncertaintyage            depth          fractionModernUncertaintyactivity       delta13Cuncertaintyx210PbModel	
+nan	Core top fraction modern values 95%	nan	nan	2.0	Planktic foraminifera (225 yr reservoir)	7908.0	nan	nan	NA	375.0	225.0	nan	85.0	Modern	1.0	nan	nan	nan	nan	
+nan	Only 1s calib age error quoted. Calibration curve and method: Fairbanks et al. 2005 http://radiocarbon.ldeo.columbia.edu/research/radcarbcal.htm	nan	nan	1.0	G. sacculifer (225 yr reservoir)	OS-65593	nan	nan	36.0	825.0	225.0	nan	30.0	591.0	10.5	nan	nan	nan	nan	
+nan	Only 1s calib age error quoted. Calibration curve and method: Fairbanks et al. 2005 http://radiocarbon.ldeo.columbia.edu/research/radcarbcal.htm	nan	nan	1.0	G. sacculifer (225 yr reservoir)	OS-65595	nan	nan	44.0	1100.0	225.0	nan	30.0	778.0	20.5	nan	nan	nan	nan	
+nan	Only 1s calib age error quoted. Calibration curve and method: Fairbanks et al. 2005 http://radiocarbon.ldeo.columbia.edu/research/radcarbcal.htm	nan	nan	1.0	G. sacculifer (225 yr reservoir)	OS-65596	nan	nan	38.0	1350.0	225.0	nan	30.0	1023.0	35.5	nan	nan	nan	nan	
+nan	Only 1s calib age error quoted. Calibration curve and method: Fairbanks et al. 2005 http://radiocarbon.ldeo.columbia.edu/research/radcarbcal.htm	nan	nan	1.0	G. sacculifer (225 yr reservoir)	OS-65598	nan	nan	39.0	1910.0	225.0	nan	30.0	1578.0	69.5	nan	nan	nan	nan	
+nan	Only 1s calib age error quoted. Calibration curve and method: Fairbanks et al. 2005 http://radiocarbon.ldeo.columbia.edu/research/radcarbcal.htm	nan	nan	2.0	Planktic foraminifera (225 yr reservoir)	7909.0	nan	nan	85.0	4920.0	225.0	nan	60.0	5428.0	29.7	nan	nan	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from foram G. ruber; and are in units of mmol/mol, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature	
+1850.0	4.64	25.61	
+1750.0	4.61	25.55	
+1650.0	4.37	25.02	
+1550.0	4.33	24.92	
+1350.0	4.39	25.08	
+1300.0	4.5	25.31	
+1250.0	4.57	25.47	
+1200.0	4.51	25.33	
+1150.0	4.42	25.14	
+1100.0	4.34	24.97	
+1050.0	4.39	25.08	
+1000.0	4.46	25.24	
+950.0	4.42	25.14	
+900.0	4.56	25.44	
+850.0	4.48	25.27	
+800.0	4.4	25.1	
+750.0	4.57	25.47	
+700.0	4.41	25.11	
+650.0	4.3	24.86	
+600.0	4.35	24.99	
+550.0	4.35	24.98	
+500.0	4.37	25.03	
+450.0	4.36	25.0	

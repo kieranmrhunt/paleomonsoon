@@ -1,0 +1,222 @@
+# Philipines WEq Pacific marine sediment foram Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-Philippines.Stott.2007.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-Philippines.Stott.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/6400
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Philipines WEq Pacific marine sediment foram Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Stott, L.D.; Timmermann, A.; Thunell, R.C.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement
+#------------------
+# Publication
+#     Authors: Stott, L.;Timmermann, A.;Thunell, R.
+#     Published_Date_or_Year: 2007
+#     Published_Title: Southern Hemisphere and deep-sea warming led deglacial atmospheric CO2 rise and tropical warming
+#     Journal_Name: Science
+#     Volume: 318
+#     Edition: 
+#     Issue: 
+#     Pages: 435-438
+#     Report: 
+#     DOI: 10.1126/science.1143791
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: NSF
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: JAMSTEC
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Philippines
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 6.3
+#     Southernmost_Latitude: 6.3
+#     Easternmost_Longitude: 125.82
+#     Westernmost_Longitude: 125.82
+#     Elevation: -2114
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 646.6
+#     Most_Recent_Year: 1908.6
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+useInAgeModel  notes          supportedActivityactivityUncertaintythickness      materialDated  labID          reservoirAge14CUncertaintydelta13C       ageUncertainty age14C         reservoirAge14CfractionModern age14Cuncertaintyage            depth          fractionModernUncertaintyactivity       delta13Cuncertaintyx210PbModel	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-36493	nan	nan	nan	580.0	480.0	nan	110.0	nan	12.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-37308	nan	nan	nan	815.0	480.0	nan	200.0	nan	55.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-37292	nan	nan	nan	1010.0	480.0	nan	100.0	nan	99.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-37306	nan	nan	nan	1090.0	480.0	nan	120.0	nan	145.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-36485	nan	nan	nan	1900.0	480.0	nan	100.0	nan	238.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-37289	nan	nan	nan	3960.0	480.0	nan	150.0	nan	401.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-37303	nan	nan	nan	4070.0	480.0	nan	190.0	nan	501.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-34874	nan	nan	nan	6950.0	480.0	nan	50.0	nan	711.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-34875	nan	nan	nan	7360.0	480.0	nan	50.0	nan	755.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-34876	nan	nan	nan	9480.0	480.0	nan	65.0	nan	861.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-47735	nan	nan	nan	10450.0	480.0	nan	120.0	nan	920.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-36478	nan	nan	nan	11050.0	480.0	nan	310.0	nan	940.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-51309	nan	nan	nan	12600.0	480.0	nan	80.0	nan	941.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-51038	nan	nan	nan	11550.0	480.0	nan	85.0	nan	941.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-49938	nan	nan	nan	10850.0	480.0	nan	130.0	nan	941.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-40505	nan	nan	nan	17350.0	630.0	nan	120.0	nan	955.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-38541	nan	nan	nan	14850.0	630.0	nan	75.0	nan	955.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-38542	nan	nan	nan	14100.0	630.0	nan	65.0	nan	961.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-35980	nan	nan	nan	13700.0	630.0	nan	180.0	nan	961.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-47068	nan	nan	nan	12450.0	480.0	nan	75.0	nan	961.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-51034	nan	nan	nan	10950.0	480.0	nan	75.0	nan	986.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-51089	nan	nan	nan	11100.0	480.0	nan	75.0	nan	986.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-49939	nan	nan	nan	11050.0	480.0	nan	75.0	nan	986.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-50384	nan	nan	nan	11150.0	480.0	nan	80.0	nan	1000.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-34877	nan	nan	nan	13650.0	630.0	nan	55.0	nan	1011.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-49298	nan	nan	nan	14150.0	630.0	nan	130.0	nan	1011.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-49297	nan	nan	nan	12100.0	480.0	nan	80.0	nan	1036.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-50386	nan	nan	nan	12450.0	480.0	nan	75.0	nan	1046.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-52737	nan	nan	nan	12650.0	480.0	nan	65.0	nan	1047.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-53566	nan	nan	nan	12400.0	480.0	nan	210.0	nan	1047.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-51097	nan	nan	nan	12850.0	480.0	nan	70.0	nan	1049.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-51090	nan	nan	nan	12600.0	480.0	nan	65.0	nan	1049.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-51096	nan	nan	nan	12650.0	480.0	nan	80.0	nan	1049.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-52734	nan	nan	nan	12800.0	480.0	nan	70.0	nan	1054.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-52726	nan	nan	nan	12900.0	480.0	nan	45.0	nan	1054.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	OS-49300	nan	nan	nan	12850.0	480.0	nan	80.0	nan	1061.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-34878	nan	nan	nan	13400.0	630.0	nan	55.0	nan	1086.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-49303	nan	nan	nan	13450.0	630.0	nan	75.0	nan	1086.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-34879	nan	nan	nan	15550.0	630.0	nan	65.0	nan	1211.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-34880	nan	nan	nan	16800.0	630.0	nan	95.0	nan	1286.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-34972	nan	nan	nan	20300.0	630.0	nan	260.0	nan	1486.0	nan	nan	nan	nan	
+nan	Calibrated dates not provided in literature sources but SST data provided on calibrated age model (CALIB 5.02). Original radiocarbon dates are disseminated in Stott et al. 2002 Science (DOI:10.1126/science.1071627) and Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	OS-34881	nan	nan	nan	24800.0	630.0	nan	130.0	nan	1711.0	nan	nan	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    depth	
+1908.6	29.29	15.0	
+1905.6	28.59	16.0	
+1896.5	27.94	19.0	
+1890.3	28.15	21.0	
+1884.0	28.6	23.0	
+1880.8	29.31	24.0	
+1871.1	29.26	27.0	
+1861.1	28.9	30.0	
+1857.8	28.32	31.0	
+1847.5	28.87	34.0	
+1833.4	30.17	38.0	
+1822.6	28.56	41.0	
+1815.3	27.85	43.0	
+1788.7	29.47	50.0	
+1765.0	28.34	56.0	
+1744.5	29.51	61.0	
+1723.3	30.15	66.0	
+1710.3	28.46	69.0	
+1701.6	29.01	71.0	
+1688.2	28.06	74.0	
+1674.6	29.05	77.0	
+1665.4	28.56	79.0	
+1641.9	28.79	84.0	
+1632.4	29.03	86.0	
+1627.6	28.65	87.0	
+1617.9	28.68	89.0	
+1608.1	28.17	91.0	
+1593.2	28.74	94.0	
+1583.1	29.69	96.0	
+1536.6	30.04	105.0	
+1509.9	30.46	110.0	
+1493.6	30.11	113.0	
+1482.6	29.19	115.0	
+1471.5	30.14	117.0	
+1454.7	28.71	120.0	
+1426.1	28.22	125.0	
+1391.0	29.29	131.0	
+1330.6	29.39	141.0	
+1228.9	29.62	157.0	
+1202.5	29.75	161.0	
+1175.8	28.98	165.0	
+1148.6	29.78	169.0	
+1121.1	30.32	173.0	
+1100.2	30.5	176.0	
+1079.1	29.89	179.0	
+992.5	28.56	191.0	
+962.9	29.06	195.0	
+917.8	29.18	201.0	
+902.6	30.09	203.0	
+871.9	29.75	207.0	
+840.8	29.04	211.0	
+809.4	29.71	215.0	
+777.5	29.25	219.0	
+721.0	29.49	226.0	
+712.8	30.12	227.0	
+679.9	29.71	231.0	
+646.6	29.31	235.0	

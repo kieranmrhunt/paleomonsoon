@@ -1,0 +1,490 @@
+# Urvina Bay, Galapagos
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-UrvinaBay.Dunbar.1994.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-UrvinaBay.Dunbar.1994.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/1850
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Urvina Bay, Galapagos
+#------------------
+# Investigators
+#     Investigators: Dunbar; Ocean2k
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Dunbar, Robert B.;Wellington, Gerard M.;Colgan, Mitchell W.;Glynn, Peter W.
+#     Published_Date_or_Year: 1994
+#     Published_Title: Eastern Pacific sea surface temperature since 1600 A.D.: The δ18O record of climate variability in Galápagos Corals
+#     Journal_Name: Paleoceanography
+#     Volume: 9
+#     Edition: 
+#     Issue: 2
+#     Pages: 291-315
+#     Report: 
+#     DOI: 10.1029/93PA03501
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: Tierney, Jessica E.;Abram, Nerilie J.;Anchukaitis, Kevin J.;Evans, Michael N.;Giry, Cyril;Kilbourne, K. Halimeda;Saenger, Casey P.;Wu, Henry C.;Zinke, Jens
+#     Published_Date_or_Year: 2015
+#     Published_Title: Tropical sea surface temperatures for the past four centuries reconstructed from coral archives
+#     Journal_Name: Paleoceanography
+#     Volume: 30
+#     Edition: 
+#     Issue: 3
+#     Pages: 226-252
+#     Report: 
+#     DOI: 10.1002/2014PA002717
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Urvina Bay
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -0.4
+#     Southernmost_Latitude: -0.4
+#     Easternmost_Longitude: -91.23
+#     Westernmost_Longitude: -91.23
+#     Elevation: -1.5
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1607.0
+#     Most_Recent_Year: 1981.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Pavona,Pavona clavus, Pavona gigantea
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##d18O	,,,permil, 1 2 3 4 5 6 7 8 9 10 11 12, coral, ,,, ; climateInterpretation_seasonality changed - was originally annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1981.0	-3.73	
+1980.0	-3.86	
+1979.0	-4.04	
+1978.0	-3.75	
+1977.0	-3.86	
+1976.0	-4.08	
+1975.0	-3.77	
+1974.0	nan	
+1973.0	nan	
+1972.0	-4.25	
+1971.0	-3.97	
+1970.0	-3.95	
+1969.0	-4.14	
+1968.0	-3.95	
+1967.0	-3.74	
+1966.0	-3.83	
+1965.0	-4.14	
+1964.0	-3.91	
+1963.0	-3.98	
+1962.0	-4.04	
+1961.0	nan	
+1960.0	nan	
+1959.0	nan	
+1958.0	nan	
+1957.0	nan	
+1956.0	nan	
+1955.0	nan	
+1954.0	nan	
+1953.0	nan	
+1953.0	-4.18	
+1952.0	-3.94	
+1951.0	-3.92	
+1950.0	-3.5	
+1949.0	-3.84	
+1948.0	-4.03	
+1947.0	-3.67	
+1946.0	-3.79	
+1945.0	-3.69	
+1944.0	-3.68	
+1943.0	-3.88	
+1942.0	-4.09	
+1941.0	-4.29	
+1940.0	-4.2	
+1939.0	-4.04	
+1938.0	-3.81	
+1937.0	-3.93	
+1936.0	-3.96	
+1935.0	-3.83	
+1934.0	-4.05	
+1933.0	-3.86	
+1932.0	-4.09	
+1931.0	-4.01	
+1930.0	-4.12	
+1929.0	-3.9	
+1928.0	-3.71	
+1927.0	-3.88	
+1926.0	-3.81	
+1925.0	-4.02	
+1924.0	-4.0	
+1923.0	-4.04	
+1922.0	-4.17	
+1921.0	-3.99	
+1920.0	-3.89	
+1919.0	-4.02	
+1918.0	-4.16	
+1917.0	-3.65	
+1916.0	-4.0	
+1915.0	-3.89	
+1914.0	-3.81	
+1913.0	-3.9	
+1912.0	-3.95	
+1911.0	-4.08	
+1910.0	-3.82	
+1906.0	-4.13	
+1905.0	-4.34	
+1904.0	-3.94	
+1903.0	-4.21	
+1902.0	-4.32	
+1901.0	-4.14	
+1900.0	-3.75	
+1899.0	-3.71	
+1898.0	-3.96	
+1897.0	-3.85	
+1896.0	-4.15	
+1895.0	-4.0	
+1894.0	-4.07	
+1893.0	-4.06	
+1892.0	-3.9	
+1891.0	-4.05	
+1890.0	-3.69	
+1889.0	-4.08	
+1888.0	-4.54	
+1887.0	-4.29	
+1886.0	-4.19	
+1885.0	-4.08	
+1884.0	-4.25	
+1883.0	-3.79	
+1882.0	-3.84	
+1881.0	-4.02	
+1880.0	-3.97	
+1879.0	-3.72	
+1878.0	-3.99	
+1877.0	-4.05	
+1876.0	-4.15	
+1875.0	-4.04	
+1874.0	-4.12	
+1873.0	-4.3	
+1872.0	-4.0	
+1871.0	-4.3	
+1870.0	-4.32	
+1869.0	-4.15	
+1868.0	-4.13	
+1867.0	-4.0	
+1866.0	-4.26	
+1865.0	-4.41	
+1864.0	-4.34	
+1863.0	-4.17	
+1862.0	-4.02	
+1861.0	-4.06	
+1860.0	-4.1	
+1859.0	-3.91	
+1858.0	-3.9	
+1857.0	-3.85	
+1856.0	-4.01	
+1855.0	-3.96	
+1854.0	-4.11	
+1853.0	-4.26	
+1852.0	-4.0	
+1851.0	-4.09	
+1850.0	-3.97	
+1849.0	-3.77	
+1848.0	-3.67	
+1847.0	-4.15	
+1846.0	-3.98	
+1845.0	-3.94	
+1844.0	-3.7	
+1843.0	-4.03	
+1842.0	-4.12	
+1841.0	-4.04	
+1840.0	-4.45	
+1839.0	-4.05	
+1838.0	-4.23	
+1837.0	-4.25	
+1836.0	-3.95	
+1835.0	-3.81	
+1834.0	-3.67	
+1833.0	-3.91	
+1832.0	-4.0	
+1831.0	-4.33	
+1830.0	-4.25	
+1829.0	-3.94	
+1828.0	-4.17	
+1827.0	-4.26	
+1826.0	-3.99	
+1825.0	-4.13	
+1824.0	-4.0	
+1823.0	-4.28	
+1822.0	-3.86	
+1821.0	-3.84	
+1820.0	-4.04	
+1819.0	-4.0	
+1818.0	-3.95	
+1817.0	-4.02	
+1816.0	-3.93	
+1815.0	-3.84	
+1814.0	-3.78	
+1813.0	-3.89	
+1812.0	-3.79	
+1811.0	-3.54	
+1810.0	-3.67	
+1809.0	-3.97	
+1808.0	-3.81	
+1807.0	-4.09	
+1806.0	-3.69	
+1805.0	-3.69	
+1804.0	-4.0	
+1803.0	-3.83	
+1802.0	-3.81	
+1801.0	-4.03	
+1800.0	-4.29	
+1799.0	-4.24	
+1798.0	-4.19	
+1797.0	-3.83	
+1796.0	-4.12	
+1795.0	-4.34	
+1794.0	-3.93	
+1793.0	-4.02	
+1792.0	-4.22	
+1791.0	-4.29	
+1790.0	-4.17	
+1789.0	-3.89	
+1788.0	-3.95	
+1787.0	-3.86	
+1786.0	-4.23	
+1785.0	-3.88	
+1784.0	-3.99	
+1783.0	-3.78	
+1782.0	-4.01	
+1781.0	-3.95	
+1780.0	-3.98	
+1779.0	-4.26	
+1778.0	-4.1	
+1777.0	-3.74	
+1776.0	-4.04	
+1775.0	-3.96	
+1774.0	-3.96	
+1773.0	-4.05	
+1772.0	-4.12	
+1771.0	-4.23	
+1770.0	-3.99	
+1769.0	-3.86	
+1768.0	-4.09	
+1767.0	-4.08	
+1766.0	-4.03	
+1765.0	-3.82	
+1764.0	-3.98	
+1763.0	-4.37	
+1762.0	-4.44	
+1761.0	-4.38	
+1760.0	-4.25	
+1759.0	-4.0	
+1758.0	-4.17	
+1757.0	-4.1	
+1756.0	-3.85	
+1755.0	-4.08	
+1754.0	-4.13	
+1753.0	-4.07	
+1752.0	-3.99	
+1751.0	-4.3	
+1750.0	-3.74	
+1749.0	-4.26	
+1748.0	-4.29	
+1747.0	-4.13	
+1746.0	-4.01	
+1745.0	-3.95	
+1744.0	-4.25	
+1743.0	-3.84	
+1742.0	-4.1	
+1741.0	-4.24	
+1740.0	-4.06	
+1739.0	-4.13	
+1738.0	-3.94	
+1737.0	-4.03	
+1736.0	-4.1	
+1735.0	-4.12	
+1734.0	-4.1	
+1733.0	-4.39	
+1732.0	-3.95	
+1731.0	-4.01	
+1730.0	-3.93	
+1729.0	-4.27	
+1728.0	-4.0	
+1727.0	-4.08	
+1726.0	-4.06	
+1725.0	-4.02	
+1724.0	-4.08	
+1723.0	-4.03	
+1722.0	-4.08	
+1721.0	-4.29	
+1720.0	-4.06	
+1719.0	-4.13	
+1718.0	-4.13	
+1717.0	-4.06	
+1716.0	-4.04	
+1715.0	-4.17	
+1714.0	-4.24	
+1713.0	-4.12	
+1712.0	-4.17	
+1711.0	-3.99	
+1710.0	-3.93	
+1709.0	-4.19	
+1708.0	-4.05	
+1707.0	-4.18	
+1706.0	-4.21	
+1705.0	-4.01	
+1704.0	-4.18	
+1703.0	-4.5	
+1702.0	-4.13	
+1701.0	-3.67	
+1700.0	-3.73	
+1699.0	-4.0	
+1698.0	-4.18	
+1697.0	-3.87	
+1696.0	-3.62	
+1695.0	-3.9	
+1694.0	-4.03	
+1693.0	-3.99	
+1692.0	-3.98	
+1691.0	-3.85	
+1690.0	-3.99	
+1689.0	-3.96	
+1688.0	-3.99	
+1687.0	-4.21	
+1686.0	-4.1	
+1685.0	-4.05	
+1684.0	-3.77	
+1683.0	-3.95	
+1682.0	-3.88	
+1681.0	-4.06	
+1680.0	-3.94	
+1679.0	-4.1	
+1678.0	-3.75	
+1677.0	-3.75	
+1676.0	-3.84	
+1675.0	-4.1	
+1674.0	-4.32	
+1673.0	-4.02	
+1672.0	-4.15	
+1671.0	-4.07	
+1670.0	-4.31	
+1669.0	-4.06	
+1668.0	-4.08	
+1667.0	-4.08	
+1666.0	-4.21	
+1665.0	-4.11	
+1664.0	-4.04	
+1663.0	-3.98	
+1662.0	-4.1	
+1661.0	-4.14	
+1660.0	-4.12	
+1659.0	-4.07	
+1658.0	-4.23	
+1657.0	-3.91	
+1656.0	-3.96	
+1655.0	-3.79	
+1654.0	-3.98	
+1653.0	-4.12	
+1652.0	-4.27	
+1651.0	-4.01	
+1650.0	-3.9	
+1649.0	-3.61	
+1648.0	-3.67	
+1647.0	-4.06	
+1646.0	-3.98	
+1645.0	-3.73	
+1644.0	-3.83	
+1643.0	-4.01	
+1642.0	-3.92	
+1641.0	-3.74	
+1640.0	-3.94	
+1639.0	-3.62	
+1638.0	-3.58	
+1637.0	-3.63	
+1636.0	-3.97	
+1635.0	-3.73	
+1634.0	-3.99	
+1633.0	-4.31	
+1632.0	-4.05	
+1631.0	-3.38	
+1630.0	-3.85	
+1629.0	-3.87	
+1628.0	-4.16	
+1627.0	-4.01	
+1626.0	-3.82	
+1625.0	-3.77	
+1624.0	-3.7	
+1623.0	-4.32	
+1622.0	-4.11	
+1621.0	-4.27	
+1620.0	-3.86	
+1619.0	-4.04	
+1618.0	-4.02	
+1617.0	-3.9	
+1616.0	-3.89	
+1615.0	-3.76	
+1614.0	-3.8	
+1613.0	-3.77	
+1612.0	-3.88	
+1611.0	-4.09	
+1610.0	-4.12	
+1609.0	-3.57	
+1608.0	-3.94	
+1607.0	-4.42	

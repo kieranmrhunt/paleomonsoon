@@ -1,0 +1,182 @@
+# Okuyama.Penny_Ice_Cap_P96.2003
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-PennyIceCapP96.Okuyama.2003.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-PennyIceCapP96.Okuyama.2003.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/14188
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: glacier ice
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Okuyama.Penny_Ice_Cap_P96.2003
+#------------------
+# Investigators
+#     Investigators: Okuyama, Junichi;Narita, Hideki;Hondoh, Takeo;Koerner, Roy M.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Okuyama, Junichi;Narita, Hideki;Hondoh, Takeo;Koerner, Roy M.
+#     Published_Date_or_Year: 2003
+#     Published_Title: Physical properties of the P96 ice core from Penny Ice Cap, Baffin Island, Canada, and derived climatic records
+#     Journal_Name: Journal of Geophysical Research
+#     Volume: 108
+#     Edition: 
+#     Issue: 
+#     Pages: 2090
+#     Report: 
+#     DOI: 10.1029/2001JB001707
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Penny Ice Cap P96
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 67.25
+#     Southernmost_Latitude: 67.25
+#     Easternmost_Longitude: -65.75
+#     Westernmost_Longitude: -65.75
+#     Elevation: 1810
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 9.0
+#     Most_Recent_Year: 1984.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , glacier ice, ,,N,   
+##melt	melt feature percentages, ,,percent, 6 7 2008, glacier ice, ,,, ; climateInterpretation_seasonality changed - was originally 6/7/2008; archiveType changed - was originally ice core; climateInterpretation_seasonality changed - was originally 6/7/2008;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           melt	
+9.0	80.0	
+34.0	82.014	
+59.0	83.2	
+84.0	79.718	
+109.0	75.7	
+134.0	80.141	
+159.0	87.6	
+184.0	84.144	
+209.0	77.8	
+234.0	81.315	
+259.0	86.6	
+284.0	88.999	
+309.0	91.3	
+334.0	90.208	
+359.0	89.7	
+384.0	84.491	
+409.0	83.598	
+434.0	82.0	
+459.0	77.014	
+484.0	72.8	
+509.0	92.234	
+534.0	91.645	
+559.0	88.4	
+584.0	91.514	
+609.0	90.164	
+634.0	87.4	
+659.0	84.664	
+684.0	72.37	
+709.0	69.097	
+734.0	83.6	
+759.0	75.868	
+784.0	83.64	
+809.0	71.724	
+834.0	60.26	
+859.0	79.036	
+884.0	80.2	
+909.0	83.027	
+934.0	88.966	
+959.0	64.255	
+984.0	60.547	
+1009.0	75.044	
+1034.0	81.739	
+1059.0	68.84	
+1084.0	85.148	
+1109.0	41.138	
+1134.0	71.79	
+1159.0	92.535	
+1184.0	81.518	
+1209.0	82.855	
+1234.0	76.91	
+1259.0	84.472	
+1284.0	57.687	
+1309.0	32.723	
+1334.0	66.21	
+1359.0	90.473	
+1384.0	67.353	
+1409.0	76.972	
+1434.0	74.326	
+1459.0	62.282	
+1484.0	59.358	
+1509.0	84.182	
+1534.0	68.219	
+1559.0	80.601	
+1584.0	74.878	
+1609.0	48.79	
+1634.0	62.032	
+1659.0	72.915	
+1684.0	48.253	
+1709.0	44.418	
+1734.0	79.931	
+1759.0	72.946	
+1784.0	53.515	
+1809.0	80.286	
+1834.0	65.683	
+1859.0	73.876	
+1884.0	80.185	
+1909.0	92.567	
+1934.0	83.773	
+1959.0	92.623	
+1984.0	80.419	

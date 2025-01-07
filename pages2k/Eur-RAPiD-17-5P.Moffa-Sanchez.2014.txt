@@ -1,0 +1,173 @@
+# Moffa-Sánchez.RAPiD-17-5P__South_Iceland.2014
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Eur-RAPiD-17-5P.Moffa-Sanchez.2014.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Eur-RAPiD-17-5P.Moffa-Sanchez.2014.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/19804
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Moffa-Sánchez.RAPiD-17-5P__South_Iceland.2014
+#------------------
+# Investigators
+#     Investigators: Moffa-Sánchez, Paola;Born, Andreas;Hall, Ian R.;Thornalley, David J. R.;Barker, Stephen
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Here we reconstruct thermocline temperature and salinity in this region from AD 818 to 1780 using paired _18O and Mg/Ca ratio measurements of foraminifer shells from a subdecadally resolved marine sediment core.
+#------------------
+# Publication
+#     Authors: Moffa-Sánchez, Paola;Born, Andreas;Hall, Ian R.;Thornalley, David J. R.;Barker, Stephen
+#     Published_Date_or_Year: 2014
+#     Published_Title: Solar forcing of North Atlantic surface temperature and salinity over the past millennium
+#     Journal_Name: Nature Geoscience
+#     Volume: 7
+#     Edition: 
+#     Issue: 
+#     Pages: 275-278
+#     Report: 
+#     DOI: 10.1038/ngeo2094
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: RAPiD-17-5P, South Iceland
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 61.48
+#     Southernmost_Latitude: 61.48
+#     Easternmost_Longitude: -19.53
+#     Westernmost_Longitude: -19.53
+#     Elevation: -2303
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 798.0
+#     Most_Recent_Year: 1915.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##d18O	,,,permil, summer, marine sediment, ,,,  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+798.0	7.33405	
+811.0	9.69621	
+823.0	10.1545	
+847.0	9.03329	
+859.0	9.06106	
+871.0	8.24791	
+883.0	8.15968	
+894.0	6.99067	
+906.0	8.91856	
+917.0	6.98249	
+930.0	6.87135	
+943.0	7.43382	
+961.0	7.22454	
+978.0	7.84132	
+990.0	8.95038	
+1001.0	8.14673	
+1032.0	8.32167	
+1057.0	6.55721	
+1078.0	6.96719	
+1094.0	10.8868	
+1111.0	8.13727	
+1134.0	6.95425	
+1149.0	6.83728	
+1159.0	8.08993	
+1174.0	7.67319	
+1187.0	6.46129	
+1197.0	7.83976	
+1206.0	8.89209	
+1221.0	6.96898	
+1235.0	8.81323	
+1246.0	7.23274	
+1259.0	7.45304	
+1276.0	5.66414	
+1293.0	7.54391	
+1307.0	6.80544	
+1321.0	7.25909	
+1336.0	9.02896	
+1351.0	9.26921	
+1366.0	9.49261	
+1381.0	9.28443	
+1395.0	7.46056	
+1411.0	7.20019	
+1425.0	7.81037	
+1444.0	9.57193	
+1464.0	9.01144	
+1485.0	7.10608	
+1513.0	6.01286	
+1582.0	6.47698	
+1603.0	4.87734	
+1617.0	7.84537	
+1631.0	7.45015	
+1645.0	6.68797	
+1659.0	6.2733	
+1673.0	5.75361	
+1687.0	7.86339	
+1701.0	7.82699	
+1715.0	7.13582	
+1729.0	7.14778	
+1743.0	5.75472	
+1757.0	6.62183	
+1771.0	7.47133	
+1785.0	5.63086	
+1799.0	7.35825	
+1813.0	5.93863	
+1827.0	6.93561	
+1841.0	5.71646	
+1855.0	6.05519	
+1869.0	5.93519	
+1883.0	7.30156	
+1897.0	8.22636	
+1915.0	7.50507	

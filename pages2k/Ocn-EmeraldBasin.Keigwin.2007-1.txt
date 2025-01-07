@@ -1,0 +1,144 @@
+# Emerald Basin, Nova Scotia marine sediment alkenone SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-EmeraldBasin.Keigwin.2007-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-EmeraldBasin.Keigwin.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/keigwin2005
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Emerald Basin, Nova Scotia marine sediment alkenone SST
+#------------------
+# Investigators
+#     Investigators: Sachs, J.P.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement;Êsee "Data (QC) tab" cell C6 for details
+#------------------
+# Publication
+#     Authors: Sachs, Julian P.
+#     Published_Date_or_Year: 2007
+#     Published_Title: Cooling of Northwest Atlantic slope waters during the Holocene
+#     Journal_Name: Geophysical Research Letters
+#     Volume: 34
+#     Edition: 
+#     Issue: 3
+#     Pages: L03609
+#     Report: 
+#     DOI: 10.1029/2006GL028495
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name:  National Oceanographic and Atmospheric Administration and the National Science Foundation.
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Emerald Basin, Nova Scotia
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 43.53
+#     Southernmost_Latitude: 43.53
+#     Easternmost_Longitude: -62.48
+#     Westernmost_Longitude: -62.48
+#     Elevation: -250
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 400.0
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+nan	60.0	nan	nan	nan	nan	nan	nan	nan	mixed planktonic foraminifer	From core MC-29 Calibrated with Calib6.0	145.0	375.0	nan	
+nan	120.0	nan	nan	nan	nan	nan	nan	nan	mixed planktonic foraminifer	From core MC-29 Calibrated with Calib6.0	165.0	505.0	nan	
+nan	70.0	nan	nan	nan	nan	nan	nan	nan	mixed planktonic foraminifer	From core MC-29 Calibrated with Calib6.0	295.0	960.0	nan	
+nan	60.0	nan	nan	nan	nan	nan	nan	nan	mixed planktonic foraminifer	From core MC-29 Calibrated with Calib6.0	495.0	2040.0	nan	
+nan	35.0	nan	nan	nan	nan	nan	nan	nan	mixed planktonic foraminifer	Calibrated with Calib6.0	1865.0	6440.0	nan	
+nan	50.0	nan	nan	nan	nan	nan	nan	nan	mixed planktonic foraminifer	Calibrated with Calib6.0	2505.0	8650.0	nan	
+nan	40.0	nan	nan	nan	nan	nan	nan	nan	Nonionella	Calibrated with Calib6.0	3345.0	10700.0	nan	
+nan	30.0	nan	nan	nan	nan	nan	nan	nan	nan	Not used From core MC-29 Calibrated with Calib6.0	5.0	375.0	nan	
+nan	60.0	nan	nan	nan	nan	nan	nan	nan	mixed planktonic foraminifer	Not used From core MC-29 Calibrated with Calib6.0	125.0	255.0	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Uk37	native data (alkenone ratio) used for calculating SST, Alkenone, ,,, marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenones, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,U37K index, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994);  
+##notes	quality-controlled data from Sachs (2007), ,,,, marine sediment, ,,C,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Uk37           temperature    notes	
+1950.0	0.331982701	8.62	nan	
+1820.0	0.324887194	8.41	nan	
+1570.0	0.335525616	8.721341659	nan	
+1510.0	0.338205544	8.800163059	nan	
+1440.0	0.340590177	8.870299337	nan	
+1360.0	0.340210855	8.859142795	nan	
+1250.0	0.34095705	8.881089692	nan	
+1150.0	0.346865029	9.054853783	nan	
+1040.0	0.351133532	9.180397989	nan	
+930.0	0.353904253	9.26188978	nan	
+830.0	0.36148126	9.484742945	nan	
+720.0	0.366396634	9.629312758	nan	
+620.0	0.370880497	9.76119108	nan	
+510.0	0.348199482	9.094102405	mean	
+400.0	0.368175512	9.681632714	nan	

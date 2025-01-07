@@ -1,0 +1,338 @@
+# Oppo.Makassar_Strait.2009
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MakassarStrait.Oppo.2009-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MakassarStrait.Oppo.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/pubs/oppo2009/oppo2009.html
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Oppo.Makassar_Strait.2009
+#------------------
+# Investigators
+#     Investigators: Oppo, Delia W.;Rosenthal, Yair;Linsley, Braddock K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016Pacific0335aOppo2009_MC31,BJ8-03-32GGC,BJ8-03-34GGC Combination of Oppo et al., (2009) data from the three cores recovered from the same drill site. Data sorted based on age.;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Identical to O2kLR_148
+#------------------
+# Publication
+#     Authors: Oppo, Delia W.;Rosenthal, Yair;Linsley, Braddock K.
+#     Published_Date_or_Year: 2009
+#     Published_Title: 2,000-year-long temperature and hydrology reconstructions from the Indo-Pacific warm pool
+#     Journal_Name: Nature
+#     Volume: 460
+#     Edition: 
+#     Issue: 
+#     Pages: 1113-1116
+#     Report: 
+#     DOI: 10.1038/nature08233
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Makassar Strait
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -3.53
+#     Southernmost_Latitude: -3.53
+#     Easternmost_Longitude: 119.2
+#     Westernmost_Longitude: 119.2
+#     Elevation: -503
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -334.9
+#     Most_Recent_Year: 1982.1
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C); paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1982.1	28.71	
+1977.5	28.79	
+1973.0	28.25	
+1968.5	29.16	
+1963.9	28.44	
+1959.4	29.05	
+1954.8	28.3	
+1950.3	28.52	
+1950.0	28.04	
+1945.7	28.39	
+1941.2	27.76	
+1936.6	27.78	
+1934.99	28.06	
+1932.1	28.15	
+1927.5	27.24	
+1927.48	28.49	
+1923.0	27.76	
+1919.97	28.19	
+1913.9	28.35	
+1912.46	27.98	
+1909.4	27.85	
+1904.96	28.1	
+1904.8	28.12	
+1900.3	27.2	
+1897.45	27.59	
+1895.7	28.92	
+1891.2	28.07	
+1884.3	29.0	
+1877.4	28.17	
+1876.8	28.39	
+1870.4	28.85	
+1863.5	27.76	
+1861.79	27.73	
+1856.6	27.8	
+1854.28	27.6	
+1849.7	27.3	
+1846.77	27.03	
+1842.8	27.99	
+1839.26	29.01	
+1835.9	27.71	
+1829.0	27.45	
+1824.25	27.24	
+1822.1	27.05	
+1815.2	27.51	
+1808.3	27.5	
+1801.3	28.93	
+1794.4	27.3	
+1787.5	27.84	
+1786.71	27.38	
+1780.6	27.28	
+1773.7	28.02	
+1766.8	27.83	
+1759.9	28.39	
+1753.0	27.59	
+1749.18	27.49	
+1746.1	27.82	
+1739.1	27.08	
+1732.2	27.75	
+1718.4	26.93	
+1711.64	27.43	
+1711.5	28.06	
+1674.1	27.5	
+1636.56	27.92	
+1622.47	27.21	
+1618.41	28.44	
+1614.34	28.68	
+1610.28	28.68	
+1606.22	28.52	
+1599.03	27.32	
+1581.84	27.56	
+1577.78	27.5	
+1569.66	27.72	
+1561.53	27.76	
+1559.61	28.45	
+1557.47	28.22	
+1545.28	27.54	
+1537.16	27.43	
+1533.09	27.86	
+1520.91	27.54	
+1516.84	28.24	
+1512.78	27.34	
+1508.72	28.34	
+1504.66	27.43	
+1500.59	27.36	
+1484.54	28.9	
+1484.34	28.01	
+1480.28	28.32	
+1476.22	28.52	
+1472.16	28.65	
+1447.78	27.42	
+1447.0	27.5	
+1443.72	27.7	
+1435.59	27.99	
+1427.47	28.03	
+1423.41	27.92	
+1419.34	28.9	
+1415.62	27.94	
+1415.28	27.84	
+1411.22	27.67	
+1407.16	27.88	
+1394.97	28.28	
+1392.6	27.64	
+1390.91	28.76	
+1386.84	27.4	
+1386.32	28.18	
+1384.23	27.71	
+1373.77	28.5	
+1366.53	28.3	
+1358.41	27.63	
+1354.94	28.16	
+1352.85	28.24	
+1350.28	28.44	
+1342.16	27.78	
+1334.03	28.28	
+1317.78	28.15	
+1301.53	28.21	
+1260.91	27.97	
+1252.78	28.77	
+1221.23	28.69	
+1220.28	27.59	
+1181.15	28.94	
+1169.23	29.14	
+1145.4	28.63	
+1133.48	28.86	
+1121.56	28.5	
+1109.65	27.76	
+1097.73	29.01	
+1085.81	27.87	
+1038.15	28.58	
+1014.31	28.54	
+1002.4	28.43	
+996.8	28.34	
+990.48	28.15	
+966.65	28.05	
+960.89	27.76	
+930.9	28.33	
+918.98	29.03	
+916.0	28.59	
+907.06	28.71	
+903.8	27.88	
+871.31	27.62	
+859.4	28.84	
+835.56	28.74	
+823.65	27.62	
+811.73	28.46	
+799.81	28.07	
+781.8	27.59	
+764.06	28.54	
+752.15	28.23	
+720.8	27.96	
+680.65	28.49	
+668.73	28.84	
+659.8	27.88	
+656.81	28.44	
+632.98	27.45	
+616.57	27.97	
+608.9	28.85	
+598.8	28.18	
+593.55	28.18	
+585.88	28.53	
+578.21	28.4	
+570.53	29.4	
+562.86	28.01	
+555.19	27.33	
+547.51	28.78	
+539.84	27.71	
+537.8	27.97	
+524.5	28.56	
+516.82	28.4	
+509.15	27.45	
+486.13	28.5	
+478.46	28.29	
+476.8	28.4	
+470.78	28.74	
+463.11	27.99	
+455.44	28.62	
+447.76	28.3	
+432.42	27.36	
+424.75	28.83	
+417.07	28.25	
+415.8	27.89	
+401.73	28.25	
+386.38	28.54	
+378.71	28.71	
+371.03	28.84	
+354.8	28.91	
+340.34	28.29	
+332.67	29.0	
+325.0	29.07	
+317.32	28.46	
+306.0	29.02	
+294.3	28.56	
+278.96	27.67	
+271.28	28.83	
+268.96	29.29	
+263.61	28.54	
+255.94	28.65	
+248.26	28.2	
+240.59	28.67	
+232.92	28.71	
+207.22	28.69	
+204.05	28.05	
+188.65	28.55	
+173.25	28.86	
+157.86	28.93	
+139.3	28.09	
+127.06	29.27	
+111.66	29.0	
+96.26	28.11	
+80.86	28.09	
+65.46	28.31	
+52.87	28.71	
+50.07	28.54	
+19.27	28.34	
+3.87	28.2	
+-57.73	28.43	
+-134.72	28.97	
+-180.92	28.07	
+-257.91	28.28	
+-304.1	28.58	
+-334.9	29.06	

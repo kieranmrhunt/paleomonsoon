@@ -1,0 +1,136 @@
+# Cariaco Basin Foraminiferal Mg/Ca and SST Reconstruction
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-CariacoBasin.Lea.2003-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-CariacoBasin.Lea.2003.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:2567749405070175::::P1_STUDY_ID:2585
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Cariaco Basin Foraminiferal Mg/Ca and SST Reconstruction
+#------------------
+# Investigators
+#     Investigators: Lea, D.W.; Pak, D.K.; Peterson, L.C.; Hughen, K.A.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; A calendar time scale, derived from the available radiocarbon ages (15) and by matching the grayscale record of 39PC to core 56PC, which has been placed on a varve chronology (18, 19), provides the chronological framework for the proxy SST record (21) (Fig. 2 and table S2).
+#------------------
+# Publication
+#     Authors: Lea, D. W.
+#     Published_Date_or_Year: 2003
+#     Published_Title: Synchroneity of tropical and high-latitude Atlantic temperatures over the last glacial termination
+#     Journal_Name: Science
+#     Volume: 301
+#     Edition: 
+#     Issue: 
+#     Pages: 1361-1364
+#     Report: 
+#     DOI: 10.1126/science.1088470
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: US-NSF
+#     Grant: OCE-0117886
+#------------------
+# Site_Information
+#     Site_Name: Cariaco Basin/Southern Caribbean Sea
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 10.7
+#     Southernmost_Latitude: 10.7
+#     Easternmost_Longitude: -64.94
+#     Westernmost_Longitude: -64.94
+#     Elevation: -790
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -158.0
+#     Most_Recent_Year: 1399.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+nan	nan	nan	2238.0	nan	nan	nan	nan	nan	planktonic foraminifera	CALIB v.4.4	745.0	nan	nan	
+nan	nan	nan	1383.0	nan	nan	nan	nan	nan	planktonic foraminifera	nan	450.0	nan	nan	
+nan	nan	nan	945.0	nan	nan	nan	nan	nan	planktonic foraminifera	nan	260.0	nan	nan	
+nan	nan	nan	477.0	nan	nan	nan	nan	nan	planktonic foraminifera	nan	70.0	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; DEK2002: Mg/Ca=0.38*exp(0.09*[SST-0.61 (core depth km)]); (Dekens et al.; (2002); core tops; G ruber);  
+##notes	quality-controlled data from Lea et al. (2003) that was used in the O2K-LR analysis, ,,,, marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    notes	
+1399.0	26.5	4.109	
+1239.0	27.0	4.301	
+1153.0	26.7	4.22	
+1005.0	26.8	4.244	
+913.0	26.9	4.29	
+763.0	26.5	4.145	
+682.0	26.5	4.131	
+567.0	26.7	4.204	
+422.0	26.9	4.259	
+277.0	26.9	4.273	
+132.0	27.4	4.487	
+-13.0	27.2	4.383	
+-158.0	26.1	3.966	

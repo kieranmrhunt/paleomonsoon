@@ -1,0 +1,311 @@
+# Oppo.Makassar_Strait.2009
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MakassarStrait.Oppo.2009-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MakassarStrait.Oppo.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/pubs/oppo2009/oppo2009.html
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Oppo.Makassar_Strait.2009
+#------------------
+# Investigators
+#     Investigators: Oppo, Delia W.;Rosenthal, Yair;Linsley, Braddock K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016Pacific0335aOppo2009_MC31,BJ8-03-32GGC,BJ8-03-34GGC Combination of Oppo et al., (2009) data from the three cores recovered from the same drill site. Data sorted based on age.;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Identical to O2kLR_148
+#------------------
+# Publication
+#     Authors: Oppo, Delia W.;Rosenthal, Yair;Linsley, Braddock K.
+#     Published_Date_or_Year: 2009
+#     Published_Title: 2,000-year-long temperature and hydrology reconstructions from the Indo-Pacific warm pool
+#     Journal_Name: Nature
+#     Volume: 460
+#     Edition: 
+#     Issue: 
+#     Pages: 1113-1116
+#     Report: 
+#     DOI: 10.1038/nature08233
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Makassar Strait
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -3.53
+#     Southernmost_Latitude: -3.53
+#     Easternmost_Longitude: 119.2
+#     Westernmost_Longitude: 119.2
+#     Elevation: -503
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 25.0
+#     Most_Recent_Year: 1955.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  Age-depth conversion was not provided in online dataset. All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1955.0	28.360316	
+1945.0	28.223853	
+1935.0	28.136902	
+1925.0	27.961189	
+1915.0	27.990508	
+1905.0	28.061499	
+1895.0	28.198516	
+1885.0	28.134437	
+1875.0	28.170856	
+1865.0	27.965162	
+1855.0	27.944404	
+1845.0	27.638996	
+1835.0	27.600189	
+1825.0	27.68577	
+1815.0	27.702696	
+1805.0	27.703546	
+1795.0	27.89804	
+1785.0	27.947444	
+1775.0	27.939175	
+1765.0	27.991474	
+1755.0	27.786141	
+1745.0	27.677979	
+1735.0	27.591669	
+1725.0	27.439199	
+1715.0	27.30835	
+1705.0	27.422237	
+1695.0	27.470756	
+1685.0	27.55656	
+1675.0	27.54543	
+1665.0	27.630567	
+1655.0	27.633318	
+1645.0	27.759422	
+1635.0	27.968472	
+1625.0	28.069693	
+1615.0	28.077152	
+1605.0	28.091482	
+1595.0	28.043695	
+1585.0	27.893366	
+1575.0	27.893928	
+1565.0	27.895625	
+1555.0	27.822119	
+1545.0	27.903324	
+1535.0	27.938163	
+1525.0	27.918865	
+1515.0	27.989749	
+1505.0	28.09551	
+1495.0	28.153675	
+1485.0	28.152607	
+1475.0	28.280411	
+1465.0	28.137757	
+1455.0	28.132117	
+1445.0	28.115287	
+1435.0	28.162353	
+1425.0	28.117624	
+1415.0	28.232394	
+1405.0	28.161874	
+1395.0	28.210752	
+1385.0	28.185387	
+1375.0	28.194391	
+1365.0	28.154532	
+1355.0	28.253911	
+1345.0	28.20607	
+1335.0	28.221079	
+1325.0	28.26305	
+1315.0	28.327843	
+1305.0	28.31893	
+1295.0	28.291299	
+1285.0	28.288108	
+1275.0	28.324384	
+1265.0	28.538738	
+1255.0	28.728401	
+1245.0	28.652821	
+1235.0	28.839819	
+1225.0	28.721056	
+1215.0	28.659336	
+1205.0	28.635199	
+1195.0	28.779607	
+1185.0	28.751265	
+1175.0	28.884558	
+1165.0	28.757376	
+1155.0	28.875045	
+1145.0	28.79046	
+1135.0	28.714857	
+1125.0	28.676355	
+1115.0	28.653817	
+1105.0	28.41259	
+1095.0	28.596032	
+1085.0	28.548184	
+1075.0	28.576082	
+1065.0	28.761223	
+1055.0	28.79524	
+1045.0	28.696442	
+1035.0	28.64022	
+1025.0	28.545263	
+1015.0	28.385719	
+1005.0	28.372866	
+995.0	28.160633	
+985.0	28.118362	
+975.0	28.074228	
+965.0	27.905278	
+955.0	28.04667	
+945.0	28.04667	
+935.0	28.650259	
+925.0	28.507008	
+915.0	28.507008	
+905.0	28.551397	
+895.0	28.365567	
+885.0	28.068838	
+875.0	28.229207	
+865.0	28.229207	
+855.0	28.398649	
+845.0	28.398649	
+835.0	28.413706	
+825.0	28.272887	
+815.0	28.222332	
+805.0	27.934318	
+795.0	28.038341	
+785.0	28.066078	
+775.0	28.106109	
+765.0	28.117922	
+755.0	28.384145	
+745.0	28.241908	
+735.0	28.091817	
+725.0	27.957434	
+715.0	27.957434	
+705.0	28.221684	
+695.0	28.485934	
+685.0	28.66323	
+675.0	28.410582	
+665.0	28.410582	
+655.0	28.1505	
+645.0	28.1505	
+635.0	27.9322	
+625.0	28.086668	
+615.0	28.12441	
+605.0	28.341914	
+595.0	28.500111	
+585.0	28.505831	
+575.0	28.288573	
+565.0	28.406574	
+555.0	28.227818	
+545.0	28.060587	
+535.0	28.126408	
+525.0	28.147123	
+515.0	28.020252	
+505.0	28.228072	
+495.0	28.297459	
+485.0	28.228107	
+475.0	28.423055	
+465.0	28.405436	
+455.0	28.242475	
+445.0	28.218895	
+435.0	28.20923	
+425.0	28.148162	
+415.0	28.117849	
+405.0	28.354076	
+395.0	28.413933	
+385.0	28.584128	
+375.0	28.748416	
+365.0	28.656386	
+355.0	28.748141	
+345.0	28.817877	
+335.0	28.745626	
+325.0	28.76664	
+315.0	28.820092	
+305.0	28.775459	
+295.0	28.50568	
+285.0	28.651147	
+275.0	28.589621	
+265.0	28.549968	
+255.0	28.570108	
+245.0	28.676777	
+235.0	28.556391	
+225.0	28.462892	
+215.0	28.482293	
+205.0	28.427456	
+195.0	28.534538	
+185.0	28.534538	
+175.0	28.777318	
+165.0	28.777318	
+155.0	28.623555	
+145.0	28.761101	
+135.0	28.820482	
+125.0	28.78411	
+115.0	28.616249	
+105.0	28.617267	
+95.0	28.400215	
+85.0	28.171824	
+75.0	28.354347	
+65.0	28.414767	
+55.0	28.523238	
+45.0	28.523238	
+35.0	28.530854	
+25.0	28.266247	

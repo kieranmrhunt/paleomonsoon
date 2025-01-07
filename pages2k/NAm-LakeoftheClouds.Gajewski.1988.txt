@@ -1,0 +1,170 @@
+# Gajewski.Lake_of_the_Clouds.1988
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-LakeoftheClouds.Gajewski.1988.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-LakeoftheClouds.Gajewski.1988.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gajewski.Lake_of_the_Clouds.1988
+#------------------
+# Investigators
+#     Investigators: Gajewski, K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Gajewski, K.
+#     Published_Date_or_Year: 1988
+#     Published_Title: Late holocene climate changes in eastern North America estimated from pollen data
+#     Journal_Name: Quaternary Research
+#     Volume: 29
+#     Edition: 
+#     Issue: 3
+#     Pages: 255-262
+#     Report: 
+#     DOI: 10.1016/0033-5894(88)90034-8
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Lake of the Clouds
+#     Location: 
+#     Country: USA
+#     Northernmost_Latitude: 48
+#     Southernmost_Latitude: 48
+#     Easternmost_Longitude: -91
+#     Westernmost_Longitude: -91
+#     Elevation: 462
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -20.0
+#     Most_Recent_Year: 920.0
+#     Time_Unit: BP
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##precipitation	Total annual precipitation, ,,mm, 1 2 3 4 5 6 7 8 9 10 11 12, lake sediment, ,,, ; climateInterpretation_seasonality changed - was originally annual;  
+##temperature	Mean temperature of July, ,,degC, 7, lake sediment, ,,, ; climateInterpretation_seasonality changed - was originally July;  
+##age	Years before present (1950) BP, ,,BP, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           precipitation  temperature    age	
+1970.0	767.0	17.7	-20.0	
+1960.0	757.0	17.6	-10.0	
+1950.0	718.0	17.6	0.0	
+1940.0	782.0	17.3	10.0	
+1930.0	791.0	17.3	20.0	
+1920.0	793.0	17.6	30.0	
+1910.0	777.0	17.4	40.0	
+1900.0	823.0	17.3	50.0	
+1890.0	811.0	17.4	60.0	
+1880.0	835.0	17.3	70.0	
+1870.0	810.0	17.2	80.0	
+1860.0	829.0	17.2	90.0	
+1850.0	814.0	17.3	100.0	
+1840.0	813.0	17.2	110.0	
+1830.0	791.0	17.3	120.0	
+1820.0	865.0	17.3	130.0	
+1810.0	853.0	17.4	140.0	
+1800.0	801.0	17.6	150.0	
+1790.0	809.0	17.6	160.0	
+1780.0	766.0	17.6	170.0	
+1770.0	784.0	17.5	180.0	
+1760.0	782.0	17.4	190.0	
+1750.0	863.0	17.6	200.0	
+1740.0	827.0	17.5	210.0	
+1730.0	846.0	17.1	220.0	
+1720.0	841.0	17.3	230.0	
+1700.0	880.0	17.4	250.0	
+1680.0	830.0	17.3	270.0	
+1660.0	842.0	17.1	290.0	
+1640.0	824.0	17.4	310.0	
+1620.0	826.0	17.3	330.0	
+1610.0	839.0	17.3	340.0	
+1580.0	822.0	17.1	370.0	
+1560.0	823.0	17.5	390.0	
+1540.0	810.0	17.3	410.0	
+1530.0	821.0	17.3	420.0	
+1510.0	783.0	17.5	440.0	
+1500.0	774.0	17.4	450.0	
+1480.0	788.0	17.4	470.0	
+1470.0	823.0	17.8	480.0	
+1450.0	784.0	17.8	500.0	
+1430.0	813.0	17.8	520.0	
+1410.0	824.0	17.5	540.0	
+1400.0	782.0	17.3	550.0	
+1390.0	802.0	17.2	560.0	
+1370.0	828.0	17.4	580.0	
+1350.0	786.0	17.6	600.0	
+1330.0	809.0	17.4	620.0	
+1310.0	855.0	17.4	640.0	
+1290.0	796.0	17.3	660.0	
+1280.0	847.0	17.4	670.0	
+1260.0	869.0	17.2	690.0	
+1240.0	798.0	17.0	710.0	
+1230.0	856.0	17.3	720.0	
+1210.0	832.0	17.3	740.0	
+1190.0	835.0	17.3	760.0	
+1180.0	815.0	17.2	770.0	
+1160.0	856.0	17.3	790.0	
+1140.0	847.0	17.3	810.0	
+1130.0	808.0	17.2	820.0	
+1110.0	842.0	17.4	840.0	
+1090.0	831.0	17.6	860.0	
+1080.0	802.0	17.6	870.0	
+1060.0	739.0	17.5	890.0	
+1050.0	857.0	17.6	900.0	
+1030.0	879.0	17.3	920.0	

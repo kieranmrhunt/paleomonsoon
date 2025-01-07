@@ -1,0 +1,361 @@
+# Sicre.South_Iceland/North_Atlantic.2011
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SouthIceland.Sicre.2011-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SouthIceland.Sicre.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:12359
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Sicre.South_Iceland/North_Atlantic.2011
+#------------------
+# Investigators
+#     Investigators: Sicre, M.-A.;Hall, I. R.;Mignot, J.;Khodri, M.;Ezat, U.;Truong, M.-X.;Eiríksson, J.;Knudsen, K.-L.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Atlantic0235Sicre2011__RAPid 21-3K_alkenone Data are from the same location as the composite in Miettinen et al., (2012; diatoms, August SST, cores RAPiD-21-3K + RAPiD-21-12B ). The alkenone reconstruction from Sicre et al. (2011; RAPiD-21-3K) has higher resolution down core, and covers a wider range of the calendar year. The associated box core RAPiD-21-12B has an intact sediment surface and 210Pb measurements, however we did not apply the age model from RAPiD-21-12B to the RAPiD-21-3K alkenone record. Data younger than the youngest14C age (1730 CE) in RAPiD-21-3K were removed.;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset contains NaN values and datapoints whose chronology is not QC'd (near top of the core)
+#------------------
+# Publication
+#     Authors: Sicre, M.-A.;Hall, I. R.;Mignot, J.;Khodri, M.;Ezat, U.;Truong, M.-X.;Eiríksson, J.;Knudsen, K.-L.
+#     Published_Date_or_Year: 2011
+#     Published_Title: Sea surface temperature variability in the subpolar Atlantic over the last two millennia
+#     Journal_Name: Paleoceanography
+#     Volume: 26
+#     Edition: 
+#     Issue: 4
+#     Pages: n/a-n/a
+#     Report: 
+#     DOI: 10.1029/2011PA002169
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: South Iceland/North Atlantic
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 57.45
+#     Southernmost_Latitude: 57.45
+#     Easternmost_Longitude: -27.91
+#     Westernmost_Longitude: -27.91
+#     Elevation: -2630
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -5.07
+#     Most_Recent_Year: 1723.87
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, 3 4 5 6 7 8, marine sediment, ,Calibration: PRA1988, N,  PRA1988: E. huxleyi culture-based calibration. No RMSE is reported in the original publication; so a RMSE was calculated by taking a regression off of the five culture T-UK37 datapoints reported in the publication.; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally MAMJJA; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1723.87	10.83	
+1715.96	10.16	
+1708.08	10.73	
+1700.23	10.76	
+1692.4	10.59	
+1676.85	10.26	
+1661.4	11.68	
+1653.72	9.76	
+1646.07	11.68	
+1638.45	9.66	
+1630.86	9.72	
+1623.29	9.91	
+1615.75	9.88	
+1608.23	9.82	
+1600.74	9.73	
+1593.28	9.92	
+1585.85	9.51	
+1578.43	9.48	
+1571.05	9.41	
+1563.69	9.68	
+1556.35	9.72	
+1549.04	9.84	
+1541.76	10.14	
+1534.49	10.08	
+1527.26	9.97	
+1520.04	9.7	
+1512.85	10.42	
+1505.68	9.6	
+1498.53	12.9	
+1491.41	10.73	
+1484.31	10.25	
+1477.23	9.59	
+1470.17	10.45	
+1463.13	9.13	
+1456.12	10.93	
+1449.12	13.26	
+1442.15	10.84	
+1435.19	10.45	
+1428.26	10.22	
+1421.34	10.07	
+1414.45	9.08	
+1407.57	9.71	
+1400.71	9.92	
+1393.88	10.65	
+1387.06	10.09	
+1380.25	9.49	
+1373.47	10.34	
+1366.7	9.96	
+1359.95	8.86	
+1353.22	9.71	
+1346.51	9.99	
+1339.81	9.42	
+1333.12	9.76	
+1326.46	9.67	
+1319.81	9.56	
+1313.17	10.21	
+1306.55	10.33	
+1299.94	10.5	
+1293.35	10.0	
+1286.78	10.3	
+1280.21	10.4	
+1273.67	10.07	
+1267.13	9.88	
+1260.61	10.4	
+1254.1	10.12	
+1247.6	9.65	
+1241.12	10.08	
+1234.65	10.41	
+1228.19	9.43	
+1221.74	10.88	
+1215.3	10.45	
+1208.88	10.9	
+1202.46	9.57	
+1196.06	11.15	
+1189.67	11.37	
+1183.28	9.92	
+1176.91	10.39	
+1170.55	10.67	
+1164.19	10.78	
+1157.84	10.74	
+1151.51	10.22	
+1145.18	11.32	
+1138.86	11.07	
+1132.55	11.08	
+1126.24	10.44	
+1113.65	10.44	
+1107.37	10.63	
+1101.09	10.28	
+1094.82	13.2	
+1088.56	10.6	
+1082.3	9.81	
+1076.04	10.56	
+1069.8	10.18	
+1063.55	10.34	
+1057.31	10.32	
+1051.08	10.62	
+1044.85	10.25	
+1038.62	9.52	
+1032.4	11.27	
+1026.18	10.5	
+1019.97	10.34	
+1013.75	10.05	
+1007.54	10.11	
+1001.34	7.71	
+995.13	9.35	
+988.92	11.31	
+982.72	9.96	
+976.52	10.35	
+970.32	10.53	
+964.12	10.4	
+957.92	10.1	
+951.72	10.56	
+945.52	10.73	
+939.32	9.63	
+933.12	10.69	
+926.92	10.43	
+920.71	10.5	
+914.51	10.91	
+908.3	10.6	
+902.09	10.71	
+895.88	10.25	
+889.67	10.5	
+883.46	10.32	
+877.24	10.64	
+871.01	10.17	
+864.79	10.55	
+852.32	10.63	
+846.09	10.36	
+839.84	10.23	
+833.6	10.64	
+827.34	10.86	
+821.08	10.6	
+814.82	10.3	
+808.55	10.26	
+802.27	9.97	
+795.99	9.63	
+789.7	11.08	
+777.1	10.06	
+770.78	10.34	
+764.46	10.19	
+758.14	9.87	
+751.8	9.31	
+745.45	10.17	
+739.1	10.05	
+732.73	10.03	
+726.36	9.33	
+719.98	10.35	
+713.59	10.25	
+707.18	10.23	
+700.77	10.19	
+687.91	9.26	
+681.46	10.27	
+675.0	10.27	
+668.53	10.32	
+662.05	10.78	
+655.55	9.82	
+649.04	10.61	
+642.52	10.56	
+635.99	10.18	
+629.44	10.73	
+622.88	10.43	
+616.3	10.89	
+609.71	10.39	
+603.1	10.35	
+596.48	9.09	
+589.85	9.38	
+583.2	10.55	
+576.53	9.72	
+569.85	9.92	
+563.15	8.75	
+556.44	10.53	
+549.71	10.99	
+542.96	11.49	
+536.19	10.32	
+529.41	10.78	
+522.61	9.55	
+515.79	10.09	
+508.95	10.27	
+502.09	10.3	
+495.22	8.92	
+488.32	9.59	
+481.41	9.95	
+474.48	10.33	
+467.52	10.69	
+460.55	10.25	
+453.55	10.44	
+446.54	10.67	
+439.5	10.82	
+432.44	10.58	
+425.37	10.45	
+418.26	10.45	
+411.14	10.93	
+404.0	10.78	
+396.83	10.51	
+389.64	10.32	
+382.42	10.86	
+375.19	10.14	
+367.92	10.96	
+360.64	11.17	
+353.33	10.78	
+345.99	10.92	
+338.64	10.53	
+331.25	10.99	
+323.84	11.13	
+316.41	11.0	
+308.95	10.51	
+301.46	10.91	
+293.95	11.27	
+286.4	10.69	
+278.84	10.77	
+271.24	10.82	
+263.62	10.09	
+255.97	10.7	
+248.29	10.49	
+240.59	10.72	
+232.85	10.8	
+225.09	10.85	
+217.3	10.39	
+209.48	10.95	
+201.63	10.89	
+193.74	10.42	
+177.89	10.46	
+169.92	10.55	
+161.91	11.47	
+153.88	10.98	
+145.81	10.74	
+137.71	10.8	
+129.58	10.88	
+121.42	10.64	
+113.23	10.21	
+105.0	10.67	
+96.74	10.48	
+88.44	10.47	
+80.12	10.34	
+71.75	10.99	
+63.36	10.66	
+54.93	10.37	
+46.46	10.39	
+37.96	11.37	
+29.43	9.9	
+20.85	10.11	
+12.25	10.43	
+3.6	10.5	
+-5.07	10.69	

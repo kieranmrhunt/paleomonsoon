@@ -1,0 +1,173 @@
+# East equatorial Atlantic Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GulfofGuinea.Weldeab.2007-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GulfofGuinea.Weldeab.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:2163030193099666::::P1_STUDY_ID:5596
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: East equatorial Atlantic Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Weldeab, S.; Lea, D.W.; Schneider, R.R.; Andersen, N.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Weldeab, S.;Lea, D. W.;Schneider, R. R.;Andersen, N.
+#     Published_Date_or_Year: 2007
+#     Published_Title: 155,000 years of west African monsoon and ocean thermal evolution
+#     Journal_Name: Science
+#     Volume: 316
+#     Edition: 
+#     Issue: 5829
+#     Pages: 1303-1307
+#     Report: 
+#     DOI: 10.1126/science.1140461
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: EU Grant HPRI-2001-00120
+#     Grant: OCE0317611
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: US NSF
+#     Grant:  OCE0502609
+#------------------
+# Site_Information
+#     Site_Name: Gulf of Guinea
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 2.5
+#     Southernmost_Latitude: 2.5
+#     Easternmost_Longitude: 9.38
+#     Westernmost_Longitude: 9.38
+#     Elevation: -1295
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 40.0
+#     Most_Recent_Year: 1590.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+KIA 31013	25.0	1972.0	1930.0	nan	nan	nan	nan	1892.0	planktonic foraminifera	CALIB 5.0.1; additional dates on core that exceed last 2kyr period	1075.0	2320.0	nan	
+KIA 31012	25.0	1488.0	1450.0	nan	nan	nan	nan	1402.0	planktonic foraminifera	CALIB 5.0.1; additional dates on core that exceed last 2kyr period	675.0	1900.0	nan	
+KIA 31011	25.0	600.0	570.0	nan	nan	nan	nan	533.0	planktonic foraminifera	CALIB 5.0.1; additional dates on core that exceed last 2kyr period	255.0	975.0	nan	
+KIA 31010	25.0	293.0	270.0	nan	nan	nan	nan	250.0	planktonic foraminifera	CALIB 5.0.1; additional dates on core that exceed last 2kyr period	145.0	620.0	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio that is used to calculate SST, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature    depth	
+1590.0	3.43	25.26	14.5	
+1550.0	3.53	25.56	16.5	
+1520.0	3.68	26.02	18.5	
+1480.0	3.68	26.03	20.5	
+1440.0	3.29	24.79	22.5	
+1410.0	3.38	25.08	24.5	
+1370.0	3.45	25.31	26.5	
+1340.0	3.55	25.63	28.5	
+1300.0	3.65	25.95	30.5	
+1270.0	3.46	25.36	32.5	
+1230.0	3.43	25.23	34.5	
+1200.0	3.55	25.63	36.5	
+1160.0	3.23	24.57	38.5	
+1130.0	3.69	26.07	40.5	
+1090.0	3.59	25.76	42.5	
+1060.0	3.5	25.47	44.5	
+1020.0	3.69	26.06	46.5	
+990.0	3.53	25.57	48.5	
+950.0	3.51	25.49	50.5	
+920.0	3.61	25.8	52.5	
+880.0	3.54	25.6	54.5	
+850.0	3.45	25.31	56.5	
+820.0	3.68	26.04	58.5	
+780.0	3.45	25.31	60.5	
+750.0	3.63	25.89	62.5	
+710.0	3.62	25.85	64.5	
+680.0	3.74	26.22	66.5	
+640.0	3.45	25.3	68.5	
+610.0	3.52	25.54	70.5	
+580.0	3.62	25.85	72.5	
+540.0	3.78	26.33	74.5	
+510.0	3.88	26.62	76.5	
+480.0	3.73	26.19	78.5	
+440.0	3.82	26.43	80.5	
+410.0	4.09	27.2	82.5	
+370.0	3.44	25.27	84.5	
+340.0	3.95	26.82	86.5	
+310.0	3.88	26.62	88.5	
+270.0	3.81	26.41	90.5	
+210.0	3.68	26.02	94.5	
+170.0	3.64	25.91	96.5	
+140.0	3.72	26.15	98.5	
+110.0	3.72	26.16	100.5	
+70.0	3.91	26.71	102.5	
+40.0	3.75	26.24	104.5	

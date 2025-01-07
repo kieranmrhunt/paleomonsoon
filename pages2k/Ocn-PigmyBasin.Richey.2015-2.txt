@@ -1,0 +1,238 @@
+# Gulf of Mexico, Pigmy Atlantic marine sediment Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-PigmyBasin.Richey.2015-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-PigmyBasin.Richey.2015.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:410856366157434::::P1_STUDY_ID:5584
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gulf of Mexico, Pigmy Atlantic marine sediment Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Richey J.N; Poore, R.Z; Flower, B.P; Quinn, T.M; Hollander, D.J.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: McGregor, H.V.;Evans, M. N.;Goosse, H.;Leduc, G.;Martrat, B.;Addison, J.A.;Mortyn, P.G.;Oppo, D.W. abd Seidenkrantz, M.S.;Sicre, M.A.;Phipps, S.J.;Selvaraj, K.;Thirumalai, K.;Filipsson, H.L.,Ersek, V.
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/NGEO2510
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Pigmy Basin, Gulf of Mexico box core PBBC-1
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 27.2
+#     Southernmost_Latitude: 27.2
+#     Easternmost_Longitude: -91.42
+#     Westernmost_Longitude: -91.42
+#     Elevation: -2259
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 494.706
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	Mg/Ca on G. ruber (W), ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature    depth	
+1950.0	4.398	25.35	0.0	
+1937.667	4.29028031877522	25.0787162712993	0.5	
+1925.334	3.92678754260799	24.0950451518678	1.0	
+1913.001	4.04017358691057	24.4113338816328	1.5	
+1900.668	3.98256061232781	24.2517485954904	2.0	
+1888.335	3.99340905558901	24.2819739694092	2.5	
+1876.002	3.87565353064119	23.9494076988173	3.0	
+1863.669	3.68093630671264	23.3766615803391	3.5	
+1851.336	3.83056009545891	23.8193713640419	4.0	
+1839.003	3.89183766460433	23.9957093852701	4.5	
+1826.67	3.87162317533448	23.937847061094	5.0	
+1814.337	3.86044937106326	23.9057331701616	5.5	
+1802.004	3.5827336157924	23.076205334489	6.0	
+1789.671	3.70251339426021	23.4416030668793	6.5	
+1777.338	3.77390411742511	23.6538047975092	7.0	
+1765.005	3.77686700316161	23.6625246895021	7.5	
+1752.672	4.01967859019696	24.3548259776345	8.0	
+1740.339	3.49793780024069	22.8100665128614	8.5	
+1728.006	3.77674122709609	23.6621546645295	9.0	
+1715.673	3.841	23.8496126733739	9.5	
+1703.34	3.30973075866413	22.1955470614124	10.0	
+1691.007	3.53323680403019	22.9216309300279	10.5	
+1678.674	3.56336731978295	23.0159818376467	11.0	
+1666.341	nan	nan	11.5	
+1654.008	3.78241915736815	23.6788464987518	12.0	
+1641.675	3.68500159131385	23.3889260968511	12.5	
+1629.342	3.37051571280867	22.3977572711467	13.0	
+1617.009	nan	nan	13.5	
+1604.676	3.99833848868828	24.2956809804286	14.0	
+1592.343	3.67542517187229	23.3600134471026	14.5	
+1580.01	3.79444534064298	23.7141181789718	15.0	
+1567.677	4.13275895896587	24.6630844887355	15.5	
+1555.344	3.78854824385731	23.6968365315333	16.0	
+1543.011	4.01450940848732	24.3405282389547	16.5	
+1530.678	3.73280811274442	23.5321465209952	17.0	
+1518.345	3.73735287088086	23.5456662614582	17.5	
+1506.012	3.73918780095518	23.5511201506941	18.0	
+1493.679	3.46580979171505	22.7075411411044	18.5	
+1481.346	3.93337722355382	24.113675472353	19.0	
+1469.013	4.3348724144743	25.1936063282828	19.5	
+1456.68	3.9206856864392	24.0777661083948	20.0	
+1444.347	4.20760203594216	24.8625032110589	20.5	
+1432.014	nan	nan	21.0	
+1419.681	nan	nan	21.5	
+1407.348	3.5753786168416	23.0533718731885	22.0	
+1395.015	nan	nan	22.5	
+1382.682	4.09760161247372	24.5681580135506	23.0	
+1370.349	3.87752486639258	23.9547713364892	23.5	
+1358.016	4.07507633611365	24.506909672732	24.0	
+1345.683	4.01859003803541	24.351816617124	24.5	
+1333.35	3.90948530246313	24.0459791152629	25.0	
+1321.017	4.0420524394695	24.4164998197918	25.5	
+1308.684	3.7966044121728	23.7204386972381	26.0	
+1296.351	3.83041630906619	23.8189542823276	26.5	
+1284.018	3.65248262542002	23.2904388774504	27.0	
+1271.685	3.63090420262448	23.2246011125618	27.5	
+1259.352	3.6682794740933	23.3383903914722	28.0	
+1247.019	3.88046029611108	23.9631796761894	28.5	
+1234.686	nan	nan	29.0	
+1222.353	3.86291589757658	23.9128300379457	29.5	
+1210.02	3.8776079935764	23.9550095362448	30.0	
+1197.687	4.11561400139509	24.616893608708	30.5	
+1185.354	3.8252921308915	23.8040803299034	31.0	
+1173.021	3.62584103925528	23.2090962607246	31.5	
+1160.688	3.85433799142722	23.8881295139125	32.0	
+1148.355	3.93274765462331	24.1118969065503	32.5	
+1136.022	4.03371830260426	24.3935666394042	33.0	
+1123.689	4.25869486190908	24.9966126015141	33.5	
+1111.356	3.63077267568088	23.2241986131091	34.0	
+1099.023	3.86104348462968	23.9074430109879	34.5	
+1086.69	3.43295392695775	22.6017053887746	35.0	
+1074.357	3.77834468666589	23.6668710153197	35.5	
+1062.024	3.47620758317333	22.740825731551	36.0	
+1049.691	4.06100551370498	24.4684777518236	36.5	
+1037.358	4.19039699481404	24.8169763205694	37.0	
+1025.025	4.05345137909969	24.4477900202097	37.5	
+1012.692	3.38022907667571	22.4297319178073	38.0	
+1000.359	4.03937697861673	24.4091428678575	38.5	
+988.026	4.976844580355	26.7280940339207	39.0	
+975.693	4.26505577851245	25.0131961143948	39.5	
+963.36	4.18842307029851	24.8117410977451	40.0	
+951.027	4.91930504116399	26.598885110791	40.5	
+938.694	3.9568381625048	24.1797517085369	41.0	
+926.361	3.97743881120619	24.237449873549	41.5	
+914.028	4.70571986167626	26.1056794651956	42.0	
+901.695	5.06151255694459	26.9155306018627	42.5	
+889.362	4.68351650043337	26.0531289777728	43.0	
+877.029	4.58455610007161	25.8158408508179	43.5	
+864.696	4.34337466780759	25.2153778936257	44.0	
+852.363	4.10744929944144	24.5948290964723	44.5	
+840.03	3.90326301348791	24.0282807187472	45.0	
+827.697	3.92783672990143	24.0980135017872	45.5	
+815.364	4.03866528754864	24.4071850473129	46.0	
+803.031	nan	nan	46.5	
+790.698	4.20020628896236	24.8429559082516	47.0	
+778.365	4.16754929960468	24.7562284039105	47.5	
+766.032	4.17835843934009	24.7850093642386	48.0	
+753.699	4.84662947346425	26.4335100074662	48.5	
+741.366	4.63303898251377	25.9327267970723	49.0	
+729.033	3.84101423203082	23.849653843221	49.5	
+716.7	3.9071427500012	24.0393193736729	50.0	
+704.367	4.57562756097733	25.7941805817611	50.5	
+692.034	4.58072711374542	25.8065570580543	51.0	
+679.701	4.70794930418838	26.1109423618397	51.5	
+667.368	4.89073441623807	26.5341652313269	52.0	
+655.035	4.61794278055152	25.8964634618839	52.5	
+642.702	4.83316065904092	26.4025891738272	53.0	
+630.369	4.80586976480908	26.3396714414291	53.5	
+618.036	4.78725893274574	26.2965599000599	54.0	
+605.703	4.57167310728255	25.7845737307966	54.5	
+593.37	4.85106853720207	26.4436820985771	55.0	
+581.037	4.36764182027519	25.2772847274165	55.5	
+568.704	4.35565602972404	25.2467514275878	56.0	
+556.371	4.34770462902151	25.2264491731508	56.5	
+544.038	4.22382294329266	24.9052557770132	57.0	
+531.705	4.0878741401154	24.5417495113815	57.5	
+519.372	4.11226150977029	24.6078390456065	58.0	
+507.039	3.95644200874706	24.178639222102	58.5	
+494.706	3.75173720165197	23.5883486414129	59.0	

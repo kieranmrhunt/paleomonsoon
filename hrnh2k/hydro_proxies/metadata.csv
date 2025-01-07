@@ -1,0 +1,197 @@
+geo_meanLon,geo_meanLat,archiveType,seasonality,reference,geo_siteName,pub1_dataUrl,paleoData_TSid,resolution
+9,51.5,TRE,SUM,Buntgen et al. 2010,Germany,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/europe/buentgen2011europe.txt,Germany,1.0
+75.00,46.90,POL,ANN,Feng et al. 2013,Balkhash Basin,Personal communication,BalkhashBasin,11.4250752
+31.93,41.42,SPE,ANN,Fleitmann et al. 2009,Sofular Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/asia/turkey/sofular2009.txt (inverted values),SofularCave,3.659333333333333
+-67.88,46.28,POL,SUM,Gajewski 1988,Conroy_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,Conroy_Lake,24.4375
+-121.78,42.2,TRE,ANN,Malevich et al. 2013,Upper Klamath River Basin,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/northamerica/usa/klamath2013precip.txt,UpperKlamath,1.0
+82.84,44.90,LAK,ANN,Wang et al. 2013,Lake Aibi,Personal communication,Lake_Aibi,11.085653846153836
+6.87,61.93,LAK,WIN,Vasskog et al. 2012,Nerfloen,http://www1.ncdc.noaa.gov/pub/data/paleo/paleolimnology/arctic/fennoscandia-v2.xls,Nerfloen,25.1762672893617
+-104.44,32.17,SPE,WIN,Asmerom et al. 2013,Carlsbad Cavern,Data from electronic supplement to the article,Carlsbad_Cavern,1.0008312551953449
+-94.77,49.82,LAK,ANN,Laird et al. 2012,MeekinLake,Personal communication,MeekinLake,13.646067415730338
+-108,40,TRE,ANN,Gray et al. 2011,White River,http://treeflow.info/sites/default/files/white.txt,WhiteRiver,1.0
+-98.16,46.86,LAK,ANN,Laird 1996,Moon Lake,Personal communication (inverted values),MoonLake,4.358911764705883
+-42.32,75.1,ICE,ANN,Andersen et al. 2006,NorthGRIP,http://www.iceandclimate.nbi.ku.dk/data/Andersen_etal_2006_Annual_Accumulation_22Mar2011.txt/,NorthGRIP,1.0
+-99.03,42.16,LAK,ANN,Schmieder et al. 2011,Swan Lake,Personal communication,SwanLake,17.303382352941174
+-81.5,45.1,TRE,SUM,Buckley et al. 2004,Niagara Escarpment,Personal communication,NiagaraEscarpment,1.0
+-101.03,48.01,LAK,ANN,Yu et al. 1999,Rice Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/greatplains/ricelake/ricelake_drought.txt (inverted values),RiceLake,13.505882352941176
+30.12,64.28,LAK,ANN,Luoto and Helama 2010,Lake_Pieni-Kauro,Personal communication,Lake_Pieni-Kauro,45.76923076923077
+115,30,DOC,ANN,Zheng et al. 2006,Jiangnan,Digitized from Fig. 3d,Jiangnan,19.303904761904764
+105.12,33.92,SPE,ANN,Tan et al. 2011,Huangye Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/china/huangye2011.txt (inverted values),HuangyeCave,4.50561797752809
+-76.00,36.00,TRE,SUM,Stahle et al. 2013,Albemarle Sound,Personal communication,AlbemarleSound,1.0
+126.35,42.3,LAK,ANN,Chu et al. 2009a,Lake Xiaolongwan,Personal communication (inverted values),LakeXiaolongwan,14.524096385542169
+27.65,41.58,SPE,ANN,Gokturk et al. in prep.,Uzuntarla Cave,Digitized (inverted values),UzuntarlaCave,8.221445205479451
+100,38.2,TRE,ANN,Yang et al. 2012,Heihe River Basin,Personal communication,HeiheRiverBasin,1.0
+-0.20,10.47,POL,ANN,Ngomanda et al. 2007 ,LakeNguene,Digitized from Fig. 7B,LakeNguene,25.022222222222222
+0.53,42.03,LAK,ANN,Morellon et al. 2011,Estanya Lake,Digitized,Estanya_Lake,11.139768518518519
+-116.45,52,TRE,ANN,Case and MacDonald 2003,North Saskatchewan River,Personal communication,NorthSaskatchewanRiver,1.0
+-92,41,TRE,SUM,Stambaugh et al. 2011,Central USA,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/northamerica/usa/centralusa2011phdi.txt,CentralUSA,1.0
+81.75,42.87,SPE,ANN,Zheng et al. 2012,Kesang Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/china/kesang2012.txt (inverted values),KesangCave,21.27777777777778
+97.5,37.2,TRE,ANN,Yin et al. 2008,Qaidam Basin,Personal communication,QaidamBasin,1.0
+14.12,57.25,OTH,ANN,de Jong et al. 2007,Store Mosse Bog,Personal communication,StoreMosseBog,13.84354333375
+87.15,47.15,POL,ANN,Liu et al. 2008,Wulungu Lake,Personal communication,WulunguLake,30.44058812894737
+-2.76,54.99,DWT,ANN,Daley and Barber 2012,Walton Moss,Personal communication,WaltonMoss,51.199999999999996
+-89.47,20.72,SPE,ANN,Medina-Elizalde et al. 2010,TzabnahCave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/northamerica/mexico/tzabnah2010.txt (inverted values),TzabnahCave,2.1073776223776224
+-105.12,52.14,LAK,ANN,Humboldt Lake,Laird et al. 2003,Personal communication (inverted values),HumboldtLake,6.449637426900584
+60.62,45.11,LAK,ANN,Oberhansli et al. 2011,Aral Sea Basin,Digitized,Aral_Sea_Basin,3.9651851851851854
+-87.5,20.63,LAK,ANN,Curtis et al. 1996,Punta_Laguna,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/yucatan/puntalaguna.txt (inverted values),Punta_Laguna,7.322085889570552
+-71.25,44.25,POL,SUM,Gajewski 1988,Lake_of_the_Clouds,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,lake_of_the_Clouds,14.626865671641792
+8.00    ,46.30,TRE,SUM,Kress et al. 2014,Swiss Alps,Personal communication,Swiss_Alps,1.0
+81.48,35.28,ICE,ANN,Yao et al. 1996,Guliya,Personal communication,Guliya,10.0
+102.52,32.77,LAK,ANN,Yu et al. 2006,Eastern Tibetan Plateau,Digitized from Fig 4,Eastern_Tibetan_Plateau,81.85714285714286
+99,37,TRE,ANN,Sheppard et al. 2004,QinghaiProvince,http://www04.sub.su.se:2075/content/l3540uw15n0t7472/MediaObjects/704_2011_576_MOESM2_ESM.xls,QinghaiProvince,1.0
+36.35,-0.77,LAK,ANN,Verschuren et al. 2000,Lake Naivasha,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/eastafrica/naivasha_lakelevel.txt,LakeNaivasha,3.0906566211699165
+-159.42,59.25,LAKE,ANN,Chipman et al. 2009,Ongoke Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/alaska/ongoke2008.txt,OngokeLake,15.453846153846156
+-82.46,28.57,SPE,ANN,van Beynen et al. 2007,BRC0302,Digitized (inverted),BRC03_02,17.757235294117645
+-110.4,39.7,TRE,SUM,Knight et al. 2010,Tavaputs Plateau,Personal communication,TavaputsPlateau,1.0
+108.08,25.28,SPE,ANN,Wang et al. 2005,Dongge Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/china/dongge2005.xls (inverted values),Dongge_Cave,3.966996699669967
+-86.07,46.56,OTH,ANN,Booth et al. 2012,South Rhody Bog,Personal communication (inverted values),South_Rhody_Bog,22.57735849056604
+34.95,29.5,SEA,ANN,Lamy et al. 2006,GeoB5804-4,http://doi.pangaea.de/10.1594/PANGAEA.418298 (inverted values),GeoB58044,25.0
+-122.42,37.63,SEA,ANN,Ingram et al. 1996,San Francisco Bay,Digitized from Fig. 8,SanFranciscoBay,14.931094594594592
+113.50,31.50,DOC,ANN,Zheng et al. 2006,Jianghuai,Digitized from Fig. 3c,Jianghuai,22.521203703703705
+-2.5,55.08,OTH,ANN,Mauquoy et al. 2008,Butterburn Flow,Personal communication (inverted values),ButterburnFlow,25.081632653061224
+107.9,29.29,SPE,SUM,Li et al. 2011,Furong Cave,Personal communication (inverted values),FurongCave,7.178571428571429
+116.00,40.00,DOC,ANN,Yan et al. 1993,HaiheRiverBasin,Digitized,HaiheRiverBasin,12.216494845360824
+-97.2,45.25,LAK,ANN,Shapley et al. 2005,Spring Lake,Personal communication (inverted values),SpringLake,10.512453231578949
+-82.84,43.61,OTH,ANN,Booth et al. 2006,Minden Bog,Personal communication (inverted values),MindenBog,25.639907846808512
+-78.22,34.32,TRE,SUM,Stahle and Cleaveland 1992,North Carolina,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/southusa/seusa.precip,NorthCarolina,1.0
+6.47,45.59,LAK,ANN,Giguet-Covex et al. 2011,Lake Anterne,http://doi.pangaea.de/10.1594/PANGAEA.808328,LakeAnterne,0.9991721854304636
+-119.56,48.54,LAK,WIN,Steinman et al. 2012,Castor Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/washington/castor-lime2012.txt (inverted values),CastorLake2,5.0
+-111.4,35.2,TRE,WIN,Graumlich 1993,Southern Sierra Nevada,http://geography.uoregon.edu/GeogR/data/csv/sierra.csv,SouthernSierraNevada,1.0
+-99.125,17.43,SPE,ANN,Lachniet et al. 2012,Juxtlahuaca Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/northamerica/mexico/juxtlahuaca2012.txt,JuxtlahuacaCave,1.0
+-93.43,49.40,LAK,ANN,Laird et al. 2012,Lake239,Personal communication,Lake239,13.422444444444444
+14.27,59.29,OTH,ANN,Borgmark and Wastegard 2008,Fagelmossen 2,Personal communication,Fagelmossen2,11.748869994
+99.5,38.5,TRE,ANN,Zhang et al. 2011,Qilian Mountains,Digitized from Fig 6b,Qilian_Mountains,11.388828799999999
+115.0,30.00,DOC,ANN,Qian et al. 2003,YangtzeRiver,Digitized from Fig. 7B,YangtzeRiver,4.284552845528455
+7.66,51.37,SPE,WIN,Fohlmeister et al. 2012,Bunker Cave,Personal communication (inverted values),BunkerCave,6.674585635359115
+-106,38.5,TRE,ANN,Woodhouse et al. 2011,Upper_Arkansas_River_basin,Personal communication,Upper_Arkansas_River_basin,1.0
+-118.19,48.78,LAK,WIN,Steinman et al. 2012,RennerLake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/washington/castor-lime2012.txt,RennerLake,5.0
+-7.34,43.32,LAK,ANN,Martinez-Cortizas et al. 1999,Penido Vello,Personal communication,Penido_Vello,43.42857142857143
+-89,17,SPE,ANN,Webster et al. 2007,Macal Chasm,Digitized from Fig. 8D,MacalChasm,17.023
+-109,35,TRE,WIN,Ni et al. 2002,Southwest USA,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/northamerica/usa/az-nm_div_precip.txt,SouthwestUSA,1.0
+-5,33,SPE,ANN,Wassenburg et al. 2013,Grotte de Piste,Personal communication (inverted values),Grotte_de_Piste,6.025227165803108
+-91.91,49.43,LAK,ANN,Laird et al. 2012,Little_Raleigh_Lake,Personal communication,Little_Raleigh_Lake,15.541833333333333
+-108.33,40.48,TRE,ANN,Gray et al. 2011,Yampa River,http://treeflow.info/sites/default/files/yampa.txt,YampaRiver,1.0
+-149.9,64.42,LAK,ANN,Finney et al. 2012,Dune Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/alaska/dune2012.txt (inverted values),DuneLake,15.550199398701295
+-37.32,71.12,ICE,ANN,Andersen et al. 2006,Crete,http://www.iceandclimate.nbi.ku.dk/data/Andersen_etal_2006_Annual_Accumulation_22Mar2011.txt/,Crete,1.0
+-121.48,39.54,TRE,ANN,Meko 2001,Feather River,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/california/feather-flow.txt,FeatherRiver,1.0
+120,32,DOC,ANN,Jiang et al. 2005,Yangtze Delta,From Table 1,YangtzeDelta,9.523809523809524
+126.51,42.21,LAK,ANN,Hong et al. 2005,Hani,Digitized from Fig 3C (inverted values),Hani,35.45454545454545
+-110.58,45,LAK,WIN,Stevens et al. 2006,Crevice Lake,Personal communication,CreviceLake,9.632580606451612
+13.27,60.21,OTH,ANN,Borgmark and Wastegard 2008,Stomyren,Personal communication,Stomyren,36.580107525806454
+-28.33,38.46,LAK,ANN,Bjorck et al. 2006,LakeCaveiro,Personal communication,LakeCaveiro,11.074036697247706
+93.25,35.4,LAK,SUM,Liu et al. 2009,Kusai Lake,Personal communication,KusaiLake,12.308080808080808
+-70.03,44.28,POL,SUM,Gajewski 1988,Basin_Pond,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,basin_Pond,26.363636363636363
+54.35,12.59,SPE,ANN,Rampelbergh et al. 2013,Hoq Cave STM6,Personal communication (inverted values),Hoq_Cave_STM6,17.626521739130435
+22.78,60.78,LAK,ANN,Vairanta et al. 2007,Kontolanrahka,Digitized from Fig. 6,Kontolanrahka,29.82051282051282
+-81.8,31.62,TRE,SUM,Stahle and Cleaveland 1992,Georgia,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/southusa/seusa.precip,Georgia,1.0
+54.35,12.59,SPE,ANN,Rampelbergh et al. 2013,Hoq Cave STM1,Personal communication (inverted values),Hoq_Cave_STM1,8.520394366197182
+13.5,63.17,OTH,ANN,Gunnarson 2008,Lake Hackren,Personal communication (inverted values),LakeHackren,1.0
+37.7,-3.32,LAK,ANN,Tierney et al. 2011,Lake Challa,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/eastafrica/challa2011.txt,LakeChalla,36.21212121212121
+19.50,42.10,LAK,ANN,Zanchetta et al. 2012,Lake Shkodra,Personal communication (inverted values),LakeShkodra,29.423348439024387
+109.50,39.50,POL,ANN,Sun et al. 2013,Qigai Nuur,Personal communication,QigaiNuur,15.948955555555557
+-83.96,22.38,SPE,ANN,Fensterer et al. 2013,Salon de la Cimitarra,Personal communication (inverted values),Salon_de_la_Cimitarra,1.8686158631415242
+34.82,38.82,LAK,ANN,Jones et al. 2006,Nar Golu,Personal communication,Nar_Golu,1.2552083333333333
+6.7,44.23,LAK,ANN,Wilhelm et al. 2012,Lake Allos,Personal communication,LakeAllos,1.0
+98.00,37.00,TRE,ANN,Yang et al. 2014,North-eastern Tibetan Plateau,http://www.cru.uea.ac.uk/cru/papers/yang2013pnas/yang_et_al_2014_figure3.txt,Northeastern_Tibetan_Plateau,1.0
+-89.07,16.21,SPE,ANN,Kennett et al. 2012,Yok Balum Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/belize/yok-balum2012cariaco-ti.txt (inverted values),Yok_Balum_Cave,1.0
+-106.59,37.43,TRE,ANN,Routson et al. 2011,Summitville,Personal communication,Summitville,1.0
+121.6,24.5,LAK,ANN,Wang et al. 2013,Tsuifong_Lake,Personal Communication,Tsuifong_Lake,12.262547474747473
+-92.97,32.25,TRE,ANN,Stahle et al. 2012,Big_Cypress_State_Park,http://www.ncdc.noaa.gov/paleo/metadata/noaa-tree-4813.html,Big_Cypress_State_Park,1.0
+-75.83,52.28,OTH,ANN,Loisel et al. 2011,Lac Le Caron,Personal communication (inverted values),LacLeCaron,42.516666666666666
+117.5,49,LAK,ANN,Zhai et al. 2011,Lake Hulun,Personal communication (inverted values),Lake_Hulun,29.957264956410256
+82,19,SPE,SUM,Sinha et al. 2011,Central India composite,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/asia/india/jhumar-wah-shikar2011.txt inverted values),Central_India_composite,1.0
+-91.91,49.43,LAK,ANN,Laird et al. 2012,Lake442,Personal communication,Lake442,15.335443037974683
+105,33.19,SPE,ANN,Zhang et al. 2008,Wanxiang_Cave,"""Inverted values; ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/china/wanxiang2008.txt""",Wanxiang_Cave,2.8708133971291865
+-101.62,41.94,LAK,ANN,Schmieder et al. 2011,Round Lake,Personal communication,RoundLake,20.29310344827586
+-5.00,58.15,SPE,ANN,Proctor et al. 2002,Uamh an Tartair,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/scotland/assynt96.xls,Uamh_an_Tartair,1.0
+-82.28,29.12,SPE,ANN,van Beynen et al. 2007,BRIARS04-02,Digitized (inverted values),BRIARS04_02,16.12284
+109.36,19.41,SPE,ANN,Hu et al. 2008,Heshang_Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/china/heshang2008.txt (inverted values),Heshang_Cave,2.2708333333333335
+-111.58,36.85,TRE,ANN,Meko et al. 2007,Lee Ferry,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/northamerica/usa/upper-colorado-flow2007.txt,LeeFerry,1.0
+-38.5,72.6,OTH,ANN,Meese et al. 1994,GISP2,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/mann2008/proxy-original.zip,GISP2,1.0
+28.25,71.05,POL,SUM,Allen et al. 2007,Over Gunnarsfjorden,http://www1.ncdc.noaa.gov/pub/data/paleo/paleolimnology/arctic/fennoscandia-v2.xls,Over_Gunnarsfjorden,49.16004536
+10.22,56.88,OTH,ANN,Mauquoy et al. 2008,Lille Vildmose,Personal communication (inverted values),LilleVildmose,11.317142857142857
+102.33,34.24,LAK,ANN,He et al. 2013,Lake Gahai,Personal communication,LakeGahai,5.81424
+109.05,33.4,SPE,ANN,Paulsen et al. 2003,Buddha Cave,Personal communication,Buddha_Cave,2.4564681724845996
+10.55,47.95,SPE,ANN,Boch and Spol 2011,Klapferloch Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/europe/austria/klapferloch2011.txt (inverted),KlapferlochCave,2.8308546784869977
+-104.73,20.62,LAK,ANN,Metcalfe et al. 2010,Laguna_de_Juanacatlan,http://www1.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/mexico/juanacatlan2010ti.txt,Laguna_de_Juanacatlan,1.0
+65.92,24.83,SEA,ANN,von Rad et al. 1999,Northeastern Arabian Sea,http://doi.pangaea.de/10.1594/PANGAEA.735718,NortheasternArabianSea,1.0
+-82.38,29.16,SPE,ANN,Polk et al. 2013,Jennings Cave,Supplement to the electronic version of the article (inverted values),JenningsCave,40.55954206896552
+-89.42,46.11,Pol,SUM,Gajewski 1988,Hells_Kitchen_Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,hells_Kitchen_Lake,23.877551020408163
+-74.01,43.45,Pol,SUM,Gajewski 1988,Clear_Pond,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/pollen/recons/liadata.txt,Clear_Pond,40.0
+60.00,45.00,LAK,ANN,Sorrel et al. 2006,Aral Sea Basin,Personal communication (inverted values),AralSeaBasin,15.304008440506328
+-114.36,48.16,LAK,ANN,Stone and Fritz 2006,Foy Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/montana/foy2006.txt (inverted values),FoyLake,5.955223880597015
+-107.99,34.88,TRE,ANN,Grissino-Mayer 1995,El Malpais,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/newmexico/malpais_recon.txt,El_Malpais,1.0
+-2.98,42.77,LAK,ANN,Corella et al. 2011,Arreo Lake,Digitized,Arreo_Lake,8.91851851851852
+110.00,25.00,DOC,ANN,Qian et al. 2003,SouthernChina,Digitized from Fig. 7C,SouthernChina,4.554585152838428
+-6.23,55.07,LAK,ANN,Swindles et al. 2010,Slieveanorra,Digitized from Fig. 8c (inverted values),Slieveanorra,15.473684210526315
+-99.07,46.01,LAK,ANN,Laird et al. 2003,Coldwater Lake,Personal communication,ColdwaterLake,10.586388888888889
+80.21,29.52,SPE,ANN,Sanwal et al. 2013,Dharamjali Cave,Personal communication,Dharamjali_Cave,9.58248
+-37.38,72.35,ICE,ANN,Andersen et al. 2006,GRIP,http://www.iceandclimate.nbi.ku.dk/data/Andersen_etal_2006_Annual_Accumulation_22Mar2011.txt/,GRIP,1.0
+0.99,42.33,LAK,ANN,Corella et al. 2011,Montcortes Lake,Digitized,Montcortes_Lake,8.321428571428571
+-107.75,40.75,TRE,ANN,Gray et al. 2011,Little Snake River,http://treeflow.info/sites/default/files/littlesnake.txt,LittleSnakeRiver,1.0
+-83.61,45.03,OTH,ANN,Booth et al. 2012,Irwin Smith Bog,Personal communication (inverted values),Irwin_Smith_Bog,25.538461538461537
+115,35,DOC,ANN,Gong and Hameed 1991,Great Bend of the Yellow River,Digitized from Fig 4,Great_Bend_Yellow_River,8.035211267605634
+28.25,71.05,POL,WIN,Allen et al. 2007,Over Gunnarsfjorden,http://www1.ncdc.noaa.gov/pub/data/paleo/paleolimnology/arctic/fennoscandia-v2.xls,OverGunnarsfjorden,49.16004536
+97.50,37.20,OTH,ANN,Wang et al. 2013,Qaidam Basin,Personal communication (inverted values),Qaidam_Basin,3.0
+31.16,41.53,SEA,ANN,Lamy et al. 2006,GeoB7622,http://doi.pangaea.de/10.1594/PANGAEA.418299,GeoB7622,50.0
+1.00,52.50,TRE,ANN,Cooper et al. 2013,East Anglia,http://www1.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/europe/eanglia2012precip.txt,EastAnglia,1.0
+-43.49,65.11,ICE,ANN,Andersen et al. 2006,Dye-3,http://www.iceandclimate.nbi.ku.dk/data/Andersen_etal_2006_Annual_Accumulation_22Mar2011.txt/,Dye3,1.0
+14.27,59.29,OTH,ANN,Borgmark and Wastegard 2008,Fagelmossen 1,Personal communication,Fagelmossen1,14.932924994666664
+-77.53,39.27,TRE,SUM,Maxwell et al. 2011,Potomac River,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/northamerica/usa/potomac2011flow.txt,PotomacRiver,1.0
+99.5,34.5,TRE,ANN,Gou et al. 2010,Anyemaqen Mountains,Personal communication,AnyemaqenMountains,1.0
+105.84,26.73,SPE,SUM,Kuo et al. 2011,Zhijin Cave,Digitized,Zhijin_Cave,7.7172413793103445
+74.93,35.9,OTH,ANN,Treydte et al. 2006,Karakorum Mountains,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/isotope/asia/pakistan/karakorum2006iso.txt (inverted values),KarakorumMountains,1.0
+-1.42,6.5,LAK,ANN,Shanahan et al. 2009,Lake Bosumtwi,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/africa/bosumtwi2009.txt (inverted values),LakeBosumtwi,3.5834821428571426
+-67.80,44.70,LAK,ANN,Nichols and Huang 2012,The Great Heath,Personal communication,TheGreatHeath,13.004301075268815
+-109.53,74.88,LAK,ANN,Cuven et al. 2011,East Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/canada/nu/east2011varve.txt,EastLake,1.0058430717863105
+-95.8,45.93,LAK,ANN,Laird et al. 2003,Elk Lake,Personal communication,ElkLake,5.160869565217391
+28.5,61.5,TRE,SUM,Helama et al. 2009,Southern Finland,Personal communication,SouthernFinland,1.0
+112.23,38.9,LAK,SUM,Liu et al. 2011,Gonghai Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/asia/china/liu2011.txt,Gonghai_Lake,5.411787372897196
+-86.89,41.62,OTH,ANN,Booth et al. 2012,Pinhook Bog,Personal communication (inverted values),Pinhook_Bog,20.861403508771932
+-123.28,48.32,TRE,ANN,Zhang and Hebda 2005,HealLake,Personal communication,HealLake,1.0
+110,35,DOC,ANN,Qian et al. 2003,Yellow_River,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/mann2008/proxy-original.zip,Yellow_River,1.0
+9,50,TRE,SUM,Buntgen et al. 2011,Central Europe,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/europe/buentgen2011europe.txt,CentralEurope,1.0
+105,30,DOC,ANN,Tan et al. 2008,Longxi area,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/historical/asia/china/longxi2008df.txt,Longxi_area,10.842105263157896
+-5.07,33.02,TRE,ANN,Esper et al. 2007,Col du Zad,http://www.ncdc.noaa.gov/paleo/metadata/noaa-tree-4970.html,Col_du_Zad,1.0
+1,52,DOC,ANN,Lamb 1965,Central England,From Table 2,CentralEngland,51.13636363636363
+-89.8,16.98,LAK,ANN,Curtis et al. 1998,Lake Peten-Itza,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/yucatan/peten_itza_pyrgophorus.xls (inverted values),Lake_PetenItza,23.575124489795922
+-89.98,49.24,LAK,ANN,Laird et al. 2012,GallLake,Personal communication,GallLake,19.015625
+-100.07,20.21,TRE,ANN,Stahle et al. 2011,Barranca de Amealco,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/mexico/mesoamerica2011pdsi.txt,Barranca_de_Amealco,1.0
+-0.75,36.4,POL,ANN,Lamb et al. 2003,Crescent Island Crater,Personal communication,Crescent_Island_Crater,18.71957247377049
+-121.63,38.7,TRE,ANN,Meko et al. 2001,Sacramento River,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/california/sacramento-flow-cdwr.txt,SacramentoRiver,1.0
+68,21.8,SEA,ANN,Agnihotri et al. 2002,Eastern Arabian Sea,Personal communication,EasternArabianSea,22.392566037735854
+-88.9,19.8,LAK,ANN,Hodell et al. 1995,Lake Chichancanab,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/yucatan/chichancanab.xls (inverted values),Lake_Chichancanab,17.4784776119403
+-85.92,11.9,LAK,ANN,Stansell et al. 2013,Lago El Gancho,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/nicaragua/gancho2012.txt (inverted values),LagoElGancho,4.781528571428572
+-133.81,60.07,LAK,SUM,Anderson et al. 2007,Marcella Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/canada/yukon/marcella2007.txt (inverted values),MarcellaLake,10.431034482758621
+13.40,47.81,LAK,ANN,Swierczynski et al. 2012,Lake Mondsee,http://doi.pangaea.de/10.1594/PANGAEA.783934?format=textfile,LakeMondsee,12.666666666666666
+-89.7,20.6,LAK,ANN,Hodell et al. 2005,Aguada Xcaamal,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/yucatan/aguada-xcaamal2005.txt,Aguada_Xcaamal,6.87179190751445
+-111.4,35.2,TRE,SUM,Salzer and Kipfmueller 2005,Southern Colorado Plateau,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/northamerica/usa/colorado-plateau2005.txt,Southern_Colorado_Plateau,1.0
+12.52,42.04,DOC,ANN,Camuffo and Enzi 1995,Central Italy,Digitized,CentralItaly,27.38873170731707
+-106.5,36,TRE,ANN,Touchan et al. 2011,Jemez Mountains,Personal communication,JemezMountains,1.0
+5.68,45.82,LAK,ANN,Arnaud et al. 2012,Lake_le_Bourget,hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:0::::P1_STUDY_ID:13666,Lake_le_Bourget,4.743083003952569
+42.53,0.32,LAK,ANN,Moreno et al. 2012,La Basa de la Mora,Digitized,La_Basa_de_la_Mora,8.852941176470589
+-96.56,41.42,LAK,ANN,Schmieder et al. 2011,Beaver Lake,Personal communication,BeaverLake,28.307804878048778
+-89.48,-0.9,LAK,ANN,Conroy et al. 2008,El Junco Crater Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/ecuador/galapagos/eljunco2008.txt,El_Junco_Crater_Lake,10.873873873873874
+-77.64,45.44,LAK,ANN,Laird et al. 2012,DixieLake,Personal communication,DixieLake,10.687807017543859
+-117.34,48.87,LAK,WIN,Steinman et al. 2012,Lime Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/washington/castor-lime2012.txt (inverted values),LimeLake,5.0
+90.78,30.73,LAK,SUM,Kasper et al. 2012,Lake Nam Co,http://doi.pangaea.de/10.1594/PANGAEA.779260?format=html,LakeNamCo,4.4869888475836435
+121.00,32.00,DOC,ANN,Zhang et al. 2008,Yangtze Delta,Digitized from Fig 3,Yangtze_Delta,5.128205128205129
+93.9,38.85,LAK,ANN,He et al. 2013,Sugan Lake,Personal communication,SuganLake2,12.000749504950495
+-120.98,37.35,TRE,ANN,Graham and Hughes 2007,Merced River,Personal communication,MercedRiver,1.0
+-1.5,52,TRE,ANN,Wilson et al. 2013,Southerncentral England,http://www1.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/europe/england2012precip.txt,SoutherncentralEngland,1.0
+110.28,21.15,LAK,ANN,Zeng et al. 2012,Huguangyan Lake,Personal communication,HuguangyanLake,11.997092762745098
+-118.17,37.45,TRE,SUM,Hughes and Graumlich 1996,White Mountains,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/nevada/mwkreconfilt.dat,WhiteMountains,1.0
+115,38,DOC,ANN,Zheng et al. 2006,North China Plains,Digitized from Fig. 3b,NorthChinaPlains,28.881976190476195
+15.72,66.25,LAK,ANN,Berntsson et al. 2014,Lake Vuoksjavratje,Personal communication,LakeVuoksjavratje,5.340833333333333
+-94.68,46.97,LAK,ANN,Tian et al. 2006,Steel Lake,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/northamerica/usa/minnesota/steel2006.txt (inverted values),SteelLake,5.0
+-89.67,16.98,LAK,ANN,Rosenmeier et al. 2002,Lake Salpeten,Digitized from Fig 3 (inverted values),Lake_Salpeten,57.31480952380953
+-85.88,30.47,TRE,ANN,Stahle et al. 2012,Choctawhatchee_River,http://www.ncdc.noaa.gov/paleo/metadata/noaa-tree-4830.html,Choctawhatchee_River,1.0
+-76.62,17.89,LAK,ANN,Burn and Palmer 2014,Grape Tree Pond,Digitized from Fig 5b,GrapeTreePond,2.8328611898016995
+-117.15,52.15,TRE,SUM,Edwards et al. 2008,Columbia Icefield,Personal communication,ColumbiaIcefield,10.0
+97.38,37.38,TRE,ANN,Yang et al. 2014,Delingha,Personal communication,Delingha,1.0
+19.7,47.99,LAK,ANN,Sumegi et al. 2009,NadasLake,Digitized,NadasLake,14.085365853658537
+-3.63,57.25,LAK,ANN,Blundell and Barber 2005,ToreHillMoss,Digitized from Fig. 10,ToreHillMoss,27.75
+29.75,0.42,LAK,ANN,Russell et al. 2007,Lake Edward,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleolimnology/eastafrica/edward2007.txt,LakeEdward,3.5140942295522386
+-0.72,11.77,POL,ANN,Ngomanda et al. 2007 ,LakeKamalete,Digitized from Fig.7B,LakeKamalete,17.682539682539684
+109.1,33.57,SPE,SUM,Cai et al. 2010,Jiuxian Cave,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/speleothem/china/jiuxian2010.txt (inverted values),JiuxianCave,3.5773809523809526
+26.25,58.87,OTH,ANN,Sillasoo et al. 2007,Mannikjarve Bog,Personal communication,MannikjarveBog,32.114285714285714

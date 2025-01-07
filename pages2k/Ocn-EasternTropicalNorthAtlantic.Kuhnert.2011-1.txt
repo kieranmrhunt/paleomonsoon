@@ -1,0 +1,335 @@
+# Eastern tropical North Atlantic foram Mg/Ca SST reconstruction
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-EasternTropicalNorthAtlantic.Kuhnert.2011-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-EasternTropicalNorthAtlantic.Kuhnert.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.773754
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Eastern tropical North Atlantic foram Mg/Ca SST reconstruction
+#------------------
+# Investigators
+#     Investigators: Kuhnert, H.; Mulitza, S.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Kuhnert, Henning;Mulitza, Stefan
+#     Published_Date_or_Year: 2011
+#     Published_Title: Multidecadal variability and late medieval cooling of near-coastal sea surface temperatures in the eastern tropical North Atlantic
+#     Journal_Name: Paleoceanography
+#     Volume: 26
+#     Edition: 
+#     Issue: 4
+#     Pages: PA4224
+#     Report: 
+#     DOI: 10.1029/2011pa002130
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name:  This study was funded through the DFG research center "The Ocean in the Earth System (MARUM)" and the DFG Schwerpunktprogramm Interdynamik.
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Eastern tropical North Atlantic
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 16.8402
+#     Southernmost_Latitude: 16.8402
+#     Easternmost_Longitude: -16.7327
+#     Westernmost_Longitude: -16.7327
+#     Elevation: -330
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -236.0
+#     Most_Recent_Year: 2004.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+KIA 35172	30.0	nan	Modern	nan	450.0	nan	460.0	nan	Planktic foram (541 yr marine reservoir)	Core 9501-4; extensive 210Pb & 137Cs data exist for this core	455.0	640.0	10.0	
+KIA 32642	70.0	nan	Modern	nan	40.0	nan	50.0	nan	Planktic foram (541 yr marine reservoir)	Core 9501-5; extensive 210Pb & 137Cs data exist for this core	45.0	-30.0	10.0	
+KIA 3743	30.0	661.0	485.5	nan	nan	175.5	nan	310.0	Planktic foram (541 yr marine reservoir)	Core 9501-5; calibrated age determined as midpoint of young-old cal age columns; Calib 5.0.2 & MARINE04 curve	1200.0	1040.0	nan	
+KIA 3744	30.0	1056.0	853.5	nan	nan	202.5	nan	651.0	Planktic foram (541 yr marine reservoir)	Core 9501-5; calibrated age determined as midpoint of young-old cal age columns; Calib 5.0.2 & MARINE04 curve	2020.0	1440.0	nan	
+KIA 3745	30.0	1282.0	1071.5	nan	nan	210.5	nan	861.0	Planktic foram (541 yr marine reservoir)	Core 9501-5; calibrated age determined as midpoint of young-old cal age columns; Calib 5.0.2 & MARINE04 curve	2540.0	1655.0	nan	
+KIA 3746	30.0	1868.0	1623.5	nan	nan	244.5	nan	1379.0	Planktic foram (541 yr marine reservoir)	Core 9501-5; calibrated age determined as midpoint of young-old cal age columns; Calib 5.0.2 & MARINE04 curve	3500.0	2195.0	nan	
+KIA 3747	35.0	2472.0	2194.5	nan	nan	277.5	nan	1917.0	Planktic foram (541 yr marine reservoir)	Core 9501-5; calibrated age determined as midpoint of young-old cal age columns; Calib 5.0.2 & MARINE04 curve	4430.0	2675.0	nan	
+KIA 32641	45.0	3531.0	3247.0	nan	5240.0	284.0	5280.0	2963.0	Planktic foram (541 yr marine reservoir)	Core 9501-5; calibrated age determined as midpoint of young-old cal age columns; Calib 5.0.2 & MARINE04 curve	5260.0	3540.0	40.0	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from foram G. ruber (pink); and are in units of mmol/mol; for most values younger than approx AD 1907; these are means of two different size fractions., ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally JASOND; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature	
+2004.0	4.03	26.2	
+2003.0	3.83	25.6	
+2001.0	4.02	26.2	
+1999.0	3.93	25.9	
+1998.0	3.9	25.8	
+1996.0	3.9	25.8	
+1994.0	4.07	26.3	
+1992.0	3.91	25.9	
+1991.0	3.93	25.9	
+1989.0	3.77	25.5	
+1987.0	4.01	26.1	
+1985.0	3.95	26.0	
+1983.0	3.74	25.4	
+1981.0	3.94	26.0	
+1978.0	3.77	25.5	
+1976.0	3.71	25.3	
+1974.0	4.04	26.2	
+1972.0	3.85	25.7	
+1970.0	3.85	25.7	
+1967.0	3.99	26.1	
+1965.0	3.64	25.1	
+1963.0	3.64	25.1	
+1960.0	3.83	25.6	
+1958.0	3.47	24.6	
+1955.0	3.99	26.1	
+1953.0	3.86	25.7	
+1950.0	4.01	26.1	
+1947.0	3.8	25.5	
+1947.0	3.54	24.8	
+1945.0	3.93	25.9	
+1942.0	3.93	25.8	
+1942.0	3.88	25.9	
+1939.0	3.75	25.4	
+1936.0	3.98	26.1	
+1936.0	3.89	25.8	
+1934.0	3.92	25.9	
+1931.0	3.87	25.7	
+1931.0	3.88	25.8	
+1928.0	3.61	25.0	
+1925.0	4.02	26.2	
+1925.0	3.72	25.3	
+1922.0	3.91	25.9	
+1919.0	3.69	25.2	
+1919.0	4.17	26.6	
+1916.0	3.57	24.8	
+1913.0	3.91	25.9	
+1913.0	3.99	26.1	
+1910.0	3.9	25.8	
+1907.0	3.91	25.9	
+1907.0	3.77	25.5	
+1900.0	4.27	26.9	
+1894.0	3.78	25.5	
+1887.0	3.51	24.7	
+1881.0	3.58	24.9	
+1874.0	3.39	24.3	
+1867.0	3.87	25.7	
+1860.0	3.94	25.9	
+1853.0	3.64	25.1	
+1846.0	3.67	25.2	
+1838.0	4.04	26.2	
+1831.0	3.64	25.1	
+1823.0	4.16	26.6	
+1816.0	4.21	26.7	
+1808.0	4.01	26.1	
+1800.0	3.95	26.0	
+1792.0	3.85	25.7	
+1784.0	3.81	25.6	
+1776.0	4.05	26.2	
+1768.0	4.29	26.9	
+1760.0	4.04	26.2	
+1752.0	3.77	25.5	
+1743.0	3.84	25.7	
+1735.0	3.51	24.7	
+1726.0	4.0	26.1	
+1718.0	3.96	26.0	
+1709.0	3.96	26.0	
+1701.0	4.32	27.0	
+1692.0	4.01	26.2	
+1683.0	4.22	26.7	
+1674.0	4.02	26.2	
+1665.0	3.66	25.1	
+1656.0	3.76	25.4	
+1647.0	4.02	26.2	
+1638.0	3.72	25.3	
+1629.0	4.07	26.3	
+1620.0	3.93	25.9	
+1611.0	3.75	25.4	
+1602.0	3.96	26.0	
+1593.0	3.73	25.4	
+1583.0	3.99	26.1	
+1574.0	4.05	26.2	
+1565.0	4.11	26.4	
+1555.0	3.74	25.4	
+1546.0	4.02	26.2	
+1537.0	3.92	25.9	
+1527.0	4.1	26.4	
+1518.0	3.93	25.9	
+1508.0	3.99	26.1	
+1499.0	3.88	25.8	
+1489.0	3.89	25.8	
+1480.0	3.19	23.6	
+1470.0	3.95	26.0	
+1461.0	4.3	26.9	
+1451.0	3.91	25.9	
+1441.0	3.76	25.4	
+1432.0	3.74	25.4	
+1422.0	4.16	26.6	
+1412.0	3.82	25.6	
+1403.0	4.22	26.7	
+1393.0	4.19	26.6	
+1383.0	4.33	27.0	
+1374.0	4.22	26.7	
+1364.0	3.63	25.1	
+1354.0	3.88	25.8	
+1345.0	3.88	25.8	
+1335.0	4.23	26.7	
+1325.0	3.7	25.3	
+1316.0	3.77	25.5	
+1296.0	3.98	26.1	
+1287.0	4.1	26.4	
+1277.0	4.16	26.6	
+1267.0	4.08	26.3	
+1258.0	3.76	25.4	
+1238.0	4.58	27.6	
+1229.0	4.21	26.7	
+1219.0	3.97	26.0	
+1209.0	4.03	26.2	
+1200.0	3.97	26.0	
+1190.0	3.93	25.9	
+1180.0	4.28	26.9	
+1171.0	3.62	25.0	
+1161.0	3.6	25.0	
+1151.0	4.47	27.3	
+1142.0	4.63	27.8	
+1132.0	3.51	24.7	
+1113.0	4.34	27.0	
+1104.0	4.09	26.4	
+1094.0	3.93	25.9	
+1084.0	4.16	26.6	
+1065.0	4.08	26.3	
+1056.0	4.08	26.4	
+1046.0	4.1	26.4	
+1037.0	4.23	26.8	
+1027.0	4.14	26.5	
+1008.0	4.38	27.1	
+999.0	4.22	26.7	
+989.0	4.34	27.0	
+980.0	4.13	26.5	
+970.0	4.11	26.4	
+942.0	3.97	26.0	
+933.0	4.29	26.9	
+923.0	3.71	25.3	
+914.0	4.33	27.0	
+904.0	3.8	25.5	
+895.0	4.13	26.5	
+876.0	4.5	27.4	
+847.0	3.96	26.0	
+838.0	3.69	25.2	
+829.0	4.06	26.3	
+810.0	4.0	26.1	
+800.0	4.25	26.8	
+791.0	3.9	25.8	
+772.0	3.93	25.9	
+762.0	3.86	25.7	
+753.0	4.39	27.1	
+743.0	3.82	25.6	
+733.0	4.14	26.5	
+714.0	4.45	27.3	
+695.0	4.6	27.7	
+685.0	4.61	27.7	
+656.0	4.05	26.3	
+646.0	3.89	25.8	
+627.0	3.74	25.4	
+617.0	4.22	26.7	
+597.0	4.09	26.4	
+587.0	4.19	26.6	
+567.0	4.05	26.2	
+557.0	4.14	26.5	
+536.0	4.15	26.5	
+526.0	4.1	26.4	
+516.0	3.59	24.9	
+506.0	4.39	27.2	
+485.0	4.72	28.0	
+464.0	3.73	25.3	
+442.0	4.07	26.3	
+431.0	3.98	26.1	
+421.0	3.53	24.7	
+410.0	3.89	25.8	
+399.0	3.91	25.9	
+365.0	4.22	26.7	
+342.0	4.04	26.2	
+308.0	4.1	26.4	
+296.0	4.39	27.2	
+272.0	4.44	27.3	
+248.0	4.04	26.2	
+235.0	4.14	26.5	
+159.0	4.73	28.0	
+21.0	3.73	25.3	
+-24.0	3.67	25.2	
+-39.0	3.38	24.3	
+-70.0	4.1	26.4	
+-86.0	3.99	26.1	
+-102.0	4.2	26.7	
+-134.0	4.39	27.2	
+-184.0	4.29	26.9	
+-201.0	4.34	27.0	
+-219.0	4.37	27.1	
+-236.0	4.13	26.5	

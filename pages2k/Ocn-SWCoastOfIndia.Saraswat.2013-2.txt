@@ -1,0 +1,140 @@
+# Saraswat.SW_coast_of_India__Indian_ocean.2013
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SWCoastOfIndia.Saraswat.2013-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SWCoastOfIndia.Saraswat.2013.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/saraswat2013/saraswat2013-sk237gc04.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Saraswat.SW_coast_of_India__Indian_ocean.2013
+#------------------
+# Investigators
+#     Investigators: Saraswat, Rajeev;Lea, David W.;Nigam, Rajiv;Mackensen, Andreas;Naik, Dinesh K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Indian1579Saraswat2013_SK237-GC04;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset chronology not QC'd; Final entry truncated.
+#------------------
+# Publication
+#     Authors: Saraswat, Rajeev;Lea, David W.;Nigam, Rajiv;Mackensen, Andreas;Naik, Dinesh K.
+#     Published_Date_or_Year: 2013
+#     Published_Title: Deglaciation in the tropical Indian Ocean driven by interplay between the regional monsoon and global teleconnections
+#     Journal_Name: Earth and Planetary Science Letters
+#     Volume: 375
+#     Edition: 
+#     Issue: 
+#     Pages: 166-175
+#     Report: 
+#     DOI: 10.1016/j.epsl.2013.05.022
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: SW coast of India, Indian ocean
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 10.98
+#     Southernmost_Latitude: 10.98
+#     Easternmost_Longitude: 74.9993
+#     Westernmost_Longitude: 74.9993
+#     Elevation: -1245
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -310.0
+#     Most_Recent_Year: 1835.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement. Core length not reported; deepest 14C date at 286.5 cm; climateInterpretation_seasonality changed - was originally Annual; DEK2002: Mg/Ca=0.38*exp(0.09*[SST-0.61 (core depth km)]); (Dekens et al.; (2002); core tops; G ruber);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1835.0	28.1781357988653	
+1659.89795918367	28.0847032503651	
+1441.02040816327	28.7583799213964	
+1353.4693877551	28.052140911927	
+1265.91836734694	28.6436266383432	
+1178.36734693878	29.2370389232498	
+1090.81632653061	27.8944297998149	
+1003.26530612245	27.8115246769558	
+915.714285714286	27.9310661125148	
+828.163265306123	28.5456654479849	
+740.612244897959	27.8666061692633	
+653.061224489796	28.7743862010018	
+565.510204081633	29.125460072995	
+477.95918367347	28.1969919995262	
+390.408163265306	28.9682601810114	
+302.857142857143	28.4208736286055	
+215.30612244898	28.3418587030379	
+127.755102040817	28.9546269548296	
+40.2040816326535	27.4592956587918	
+-47.3469387755099	28.4914475260947	
+-134.897959183673	28.1811951297972	
+-222.448979591836	27.8483885078214	
+-310.0	28.719359719105	

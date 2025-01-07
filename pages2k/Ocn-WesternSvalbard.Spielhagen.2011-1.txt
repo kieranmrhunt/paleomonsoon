@@ -1,0 +1,171 @@
+# Spielhagen.Western_Svalbard.2011
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-WesternSvalbard.Spielhagen.2011-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-WesternSvalbard.Spielhagen.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.755092
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Spielhagen.Western_Svalbard.2011
+#------------------
+# Investigators
+#     Investigators: Spielhagen, R. F.;Werner, K.;Sorensen, S. A.;Zamelczyk, K.;Kandiano, E.;Budeus, G.;Husum, K.;Marchitto, T. M.;Hald, M.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Arctic1148Spielhagen2011_forams_SIMMAX, at 50 m_summer We used the SIMMAX data due to its higher resolution, and due to the poorer sensitivity of the Mg/Ca data as reported in their paper.;Assemblage not used, chronology is not QC'd
+#------------------
+# Publication
+#     Authors: Spielhagen, R. F.;Werner, K.;Sorensen, S. A.;Zamelczyk, K.;Kandiano, E.;Budeus, G.;Husum, K.;Marchitto, T. M.;Hald, M.
+#     Published_Date_or_Year: 2011
+#     Published_Title: Enhanced modern heat transfer to the Arctic by warm Atlantic water
+#     Journal_Name: Science
+#     Volume: 331
+#     Edition: 
+#     Issue: 
+#     Pages: 450-453
+#     Report: 
+#     DOI: 10.1126/science.1197397
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Western Svalbard
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 78.91
+#     Southernmost_Latitude: 78.91
+#     Easternmost_Longitude: 6.77
+#     Westernmost_Longitude: 6.77
+#     Elevation: -1491
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 110.0
+#     Most_Recent_Year: 2007.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+age14C         age14CUncertaintyageUncertainty depth          age            deltaR         labID	
+nan	nan	1.0	0.25	-57.0	0.0	NA	
+820.0	25.0	nan	14.75	nan	402.0	KIA39262	
+1290.0	30.0	nan	21.5	nan	402.0	KIA39041	
+1760.0	25.0	nan	30.75	nan	402.0	KIA39263	
+2270.0	25.0	nan	42.0	nan	402.0	KIA38079	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, Planktonic foraminiferal assemblage census counts, ,degC, 7 8 9, marine sediment, ,SIMMAX, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally JAS; climateInterpretation_seasonality changed - was originally 7/8/2009; PFL1996: SIMMAX; Modern Analogue Technique; (Pflaumann et al.; (1996));  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+2007.0	6.0	
+1998.0	5.4	
+1980.0	5.8	
+1962.0	5.4	
+1944.0	4.6	
+1926.0	5.1	
+1908.0	5.4	
+1890.0	4.1	
+1871.0	4.1	
+1853.0	4.1	
+1835.0	3.2	
+1799.0	4.1	
+1781.0	3.3	
+1745.0	3.5	
+1709.0	3.7	
+1673.0	3.3	
+1637.0	3.1	
+1600.0	3.3	
+1564.0	3.3	
+1528.0	3.1	
+1492.0	3.2	
+1447.0	2.9	
+1394.0	3.5	
+1340.0	4.1	
+1286.0	3.3	
+1233.0	3.4	
+1179.0	3.3	
+1125.0	3.6	
+1074.0	4.1	
+1024.0	4.4	
+974.0	3.6	
+923.0	3.3	
+873.0	4.1	
+823.0	4.4	
+773.0	4.1	
+722.0	3.7	
+672.0	3.3	
+621.0	3.1	
+570.0	3.3	
+519.0	4.1	
+468.0	3.3	
+417.0	3.3	
+366.0	3.1	
+315.0	3.2	
+264.0	3.2	
+213.0	3.3	
+161.0	3.1	
+110.0	3.3	

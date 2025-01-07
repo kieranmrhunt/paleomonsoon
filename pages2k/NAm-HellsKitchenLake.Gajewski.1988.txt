@@ -1,0 +1,178 @@
+# Gajewski.Hell's_Kitchen_Lake.1988
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-HellsKitchenLake.Gajewski.1988.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-HellsKitchenLake.Gajewski.1988.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/6221
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gajewski.Hell's_Kitchen_Lake.1988
+#------------------
+# Investigators
+#     Investigators: Gajewski, K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Gajewski, K.
+#     Published_Date_or_Year: 1988
+#     Published_Title: Late holocene climate changes in eastern North America estimated from pollen data
+#     Journal_Name: Quaternary Research
+#     Volume: 29
+#     Edition: 
+#     Issue: 3
+#     Pages: 255-262
+#     Report: 
+#     DOI: 10.1016/0033-5894(88)90034-8
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Hell's Kitchen Lake
+#     Location: 
+#     Country: USA
+#     Northernmost_Latitude: 46.2
+#     Southernmost_Latitude: 46.2
+#     Easternmost_Longitude: -89.7
+#     Westernmost_Longitude: -89.7
+#     Elevation: 488
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -10.0
+#     Most_Recent_Year: 2003.0
+#     Time_Unit: BP
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	Mean temperature of the warmest month, ,,degC, 7, lake sediment, ,,, ; climateInterpretation_seasonality changed - was originally July;  
+##age	Years before present (1950) BP, ,,BP, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    age	
+1960.0	18.3	-10.0	
+1951.0	18.6	-1.0	
+1942.0	18.4	8.0	
+1932.0	18.4	18.0	
+1923.0	18.1	27.0	
+1914.0	18.4	36.0	
+1905.0	18.1	45.0	
+1896.0	18.0	54.0	
+1887.0	17.9	63.0	
+1877.0	18.3	73.0	
+1868.0	17.9	82.0	
+1859.0	17.6	91.0	
+1841.0	18.0	109.0	
+1831.0	18.4	119.0	
+1813.0	18.5	137.0	
+1798.0	18.3	152.0	
+1753.0	17.7	197.0	
+1735.0	18.2	215.0	
+1684.0	18.1	266.0	
+1650.0	18.3	300.0	
+1621.0	18.0	329.0	
+1584.0	17.9	366.0	
+1557.0	17.9	393.0	
+1549.0	18.1	401.0	
+1532.0	18.0	418.0	
+1516.0	18.0	434.0	
+1501.0	18.1	449.0	
+1486.0	18.3	464.0	
+1458.0	18.4	492.0	
+1438.0	18.0	512.0	
+1419.0	18.1	531.0	
+1383.0	18.1	567.0	
+1349.0	17.9	601.0	
+1315.0	17.8	635.0	
+1296.0	18.2	654.0	
+1278.0	17.8	672.0	
+1241.0	18.2	709.0	
+1199.0	18.2	751.0	
+1152.0	17.9	798.0	
+1114.0	18.0	836.0	
+1061.0	18.1	889.0	
+980.0	17.9	970.0	
+923.0	18.0	1027.0	
+902.0	18.1	1048.0	
+882.0	18.3	1068.0	
+818.0	18.1	1132.0	
+796.0	18.2	1154.0	
+776.0	18.5	1174.0	
+756.0	18.7	1194.0	
+739.0	18.2	1211.0	
+721.0	18.2	1229.0	
+704.0	18.4	1246.0	
+688.0	18.3	1262.0	
+672.0	18.3	1278.0	
+657.0	18.6	1293.0	
+643.0	18.7	1307.0	
+627.0	18.2	1323.0	
+598.0	18.3	1352.0	
+568.0	18.3	1382.0	
+536.0	18.2	1414.0	
+501.0	18.2	1449.0	
+464.0	18.5	1486.0	
+427.0	18.5	1523.0	
+385.0	18.4	1565.0	
+342.0	18.2	1608.0	
+299.0	18.3	1651.0	
+257.0	18.3	1693.0	
+215.0	18.3	1735.0	
+174.0	18.4	1776.0	
+134.0	18.3	1816.0	
+96.0	18.1	1854.0	
+58.0	18.6	1892.0	
+21.0	18.1	1929.0	
+-16.0	18.6	1966.0	
+-53.0	18.4	2003.0	

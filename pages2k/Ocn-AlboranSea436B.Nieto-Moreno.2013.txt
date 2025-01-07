@@ -1,0 +1,187 @@
+# Age determination and paleotemperatures of sediment cores TTR17-1_384B and TTR17-1_436B in the Alboran Sea
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-AlboranSea436B.Nieto-Moreno.2013.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-AlboranSea436B.Nieto-Moreno.2013.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.802259
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Age determination and paleotemperatures of sediment cores TTR17-1_384B and TTR17-1_436B in the Alboran Sea
+#------------------
+# Investigators
+#     Investigators: Nieto-Moreno, V.; Martínez-Ruiz, F.; Willmott, V.; García-Orellana, J.; Masqué, P.; Sinninghe Damsté, J. S.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement
+#------------------
+# Publication
+#     Authors: Nieto-Moreno, V.;Martínez-Ruiz, F.;Willmott, V.;García-Orellana, J.;Masqué, P.;Sinninghe Damsté, J.S.
+#     Published_Date_or_Year: 2013
+#     Published_Title: Climate conditions in the westernmost Mediterranean over the last two millennia: An integrated biomarker approach
+#     Journal_Name: Organic Geochemistry
+#     Volume: 55
+#     Edition: 
+#     Issue: 
+#     Pages: 1-10
+#     Report: 
+#     DOI: 10.1016/j.orggeochem.2012.11.001
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: Junta de Andalucía
+#     Grant: CGL2009-07603
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: European Research Council under the European Union’s Seventh Framework Programme
+#     Grant: CTM2009-7715
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 200800050084447 (MARM)
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: Project RNM 05212
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: Research Group 0179
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: FP7/2007-2013)/ERC Grant Agreement #226600
+#------------------
+# Site_Information
+#     Site_Name: Alboran Sea
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 36.2053
+#     Southernmost_Latitude: 36.2053
+#     Easternmost_Longitude: -4.3133
+#     Westernmost_Longitude: -4.3133
+#     Elevation: -1108
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 564.36
+#     Most_Recent_Year: 1999.07
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenone, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; MUE1998: T(sediments) = (Uk’37-0.044)/0.033; (Müller et al.; (1998); global (60S-60N); 0-29ºC; annual at 0 m; n=370; R2=0.958);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1999.07	18.79	
+1993.12	19.38	
+1987.17	19.61	
+1975.26	18.88	
+1963.36	18.74	
+1957.4	19.25	
+1951.45	18.98	
+1919.19	19.2	
+1886.94	19.4	
+1854.68	18.84	
+1822.42	19.06	
+1790.16	19.48	
+1757.9	18.7	
+1725.65	18.52	
+1693.39	18.92	
+1661.13	18.71	
+1628.87	19.17	
+1596.61	18.97	
+1564.36	18.79	
+1532.1	18.87	
+1499.84	18.77	
+1467.58	19.22	
+1435.32	18.73	
+1403.07	19.16	
+1370.81	18.7	
+1338.55	18.8	
+1306.29	18.65	
+1274.03	19.24	
+1241.77	19.1	
+1209.52	18.82	
+1177.26	18.97	
+1145.0	19.12	
+1112.74	18.95	
+1080.48	19.3	
+1048.23	19.73	
+1015.97	19.14	
+983.71	19.46	
+951.45	18.74	
+919.19	19.63	
+886.94	19.24	
+854.68	19.43	
+822.42	19.25	
+790.16	19.08	
+757.9	18.65	
+725.65	19.18	
+693.39	18.89	
+661.13	20.0	
+628.87	19.1	
+596.61	18.86	
+564.36	19.04	

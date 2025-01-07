@@ -1,0 +1,330 @@
+# Wu2013_Tonga
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-HaferaIsland.Wu.2013.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-HaferaIsland.Wu.2013.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/15238
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Wu2013_Tonga
+#------------------
+# Investigators
+#     Investigators: Wu, H.C; Ocean2k
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Wu, Henry C.;Linsley, Braddock K.;Dassié, Emilie P.;Schiraldi, Benedetto;deMenocal, Peter B.
+#     Published_Date_or_Year: 2013
+#     Published_Title: Oceanographic variability in the South Pacific Convergence Zone region over the last 210 years from multi-site coral Sr/Ca records
+#     Journal_Name: Geochemistry, Geophysics, Geosystems
+#     Volume: 14
+#     Edition: 
+#     Issue: 5
+#     Pages: 1435-1453
+#     Report: 
+#     DOI: 10.1029/2012GC004293
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: Tierney, Jessica E.;Abram, Nerilie J.;Anchukaitis, Kevin J.;Evans, Michael N.;Giry, Cyril;Kilbourne, K. Halimeda;Saenger, Casey P.;Wu, Henry C.;Zinke, Jens
+#     Published_Date_or_Year: 2015
+#     Published_Title: Tropical sea surface temperatures for the past four centuries reconstructed from coral archives
+#     Journal_Name: Paleoceanography
+#     Volume: 30
+#     Edition: 
+#     Issue: 3
+#     Pages: 226-252
+#     Report: 
+#     DOI: 10.1002/2014PA002717
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Hafera Island
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -19.9333
+#     Southernmost_Latitude: -19.9333
+#     Easternmost_Longitude: -174.7167
+#     Westernmost_Longitude: -174.7167
+#     Elevation: -10
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1791.0
+#     Most_Recent_Year: 2003.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Porites,lutea
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##Sr_Ca	,,,mmol/mol, N/A (subannually resolved), coral, ,,, ; paleoData_variableName changed - was originally Sr_Ca; climateInterpretation_seasonality changed - was originally monthly; paleoData_variableName changed - was originally Sr_Ca;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Sr_Ca	
+2003.0	9.05	
+2002.0	9.01	
+2001.0	9.041	
+2000.0	8.966	
+1999.0	9.001	
+1998.0	9.008	
+1997.0	9.038	
+1996.0	8.961	
+1995.0	9.005	
+1994.0	8.996	
+1993.0	9.054	
+1992.0	8.981	
+1991.0	9.0	
+1990.0	8.962	
+1989.0	8.994	
+1988.0	8.985	
+1987.0	9.063	
+1986.0	9.019	
+1985.0	9.048	
+1984.0	9.024	
+1983.0	9.067	
+1982.0	8.992	
+1981.0	8.991	
+1980.0	9.007	
+1979.0	9.014	
+1978.0	9.08	
+1977.0	9.044	
+1976.0	8.972	
+1975.0	8.983	
+1974.0	8.921	
+1973.0	8.965	
+1972.0	9.027	
+1971.0	8.929	
+1970.0	8.968	
+1969.0	9.012	
+1968.0	8.963	
+1967.0	9.015	
+1966.0	9.016	
+1965.0	9.038	
+1964.0	8.995	
+1963.0	9.015	
+1962.0	8.985	
+1961.0	9.017	
+1960.0	9.002	
+1959.0	9.015	
+1958.0	8.972	
+1957.0	9.002	
+1956.0	8.99	
+1955.0	8.993	
+1954.0	8.96	
+1953.0	9.011	
+1952.0	9.05	
+1951.0	8.998	
+1950.0	8.982	
+1949.0	9.039	
+1948.0	9.054	
+1947.0	8.981	
+1946.0	9.067	
+1945.0	9.014	
+1944.0	9.109	
+1943.0	9.083	
+1942.0	9.067	
+1941.0	9.093	
+1940.0	9.049	
+1939.0	9.058	
+1938.0	9.017	
+1937.0	8.996	
+1936.0	9.017	
+1935.0	9.008	
+1934.0	9.033	
+1933.0	9.024	
+1932.0	9.13	
+1931.0	9.19	
+1930.0	9.086	
+1929.0	9.029	
+1928.0	8.994	
+1927.0	8.995	
+1926.0	9.052	
+1925.0	9.056	
+1924.0	9.099	
+1923.0	9.158	
+1922.0	9.051	
+1921.0	9.104	
+1920.0	9.104	
+1919.0	9.081	
+1918.0	9.09	
+1917.0	9.027	
+1916.0	9.079	
+1915.0	9.128	
+1914.0	9.183	
+1913.0	9.123	
+1912.0	9.089	
+1911.0	9.055	
+1910.0	9.066	
+1909.0	9.035	
+1908.0	9.053	
+1907.0	9.094	
+1906.0	9.076	
+1905.0	9.108	
+1904.0	9.064	
+1903.0	9.093	
+1902.0	9.077	
+1901.0	9.105	
+1900.0	9.14	
+1899.0	9.143	
+1898.0	9.063	
+1897.0	9.151	
+1896.0	9.152	
+1895.0	9.107	
+1894.0	9.094	
+1893.0	9.062	
+1892.0	9.165	
+1891.0	9.168	
+1890.0	9.171	
+1889.0	9.118	
+1888.0	9.151	
+1887.0	9.1	
+1886.0	9.178	
+1885.0	9.225	
+1884.0	9.125	
+1883.0	9.126	
+1882.0	9.078	
+1881.0	9.105	
+1880.0	9.116	
+1879.0	9.117	
+1878.0	9.057	
+1877.0	9.133	
+1876.0	9.133	
+1875.0	9.098	
+1874.0	9.065	
+1873.0	9.059	
+1872.0	9.049	
+1871.0	9.012	
+1870.0	9.085	
+1869.0	9.111	
+1868.0	9.07	
+1867.0	9.051	
+1866.0	9.153	
+1865.0	9.101	
+1864.0	9.134	
+1863.0	9.115	
+1862.0	9.143	
+1861.0	9.088	
+1860.0	9.061	
+1859.0	9.075	
+1858.0	9.028	
+1857.0	9.096	
+1856.0	9.078	
+1855.0	9.101	
+1854.0	9.125	
+1853.0	9.03	
+1852.0	9.111	
+1851.0	9.126	
+1850.0	9.051	
+1849.0	9.079	
+1848.0	9.064	
+1847.0	9.078	
+1846.0	9.099	
+1845.0	9.055	
+1844.0	9.105	
+1843.0	9.099	
+1842.0	9.07	
+1841.0	9.092	
+1840.0	9.131	
+1839.0	9.086	
+1838.0	9.072	
+1837.0	9.094	
+1836.0	9.105	
+1835.0	9.095	
+1834.0	9.048	
+1833.0	9.077	
+1832.0	9.04	
+1831.0	9.026	
+1830.0	8.985	
+1829.0	8.994	
+1828.0	9.043	
+1827.0	9.019	
+1826.0	9.047	
+1825.0	9.083	
+1824.0	9.044	
+1823.0	9.031	
+1822.0	9.031	
+1821.0	9.119	
+1820.0	9.07	
+1819.0	8.994	
+1818.0	9.033	
+1817.0	9.083	
+1816.0	9.143	
+1815.0	9.101	
+1814.0	9.103	
+1813.0	9.005	
+1812.0	9.03	
+1811.0	9.056	
+1810.0	8.992	
+1809.0	9.063	
+1808.0	9.074	
+1807.0	8.999	
+1806.0	8.946	
+1805.0	9.04	
+1804.0	8.951	
+1803.0	9.063	
+1802.0	9.135	
+1801.0	9.111	
+1800.0	9.035	
+1799.0	9.063	
+1798.0	9.083	
+1797.0	9.048	
+1796.0	9.042	
+1795.0	9.065	
+1794.0	9.063	
+1793.0	9.028	
+1792.0	9.086	
+1791.0	9.109	

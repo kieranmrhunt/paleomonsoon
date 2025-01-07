@@ -1,0 +1,152 @@
+# Zhang.Guangdong_and_Guangxi_province.1980
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-GuangdongAndGuangxi.Zhang.1980.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-GuangdongAndGuangxi.Zhang.1980.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: documents
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Zhang.Guangdong_and_Guangxi_province.1980
+#------------------
+# Investigators
+#     Investigators: Zhang, D.E.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: decadal resolution
+#------------------
+# Publication
+#     Authors: Zhang, D.E.
+#     Published_Date_or_Year: 1980
+#     Published_Title: Winter temperature changes during the last 500 years in south China
+#     Journal_Name: Chinese Science Bulletin
+#     Volume: 6
+#     Edition: 
+#     Issue: 
+#     Pages: 497–500
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Guangdong and Guangxi province
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 23.5
+#     Southernmost_Latitude: 23.5
+#     Easternmost_Longitude: 112.5
+#     Westernmost_Longitude: 112.5
+#     Elevation: 2480
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1470.0
+#     Most_Recent_Year: 1960.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , documents, ,,N,   
+##temperature	Frequency of cold/warm years; winter temperature, ,,index, winter, documents, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1470.0	1.45867852111519	
+1480.0	0.826535498892053	
+1490.0	1.46464054868675	
+1500.0	-0.431230472107014	
+1510.0	0.832303846778474	
+1520.0	-0.431693325391202	
+1530.0	-0.47065294689095	
+1540.0	0.173952483068332	
+1550.0	0.792713955714211	
+1560.0	0.167028638882274	
+1570.0	0.792247816919353	
+1580.0	0.173020209974389	
+1590.0	1.4494699432389	
+1600.0	0.185443223952047	
+1610.0	-1.05276579333382	
+1620.0	1.44876745088467	
+1630.0	-0.414906944638956	
+1640.0	1.42895116931458	
+1650.0	-1.72425251001716	
+1660.0	0.809493774436661	
+1670.0	1.45403683633993	
+1680.0	-1.06728643053961	
+1690.0	0.789464117201342	
+1700.0	0.176707346900407	
+1710.0	-1.72564435987616	
+1720.0	-0.46210347536426	
+1730.0	0.156677689665088	
+1740.0	0.781883740045958	
+1750.0	0.149786670014483	
+1760.0	-1.07555616879639	
+1770.0	0.187991276846155	
+1780.0	0.149071050004046	
+1790.0	-0.457244423576797	
+1800.0	0.774047311552807	
+1810.0	0.167728554259603	
+1820.0	1.05731326431726	
+1830.0	-2.32161146121672	
+1840.0	0.179931630542237	
+1850.0	-1.03894693725102	
+1860.0	-1.71618230584069	
+1870.0	-2.3289751852886	
+1880.0	-1.05255171363059	
+1890.0	0.185230558618903	
+1900.0	0.18500077068595	
+1910.0	0.184734877202645	
+1920.0	0.713239438821517	
+1930.0	1.42229064163493	
+1940.0	0.803076165942792	
+1950.0	0.796418215240039	
+1960.0	0.157830611685292	

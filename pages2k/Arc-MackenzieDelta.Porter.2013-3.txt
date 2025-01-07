@@ -1,0 +1,341 @@
+# Porter.Mackenzie_Delta.2013
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-MackenzieDelta.Porter.2013-3.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-MackenzieDelta.Porter.2013.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/19851
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: tree
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Porter.Mackenzie_Delta.2013
+#------------------
+# Investigators
+#     Investigators: Porter, Trevor J.;Pisaric, Michael F.J.;Kokelj, Steven V.;deMontigny, Peter
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Strong sign-to-noise ratio in the mean divergence-free regional chronology (representing a network of 29 sites in the Mackenzie Delta region) with Expressed Population Signal (EPS) > 0.85 since AD 1400, and EPS > 0.7 back to AD 1245. The chronology shares a moderate to strong positive correlation with local summer temperatures (r = 0.6, p < 0.001) over the calibration period, and moderate to strong correlations with several other reconstructions from surrounding regions spanning the last millenium.;Rejected - not 300 years long
+#------------------
+# Publication
+#     Authors: Porter, Trevor J.;Pisaric, Michael F.J.;Kokelj, Steven V.;deMontigny, Peter
+#     Published_Date_or_Year: 2013
+#     Published_Title: A ring-width-based reconstruction of June–July minimum temperatures since AD1245 from white spruce stands in the Mackenzie Delta region, northwestern Canada
+#     Journal_Name: Quaternary Research
+#     Volume: 80
+#     Edition: 
+#     Issue: 2
+#     Pages: 167-179
+#     Report: 
+#     DOI: 10.1016/j.yqres.2013.05.004
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: Porter, Trevor J.;Pisaric, Michael F. J.;Field, Robert D.;Kokelj, Steven V.;Edwards, Thomas W. D.;deMontigny, Peter;Healy, Richard;LeGrande, Allegra N.
+#     Published_Date_or_Year: 2013
+#     Published_Title: Spring-summer temperatures since AD 1780 reconstructed from stable oxygen isotope ratios in white spruce tree-rings from the Mackenzie Delta, northwestern Canada
+#     Journal_Name: Climate Dynamics
+#     Volume: 42
+#     Edition: 
+#     Issue: 
+#     Pages: 167-179
+#     Report: 
+#     DOI: 10.1007/s00382-013-1674-3
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Mackenzie Delta
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 68.625
+#     Southernmost_Latitude: 68.625
+#     Easternmost_Longitude: -133.87
+#     Westernmost_Longitude: -133.87
+#     Elevation: 5
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1781.0
+#     Most_Recent_Year: 2004.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , tree, ,,N,   
+##d18O	tree ring delta 18O, Tree Ring, ,permil, 4 5 6 7, tree, annual resolution, linear regression, N,  ; climateInterpretation_seasonality changed - was originally April-July minimum; 1.24;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1781.0	-5.1124586	
+1782.0	-4.5854183	
+1783.0	-3.9195989	
+1784.0	-4.7729281	
+1785.0	-3.5260404	
+1786.0	-4.0594372	
+1787.0	-4.1945076	
+1788.0	-5.2914938	
+1789.0	-4.5801209	
+1790.0	-5.9058765	
+1791.0	-5.3895026	
+1792.0	-5.6949157	
+1793.0	-3.7038208	
+1794.0	-3.6806009	
+1795.0	-3.3887701	
+1796.0	-4.2531794	
+1797.0	-4.6242914	
+1798.0	-4.5632342	
+1799.0	-2.9294109	
+1800.0	-5.0613224	
+1801.0	-5.1574511	
+1802.0	-3.6615758	
+1803.0	-3.7239816	
+1804.0	-3.7961571	
+1805.0	-4.1152746	
+1806.0	-4.7347621	
+1807.0	-5.5498779	
+1808.0	-5.7512293	
+1809.0	-4.4379285	
+1810.0	-5.0226561	
+1811.0	-4.6679798	
+1812.0	-4.2021511	
+1813.0	-4.930107	
+1814.0	-5.8267565	
+1815.0	-4.7444592	
+1816.0	-4.7686303	
+1817.0	-4.7296735	
+1818.0	-4.445576	
+1819.0	-3.5140809	
+1820.0	-4.1912376	
+1821.0	-3.1380588	
+1822.0	-3.6155151	
+1823.0	-4.2039434	
+1824.0	-4.0995015	
+1825.0	-4.5576312	
+1826.0	-4.6094604	
+1827.0	-3.9400098	
+1828.0	-3.7556802	
+1829.0	-3.7946865	
+1830.0	-4.0377947	
+1831.0	-3.9709983	
+1832.0	-5.1476471	
+1833.0	-4.8856148	
+1834.0	-4.7310856	
+1835.0	-3.8221619	
+1836.0	-3.8095095	
+1837.0	-4.0925055	
+1838.0	-2.4754196	
+1839.0	-3.5047661	
+1840.0	-4.2625275	
+1841.0	-3.4005914	
+1842.0	-4.5296273	
+1843.0	-4.888791	
+1844.0	-4.0538109	
+1845.0	-3.932096	
+1846.0	-3.3275879	
+1847.0	-3.2437979	
+1848.0	-4.4271763	
+1849.0	-4.186505	
+1850.0	-3.9650796	
+1851.0	-4.4038131	
+1852.0	-4.2443497	
+1853.0	-3.8091645	
+1854.0	-4.2473222	
+1855.0	-4.4923307	
+1856.0	-3.945521	
+1857.0	-5.0240379	
+1858.0	-4.0422469	
+1859.0	-3.5852024	
+1860.0	-2.5378233	
+1861.0	-4.0578909	
+1862.0	-4.133752	
+1863.0	-4.4392155	
+1864.0	-4.6304371	
+1865.0	-4.6849805	
+1866.0	-4.1919981	
+1867.0	-4.3029206	
+1868.0	-3.3644911	
+1869.0	-4.2267468	
+1870.0	-4.1615471	
+1871.0	-4.8271215	
+1872.0	-4.1976929	
+1873.0	-2.8109699	
+1874.0	-3.6496043	
+1875.0	-3.8095498	
+1876.0	-3.8845909	
+1877.0	-3.28279	
+1878.0	-4.5046775	
+1879.0	-3.5076458	
+1880.0	-3.2640464	
+1881.0	-4.4138996	
+1882.0	-4.6750857	
+1883.0	-4.0642928	
+1884.0	-2.9456853	
+1885.0	-4.0941194	
+1886.0	-3.1171093	
+1887.0	-3.6069851	
+1888.0	-4.0128974	
+1889.0	-4.714451	
+1890.0	-3.973178	
+1891.0	-3.7680432	
+1892.0	-3.7092998	
+1893.0	-4.0481111	
+1894.0	-4.452114	
+1895.0	-6.4180705	
+1896.0	-4.1919981	
+1897.0	-5.1602955	
+1898.0	-4.9195526	
+1899.0	-3.4719055	
+1900.0	-4.294452	
+1901.0	-3.9202313	
+1902.0	-4.7808379	
+1903.0	-4.2633132	
+1904.0	-4.3310365	
+1905.0	-4.8750764	
+1906.0	-4.1123657	
+1907.0	-3.3095271	
+1908.0	-2.9598789	
+1909.0	-3.6470352	
+1910.0	-3.8899992	
+1911.0	-4.4624859	
+1912.0	-2.698477	
+1913.0	-2.4190253	
+1914.0	-2.9630814	
+1915.0	-2.608045	
+1916.0	-3.2426934	
+1917.0	-2.8732809	
+1918.0	-2.7957404	
+1919.0	-3.8813693	
+1920.0	-4.5360321	
+1921.0	-4.1245673	
+1922.0	-4.0561046	
+1923.0	-4.3491245	
+1924.0	-3.716674	
+1925.0	-3.9855046	
+1926.0	-1.5942477	
+1927.0	-3.3389573	
+1928.0	-2.8782656	
+1929.0	-2.8028302	
+1930.0	-2.7103265	
+1931.0	-3.3958004	
+1932.0	-4.0476239	
+1933.0	-3.1226195	
+1934.0	-2.7943122	
+1935.0	-3.1118371	
+1936.0	-3.6870481	
+1937.0	-3.8300636	
+1938.0	-3.8484522	
+1939.0	-3.5852871	
+1940.0	-2.4960009	
+1941.0	-2.6346137	
+1942.0	-3.1768936	
+1943.0	-3.3935501	
+1944.0	-3.4592551	
+1945.0	-2.9974691	
+1946.0	-3.9154564	
+1947.0	-2.6464118	
+1948.0	-3.6573718	
+1949.0	-3.378837	
+1950.0	-4.2307512	
+1951.0	-3.1376634	
+1952.0	-3.9408923	
+1953.0	-2.3153338	
+1954.0	-3.0152676	
+1955.0	-3.367168	
+1956.0	-4.2048179	
+1957.0	-3.5803912	
+1958.0	-3.9863196	
+1959.0	-2.4614327	
+1960.0	-4.3767513	
+1961.0	-4.4499646	
+1962.0	-3.7074298	
+1963.0	-3.9694803	
+1964.0	-3.9755473	
+1965.0	-2.893016	
+1966.0	-3.326903	
+1967.0	-3.5898916	
+1968.0	-3.7443854	
+1969.0	-2.8143479	
+1970.0	-3.3108373	
+1971.0	-2.8249729	
+1972.0	-2.1482682	
+1973.0	-3.0120011	
+1974.0	-3.6538557	
+1975.0	-3.4209075	
+1976.0	-4.6307589	
+1977.0	-3.4681963	
+1978.0	-2.6354368	
+1979.0	-3.1856819	
+1980.0	-3.0372731	
+1981.0	-3.5232788	
+1982.0	-3.4840536	
+1983.0	-2.8025941	
+1984.0	-2.8039356	
+1985.0	-3.4394938	
+1986.0	-2.8866444	
+1987.0	-3.8189726	
+1988.0	-1.668855	
+1989.0	-2.70992	
+1990.0	-2.6918108	
+1991.0	-1.9438434	
+1992.0	-2.3869474	
+1993.0	-2.8872334	
+1994.0	-2.6108269	
+1995.0	-2.9446202	
+1996.0	-1.9852634	
+1997.0	-2.8772721	
+1998.0	-2.6941539	
+1999.0	-1.3968734	
+2000.0	-2.6980967	
+2001.0	-2.889872	
+2002.0	-2.3605583	
+2003.0	-1.9024649	
+2004.0	-2.1289516	

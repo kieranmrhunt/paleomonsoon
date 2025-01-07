@@ -1,0 +1,208 @@
+# Gulf of Aden past 2000 year dDwax, d13Cwax, TEX86 data
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Afr-P178-15P.Tierney.2015-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Afr-P178-15P.Tierney.2015.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/19200
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gulf of Aden past 2000 year dDwax, d13Cwax, TEX86 data
+#------------------
+# Investigators
+#     Investigators: Tierney, Jessica; Ummenhofer, Caroline; deMenocal, Peter
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Tierney, J. E.;Ummenhofer, C. C.;deMenocal, P. B.
+#     Published_Date_or_Year: 2015
+#     Published_Title: Past and future rainfall in the Horn of Africa
+#     Journal_Name: Science Advances
+#     Volume: 1
+#     Edition: 
+#     Issue: 9
+#     Pages: e1500682
+#     Report: 
+#     DOI: 10.1126/sciadv.1500682
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: P178-15P
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 11.955
+#     Southernmost_Latitude: 11.955
+#     Easternmost_Longitude: 44.3
+#     Westernmost_Longitude: 44.3
+#     Elevation: -869
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 131.0
+#     Most_Recent_Year: 1980.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	median calibrated ssts from tex86; using BAYSPAR-NRS (Tierney & Tingley; 2014; GCA), ,,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,BAYSPAR Bayesian calibration, N,  ; paleoData_variableName changed - was originally sst; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1980.0	27.5623	
+1974.0625	27.3648	
+1968.1875	27.6094	
+1962.3125	27.5759	
+1956.4375	27.6686	
+1950.5625	27.6323	
+1944.6875	27.7586	
+1938.8125	27.35	
+1932.9375	27.5192	
+1926.875	27.4294	
+1917.5	27.4733	
+1905.0	27.2084	
+1892.5	27.1694	
+1880.0	27.0917	
+1867.5	27.3388	
+1855.0	27.269	
+1830.0	27.0705	
+1805.0	27.1191	
+1775.75	27.1816	
+1746.5	27.3882	
+1717.25	27.2856	
+1688.0	27.1576	
+1661.5	27.5177	
+1635.0	27.3932	
+1608.5	27.2859	
+1582.0	27.2768	
+1560.75	27.0393	
+1539.5	27.3704	
+1518.25	27.0824	
+1497.0	27.3684	
+1475.5	27.4065	
+1454.0	27.3792	
+1432.5	27.3703	
+1411.0	27.1222	
+1393.0	27.3473	
+1375.0	27.0843	
+1360.0	27.1918	
+1345.0	27.3783	
+1330.75	27.4044	
+1316.5	27.1983	
+1302.25	27.4671	
+1288.0	26.8298	
+1274.0	27.0959	
+1260.0	27.0568	
+1246.0	27.2955	
+1232.0	27.3678	
+1219.0	27.0901	
+1213.3333	27.3566	
+1207.6667	26.7173	
+1202.0	27.3938	
+1196.25	27.1999	
+1190.5	27.0425	
+1184.75	27.0241	
+1179.0	27.3877	
+1173.5	26.789	
+1168.0	26.7266	
+1153.5	26.9048	
+1139.0	27.3833	
+1125.25	26.9772	
+1111.5	26.8221	
+1097.75	27.2763	
+1084.0	27.2026	
+1072.0	27.409	
+1060.0	27.5793	
+1048.0	27.5248	
+1036.0	27.3749	
+1015.75	27.6475	
+995.5	27.589	
+975.25	27.5555	
+955.0	27.3007	
+933.75	27.532	
+912.5	27.4439	
+891.25	27.482	
+870.0	27.4243	
+849.5	27.5096	
+829.0	27.6444	
+799.5	27.5952	
+770.0	27.2121	
+734.5	27.4828	
+699.0	27.4557	
+663.5	27.7231	
+628.0	27.7111	
+595.5	27.2882	
+563.0	27.5551	
+530.5	27.4702	
+498.0	27.3898	
+473.0	27.181	
+448.0	27.4942	
+423.0	27.4135	
+398.0	27.6685	
+371.5	27.7183	
+345.0	27.8932	
+318.5	27.2488	
+292.0	27.6268	
+266.5	27.4218	
+241.0	27.3314	
+231.0	27.2001	
+221.0	27.4964	
+209.75	27.2514	
+198.5	27.4087	
+187.25	27.7	
+176.0	27.3759	
+164.75	27.2687	
+153.5	27.3712	
+142.25	27.2591	
+131.0	27.4489	

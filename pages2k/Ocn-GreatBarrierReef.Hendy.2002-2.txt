@@ -1,0 +1,202 @@
+# Hendy.Great_Barrier_Reef.2002
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GreatBarrierReef.Hendy.2002-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GreatBarrierReef.Hendy.2002.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/hendydata.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Hendy.Great_Barrier_Reef.2002
+#------------------
+# Investigators
+#     Investigators: Hendy, E. J.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.SST data is in anomaly-space and is not mean-shifted/raw;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.
+#------------------
+# Publication
+#     Authors: Hendy, E. J.
+#     Published_Date_or_Year: 2002
+#     Published_Title: Abrupt decrease in tropical Pacific sea surface salinity at end of Little Ice Age
+#     Journal_Name: Science
+#     Volume: 295
+#     Edition: 
+#     Issue: 5559
+#     Pages: 1511-1514
+#     Report: 
+#     DOI: 10.1126/science.1067693
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Great Barrier Reef
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -18.315
+#     Southernmost_Latitude: -18.315
+#     Easternmost_Longitude: 146.595
+#     Westernmost_Longitude: 146.595
+#     Elevation: -10
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1568.0
+#     Most_Recent_Year: 1983.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##temperature	inferred sea-surface temperature anomaly, coral Sr/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, coral, ,Sr/Ca, N,  <500 years but this is an amazingly well replicated reconstruction and is the only LR record from the GBR. It should be included.  Multiple cores combined (queries: Helen McGregor); All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.; climateInterpretation_seasonality changed - was originally Annual; ALI1997: Sr/Ca SST sensitivity = -0.0615 mmol/mol/°C; (Alibert and McCulloch (1997)). Average Sr/Ca sd between replicated coral samples is equivalent to 0.15°C (sd = 4.6 Greek Letter Mumol/mol; total n = 550; internal laboratory standard; sd = 3 Greek Letter Mumol/mol; n = 21).;  
+##Sr_Ca	Master Sr_Ca anomaly mol/mol (norm 1985-1960), ,,,, coral, ,,N,  <500 years but this is an amazingly well replicated reconstruction and is the only LR record from the GBR. It should be included.  Multiple cores combined (queries: Helen McGregor); All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.; paleoData_variableName changed - was originally Sr_Ca; paleoData_variableName changed - was originally Sr_Ca;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    Sr_Ca	
+1983.0	0.353	-2.17e-05	
+1978.0	0.384	-2.36e-05	
+1973.0	0.134	-8.27e-06	
+1968.0	-0.064	3.92e-06	
+1963.0	0.056	-3.43e-06	
+1958.0	0.053	-3.27e-06	
+1953.0	0.184	-1.13e-05	
+1948.0	0.127	-7.8e-06	
+1943.0	-0.052	3.17e-06	
+1938.0	-0.176	1.08e-05	
+1933.0	-0.26	1.6e-05	
+1928.0	-0.137	8.44e-06	
+1923.0	-0.267	1.64e-05	
+1918.0	-0.276	1.7e-05	
+1913.0	-0.314	1.93e-05	
+1908.0	-0.198	1.22e-05	
+1903.0	-0.224	1.38e-05	
+1898.0	-0.005	2.81e-07	
+1893.0	0.134	-8.27e-06	
+1888.0	-0.128	7.9e-06	
+1883.0	-0.27	1.66e-05	
+1878.0	0.317	-1.95e-05	
+1873.0	0.164	-1.01e-05	
+1868.0	0.048	-2.94e-06	
+1863.0	0.416	-2.56e-05	
+1858.0	0.035	-2.15e-06	
+1853.0	-0.023	1.41e-06	
+1848.0	-0.223	1.37e-05	
+1843.0	0.267	-1.64e-05	
+1838.0	0.029	-1.78e-06	
+1833.0	0.442	-2.72e-05	
+1828.0	0.522	-3.21e-05	
+1823.0	0.246	-1.51e-05	
+1818.0	-0.397	2.44e-05	
+1813.0	0.167	-1.03e-05	
+1808.0	0.254	-1.56e-05	
+1803.0	0.228	-1.4e-05	
+1798.0	-0.189	1.16e-05	
+1793.0	-0.033	2e-06	
+1788.0	0.366	-2.25e-05	
+1783.0	0.507	-3.12e-05	
+1778.0	0.21	-1.29e-05	
+1773.0	0.506	-3.11e-05	
+1768.0	0.442	-2.72e-05	
+1763.0	0.111	-6.84e-06	
+1758.0	0.385	-2.37e-05	
+1753.0	0.294	-1.81e-05	
+1748.0	0.374	-2.3e-05	
+1743.0	0.294	-1.81e-05	
+1738.0	0.372	-2.29e-05	
+1733.0	0.03	-1.85e-06	
+1728.0	0.569	-3.5e-05	
+1723.0	0.428	-2.63e-05	
+1718.0	0.639	-3.93e-05	
+1713.0	-0.077	4.75e-06	
+1708.0	0.278	-1.71e-05	
+1703.0	-0.052	3.22e-06	
+1698.0	-0.02	1.25e-06	
+1693.0	0.101	-6.23e-06	
+1688.0	0.117	-7.17e-06	
+1683.0	-0.293	1.8e-05	
+1678.0	0.0	-2.28e-08	
+1673.0	-0.519	3.19e-05	
+1668.0	0.42	-2.58e-05	
+1663.0	-0.372	2.29e-05	
+1658.0	-0.293	1.8e-05	
+1653.0	-0.133	8.17e-06	
+1648.0	-0.254	1.56e-05	
+1643.0	-0.371	2.28e-05	
+1638.0	-0.08	4.92e-06	
+1633.0	-0.16	9.83e-06	
+1628.0	0.262	-1.61e-05	
+1623.0	0.089	-5.48e-06	
+1618.0	-0.493	3.03e-05	
+1613.0	nan	nan	
+1608.0	0.507	-3.12e-05	
+1603.0	nan	nan	
+1598.0	0.072	-4.42e-06	
+1593.0	-1.34	8.24e-05	
+1588.0	-0.33	2.03e-05	
+1583.0	-0.156	9.59e-06	
+1578.0	0.237	-1.46e-05	
+1573.0	-0.325	2e-05	
+1568.0	0.015	-9.2e-07	

@@ -1,0 +1,156 @@
+# Great Bahama bank, W Atlantic marine sediment Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GreatBahamaBank.Lund.2006-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GreatBahamaBank.Lund.2006.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/lund2006/lund2006.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Great Bahama bank, W Atlantic marine sediment Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Lund, D.C.; Curry, W.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Lund, David C.;Curry, William
+#     Published_Date_or_Year: 2006
+#     Published_Title: Florida Current surface temperature and salinity variability during the last millennium
+#     Journal_Name: Paleoceanography
+#     Volume: 21
+#     Edition: 
+#     Issue: 2
+#     Pages: n/a-n/a
+#     Report: 
+#     DOI: 10.1029/2005PA001218
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: US-NSF
+#     Grant: OCE-0096469
+#------------------
+# Site_Information
+#     Site_Name: Great Bahama bank, 125MC
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 24.765
+#     Southernmost_Latitude: 24.765
+#     Easternmost_Longitude: -79.29
+#     Westernmost_Longitude: -79.29
+#     Elevation: -694
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 590.0
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+useInAgeModel  supportedActivityactivityUncertaintythickness      materialDated  labID          reservoirAge14CUncertaintydelta13C       ageUncertainty age14C         reservoirAge14CfractionModern age14Cuncertaintyage            depth          fractionModernUncertaintyactivity       delta13Cuncertaintyx210PbModel	
+1950.0	nan	nan	1.0	G. ruber	nan	nan	nan	nan	0.0	400.0	nan	0.0	postbomb	0.5	nan	nan	nan	nan	
+1170.0	nan	nan	1.0	G. ruber	nan	nan	nan	nan	1250.0	400.0	nan	30.0	1170.0	10.5	nan	nan	nan	nan	
+590.0	nan	nan	1.0	G. ruber	nan	nan	nan	nan	1830.0	400.0	nan	35.0	590.0	27.5	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from Lunds "Avg Mg/Ca" column and are in units of mmol/mol; note that in original source; there are also MgCa estimates for std. dev & std. error, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature    depth	
+1950.0	4.95	28.51	0.5	
+1872.0	4.83	28.26	1.5	
+1794.0	4.79	28.16	2.5	
+1716.0	4.85	28.3	3.5	
+1638.0	4.71	27.97	4.5	
+1560.0	4.39	27.18	5.5	
+1482.0	4.94	28.5	6.5	
+1404.0	4.5	27.45	7.5	
+1326.0	4.73	28.01	8.5	
+1248.0	4.56	27.61	9.5	
+1170.0	4.45	27.34	10.5	
+1135.88	4.76	28.09	11.5	
+1101.76	4.68	27.91	12.5	
+1067.65	4.79	28.16	13.5	
+1033.53	4.8	28.18	14.5	
+999.41	4.8	28.17	15.5	
+965.29	4.79	28.16	16.5	
+931.18	4.76	28.09	17.5	
+897.06	4.76	28.1	18.5	
+862.94	4.8	28.18	19.5	
+828.82	4.73	28.02	20.5	
+794.71	4.9	28.41	21.5	
+760.59	4.9	28.41	22.5	
+726.47	5.04	28.73	23.5	
+692.35	4.7	27.96	24.5	
+658.24	4.7	27.95	25.5	
+624.12	4.74	28.03	26.5	
+590.0	4.95	28.53	27.5	

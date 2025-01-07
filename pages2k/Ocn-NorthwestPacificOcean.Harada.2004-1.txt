@@ -1,0 +1,143 @@
+# Harada.Northwest_Pacific_Ocean.2004
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-NorthwestPacificOcean.Harada.2004-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-NorthwestPacificOcean.Harada.2004.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/harada2004/harada2004.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Harada.Northwest_Pacific_Ocean.2004
+#------------------
+# Investigators
+#     Investigators: Harada, Naomi;Ahagon, Naokazu;Uchida, Masao;Murayama, Masafumi
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Pacific0328aHarada2004_MR00-K03-PC01;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset contains repeated values
+#------------------
+# Publication
+#     Authors: Harada, Naomi;Ahagon, Naokazu;Uchida, Masao;Murayama, Masafumi
+#     Published_Date_or_Year: 2004
+#     Published_Title: Northward and southward migrations of frontal zones during the past 40 kyr in the Kuroshio-Oyashio transition area
+#     Journal_Name: Geochemistry, Geophysics, Geosystems
+#     Volume: 5
+#     Edition: 
+#     Issue: 9
+#     Pages: Q09004
+#     Report: 
+#     DOI: 10.1029/2004GC000740
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Northwest Pacific Ocean
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 46.32
+#     Southernmost_Latitude: 46.32
+#     Easternmost_Longitude: 152.53
+#     Westernmost_Longitude: 152.53
+#     Elevation: -2793
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -70.0
+#     Most_Recent_Year: 1370.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, summer, marine sediment, ,alkenone, N,  PRA1988: T(cultures) = (Uk37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994); paleoData_units changed - was originally deg C; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1370.0	8.8	
+1280.0	8.6	
+1190.0	8.6	
+1150.0	8.9	
+1110.0	8.8	
+1020.0	8.5	
+970.0	9.1	
+930.0	8.5	
+890.0	7.7	
+840.0	8.3	
+800.0	8.2	
+760.0	8.7	
+710.0	8.7	
+630.0	8.0	
+580.0	8.3	
+540.0	8.2	
+450.0	7.7	
+410.0	8.0	
+360.0	8.0	
+280.0	7.8	
+230.0	8.0	
+190.0	7.5	
+100.0	7.4	
+60.0	6.6	
+20.0	7.7	
+-70.0	7.5	

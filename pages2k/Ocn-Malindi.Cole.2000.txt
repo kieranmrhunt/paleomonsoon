@@ -1,0 +1,311 @@
+# Malindi annual oxygen isotopic composition, 1801-1994
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-Malindi.Cole.2000.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-Malindi.Cole.2000.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/1855
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Malindi annual oxygen isotopic composition, 1801-1994
+#------------------
+# Investigators
+#     Investigators: Cole; Ocean2k
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Cole, J. E.
+#     Published_Date_or_Year: 2000
+#     Published_Title: Tropical Pacific forcing of decadal SST variability in the western Indian Ocean over the past two centuries
+#     Journal_Name: Science
+#     Volume: 287
+#     Edition: 
+#     Issue: 5453
+#     Pages: 617-619
+#     Report: 
+#     DOI: 10.1126/science.287.5453.617
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: Auer, Gerald;Piller, Werner E.;Reuter, Markus;Harzhauser, Mathias
+#     Published_Date_or_Year: 2015
+#     Published_Title: Correlating carbon and oxygen isotope events in early to middle Miocene shallow marine carbonates in the Mediterranean region using orbitally tuned chemostratigraphy and lithostratigraphy
+#     Journal_Name: Paleoceanography
+#     Volume: 30
+#     Edition: 
+#     Issue: 4
+#     Pages: 617-619
+#     Report: 
+#     DOI: 10.1002/2014PA002716
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Malindi
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -3.2
+#     Southernmost_Latitude: -3.2
+#     Easternmost_Longitude: 40.1
+#     Westernmost_Longitude: 40.1
+#     Elevation: -6
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1801.0
+#     Most_Recent_Year: 1994.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Porites,Porites lutea
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##d18O	,,,permil, -12 -11 1 2 3 4 5 6 7 8 9 10, coral, ,,, ; climateInterpretation_seasonality changed - was originally -12 -11 1 2 3 4 5 6 7 8 9 10;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1994.0	-4.705	
+1993.0	-4.658	
+1992.0	-4.664	
+1991.0	-4.627	
+1990.0	-4.598	
+1989.0	-4.532	
+1988.0	-4.577	
+1987.0	-4.59	
+1986.0	-4.449	
+1985.0	-4.477	
+1984.0	-4.498	
+1983.0	-4.571	
+1982.0	-4.552	
+1981.0	-4.544	
+1980.0	-4.629	
+1979.0	-4.557	
+1978.0	-4.521	
+1977.0	-4.5	
+1976.0	-4.56	
+1975.0	-4.334	
+1974.0	-4.411	
+1973.0	-4.423	
+1972.0	-4.378	
+1971.0	-4.345	
+1970.0	-4.376	
+1969.0	-4.349	
+1968.0	-4.323	
+1967.0	-4.369	
+1966.0	-4.351	
+1965.0	-4.279	
+1964.0	-4.186	
+1963.0	-4.288	
+1962.0	-4.294	
+1961.0	-4.318	
+1960.0	-4.369	
+1959.0	-4.34	
+1958.0	-4.291	
+1957.0	-4.356	
+1956.0	-4.387	
+1955.0	-4.349	
+1954.0	-4.41	
+1953.0	-4.369	
+1952.0	-4.408	
+1951.0	-4.343	
+1950.0	-4.35	
+1949.0	-4.524	
+1948.0	-4.457	
+1947.0	-4.441	
+1946.0	-4.45	
+1945.0	-4.489	
+1944.0	-4.417	
+1943.0	-4.387	
+1942.0	-4.507	
+1941.0	-4.506	
+1940.0	-4.476	
+1939.0	-4.517	
+1938.0	-4.441	
+1937.0	-4.414	
+1936.0	-4.452	
+1935.0	-4.427	
+1934.0	-4.323	
+1933.0	-4.48	
+1932.0	-4.51	
+1931.0	-4.53	
+1930.0	-4.453	
+1929.0	-4.382	
+1928.0	-4.35	
+1927.0	-4.408	
+1926.0	-4.388	
+1925.0	-4.361	
+1924.0	-4.342	
+1923.0	-4.352	
+1922.0	-4.368	
+1921.0	-4.356	
+1920.0	-4.337	
+1919.0	-4.352	
+1918.0	-4.338	
+1917.0	-4.341	
+1916.0	-4.354	
+1915.0	-4.436	
+1914.0	-4.464	
+1913.0	-4.406	
+1912.0	-4.398	
+1911.0	-4.245	
+1910.0	-4.266	
+1909.0	-4.352	
+1908.0	-4.279	
+1907.0	-4.387	
+1906.0	-4.511	
+1905.0	-4.355	
+1904.0	-4.449	
+1903.0	-4.428	
+1902.0	-4.439	
+1901.0	-4.394	
+1900.0	-4.517	
+1899.0	-4.39	
+1898.0	-4.523	
+1897.0	-4.499	
+1896.0	-4.534	
+1895.0	-4.555	
+1894.0	-4.381	
+1893.0	-4.393	
+1892.0	-4.444	
+1891.0	-4.375	
+1890.0	-4.432	
+1889.0	-4.504	
+1888.0	-4.444	
+1887.0	-4.393	
+1886.0	-4.406	
+1885.0	-4.379	
+1884.0	-4.314	
+1883.0	-4.348	
+1882.0	-4.408	
+1881.0	-4.429	
+1880.0	-4.561	
+1879.0	-4.561	
+1878.0	-4.568	
+1877.0	-4.505	
+1876.0	-4.467	
+1875.0	-4.492	
+1874.0	-4.495	
+1873.0	-4.548	
+1872.0	-4.327	
+1871.0	-4.481	
+1870.0	-4.476	
+1869.0	-4.474	
+1868.0	-4.472	
+1867.0	-4.514	
+1866.0	-4.413	
+1865.0	-4.436	
+1864.0	-4.317	
+1863.0	-4.441	
+1862.0	-4.377	
+1861.0	-4.345	
+1860.0	-4.302	
+1859.0	-4.362	
+1858.0	-4.309	
+1857.0	-4.331	
+1856.0	-4.371	
+1855.0	-4.382	
+1854.0	-4.353	
+1853.0	-4.352	
+1852.0	-4.518	
+1851.0	-4.366	
+1850.0	-4.286	
+1849.0	-4.28	
+1848.0	-4.266	
+1847.0	-4.205	
+1846.0	-4.22	
+1845.0	-4.257	
+1844.0	-4.254	
+1843.0	-4.289	
+1842.0	-4.329	
+1841.0	-4.273	
+1840.0	-4.333	
+1839.0	-4.332	
+1838.0	-4.413	
+1837.0	-4.204	
+1836.0	-4.243	
+1835.0	-4.426	
+1834.0	-4.419	
+1833.0	-4.344	
+1832.0	-4.375	
+1831.0	-4.323	
+1830.0	-4.298	
+1829.0	-4.29	
+1828.0	-4.287	
+1827.0	-4.168	
+1826.0	-4.398	
+1825.0	-4.424	
+1824.0	-4.38	
+1823.0	-4.479	
+1822.0	-4.472	
+1821.0	-4.302	
+1820.0	-4.25	
+1819.0	-4.276	
+1818.0	-4.327	
+1817.0	-4.298	
+1816.0	-4.1	
+1815.0	-4.208	
+1814.0	-4.373	
+1813.0	-4.342	
+1812.0	-4.25	
+1811.0	-4.165	
+1810.0	-4.122	
+1809.0	-4.249	
+1808.0	-4.248	
+1807.0	-4.159	
+1806.0	-4.26	
+1805.0	-4.294	
+1804.0	-4.294	
+1803.0	-4.182	
+1802.0	-4.24	
+1801.0	-4.214	

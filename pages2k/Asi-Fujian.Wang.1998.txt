@@ -1,0 +1,149 @@
+# Wang.Fujian_and_Taiwan.1998
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Fujian.Wang.1998.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Fujian.Wang.1998.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: documents
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Wang.Fujian_and_Taiwan.1998
+#------------------
+# Investigators
+#     Investigators: Wang, S.W.;Ye, J.L.;Gong, D.Y
+#------------------
+# Description_Notes_and_Keywords
+#     Description: decadal resolution
+#------------------
+# Publication
+#     Authors: Wang, S.W.;Ye, J.L.;Gong, D.Y
+#     Published_Date_or_Year: 1998
+#     Published_Title: Climate in China during the Little Ice Age
+#     Journal_Name: Quaternary Sciences
+#     Volume: 1
+#     Edition: 
+#     Issue: 
+#     Pages: 54-64
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Fujian and Taiwan
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 24
+#     Southernmost_Latitude: 24
+#     Easternmost_Longitude: 121
+#     Westernmost_Longitude: 121
+#     Elevation: 3700
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1500.0
+#     Most_Recent_Year: 1960.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , documents, ,,N,   
+##temperature	Cold/warm description; annual temperature, ,,index, 1 2 3 4 5 6 7 8 9 10 11 12, documents, ,,N,  ; climateInterpretation_seasonality changed - was originally annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1500.0	1.7162847388664	
+1510.0	-0.585552607126216	
+1520.0	-0.709163747417504	
+1530.0	-2.26948225559947	
+1540.0	1.20640151647941	
+1550.0	-0.214880047641301	
+1560.0	-0.925529888069389	
+1570.0	0.186734762922656	
+1580.0	0.325749814681442	
+1590.0	0.681043386572127	
+1600.0	0.681021485717971	
+1610.0	-0.045076820433824	
+1620.0	0.325662955261035	
+1630.0	0.155712455285167	
+1640.0	-0.802116620840923	
+1650.0	-2.23884438021413	
+1660.0	-0.694021162483286	
+1670.0	-1.08025698972885	
+1680.0	0.310085342056084	
+1690.0	1.25242063710268	
+1700.0	0.0165176557507053	
+1710.0	0.572646584091588	
+1720.0	-2.0227199271609	
+1730.0	0.371771958323825	
+1740.0	0.773410935937312	
+1750.0	0.727042119988718	
+1760.0	-0.354368648716328	
+1770.0	1.46852696486876	
+1780.0	-1.38946120604305	
+1790.0	-0.354435864926272	
+1800.0	-0.354461541347436	
+1810.0	-0.648000528212539	
+1820.0	0.943170352884796	
+1830.0	-0.972460617850425	
+1840.0	0.572362604156255	
+1850.0	0.974001577493901	
+1860.0	-0.230999187472015	
+1870.0	0.417814497724568	
+1880.0	0.711311187977154	
+1890.0	-1.18887131703436	
+1900.0	-0.447372118158339	
+1910.0	-0.1538663674001	
+1920.0	-0.169336733977963	
+1930.0	1.25190026305902	
+1940.0	2.20968478065306	
+1950.0	2.88939161317836	
+1960.0	2.90481742977586	

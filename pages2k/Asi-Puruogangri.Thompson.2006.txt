@@ -1,0 +1,304 @@
+# Thompson.Puruogangri.2006
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Puruogangri.Thompson.2006.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Puruogangri.Thompson.2006.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/11929
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: glacier ice
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Thompson.Puruogangri.2006
+#------------------
+# Investigators
+#     Investigators: Thompson, Lonnie G.;Yao, Tandong;Davis, Mary E.;Mosley-Thompson, Ellen;Mashiotta, Tracy A.;Lin, Ping-Nan;Mikhalenko, Vladimir N.;Zagorodnov, Victor S.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: d18O in ice core in northern Tibetan Plateau is a proxy of temperature. Elevation estimated from GoogleEarth; rounded to 100 m
+#------------------
+# Publication
+#     Authors: Thompson, Lonnie G.;Yao, Tandong;Davis, Mary E.;Mosley-Thompson, Ellen;Mashiotta, Tracy A.;Lin, Ping-Nan;Mikhalenko, Vladimir N.;Zagorodnov, Victor S.
+#     Published_Date_or_Year: 2006
+#     Published_Title: Holocene climate variability archived in the Puruogangri ice cap on the central Tibetan Plateau
+#     Journal_Name: Annals of Glaciology
+#     Volume: 43
+#     Edition: 
+#     Issue: 
+#     Pages: 61-69
+#     Report: 
+#     DOI: 10.3189/172756406781812357
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Puruogangri
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 33.9167
+#     Southernmost_Latitude: 33.9167
+#     Easternmost_Longitude: 89.0833
+#     Westernmost_Longitude: 89.0833
+#     Elevation: 6070
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 4.5
+#     Most_Recent_Year: 1994.5
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , glacier ice, ,,N,   
+##d18O	d18O in ice, ,,permil, 1 2 3 4 5 6 7 8 9 10 11 12, glacier ice, ,,N,  ; climateInterpretation_seasonality changed - was originally annual; archiveType changed - was originally ice core;  
+##ageMax	Year (A.D.) at end of interval, ,,AD, , glacier ice, ,,N,  ; archiveType changed - was originally ice core;  
+##ageMin	Year (A.D.) at beginning of interval, ,,AD, , glacier ice, ,,N,  ; archiveType changed - was originally ice core;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O           ageMax         ageMin	
+1994.5	-12.2	1999.0	1990.0	
+1984.5	-12.05	1989.0	1980.0	
+1974.5	-13.05	1979.0	1970.0	
+1964.5	-12.97	1969.0	1960.0	
+1954.5	-13.53	1959.0	1950.0	
+1944.5	-14.23	1949.0	1940.0	
+1934.5	-13.11	1939.0	1930.0	
+1924.5	-11.4	1929.0	1920.0	
+1914.5	-12.9	1919.0	1910.0	
+1904.5	-15.39	1909.0	1900.0	
+1894.5	-15.3	1899.0	1890.0	
+1884.5	-13.53	1889.0	1880.0	
+1874.5	-13.34	1879.0	1870.0	
+1864.5	-14.33	1869.0	1860.0	
+1854.5	-15.02	1859.0	1850.0	
+1844.5	-14.74	1849.0	1840.0	
+1834.5	-13.87	1839.0	1830.0	
+1824.5	-15.87	1829.0	1820.0	
+1814.5	-16.91	1819.0	1810.0	
+1804.5	-15.63	1809.0	1800.0	
+1794.5	-14.0	1799.0	1790.0	
+1784.5	-14.25	1789.0	1780.0	
+1774.5	-14.56	1779.0	1770.0	
+1764.5	-14.58	1769.0	1760.0	
+1754.5	-15.25	1759.0	1750.0	
+1744.5	-15.43	1749.0	1740.0	
+1734.5	-15.18	1739.0	1730.0	
+1724.5	-15.28	1729.0	1720.0	
+1714.5	-15.29	1719.0	1710.0	
+1704.5	-13.95	1709.0	1700.0	
+1694.5	-14.61	1699.0	1690.0	
+1684.5	-15.44	1689.0	1680.0	
+1674.5	-14.11	1679.0	1670.0	
+1664.5	-14.59	1669.0	1660.0	
+1654.5	-13.04	1659.0	1650.0	
+1644.5	-11.86	1649.0	1640.0	
+1634.5	-13.93	1639.0	1630.0	
+1624.5	-15.23	1629.0	1620.0	
+1614.5	-14.25	1619.0	1610.0	
+1604.5	-14.07	1609.0	1600.0	
+1594.5	-16.3	1599.0	1590.0	
+1584.5	-15.48	1589.0	1580.0	
+1574.5	-15.14	1579.0	1570.0	
+1564.5	-14.29	1569.0	1560.0	
+1554.5	-13.76	1559.0	1550.0	
+1544.5	-14.46	1549.0	1540.0	
+1534.5	-16.01	1539.0	1530.0	
+1524.5	-15.94	1529.0	1520.0	
+1514.5	-14.6	1519.0	1510.0	
+1504.5	-14.43	1509.0	1500.0	
+1494.5	-14.91	1499.0	1490.0	
+1484.5	-14.22	1489.0	1480.0	
+1474.5	-14.55	1479.0	1470.0	
+1464.5	-12.28	1469.0	1460.0	
+1454.5	-14.17	1459.0	1450.0	
+1444.5	-15.04	1449.0	1440.0	
+1434.5	-15.25	1439.0	1430.0	
+1424.5	-15.0	1429.0	1420.0	
+1414.5	-15.05	1419.0	1410.0	
+1404.5	-13.67	1409.0	1400.0	
+1394.5	-15.03	1399.0	1390.0	
+1384.5	-14.83	1389.0	1380.0	
+1374.5	-13.72	1379.0	1370.0	
+1364.5	-15.13	1369.0	1360.0	
+1354.5	-17.04	1359.0	1350.0	
+1344.5	-17.48	1349.0	1340.0	
+1334.5	-15.2	1339.0	1330.0	
+1324.5	-15.13	1329.0	1320.0	
+1314.5	-15.03	1319.0	1310.0	
+1304.5	-13.45	1309.0	1300.0	
+1294.5	-12.22	1299.0	1290.0	
+1284.5	-14.03	1289.0	1280.0	
+1274.5	-16.03	1279.0	1270.0	
+1264.5	-14.87	1269.0	1260.0	
+1254.5	-14.65	1259.0	1250.0	
+1244.5	-16.1	1249.0	1240.0	
+1234.5	-17.7	1239.0	1230.0	
+1224.5	-14.61	1229.0	1220.0	
+1214.5	-17.03	1219.0	1210.0	
+1204.5	-16.13	1209.0	1200.0	
+1194.5	-15.4	1199.0	1190.0	
+1184.5	-14.35	1189.0	1180.0	
+1174.5	-14.44	1179.0	1170.0	
+1164.5	-14.79	1169.0	1160.0	
+1154.5	-15.44	1159.0	1150.0	
+1144.5	-14.6	1149.0	1140.0	
+1134.5	-14.92	1139.0	1130.0	
+1124.5	-15.01	1129.0	1120.0	
+1114.5	-15.6	1119.0	1110.0	
+1104.5	-15.98	1109.0	1100.0	
+1094.5	-15.07	1099.0	1090.0	
+1084.5	-15.06	1089.0	1080.0	
+1074.5	-14.27	1079.0	1070.0	
+1064.5	-14.72	1069.0	1060.0	
+1054.5	-13.7	1059.0	1050.0	
+1044.5	-16.58	1049.0	1040.0	
+1034.5	-14.32	1039.0	1030.0	
+1024.5	-15.01	1029.0	1020.0	
+1014.5	-15.33	1019.0	1010.0	
+1004.5	-17.08	1009.0	1000.0	
+994.5	-14.23	999.0	990.0	
+984.5	-15.22	989.0	980.0	
+974.5	-16.68	979.0	970.0	
+964.5	-15.48	969.0	960.0	
+954.5	-16.9	959.0	950.0	
+944.5	-14.57	949.0	940.0	
+934.5	-13.75	939.0	930.0	
+924.5	-14.15	929.0	920.0	
+914.5	-14.52	919.0	910.0	
+904.5	-14.63	909.0	900.0	
+894.5	-12.37	899.0	890.0	
+884.5	-11.25	889.0	880.0	
+874.5	-16.09	879.0	870.0	
+864.5	-15.77	869.0	860.0	
+854.5	-13.72	859.0	850.0	
+844.5	-13.62	849.0	840.0	
+834.5	-13.36	839.0	830.0	
+824.5	-14.26	829.0	820.0	
+814.5	-15.36	819.0	810.0	
+804.5	-13.84	809.0	800.0	
+794.5	-14.76	799.0	790.0	
+784.5	-15.1	789.0	780.0	
+774.5	-14.18	779.0	770.0	
+764.5	-16.88	769.0	760.0	
+754.5	-14.99	759.0	750.0	
+744.5	-13.66	749.0	740.0	
+734.5	-15.18	739.0	730.0	
+724.5	-15.29	729.0	720.0	
+714.5	-15.23	719.0	710.0	
+704.5	-15.09	709.0	700.0	
+694.5	-13.9	699.0	690.0	
+684.5	-15.15	689.0	680.0	
+674.5	-13.06	679.0	670.0	
+664.5	-14.29	669.0	660.0	
+654.5	-14.32	659.0	650.0	
+644.5	-12.53	649.0	640.0	
+634.5	-13.88	639.0	630.0	
+624.5	-14.22	629.0	620.0	
+614.5	-14.1	619.0	610.0	
+604.5	-13.03	609.0	600.0	
+594.5	-13.85	599.0	590.0	
+584.5	-14.07	589.0	580.0	
+574.5	-14.45	579.0	570.0	
+564.5	-14.36	569.0	560.0	
+554.5	-13.72	559.0	550.0	
+544.5	-15.58	549.0	540.0	
+534.5	-14.87	539.0	530.0	
+524.5	-13.86	529.0	520.0	
+514.5	-14.65	519.0	510.0	
+504.5	-13.29	509.0	500.0	
+494.5	-14.36	499.0	490.0	
+484.5	-15.26	489.0	480.0	
+474.5	-14.31	479.0	470.0	
+464.5	-16.09	469.0	460.0	
+454.5	-14.95	459.0	450.0	
+444.5	-14.05	449.0	440.0	
+434.5	-14.18	439.0	430.0	
+424.5	-14.35	429.0	420.0	
+414.5	-14.09	419.0	410.0	
+404.5	-14.86	409.0	400.0	
+394.5	-13.54	399.0	390.0	
+384.5	-12.64	389.0	380.0	
+374.5	-13.56	379.0	370.0	
+364.5	-13.95	369.0	360.0	
+354.5	-13.23	359.0	350.0	
+344.5	-15.64	349.0	340.0	
+334.5	-15.5	339.0	330.0	
+324.5	-14.66	329.0	320.0	
+314.5	-15.64	319.0	310.0	
+304.5	-13.92	309.0	300.0	
+294.5	-14.01	299.0	290.0	
+284.5	-14.36	289.0	280.0	
+274.5	-15.95	279.0	270.0	
+264.5	-14.75	269.0	260.0	
+254.5	-15.16	259.0	250.0	
+244.5	-14.05	249.0	240.0	
+234.5	-16.22	239.0	230.0	
+224.5	-14.56	229.0	220.0	
+214.5	-16.36	219.0	210.0	
+204.5	-12.11	209.0	200.0	
+194.5	-14.22	199.0	190.0	
+184.5	-12.98	189.0	180.0	
+174.5	-15.45	179.0	170.0	
+164.5	-13.9	169.0	160.0	
+154.5	-12.9	159.0	150.0	
+144.5	-13.64	149.0	140.0	
+134.5	-12.66	139.0	130.0	
+124.5	-14.84	129.0	120.0	
+114.5	-15.3	119.0	110.0	
+104.5	-15.6	109.0	100.0	
+94.5	-16.12	99.0	90.0	
+84.5	-14.96	89.0	80.0	
+74.5	-15.23	79.0	70.0	
+64.5	-15.79	69.0	60.0	
+54.5	-15.59	59.0	50.0	
+44.5	-14.94	49.0	40.0	
+34.5	-15.16	39.0	30.0	
+24.5	-15.86	29.0	20.0	
+14.5	-16.03	19.0	10.0	
+4.5	-15.54	9.0	0.0	

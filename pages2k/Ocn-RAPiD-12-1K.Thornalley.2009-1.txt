@@ -1,0 +1,149 @@
+# South Iceland Rise, subpolar North Atlantic, marine sediment Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-RAPiD-12-1K.Thornalley.2009-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-RAPiD-12-1K.Thornalley.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/thornalley2009/thornalley2009.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: South Iceland Rise, subpolar North Atlantic, marine sediment Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Thornalley, D.J.R; Elderfield, H.; McCave, N
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Thornalley, David J. R.;Elderfield, Harry;McCave, I. Nick
+#     Published_Date_or_Year: 2009
+#     Published_Title: Holocene oscillations in temperature and salinity of the surface subpolar North Atlantic
+#     Journal_Name: Nature
+#     Volume: 457
+#     Edition: 
+#     Issue: 7230
+#     Pages: 711-714
+#     Report: 
+#     DOI: 10.1038/nature07717
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: NERC
+#     Grant: Rapid Climate Change programme
+#------------------
+# Site_Information
+#     Site_Name: RAPiD-12-1K, South Iceland Rise, northeast North Atlantic
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 62.08
+#     Southernmost_Latitude: 62.08
+#     Easternmost_Longitude: -17.82
+#     Westernmost_Longitude: -17.82
+#     Elevation: -1938
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 153.5
+#     Most_Recent_Year: 1251.78
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+useInAgeModel  notes          supportedActivityactivityUncertaintythickness      materialDated  labID          reservoirAge14CUncertaintydelta13C       ageUncertainty age14C         reservoirAge14CfractionModern age14Cuncertaintyage            depth          fractionModernUncertaintyactivity       delta13Cuncertaintyx210PbModel	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11332	nan	nan	64.0	1032.0	400.0	nan	32.0	625.0	20.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11770	nan	nan	70.0	2151.0	400.0	nan	35.0	1797.0	52.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11780	nan	nan	70.0	3073.0	400.0	nan	35.0	2881.0	88.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11781	nan	nan	70.0	4278.0	400.0	nan	35.0	4515.0	116.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11333	nan	nan	70.0	6060.0	400.0	nan	35.0	6529.0	144.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11334	nan	nan	70.0	7554.0	400.0	nan	35.0	8051.0	176.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11335	nan	nan	70.0	7959.0	400.0	nan	35.0	8463.0	216.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11336	nan	nan	70.0	9062.0	400.0	nan	35.0	9826.0	300.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11338	nan	nan	70.0	9300.0	400.0	nan	35.0	10211.0	388.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	2.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11339	nan	nan	70.0	9491.0	400.0	nan	35.0	10385.0	449.0	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	1.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11342	nan	nan	70.0	9752.0	400.0	nan	35.0	10647.0	480.5	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	2.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11343	nan	nan	70.0	10356.0	400.0	nan	35.0	11362.0	585.0	nan	nan	nan	nan	
+nan	CALIB 5.1	nan	nan	2.0	Planktonic foram G. bulloides (400 yr reservoir)	SUERC 11344	nan	nan	72.0	10577.0	400.0	nan	36.0	11889.0	637.0	nan	nan	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from foram G. bulloides; are are in units of mmol/mol, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 5 6 7, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally MJJ; BAR2005: Mg/Ca=0.794*exp(0.10*SST); (Barker et al.; (2005); in combination with Thornalley et al.; (2009); error ±1.3°C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature    depth	
+1251.78	2.37	10.94	22.0	
+1178.56	2.321	10.73	24.0	
+1105.34	2.442	11.24	26.0	
+1032.13	2.34	10.81	28.0	
+958.91	2.262	10.47	30.0	
+885.69	2.373	10.95	32.0	
+812.47	2.367	10.92	34.0	
+739.25	2.369	10.93	36.0	
+666.03	2.317	10.71	38.0	
+592.81	2.345	10.83	40.0	
+519.59	2.044	9.46	42.0	
+446.38	2.368	10.93	44.0	
+373.16	2.244	10.39	46.0	
+299.94	2.333	10.78	48.0	
+226.72	2.185	10.12	50.0	
+153.5	2.355	10.87	52.0	

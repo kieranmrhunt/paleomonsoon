@@ -1,0 +1,199 @@
+# Hendy.Great_Barrier_Reef.2002
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GreatBarrierReef.Hendy.2002-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GreatBarrierReef.Hendy.2002.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/hendydata.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Hendy.Great_Barrier_Reef.2002
+#------------------
+# Investigators
+#     Investigators: Hendy, E. J.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.SST data is in anomaly-space and is not mean-shifted/raw;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.
+#------------------
+# Publication
+#     Authors: Hendy, E. J.
+#     Published_Date_or_Year: 2002
+#     Published_Title: Abrupt decrease in tropical Pacific sea surface salinity at end of Little Ice Age
+#     Journal_Name: Science
+#     Volume: 295
+#     Edition: 
+#     Issue: 5559
+#     Pages: 1511-1514
+#     Report: 
+#     DOI: 10.1126/science.1067693
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Great Barrier Reef
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -18.315
+#     Southernmost_Latitude: -18.315
+#     Easternmost_Longitude: 146.595
+#     Westernmost_Longitude: 146.595
+#     Elevation: -10
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1568.0
+#     Most_Recent_Year: 1983.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##temperature	inferred sea-surface temperature anomaly (mean-subtracted only), coral Sr/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, coral, ,Sr/Ca, N,  ALI1997: Sr/Ca SST sensitivity = -0.0615 Greek Letter Mumol/mol/per deg C; (Alibert and McCulloch (1997)). Alibert and McCulloch (1997) report "A least squares fit was then calculated between measured Sr/Ca ratios and the instrumental SSTs using a Williamson regression; with a reproducibility of 0.00002 (2sigma) on Sr/Ca ratios (equivalent to approximately 0.3 deg C) and an error of 0.1 deg C (1sigma) on measured temperature" and in their conclusions "Analytical precision and reproducibility between different Porites corals are better than +/- 0.3 degC (2sigma)." Hendy et al. (2002) data are archived as a calibrated Sr/Ca SST composite; with the 95% confidence interval of the seven individual pentannual Sr/Ca coral records that went into the composite. From Hendy et al. (2002): "average Sr/Ca sd between replicated coral samples is equivalent to 0.15 deg C (sd = 4.6 Greek Letter Mumol/mol; total n = 550; internal laboratory standard; sd = 3 Greek Letter Mumol/mol; n = 21)." For the Hendy et al. (2002) composite "Sr/Ca were normalised to 1985-1860 by subtracting the mean Sr/Ca value for this interval" (verified with lead author Erica Hendy). In McGregor et al. (2015) the Hendy et al. (2002) "SrCaSST_anomaly data were converted to a pseudo SST; whereby to estimate absolute SST the mean ERSSTv3b value (26deg C) for 148E; 18S (the nearest grid square to the corals location) was added to the SrCaSST_anomaly". ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ALI1997: Sr/Ca SST sensitivity = -0.0615 mmol/mol/°C; (Alibert and McCulloch (1997)). Average Sr/Ca sd between replicated coral samples is equivalent to 0.15°C (sd = 4.6 Greek Letter Mumol/mol; total n = 550; internal laboratory standard; sd = 3 Greek Letter Mumol/mol; n = 21). The SrCaSST_anomaly data were converted to a pseudo SST. Sr/Ca were normalised to 1985-1860 by subtracting the mean Sr/Ca value for this interval (verified with lead author Erica Hendy). To estimate absolute SST the mean ERSSTv3b value (26deg C) for 148E; 18S (the nearest grid square to the corals' location) was added to the SrCaSST_anomaly.;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1983.0	26.35	
+1978.0	26.38	
+1973.0	26.13	
+1968.0	25.94	
+1963.0	26.06	
+1958.0	26.05	
+1953.0	26.18	
+1948.0	26.13	
+1943.0	25.95	
+1938.0	25.82	
+1933.0	25.74	
+1928.0	25.86	
+1923.0	25.73	
+1918.0	25.72	
+1913.0	25.69	
+1908.0	25.8	
+1903.0	25.78	
+1898.0	26.0	
+1893.0	26.13	
+1888.0	25.87	
+1883.0	25.73	
+1878.0	26.32	
+1873.0	26.16	
+1868.0	26.05	
+1863.0	26.42	
+1858.0	26.04	
+1853.0	25.98	
+1848.0	25.78	
+1843.0	26.27	
+1838.0	26.03	
+1833.0	26.44	
+1828.0	26.52	
+1823.0	26.25	
+1818.0	25.6	
+1813.0	26.17	
+1808.0	26.25	
+1803.0	26.23	
+1798.0	25.81	
+1793.0	25.97	
+1788.0	26.37	
+1783.0	26.51	
+1778.0	26.21	
+1773.0	26.51	
+1768.0	26.44	
+1763.0	26.11	
+1758.0	26.39	
+1753.0	26.29	
+1748.0	26.37	
+1743.0	26.29	
+1738.0	26.37	
+1733.0	26.03	
+1728.0	26.57	
+1723.0	26.43	
+1718.0	26.64	
+1713.0	25.92	
+1708.0	26.28	
+1703.0	25.95	
+1698.0	25.98	
+1693.0	26.1	
+1688.0	26.12	
+1683.0	25.71	
+1678.0	26.0	
+1673.0	25.48	
+1668.0	26.42	
+1663.0	25.63	
+1658.0	25.71	
+1653.0	25.87	
+1648.0	25.75	
+1643.0	25.63	
+1638.0	25.92	
+1633.0	25.84	
+1628.0	26.26	
+1623.0	26.09	
+1618.0	25.51	
+1608.0	26.51	
+1598.0	26.07	
+1593.0	24.66	
+1588.0	25.67	
+1583.0	25.84	
+1578.0	26.24	
+1573.0	25.68	
+1568.0	26.02	

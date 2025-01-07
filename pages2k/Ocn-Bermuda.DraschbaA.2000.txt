@@ -1,0 +1,125 @@
+# Bermuda coral BDA221a isotopes
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-Bermuda.DraschbaA.2000.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-Bermuda.DraschbaA.2000.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.711835
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Bermuda coral BDA221a isotopes
+#------------------
+# Investigators
+#     Investigators: Draschba
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Draschba, S.;Pätzold, J.;Wefer, G.
+#     Published_Date_or_Year: 2000
+#     Published_Title: North Atlantic climate variability since AD 1350 recorded in δ18O and skeletal density of Bermuda corals
+#     Journal_Name: International Journal of Earth Sciences
+#     Volume: 88
+#     Edition: 
+#     Issue: 4
+#     Pages: 733-741
+#     Report: 
+#     DOI: 10.1007/s005310050301
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Bermuda
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 30.0867
+#     Southernmost_Latitude: 30.0867
+#     Easternmost_Longitude: -64.5417
+#     Westernmost_Longitude: -64.5417
+#     Elevation: -25
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1856.0
+#     Most_Recent_Year: 1920.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Diploria,labyrinthiformis
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##d18O	,,,permil, -12 -11 -10 -9 -8 1 2 3 4 5 6 7, coral, ,,, ; climateInterpretation_seasonality changed - was originally -12 -11 -10 -9 -8 1 2 3 4 5 6 7;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1920.0	-3.22	
+1917.0	-3.28	
+1915.0	-2.93	
+1911.0	-2.76	
+1908.0	-3.04	
+1905.0	-2.96	
+1902.0	-2.85	
+1900.0	-3.02	
+1897.0	-3.17	
+1894.0	-3.24	
+1891.0	-2.82	
+1888.0	-3.24	
+1885.0	-3.13	
+1881.0	-3.06	
+1878.0	-2.83	
+1875.0	-3.18	
+1872.0	-3.35	
+1870.0	-3.45	
+1868.0	-3.24	
+1865.0	-2.92	
+1862.0	-3.24	
+1859.0	-2.95	
+1856.0	-2.69	

@@ -1,0 +1,145 @@
+# Powers.Lake_Malawi.2011
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Afr-LakeMalawi.Powers.2011.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Afr-LakeMalawi.Powers.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/13216
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Powers.Lake_Malawi.2011
+#------------------
+# Investigators
+#     Investigators: Powers, Lindsay A.;Johnson, Thomas C.;Werne, Josef P.;Castañeda, Isla S.;Hopmans, Ellen C.;Sinninghe Damsté, Jaap S.;Schouten, Stefan
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Powers, Lindsay A.;Johnson, Thomas C.;Werne, Josef P.;Castañeda, Isla S.;Hopmans, Ellen C.;Sinninghe Damsté, Jaap S.;Schouten, Stefan
+#     Published_Date_or_Year: 2011
+#     Published_Title: Organic geochemical records of environmental variability in Lake Malawi during the last 700 years, Part I: The TEX86 temperature record
+#     Journal_Name: Palaeogeography, Palaeoclimatology, Palaeoecology
+#     Volume: 303
+#     Edition: 
+#     Issue: 
+#     Pages: 133-139
+#     Report: 
+#     DOI: 10.1016/j.palaeo.2010.09.006
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: US NSF
+#     Grant: ATM-0502456
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: US NOAA
+#     Grant: NA06OAR4310113
+#------------------
+# Site_Information
+#     Site_Name: Lake Malawi
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -10.0033
+#     Southernmost_Latitude: -10.0033
+#     Easternmost_Longitude: 34.2883
+#     Westernmost_Longitude: 34.2883
+#     Elevation: 477
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1283.0
+#     Most_Recent_Year: 1996.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##TEX86	mean TEX86 from 1-4 replicates, ,,NA, , lake sediment, ,,, ; paleoData_units changed - was originally unitless;  
+##core	core name, ,,,, lake sediment, ,,,  
+##temperature	inferred lake surface temperature, ,,degC, 1 2 3 4 5 6 7 8 9 10 11 12, lake sediment, ,,, ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally annual;  
+##depth	depth, ,,cm, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           TEX86          core           temperature    depth	
+1996.0	0.753	M98 11MCA	27.43	0.0	
+1992.0	0.742	M98 11MCA	26.84	1.5	
+1981.0	0.743	M98 11MCA	26.87	3.0	
+1965.0	0.743	M98 11MCA	26.85	6.0	
+1959.0	0.715	M98 11MCB	25.33	7.5	
+1954.0	0.735	M98 11MCA	26.44	8.0	
+1933.0	0.743	M98 11MCA	26.88	11.0	
+1915.0	0.72	M98 11MCB	25.61	13.5	
+1903.0	0.708	M98 11MCB	24.96	15.5	
+1880.0	0.7	M98 11MCA	24.5	19.0	
+1851.0	0.713	M98 11MCB	25.24	23.5	
+1806.0	0.723	M98 11MCA	25.76	28.0	
+1765.0	0.696	M98 11MCB	24.27	33.5	
+1732.0	0.706	M98-11MCA	24.81	37.5	
+1726.0	0.725	M98 11MCA	25.89	40.0	
+1704.0	0.712	M98 11MCB	25.17	41.5	
+1701.0	0.711	M98 11MCB	25.1	42.5	
+1698.0	0.72	M98 11MCA	25.61	42.75	
+1691.0	0.664	M98 11MCB	22.5	43.5	
+1689.0	0.72	M98 11MCA	25.58	44.0	
+1679.0	0.664	M98 11MCB	22.52	45.5	
+1676.0	0.716	M98 11MCA	25.35	46.0	
+1671.0	0.682	M98 2PGA	23.51	39.0	
+1665.0	0.704	M98 11MCB	24.72	47.75	
+1643.0	0.695	M98 11MCB	24.2	51.5	
+1630.0	0.699	M98 2PGA	24.43	45.0	
+1589.0	0.717	M98 2PGA	25.45	50.0	
+1544.0	0.723	M98 2PGA	25.74	55.0	
+1500.0	0.704	M98 2PGA	24.71	60.0	
+1465.0	0.687	M98 2PGA	23.79	65.0	
+1425.0	0.711	M98 2PGA	25.11	70.0	
+1395.0	0.703	M98 2PGA	24.66	75.0	
+1357.0	0.703	M98 2PGA	24.66	80.0	
+1316.0	0.721	M98 2PGA	25.66	85.0	
+1291.0	0.701	M98 2PGA	24.57	90.0	
+1283.0	0.706	M98 2PGA	24.82	93.0	

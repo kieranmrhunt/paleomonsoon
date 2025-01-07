@@ -1,0 +1,316 @@
+# St.Jacques.Lake_Mina.2008
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-LakeMina.St.Jacques.2008.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-LakeMina.St.Jacques.2008.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/16761
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: St.Jacques.Lake_Mina.2008
+#------------------
+# Investigators
+#     Investigators: St. Jacques, Jeannine-Marie;Cumming, Brian F.;Smol, John P.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: pre-European calibration set, validated by early climate data
+#------------------
+# Publication
+#     Authors: St. Jacques, Jeannine-Marie;Cumming, Brian F.;Smol, John P.
+#     Published_Date_or_Year: 2008
+#     Published_Title: A 900-year pollen-inferred temperature and effective moisture record from varved Lake Mina, west-central Minnesota, USA
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 27
+#     Edition: 
+#     Issue: 
+#     Pages: 781-796
+#     Report: 
+#     DOI: 10.1016/j.quascirev.2008.01.005
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: St. Jacques, Jeannine-Marie;Cumming, Brian F.;Sauchyn, David J.;Smol, John P.
+#     Published_Date_or_Year: 2015
+#     Published_Title: The bias and signal attenuation present in conventional pollen-based climate reconstructions as assessed by early climate data from Minnesota, USA
+#     Journal_Name: PLOS ONE
+#     Volume: 10
+#     Edition: 
+#     Issue: 1
+#     Pages: 
+#     Report: 
+#     DOI: 10.1371/journal.pone.0113806
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Lake Mina
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 45.89
+#     Southernmost_Latitude: 45.89
+#     Easternmost_Longitude: -95.478
+#     Westernmost_Longitude: -95.478
+#     Elevation: 415
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1120.0
+#     Most_Recent_Year: 1900.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	Pollen-based winter temperature reconstruction, ,,degC, 2, lake sediment, ,,N,  ; climateInterpretation_seasonality changed - was originally February;  
+##temperature1	Pollen-based summer temperature reconstruction, ,,degC, 5, lake sediment, ,,N,  ; paleoData_variableName changed - was originally temperature1; climateInterpretation_seasonality changed - was originally May; paleoData_variableName changed - was originally temperature1;  
+##effectiveMoisture	annual precipitation - potential evapotranspiration, ,,cm, 1 2 3 4 5 6 7 8 9 10 11 12, lake sediment, ,,N,  ; climateInterpretation_seasonality changed - was originally annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    temperature1   effectiveMoisture	
+1900.0	-11.3576	13.4748	-1.75477	
+1896.0	-10.9797	13.7008	-1.13521	
+1892.0	-11.0019	13.5629	-1.23155	
+1888.0	-11.3526	13.4965	-0.73875	
+1884.0	-11.1322	13.495	-0.95138	
+1880.0	-10.7503	13.6556	1.46965	
+1876.0	-12.6689	12.8977	-1.56252	
+1872.0	-11.6883	13.2635	-0.13682	
+1868.0	-11.5662	13.4222	1.03927	
+1864.0	-11.3447	13.6257	2.00824	
+1860.0	-11.8663	13.2289	0.58846	
+1856.0	-11.8019	13.4371	0.46145	
+1852.0	-11.7771	13.3018	0.9539	
+1848.0	-11.2016	13.4451	1.39751	
+1844.0	-11.0274	13.4691	0.34091	
+1840.0	-11.4511	13.3873	-1.13918	
+1836.0	-11.9334	13.1434	-0.56493	
+1832.0	-11.3261	13.4657	1.19878	
+1828.0	-11.6453	13.5648	-0.23161	
+1824.0	-11.6019	13.3337	0.60205	
+1820.0	-11.6773	13.6062	0.20372	
+1816.0	-11.4955	13.4559	0.61906	
+1812.0	-11.2838	13.7237	1.10012	
+1808.0	-11.0027	13.7532	2.84272	
+1804.0	-11.7975	13.3622	0.47608	
+1800.0	-10.8571	13.7636	2.5256	
+1796.0	-10.9585	13.6212	-0.21834	
+1792.0	-10.533	13.7486	0.42201	
+1788.0	-11.6996	13.3158	3.72551	
+1784.0	-12.1801	12.9381	0.4458	
+1780.0	-10.8796	13.577	1.7095	
+1776.0	-12.3917	13.06	1.73384	
+1772.0	-12.7378	12.773	1.16419	
+1768.0	-12.2963	13.1341	0.42333	
+1764.0	-12.9172	12.649	0.56508	
+1760.0	-12.8286	12.5848	2.90604	
+1756.0	-12.6751	13.025	1.83627	
+1752.0	-12.2839	12.8976	-0.86183	
+1748.0	-12.6572	12.7913	0.7008	
+1744.0	-12.1497	13.0532	1.31698	
+1740.0	-13.4711	12.7471	0.7965	
+1736.0	-13.1299	12.4154	1.23224	
+1732.0	-12.4765	13.1908	0.99653	
+1728.0	-13.7176	12.3545	2.22785	
+1724.0	-12.8294	12.6031	1.52192	
+1720.0	-12.5239	12.8472	1.94046	
+1716.0	-12.6707	12.8906	1.53692	
+1712.0	-11.9102	13.1353	3.43319	
+1708.0	-12.2793	13.0406	-0.63797	
+1704.0	-12.3431	13.0432	0.04401	
+1700.0	-12.5082	12.8209	-0.58317	
+1696.0	-12.7306	12.7885	-0.898	
+1693.0	-13.752	12.2179	0.97425	
+1689.0	-11.8769	13.2104	-1.1496	
+1685.0	-12.3409	12.931	-2.97046	
+1681.0	-12.4152	13.1643	-0.8553	
+1677.0	-12.1989	12.9434	-1.91326	
+1673.0	-11.8858	13.1413	-1.56674	
+1669.0	-12.1446	13.0703	-2.30903	
+1665.0	-12.3669	12.9215	-3.18863	
+1661.0	-11.7036	13.2259	-2.97894	
+1657.0	-12.525	12.9566	1.49493	
+1653.0	-11.5794	13.384	1.0908	
+1649.0	-11.8284	13.6185	0.93021	
+1645.0	-11.4491	13.2489	-1.10775	
+1641.0	-12.3545	13.2198	-0.48174	
+1637.0	-11.7887	13.2066	1.72733	
+1633.0	-12.0891	13.3145	-0.42729	
+1629.0	-12.1117	13.2962	-0.57949	
+1625.0	-11.7021	13.405	-1.41988	
+1621.0	-11.2883	13.6616	-0.20333	
+1617.0	-11.6361	13.323	-0.76405	
+1613.0	-11.6768	13.3628	0.87476	
+1609.0	-11.4522	13.4448	1.68109	
+1605.0	-10.7228	13.7771	1.65078	
+1601.0	-11.8422	13.4201	0.04952	
+1597.0	-11.9339	13.1858	-0.28376	
+1593.0	-11.4188	13.5153	0.56354	
+1589.0	-11.448	13.2649	-0.30826	
+1585.0	-11.2978	13.4723	-0.49128	
+1581.0	-11.5027	13.277	0.45274	
+1577.0	-12.0153	13.145	1.21317	
+1573.0	-11.7538	13.1027	-0.26818	
+1569.0	-11.4446	13.3687	-1.10814	
+1565.0	-12.5005	12.9333	-1.50885	
+1561.0	-12.8472	12.9845	1.60031	
+1557.0	-13.3882	12.864	1.03066	
+1553.0	-13.0396	12.85	0.38389	
+1549.0	-11.0294	13.6047	-0.32461	
+1545.0	-12.1371	13.1991	-0.3985	
+1541.0	-11.7413	13.1856	-0.47431	
+1537.0	-11.9473	13.1939	1.17345	
+1533.0	-12.136	13.1233	2.01175	
+1529.0	-11.5056	13.3586	0.45802	
+1525.0	-11.6955	13.2065	0.11811	
+1520.0	-11.8911	13.1722	-0.59603	
+1516.0	-13.2732	12.793	-1.4285	
+1512.0	-11.7752	13.1514	-0.70645	
+1508.0	-12.1811	12.8556	0.49881	
+1504.0	-11.0348	13.4724	2.34362	
+1500.0	-11.4041	13.3861	1.26241	
+1496.0	-11.4333	13.2369	0.60553	
+1492.0	-10.8848	13.6401	1.69335	
+1488.0	-11.067	13.5233	1.72565	
+1484.0	-11.0643	13.4766	0.91384	
+1480.0	-10.6807	13.7178	1.62159	
+1476.0	-11.3859	13.481	0.0719	
+1472.0	-11.5049	13.5183	-0.35807	
+1468.0	-10.968	13.6266	1.31742	
+1464.0	-11.5436	13.563	-0.48572	
+1460.0	-11.6919	13.2089	-1.74379	
+1456.0	-11.6878	13.0967	-1.24625	
+1452.0	-12.1265	12.8758	1.49879	
+1448.0	-12.2451	12.8586	1.95704	
+1444.0	-11.9037	12.8702	-1.37961	
+1440.0	-11.2601	13.2801	0.89063	
+1436.0	-10.0117	13.8214	2.69132	
+1432.0	-10.7848	13.5251	0.10549	
+1428.0	-10.8337	13.5724	-0.1263	
+1424.0	-10.9963	13.3649	2.46944	
+1420.0	-10.4376	13.7207	1.8305	
+1416.0	-10.1174	13.8226	2.16206	
+1412.0	-10.5754	13.67	0.36703	
+1408.0	-10.9101	13.529	0.26984	
+1404.0	-10.8855	13.5196	1.81786	
+1400.0	-10.8118	13.6227	0.58515	
+1396.0	-11.6347	13.1193	-0.79234	
+1392.0	-11.5247	13.2681	-0.77243	
+1388.0	-11.9619	13.0205	-1.12246	
+1384.0	-11.8504	12.9368	-2.11328	
+1380.0	-11.4	13.2982	-0.17038	
+1376.0	-11.9201	12.8532	-1.9284	
+1372.0	-11.2054	13.3997	-1.50598	
+1368.0	-11.4487	13.3141	-1.3446	
+1364.0	-12.2692	12.9575	-2.76031	
+1360.0	-12.2948	12.9268	-2.35716	
+1356.0	-10.6925	13.4643	-1.67397	
+1352.0	-11.1828	13.2301	-1.43713	
+1346.0	-11.2787	13.2958	-1.04167	
+1343.0	-11.251	13.1785	-1.20853	
+1339.0	-11.6397	13.0716	-3.64389	
+1335.0	-11.4763	13.0985	-0.20331	
+1331.0	-11.9353	12.8545	-2.34174	
+1327.0	-11.3709	13.083	0.21165	
+1323.0	-12.1282	12.9531	-0.94597	
+1319.0	-12.065	12.7235	-1.64077	
+1315.0	-11.8763	13.0982	0.09859	
+1311.0	-11.5305	13.2195	0.23413	
+1307.0	-11.7714	13.0806	0.57546	
+1303.0	-12.4621	12.7237	1.4216	
+1299.0	-11.2214	13.2709	2.69694	
+1295.0	-11.6633	13.3061	0.5225	
+1291.0	-11.3968	13.2886	0.75575	
+1287.0	-13.1501	12.5772	1.343	
+1283.0	-11.3806	13.314	-0.72562	
+1279.0	-11.5158	13.3072	0.29911	
+1275.0	-11.5214	13.2125	1.22436	
+1271.0	-12.2637	13.1647	-1.12866	
+1267.0	-12.076	13.0652	0.16134	
+1265.0	-11.9057	13.0843	-0.42975	
+1261.0	-11.7794	13.1599	-1.50697	
+1257.0	-11.8754	13.0638	-1.13218	
+1253.0	-11.7494	13.213	-1.34895	
+1249.0	-12.0637	12.9806	-0.54922	
+1245.0	-11.7576	13.0167	-0.6516	
+1241.0	-11.501	13.1149	0.47997	
+1237.0	-11.6278	13.2608	1.4503	
+1233.0	-10.7348	13.5823	2.57659	
+1229.0	-10.7482	13.6829	1.0238	
+1225.0	-11.5056	13.3474	0.66256	
+1221.0	-11.2728	13.3883	0.81917	
+1217.0	-10.9997	13.5187	-1.46469	
+1213.0	-11.8957	13.0187	-1.3388	
+1209.0	-11.6089	13.3558	-0.61979	
+1205.0	-11.0355	13.4715	1.24329	
+1201.0	-11.5027	13.4195	0.54237	
+1197.0	-10.7214	13.5672	-0.61832	
+1193.0	-11.7461	13.3603	-2.85811	
+1189.0	-11.3782	13.3669	1.40385	
+1185.0	-11.4915	13.4195	-1.35873	
+1182.0	-11.9095	13.1832	-0.01152	
+1178.0	-11.6046	13.4199	-0.04546	
+1174.0	-12.5493	12.9508	-2.67217	
+1170.0	-12.353	12.9309	-1.016	
+1166.0	-12.5627	12.9815	-0.48204	
+1162.0	-12.3741	13.003	0.6786	
+1159.0	-12.3277	12.9644	-0.5571	
+1156.0	-12.4174	12.9377	-0.26648	
+1152.0	-13.1354	12.8167	-1.32937	
+1148.0	-12.4002	12.9464	-0.39607	
+1144.0	-12.8742	12.6915	-1.13472	
+1140.0	-12.6427	12.5632	0.40902	
+1136.0	-11.9758	13.0841	-0.81877	
+1132.0	-13.075	12.5978	2.19688	
+1128.0	-11.8002	13.0919	-1.61017	
+1124.0	-12.1859	12.9281	0.92041	
+1120.0	-12.0933	13.0419	0.04507	

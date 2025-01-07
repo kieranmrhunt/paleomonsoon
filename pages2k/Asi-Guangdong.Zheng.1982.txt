@@ -1,0 +1,150 @@
+# Zheng.Guangdong.1982
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Guangdong.Zheng.1982.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-Guangdong.Zheng.1982.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: documents
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Zheng.Guangdong.1982
+#------------------
+# Investigators
+#     Investigators: Zheng, S.-Z.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: decadal resolution
+#------------------
+# Publication
+#     Authors: Zheng, S.-Z.
+#     Published_Date_or_Year: 1982
+#     Published_Title: Climate in the Little Ice Age and its effects in Guangdong, China
+#     Journal_Name: Chinese Science Bulletin
+#     Volume: 27
+#     Edition: 
+#     Issue: 
+#     Pages: 302–304
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Guangdong
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 23.16
+#     Southernmost_Latitude: 23.16
+#     Easternmost_Longitude: 113.23
+#     Westernmost_Longitude: 113.23
+#     Elevation: 3900
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1470.0
+#     Most_Recent_Year: 1940.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , documents, ,,N,   
+##temperature	Cold winter record pieces in every ten years; winter temperature, ,,index, winter, documents, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1470.0	-0.834581327562613	
+1480.0	-0.0634076162624573	
+1490.0	-0.834581327562613	
+1500.0	1.17047032181779	
+1510.0	-0.834581327562613	
+1520.0	-0.217642358522489	
+1530.0	3.32975671345823	
+1540.0	0.399296610517636	
+1550.0	-0.834581327562613	
+1560.0	-0.757463956432598	
+1570.0	-0.834581327562613	
+1580.0	-0.448994471912535	
+1590.0	-0.834581327562613	
+1600.0	-0.834581327562613	
+1610.0	0.476413981647652	
+1620.0	-0.680346585302582	
+1630.0	1.09335295068778	
+1640.0	-0.834581327562613	
+1650.0	1.86452666198793	
+1660.0	0.245061868257605	
+1670.0	-0.834581327562613	
+1680.0	0.86200083729773	
+1690.0	0.86200083729773	
+1700.0	-0.37187710078252	
+1710.0	0.0137097548675583	
+1720.0	0.784883466167714	
+1730.0	-0.757463956432598	
+1740.0	-0.526111843042551	
+1750.0	0.476413981647652	
+1760.0	-0.140524987392473	
+1770.0	-0.757463956432598	
+1780.0	0.0908271259975739	
+1790.0	-0.757463956432598	
+1800.0	-0.603229214172567	
+1810.0	-0.526111843042551	
+1820.0	-0.834581327562613	
+1830.0	2.09587877537798	
+1840.0	-0.757463956432598	
+1850.0	-0.140524987392473	
+1860.0	0.553531352777668	
+1870.0	1.01623557955776	
+1880.0	-0.526111843042551	
+1890.0	2.40434825989804	
+1900.0	-0.757463956432598	
+1910.0	-0.603229214172567	
+1920.0	-0.526111843042551	
+1930.0	-0.834581327562613	
+1940.0	-0.37187710078252	

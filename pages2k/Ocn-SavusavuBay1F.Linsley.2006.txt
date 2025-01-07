@@ -1,0 +1,334 @@
+# Linsley2006_Fiji1F
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SavusavuBay1F.Linsley.2006.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SavusavuBay1F.Linsley.2006.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/16216
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Linsley2006_Fiji1F
+#------------------
+# Investigators
+#     Investigators: Linsley, B.K.; Ocean2k
+#------------------
+# Description_Notes_and_Keywords
+#     Description: used in Tierney et al, as a composite with HR_156; the original records are provided here rather than composites
+#------------------
+# Publication
+#     Authors: Linsley, Braddock K.;Kaplan, Alexey;Gouriou, Yves;Salinger, Jim;deMenocal, Peter B.;Wellington, Gerard M.;Howe, Stephen S.
+#     Published_Date_or_Year: 2006
+#     Published_Title: Tracking the extent of the South Pacific Convergence Zone since the early 1600s
+#     Journal_Name: Geochemistry, Geophysics, Geosystems
+#     Volume: 7
+#     Edition: 
+#     Issue: 
+#     Pages: Q05003
+#     Report: 
+#     DOI: 10.1029/2005GC001115
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: Tierney, Jessica E.;Abram, Nerilie J.;Anchukaitis, Kevin J.;Evans, Michael N.;Giry, Cyril;Kilbourne, K. Halimeda;Saenger, Casey P.;Wu, Henry C.;Zinke, Jens
+#     Published_Date_or_Year: 2015
+#     Published_Title: Tropical sea surface temperatures for the past four centuries reconstructed from coral archives
+#     Journal_Name: Paleoceanography
+#     Volume: 30
+#     Edition: 
+#     Issue: 3
+#     Pages: 226-252
+#     Report: 
+#     DOI: 10.1002/2014PA002717
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Savusavu Bay
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -16.8167
+#     Southernmost_Latitude: -16.8167
+#     Easternmost_Longitude: 179.2333
+#     Westernmost_Longitude: 179.2333
+#     Elevation: -10
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1781.5
+#     Most_Recent_Year: 1996.5
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Porites,lutea
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##d18O	,,,permil, N/A (subannually resolved), coral, ,,, ; climateInterpretation_seasonality changed - was originally monthly;  
+##Sr_Ca	,,,mmol/mol, N/A (subannually resolved), coral, ,,, ; paleoData_variableName changed - was originally Sr_Ca; climateInterpretation_seasonality changed - was originally monthly; paleoData_variableName changed - was originally Sr_Ca;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O           Sr_Ca	
+1996.5	-5.32	9.213515625	
+1995.5	-5.25	9.18819175	
+1994.5	-5.12	9.21379975	
+1993.5	-5.01	9.24757725	
+1992.5	-5.0	9.2069545	
+1991.5	-5.16	9.199699625	
+1990.5	-5.18	9.19088775	
+1989.5	-5.41	9.162824625	
+1988.5	-5.27	9.210319375	
+1987.5	-5.03	9.24169575	
+1986.5	-5.11	9.21851675	
+1985.5	-5.15	9.220946125	
+1984.5	-5.21	9.23033525	
+1983.5	-4.94	9.240250625	
+1982.5	-5.25	9.2406095	
+1981.5	-5.21	9.24782975	
+1980.5	-5.15	9.212842625	
+1979.5	-5.2	9.227581625	
+1978.5	-4.99	9.248002375	
+1977.5	-5.0	9.236645875	
+1976.5	-5.17	9.199389375	
+1975.5	-5.17	9.202114625	
+1974.5	-5.18	9.2165405	
+1973.5	-5.06	9.220054375	
+1972.5	-5.08	9.241180375	
+1971.5	-5.36	9.225267125	
+1970.5	-5.18	9.24093925	
+1969.5	-5.11	9.27076625	
+1968.5	-5.22	9.254061	
+1967.5	-5.13	9.25916625	
+1966.5	-5.05	9.286108	
+1965.5	-5.11	9.301799625	
+1964.5	-5.08	9.22472625	
+1963.5	-5.2	9.236900875	
+1962.5	-5.25	9.255277625	
+1961.5	-5.26	9.23065675	
+1960.5	-5.12	9.231453125	
+1959.5	-5.04	9.20364575	
+1958.5	-4.93	9.268710125	
+1957.5	-5.12	9.22706025	
+1956.5	-5.25	9.199074	
+1955.5	-5.18	9.20849875	
+1954.5	-4.99	9.220194	
+1953.5	-4.87	9.236565625	
+1952.5	-5.02	9.200876	
+1951.5	-5.26	9.23049775	
+1950.5	-5.36	9.23652	
+1949.5	-5.21	9.247451125	
+1948.5	-5.09	9.171384625	
+1947.5	-5.06	9.196060375	
+1946.5	-5.19	9.235043375	
+1945.5	-4.98	9.2503075	
+1944.5	-5.12	9.261767875	
+1943.5	-5.13	9.25782875	
+1942.5	-4.98	9.285786625	
+1941.5	-4.93	9.279364	
+1940.5	-4.87	9.2971935	
+1939.5	-5.07	9.305019125	
+1938.5	-5.0	9.239622	
+1937.5	-4.92	9.2421175	
+1936.5	-5.15	9.22732	
+1935.5	-5.0	9.2367305	
+1934.5	-5.07	9.22081425	
+1933.5	-5.08	9.224125	
+1932.5	-5.06	9.2154065	
+1931.5	-4.84	9.278363875	
+1930.5	-4.79	9.303062	
+1929.5	-4.87	9.24713325	
+1928.5	-4.92	9.24424225	
+1927.5	-5.14	9.216106125	
+1926.5	-4.85	9.261682625	
+1925.5	-4.98	9.2596865	
+1924.5	-4.91	9.26514375	
+1923.5	-4.91	9.261493375	
+1922.5	-5.14	9.225916	
+1921.5	-5.07	9.24623725	
+1920.5	-4.93	9.249337	
+1919.5	-4.9	9.255481625	
+1918.5	-5.14	9.250861	
+1917.5	-5.31	9.220981875	
+1916.5	-5.2	9.240105875	
+1915.5	-4.94	9.241394875	
+1914.5	-4.87	9.262555875	
+1913.5	-4.82	9.27161975	
+1912.5	-4.76	9.272592875	
+1911.5	-5.08	9.241842375	
+1910.5	-5.14	9.246666	
+1909.5	-4.94	9.287855	
+1908.5	-4.99	9.30497375	
+1907.5	-4.96	9.294317	
+1906.5	-4.85	9.266951	
+1905.5	-4.66	9.320076	
+1904.5	-4.86	9.295312875	
+1903.5	-4.8	9.32299625	
+1902.5	-4.83	9.310169875	
+1901.5	-4.76	9.343037375	
+1900.5	-4.72	9.3105535	
+1899.5	-4.88	9.289709125	
+1898.5	-4.98	9.24497725	
+1897.5	-4.86	9.238783375	
+1896.5	-4.93	9.2085635	
+1895.5	-4.94	9.229045125	
+1894.5	-4.96	9.25642475	
+1893.5	-5.24	9.20165075	
+1892.5	-5.09	9.212734625	
+1891.5	-5.06	9.234011625	
+1890.5	-5.16	9.2228695	
+1889.5	-4.9	9.262449875	
+1888.5	-4.87	9.29467675	
+1887.5	-4.99	9.296665375	
+1886.5	-4.76	9.3131605	
+1885.5	-4.78	9.3148835	
+1884.5	-4.75	9.322489	
+1883.5	-4.87	9.310763	
+1882.5	-4.89	9.335221875	
+1881.5	-4.97	9.296993	
+1880.5	-5.02	9.339525125	
+1879.5	-5.16	9.23055325	
+1878.5	-4.7	9.28524775	
+1877.5	-4.61	9.3478525	
+1876.5	-4.8	9.27502525	
+1875.5	-4.78	9.275162875	
+1874.5	-4.78	9.26264475	
+1873.5	-4.78	9.246071375	
+1872.5	-4.91	9.278622	
+1871.5	-4.89	9.28095025	
+1870.5	-4.83	9.28858425	
+1869.5	-4.87	9.28276275	
+1868.5	-4.73	9.310065125	
+1867.5	-4.78	9.297182875	
+1866.5	-4.6	9.3246495	
+1865.5	-4.56	9.354046875	
+1864.5	-4.77	9.27169575	
+1863.5	-4.76	9.268121375	
+1862.5	-4.75	9.272926625	
+1861.5	-4.9	9.25183075	
+1860.5	-5.01	9.246713375	
+1859.5	-4.9	9.265993375	
+1858.5	-4.85	9.257825	
+1857.5	-4.78	9.299761625	
+1856.5	-4.92	9.25983875	
+1855.5	-4.79	9.2880435	
+1854.5	-4.77	9.30520675	
+1853.5	-4.79	9.279814875	
+1852.5	-4.86	9.254438625	
+1851.5	-4.84	9.237755125	
+1850.5	-4.78	9.261958	
+1849.5	-4.67	9.284494875	
+1848.5	-4.98	9.272495125	
+1847.5	-4.96	9.296243375	
+1846.5	-4.8	9.329926625	
+1845.5	-4.62	9.36654775	
+1844.5	-4.75	9.32334625	
+1843.5	-4.76	9.294829	
+1842.5	-4.8	9.289914625	
+1841.5	-5.01	9.301512625	
+1840.5	-4.88	9.33208125	
+1839.5	-4.88	9.30073675	
+1838.5	-4.71	9.311102875	
+1837.5	-4.94	9.27274275	
+1836.5	-4.78	9.31395925	
+1835.5	-4.77	9.348159	
+1834.5	-4.86	9.299741625	
+1833.5	-4.64	9.304351875	
+1832.5	-4.72	9.292784375	
+1831.5	-4.85	9.271764	
+1830.5	-4.99	9.233318875	
+1829.5	-5.01	9.233139625	
+1828.5	-4.9	9.22678575	
+1827.5	-4.92	9.24392125	
+1826.5	-4.86	9.270158625	
+1825.5	-4.99	9.257894	
+1824.5	-4.76	9.285266125	
+1823.5	-4.86	9.301317375	
+1822.5	-4.87	9.259436875	
+1821.5	-4.83	9.275273125	
+1820.5	-4.74	9.30606025	
+1819.5	-5.03	9.2670395	
+1818.5	-5.11	9.243200875	
+1817.5	-4.81	9.25851375	
+1816.5	-4.74	9.26757625	
+1815.5	-4.74	9.303813125	
+1814.5	-4.69	9.315340625	
+1813.5	-4.88	9.243194625	
+1812.5	-4.89	9.228197	
+1811.5	-4.73	9.306524375	
+1810.5	-4.62	9.32036975	
+1809.5	-4.72	9.297381625	
+1808.5	-4.81	9.299423625	
+1807.5	-4.96	9.2288775	
+1806.5	-5.01	9.207652625	
+1805.5	-5.0	9.22584025	
+1804.5	-4.97	9.237298875	
+1803.5	-4.66	9.257531625	
+1802.5	-4.71	9.28275025	
+1801.5	-4.76	9.277207	
+1800.5	-4.89	9.257807375	
+1799.5	-4.74	9.341392375	
+1798.5	-4.84	9.330240125	
+1797.5	-4.96	9.253257125	
+1796.5	-4.9	9.24722075	
+1795.5	-4.87	9.329433875	
+1794.5	-4.96	9.266824625	
+1793.5	-4.83	9.2936095	
+1792.5	-4.77	9.28278075	
+1791.5	-4.7	9.301216125	
+1790.5	-4.56	9.2848865	
+1789.5	-4.66	9.27814775	
+1788.5	-4.58	9.27285125	
+1787.5	-4.65	9.258799875	
+1786.5	-4.81	9.2158825	
+1785.5	-4.74	9.238544	
+1784.5	-4.88	9.261295375	
+1783.5	-4.62	9.260381625	
+1782.5	-4.66	9.245531125	
+1781.5	-4.66	9.23535875	

@@ -1,0 +1,435 @@
+# Gulf of Maine bivalve stable isotopes
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GulfofMaine.Wanamaker.2007.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GulfofMaine.Wanamaker.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/6405
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: bivalve
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gulf of Maine bivalve stable isotopes
+#------------------
+# Investigators
+#     Investigators: Wanamaker
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Wanamaker, Alan D.;Kreutz, Karl J.;Schöne, Bernd R.;Pettigrew, Neal;Borns, Harold W.;Introne, Douglas S.;Belknap, Daniel;Maasch, Kirk A.;Feindel, Scott
+#     Published_Date_or_Year: 2007
+#     Published_Title: Coupled North Atlantic slope water forcing on Gulf of Maine temperatures over the past millennium
+#     Journal_Name: Climate Dynamics
+#     Volume: 31
+#     Edition: 
+#     Issue: 
+#     Pages: 183-194
+#     Report: 
+#     DOI: 10.1007/s00382-007-0344-8
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Gulf of Maine
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 43.6561
+#     Southernmost_Latitude: 43.6561
+#     Easternmost_Longitude: -69.8017
+#     Westernmost_Longitude: -69.8017
+#     Elevation: -30
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1033.0
+#     Most_Recent_Year: 2003.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Arctica,islandica
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , bivalve, ,,N,   
+##d18O	,,,permil, 1 2 3 4 5 6 7 8 9 10 11 12, bivalve, ,,, ; climateInterpretation_seasonality changed - was originally 1 2 3 4 5 6 7 8 9 10 11 12;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1033.0	1.14	
+1034.0	1.06	
+1035.0	0.8	
+1036.0	0.69	
+1037.0	1.21	
+1038.0	1.4	
+1039.0	1.26	
+1040.0	0.85	
+1041.0	0.95	
+1042.0	1.07	
+1043.0	1.47	
+1044.0	0.87	
+1045.0	1.52	
+1046.0	0.78	
+1047.0	1.46	
+1048.0	0.98	
+1049.0	1.75	
+1050.0	0.98	
+1051.0	1.2	
+1052.0	1.15	
+1053.0	1.16	
+1054.0	1.37	
+1055.0	1.05	
+1056.0	1.45	
+1057.0	1.43	
+1058.0	1.4	
+1059.0	1.35	
+1060.0	1.21	
+1061.0	1.26	
+1062.0	1.12	
+1063.0	1.61	
+1064.0	1.34	
+1065.0	1.39	
+1066.0	1.33	
+1067.0	1.24	
+1068.0	1.11	
+1069.0	1.19	
+1070.0	1.25	
+1071.0	1.33	
+1072.0	1.5	
+1073.0	1.32	
+1074.0	1.3	
+1075.0	1.5	
+1076.0	1.44	
+1077.0	1.19	
+1078.0	1.43	
+1079.0	nan	
+1319.0	nan	
+1320.0	1.68	
+1321.0	1.83	
+1322.0	1.56	
+1323.0	1.79	
+1324.0	1.87	
+1325.0	1.45	
+1326.0	1.77	
+1327.0	1.57	
+1328.0	1.47	
+1329.0	1.76	
+1330.0	1.69	
+1331.0	1.36	
+1332.0	1.08	
+1333.0	1.2	
+1334.0	1.44	
+1335.0	1.52	
+1336.0	1.52	
+1337.0	1.3	
+1338.0	1.32	
+1339.0	1.73	
+1340.0	1.4	
+1341.0	1.32	
+1342.0	1.46	
+1343.0	1.63	
+1344.0	1.66	
+1345.0	1.57	
+1346.0	1.64	
+1347.0	1.69	
+1348.0	1.6	
+1349.0	1.59	
+1350.0	1.37	
+1351.0	0.93	
+1352.0	1.47	
+1353.0	1.64	
+1362.0	1.65	
+1363.0	1.4	
+1364.0	1.61	
+1365.0	1.34	
+1366.0	1.22	
+1367.0	1.19	
+1368.0	1.09	
+1369.0	1.46	
+1370.0	1.67	
+1371.0	1.59	
+1372.0	1.66	
+1373.0	1.65	
+1374.0	1.58	
+1375.0	1.68	
+1376.0	1.53	
+1377.0	1.52	
+1378.0	1.87	
+1379.0	1.35	
+1380.0	1.37	
+1381.0	1.33	
+1382.0	1.68	
+1383.0	1.78	
+1384.0	1.68	
+1385.0	1.79	
+1386.0	1.78	
+1387.0	1.87	
+1388.0	1.83	
+1389.0	1.7	
+1390.0	1.65	
+1391.0	1.56	
+1392.0	1.79	
+1393.0	1.61	
+1394.0	1.92	
+1395.0	1.81	
+1396.0	1.85	
+1397.0	1.63	
+1398.0	1.5	
+1399.0	1.86	
+1400.0	1.59	
+1401.0	1.53	
+1402.0	1.26	
+1403.0	1.34	
+1404.0	1.01	
+1405.0	0.93	
+1406.0	1.22	
+1407.0	1.17	
+1408.0	1.57	
+1409.0	1.52	
+1410.0	1.35	
+1411.0	1.45	
+1412.0	1.31	
+1413.0	1.45	
+1414.0	1.5	
+1415.0	1.59	
+1416.0	1.25	
+1417.0	1.42	
+1418.0	1.3	
+1419.0	1.38	
+1420.0	1.35	
+1421.0	1.43	
+1422.0	1.7	
+1423.0	1.75	
+1424.0	1.58	
+1425.0	1.57	
+1426.0	1.64	
+1427.0	1.38	
+1428.0	1.3	
+1429.0	1.56	
+1430.0	1.48	
+1431.0	1.4	
+1432.0	1.35	
+1433.0	1.16	
+1434.0	1.31	
+1435.0	1.58	
+1436.0	1.66	
+1437.0	1.57	
+1438.0	1.18	
+1439.0	1.21	
+1440.0	1.23	
+1441.0	1.49	
+1442.0	1.5	
+1443.0	1.44	
+1444.0	1.29	
+1445.0	1.15	
+1446.0	1.2	
+1447.0	1.15	
+1448.0	1.1	
+1449.0	1.2	
+1450.0	1.37	
+1451.0	1.39	
+1452.0	1.47	
+1453.0	1.83	
+1454.0	1.51	
+1455.0	1.37	
+1456.0	1.26	
+1457.0	1.52	
+1458.0	1.12	
+1459.0	1.13	
+1460.0	0.88	
+1461.0	1.05	
+1462.0	1.1	
+1463.0	1.32	
+1464.0	1.19	
+1465.0	1.12	
+1466.0	1.35	
+1467.0	2.01	
+1468.0	1.51	
+1469.0	1.8	
+1470.0	1.5	
+1471.0	nan	
+1863.0	nan	
+1864.0	1.74	
+1865.0	1.68	
+1866.0	1.3	
+1867.0	1.79	
+1868.0	1.7	
+1869.0	1.23	
+1870.0	1.64	
+1871.0	1.84	
+1872.0	1.49	
+1873.0	1.54	
+1874.0	1.16	
+1875.0	1.39	
+1876.0	1.48	
+1877.0	1.71	
+1878.0	1.62	
+1879.0	1.72	
+1880.0	1.58	
+1881.0	2.0	
+1882.0	2.15	
+1883.0	1.9	
+1884.0	1.95	
+1885.0	1.47	
+1886.0	1.64	
+1887.0	1.66	
+1888.0	1.67	
+1889.0	1.81	
+1890.0	1.65	
+1891.0	1.68	
+1892.0	1.51	
+1893.0	1.56	
+1894.0	1.6	
+1895.0	1.57	
+1896.0	1.65	
+1897.0	1.76	
+1898.0	1.7	
+1899.0	1.71	
+1900.0	1.52	
+1901.0	1.48	
+1902.0	1.47	
+1903.0	1.81	
+1904.0	2.05	
+1905.0	1.71	
+1906.0	1.8	
+1907.0	1.83	
+1908.0	1.74	
+1909.0	1.79	
+1910.0	1.86	
+1911.0	1.92	
+1912.0	1.84	
+1913.0	1.8	
+1914.0	1.86	
+1915.0	1.79	
+1916.0	1.83	
+1917.0	1.8	
+1918.0	1.81	
+1919.0	1.82	
+1920.0	1.8	
+1921.0	1.82	
+1922.0	1.83	
+1923.0	1.92	
+1924.0	2.01	
+1925.0	2.07	
+1926.0	2.03	
+1927.0	1.84	
+1928.0	1.94	
+1929.0	2.02	
+1930.0	1.72	
+1931.0	1.89	
+1932.0	1.7	
+1933.0	1.66	
+1934.0	1.91	
+1935.0	1.62	
+1936.0	1.94	
+1937.0	1.65	
+1938.0	1.91	
+1939.0	2.0	
+1940.0	1.97	
+1941.0	1.8	
+1942.0	1.75	
+1943.0	1.93	
+1944.0	1.92	
+1945.0	1.77	
+1946.0	1.81	
+1947.0	1.69	
+1948.0	1.84	
+1949.0	1.67	
+1950.0	1.7	
+1951.0	1.24	
+1952.0	1.31	
+1953.0	1.2	
+1954.0	1.35	
+1955.0	1.4	
+1956.0	1.52	
+1957.0	1.6	
+1958.0	1.8	
+1959.0	1.73	
+1960.0	1.79	
+1961.0	1.77	
+1962.0	2.01	
+1963.0	1.7	
+1964.0	1.94	
+1965.0	1.81	
+1966.0	1.89	
+1967.0	1.87	
+1968.0	1.8	
+1969.0	1.82	
+1970.0	1.71	
+1971.0	1.61	
+1972.0	1.82	
+1973.0	1.58	
+1974.0	1.87	
+1975.0	1.6	
+1976.0	1.88	
+1977.0	1.82	
+1978.0	1.92	
+1979.0	1.79	
+1980.0	1.73	
+1981.0	1.58	
+1982.0	1.6	
+1983.0	1.54	
+1984.0	1.56	
+1985.0	1.85	
+1986.0	1.91	
+1987.0	1.7	
+1988.0	1.81	
+1989.0	1.75	
+1990.0	1.76	
+1991.0	1.76	
+1992.0	1.68	
+1993.0	1.73	
+1994.0	1.53	
+1995.0	1.36	
+1996.0	1.5	
+1997.0	1.53	
+1998.0	1.59	
+1999.0	1.53	
+2000.0	1.4	
+2001.0	1.42	
+2002.0	1.2	
+2003.0	1.64	

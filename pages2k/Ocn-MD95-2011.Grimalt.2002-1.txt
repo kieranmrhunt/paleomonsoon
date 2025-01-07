@@ -1,0 +1,203 @@
+# Calvo.MD95-2011.2002
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MD95-2011.Grimalt.2002-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MD95-2011.Grimalt.2002.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://doi.pangaea.de/10.1594/PANGAEA.438810
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Calvo.MD95-2011.2002
+#------------------
+# Investigators
+#     Investigators: Calvo, Eva;Grimalt, Joan;Jansen, Eystein
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Atlantic1565Calvo2002_ MD95-2011_alkenones(Prahl and Wakeham) The Calvo et al., (2002) data set was selected instead of Dolven et al., (2002) because it had higher resolution. Berner et al., (2011) provides additional dates, though with age reversals, so we retain the age model of Calvo et al., (2002).;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Inadequate chronological constraints at the top of the core to include all data points
+#------------------
+# Publication
+#     Authors: Calvo, Eva;Grimalt, Joan;Jansen, Eystein
+#     Published_Date_or_Year: 2002
+#     Published_Title: High resolution U37K sea surface temperature reconstruction in the Norwegian Sea during the Holocene
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 21
+#     Edition: 
+#     Issue: 
+#     Pages: 1385-1394
+#     Report: 
+#     DOI: 10.1016/S0277-3791(01)00096-8
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: MD95-2011
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 66.97
+#     Southernmost_Latitude: 66.97
+#     Easternmost_Longitude: 7.63
+#     Westernmost_Longitude: 7.63
+#     Elevation: -1048
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -290.0
+#     Most_Recent_Year: 1390.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+age14C         age14CUncertaintyageUncertainty depth          age            deltaR         labID          deltaRUncertainty	
+nan	nan	1.0	0.0	-46.0	0.0	NA	0.0	
+735.0	40.0	nan	21.75	nan	400.0	KIA_6285	20.0	
+940.0	40.0	nan	30.75	nan	400.0	KIA_4800	20.0	
+1020.0	100.0	nan	31.5	nan	400.0	Poz-8245	20.0	
+980.0	60.0	nan	37.0	nan	400.0	GifA96471	20.0	
+1590.0	40.0	nan	51.0	nan	400.0	KIA5600	20.0	
+1040.0	40.0	nan	57.0	nan	400.0	KIA3925	20.0	
+1160.0	30.0	nan	74.0	nan	400.0	KIA5601	20.0	
+1530.0	90.0	nan	82.0	nan	400.0	Poz-8244	20.0	
+1560.0	50.0	nan	97.0	nan	400.0	KIA3926	20.0	
+1590.0	30.0	nan	116.0	nan	400.0	KIA6286	20.0	
+1790.0	60.0	nan	128.0	nan	400.0	Poz-8246	20.0	
+2210.0	60.0	nan	147.0	nan	400.0	Poz-10158	20.0	
+2350.0	40.0	nan	157.0	nan	400.0	KIA3927	20.0	
+2335.0	25.0	nan	180.5	nan	400.0	KIA6287	20.0	
+2620.0	60.0	nan	197.0	nan	400.0	GifA96472	20.0	
+3000.0	50.0	nan	251.5	nan	400.0	Poz-8242	20.0	
+3380.0	70.0	nan	276.5	nan	400.0	Poz-8241	20.0	
+3820.0	35.0	nan	296.0	nan	400.0	KIA10011	20.0	
+4080.0	70.0	nan	326.5	nan	400.0	Poz-8240	20.0	
+4330.0	50.0	nan	347.0	nan	400.0	KIA463	20.0	
+4990.0	40.0	nan	388.0	nan	400.0	Poz-10159	20.0	
+6420.0	160.0	nan	477.5	nan	400.0	Poz-8238	20.0	
+6920.0	50.0	nan	517.0	nan	400.0	Poz-10160	20.0	
+7260.0	60.0	nan	547.0	nan	400.0	KIA464	20.0	
+7690.0	110.0	nan	555.0	nan	400.0	Poz-8237	20.0	
+8530.0	160.0	nan	560.0	nan	400.0	Poz-8236	20.0	
+8280.0	140.0	nan	568.0	nan	400.0	Poz-8235	20.0	
+8700.0	90.0	nan	597.0	nan	400.0	Poz-8234	20.0	
+10775.0	85.0	nan	730.0	nan	700.0	TUa-3315	20.0	
+11875.0	140.0	nan	757.0	nan	700.0	Tua-3316	20.0	
+12220.0	90.0	nan	777.0	nan	700.0	KIA465	20.0	
+nan	nan	121.0	730.0	12121.0	0.0	vedde	0.0	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, 6 7 8, marine sediment, ,U37K index, N,  PRA&WAK1987: UK37 E. huxleyi culture calibration (NOT the same as the UK37 calibration).; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Summer_JJA; PRA&WAK1987: T(cultures) = (UK37+0.11)/0.04; (Prahl & Wakeham; (1987); cultures E. huxleyi; 8-25ºC; n=5; R2=0.989);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1390.0	11.2	
+1380.0	10.9	
+1370.0	11.1	
+1350.0	11.2	
+1340.0	11.1	
+1339.0	11.1	
+1320.0	11.2	
+1310.0	11.1	
+1300.0	11.4	
+1290.0	11.3	
+1280.0	11.6	
+1270.0	10.9	
+1260.0	11.5	
+1220.0	10.7	
+1200.0	11.6	
+1160.0	11.2	
+1120.0	11.0	
+1080.0	10.9	
+1030.0	10.9	
+1000.0	11.1	
+920.0	11.1	
+900.0	11.5	
+870.0	11.3	
+830.0	10.7	
+810.0	10.7	
+780.0	10.8	
+750.0	11.0	
+720.0	10.9	
+690.0	10.9	
+660.0	10.9	
+630.0	11.0	
+600.0	11.1	
+570.0	11.2	
+540.0	11.1	
+530.0	11.1	
+450.0	11.1	
+420.0	11.0	
+360.0	10.9	
+330.0	11.0	
+290.0	11.2	
+240.0	11.0	
+200.0	11.2	
+160.0	11.0	
+120.0	11.1	
+90.0	11.3	
+60.0	10.9	
+10.0	11.1	
+-60.0	11.3	
+-130.0	11.4	
+-180.0	11.4	
+-240.0	11.5	
+-290.0	11.3	

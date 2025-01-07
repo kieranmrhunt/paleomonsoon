@@ -1,0 +1,162 @@
+# Lund.Dry_Tortugas.2006
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-DryTortugasA.Lund.2006-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-DryTortugasA.Lund.2006.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/lund2006/lund2006.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Lund.Dry_Tortugas.2006
+#------------------
+# Investigators
+#     Investigators: Lund, David C.;Curry, William
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Atlantic0326cLund2006_MgCa_dry-tortugas_62MC;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Identical to O2kLR_066
+#------------------
+# Publication
+#     Authors: Lund, David C.;Curry, William
+#     Published_Date_or_Year: 2006
+#     Published_Title: Florida Current surface temperature and salinity variability during the last millennium
+#     Journal_Name: Paleoceanography
+#     Volume: 21
+#     Edition: 
+#     Issue: 2
+#     Pages: n/a-n/a
+#     Report: 
+#     DOI: 10.1029/2005PA001218
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Dry Tortugas
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 24.33
+#     Southernmost_Latitude: 24.33
+#     Easternmost_Longitude: -83.26
+#     Westernmost_Longitude: -83.26
+#     Elevation: -547
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 995.0
+#     Most_Recent_Year: 1925.2
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+useInAgeModel  supportedActivityactivityUncertaintythickness      materialDated  labID          reservoirAge14CUncertaintydelta13C       ageUncertainty age14C         reservoirAge14CfractionModern age14Cuncertaintyage            depth          fractionModernUncertaintyactivity       delta13Cuncertaintyx210PbModel	
+1950.0	nan	nan	1.0	G. ruber	nan	nan	nan	nan	0.0	400.0	nan	nan	post-bomb	0.5	nan	nan	nan	nan	
+1429.0	nan	nan	0.5	G. ruber	nan	nan	nan	nan	920.0	400.0	nan	25.0	1429.0	10.75	nan	nan	nan	nan	
+995.0	nan	nan	0.5	G. ruber	nan	nan	nan	nan	1420.0	400.0	nan	35.0	995.0	29.25	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ANA2003: Anand multi species sediment trap calibration.; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1925.2	27.54	
+1875.6	26.67	
+1826.0	25.87	
+1776.0	27.78	
+1727.0	27.39	
+1677.0	26.98	
+1628.0	26.75	
+1578.0	27.34	
+1529.0	26.83	
+1479.0	27.04	
+1429.0	26.72	
+1407.0	26.7	
+1384.0	27.54	
+1361.0	26.04	
+1338.0	26.62	
+1315.0	26.43	
+1292.0	26.46	
+1269.0	26.43	
+1247.0	26.98	
+1224.0	26.13	
+1201.0	26.18	
+1178.0	26.88	
+1155.0	27.06	
+1132.0	25.93	
+1121.0	27.11	
+1109.0	26.35	
+1098.0	26.83	
+1086.0	26.75	
+1075.0	26.26	
+1064.0	26.48	
+1052.0	26.4	
+1041.0	26.29	
+1029.0	26.91	
+1018.0	26.51	
+1006.0	26.54	
+995.0	26.35	

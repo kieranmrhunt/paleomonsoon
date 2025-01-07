@@ -1,0 +1,246 @@
+# Doose-Rolinski.Arabian_Sea.2001
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ArabianSea.Doose-Rolinski.2001-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ArabianSea.Doose-Rolinski.2001.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.735717
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Doose-Rolinski.Arabian_Sea.2001
+#------------------
+# Investigators
+#     Investigators: Doose-Rolinski, Heidi;Rogalla, Ulf;Scheeder, Georg;Lückge, Andreas;von Rad, Ulrich
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Indian1574Doose-Rolinski2001_SO90-39KG/SO90-56KA;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset not combined with secondary boxcore and doesn't contain uncertainty estimate; values not truncated prior to -200 CE
+#------------------
+# Publication
+#     Authors: Doose-Rolinski, Heidi;Rogalla, Ulf;Scheeder, Georg;Lückge, Andreas;von Rad, Ulrich
+#     Published_Date_or_Year: 2001
+#     Published_Title: High-resolution temperature and evaporation changes during the Late Holocene in the northeastern Arabian Sea
+#     Journal_Name: Paleoceanography
+#     Volume: 16
+#     Edition: 
+#     Issue: 4
+#     Pages: 358-367
+#     Report: 
+#     DOI: 10.1029/2000PA000511
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Arabian Sea
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 24.83
+#     Southernmost_Latitude: 24.83
+#     Easternmost_Longitude: 65.92
+#     Westernmost_Longitude: 65.92
+#     Elevation: -695
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -215.7
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	sea surface temperature, marine sediments, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenones, N,  SON1997: T(sediments) = (Uk37-0.316)/(0.023); paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; SON1997: T(sediments) = (Uk'37-0.316)/(0.023);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1950.0	26.4	
+1944.2	26.5	
+1942.8	26.9	
+1932.9	26.6	
+1932.7	26.6	
+1921.2	26.4	
+1912.9	26.6	
+1912.6	26.8	
+1912.2	26.3	
+1909.7	26.6	
+1898.2	26.5	
+1882.8	26.4	
+1882.5	26.3	
+1852.8	26.2	
+1832.9	26.3	
+1832.7	26.7	
+1832.4	26.4	
+1832.1	26.6	
+1812.0	26.3	
+1800.5	26.6	
+1789.0	26.5	
+1777.5	25.2	
+1766.0	25.2	
+1754.5	27.4	
+1743.0	25.5	
+1731.5	25.3	
+1723.1	26.4	
+1722.8	26.6	
+1722.4	26.1	
+1722.1	26.7	
+1720.0	26.8	
+1707.4	27.1	
+1694.7	26.2	
+1682.1	25.3	
+1669.4	26.2	
+1644.1	26.0	
+1631.5	26.4	
+1616.8	27.0	
+1596.0	26.3	
+1575.2	27.6	
+1554.3	26.5	
+1533.5	27.0	
+1512.7	26.2	
+1491.9	26.8	
+1471.1	26.4	
+1450.2	27.2	
+1429.4	26.1	
+1409.3	25.9	
+1390.0	26.4	
+1370.6	26.6	
+1351.3	26.5	
+1331.9	26.4	
+1312.6	26.8	
+1293.2	26.0	
+1273.9	27.1	
+1254.5	25.8	
+1235.2	26.6	
+1215.8	26.0	
+1196.5	27.1	
+1157.8	26.1	
+1138.4	27.0	
+1119.1	26.5	
+1099.7	26.8	
+1080.4	26.6	
+1061.0	26.3	
+1041.7	26.5	
+1020.6	25.9	
+997.8	26.2	
+952.2	26.5	
+929.4	26.7	
+909.5	26.8	
+892.4	26.6	
+875.4	26.9	
+858.3	26.9	
+841.3	26.8	
+824.2	27.1	
+756.0	26.7	
+738.9	26.6	
+721.9	26.8	
+670.7	26.4	
+653.7	26.2	
+636.6	26.4	
+619.6	26.9	
+602.5	26.6	
+585.4	26.2	
+568.4	27.3	
+555.5	26.1	
+545.1	26.1	
+534.7	26.2	
+524.3	26.4	
+513.9	26.4	
+503.5	26.3	
+477.4	26.5	
+456.6	26.5	
+446.2	26.0	
+435.8	26.9	
+415.0	26.7	
+400.4	26.4	
+385.8	26.9	
+363.9	26.9	
+349.3	26.3	
+327.4	26.6	
+298.2	26.1	
+283.6	26.9	
+261.7	26.3	
+247.1	27.3	
+217.9	26.6	
+203.3	27.1	
+161.0	26.3	
+143.4	27.0	
+125.9	26.5	
+90.9	27.3	
+73.4	26.2	
+55.8	26.8	
+38.3	26.3	
+20.8	26.4	
+3.3	26.4	
+-14.2	27.2	
+-40.5	26.4	
+-58.0	27.2	
+-75.6	26.3	
+-93.1	26.8	
+-110.6	26.5	
+-128.1	26.4	
+-145.6	26.4	
+-163.2	26.8	
+-180.7	26.1	
+-198.2	27.5	
+-215.7	26.8	

@@ -1,0 +1,148 @@
+# Stott.WEq_Pacific.2007
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-WEqPacific.Stott.2007.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-WEqPacific.Stott.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/5917
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Stott.WEq_Pacific.2007
+#------------------
+# Investigators
+#     Investigators: Stott, L.;Timmermann, A.;Thunell, R.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Pacific0118Stott2007_MD98-2176 WDC-paleoclimatology Data Contribution Series # 2007-092 Readme for Stott et al., (2007) notes calibration with Anand et al., (2003).
+#------------------
+# Publication
+#     Authors: Stott, L.;Timmermann, A.;Thunell, R.
+#     Published_Date_or_Year: 2007
+#     Published_Title: Southern Hemisphere and Deep-Sea Warming Led Deglacial Atmospheric CO2 Rise and Tropical Warming
+#     Journal_Name: Science
+#     Volume: 318
+#     Edition: 
+#     Issue: 5849
+#     Pages: 435-438
+#     Report: 
+#     DOI: 10.1126/science.1143791
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: WEq Pacific
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -5
+#     Southernmost_Latitude: -5
+#     Easternmost_Longitude: 133.44
+#     Westernmost_Longitude: 133.44
+#     Elevation: -2382
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 684.9
+#     Most_Recent_Year: 1415.8
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+useInAgeModel  notes          supportedActivityactivityUncertaintythickness      materialDated  labID          reservoirAge14CUncertaintydelta13C       ageUncertainty age14C         reservoirAge14CfractionModern age14Cuncertaintyage            depth          fractionModernUncertaintyactivity       delta13Cuncertaintyx210PbModel	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	995.0	nan	nan	189.7	nan	36.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	1830.0	nan	nan	170.9	nan	111.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	3440.0	nan	nan	108.2	nan	286.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	7810.0	nan	nan	108.2	nan	611.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	9420.0	nan	nan	134.0	nan	711.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	10600.0	nan	nan	228.0	nan	738.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	11600.0	nan	nan	161.6	nan	780.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	13150.0	nan	nan	143.2	nan	811.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (480 yr reservoir)	nan	nan	nan	nan	15650.0	nan	nan	228.0	nan	908.0	nan	nan	nan	nan	
+nan	CALIB 5.0. Original radiocarbon dates are from Stott et al. 2004 Nature (DOI:10.1038/nature02903).	nan	nan	nan	Planktonic foram (630 yr reservoir)	nan	nan	nan	nan	17600.0	nan	nan	404.5	nan	1008.0	nan	nan	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C); paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1415.8	28.74	
+1372.8	28.96	
+1329.81	28.06	
+1286.81	28.5	
+1243.82	28.92	
+1200.82	28.81	
+1179.32	28.61	
+1157.82	28.43	
+1114.83	28.39	
+1071.83	29.93	
+1028.84	29.13	
+985.84	28.94	
+942.8	28.13	
+910.6	29.45	
+899.8	28.7	
+856.9	28.66	
+813.9	29.18	
+770.9	28.63	
+727.9	28.85	
+684.9	29.49	

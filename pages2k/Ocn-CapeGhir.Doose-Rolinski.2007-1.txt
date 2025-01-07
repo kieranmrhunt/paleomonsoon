@@ -1,0 +1,155 @@
+# Kim.Cape_Ghir__NW_Africa.2007
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-CapeGhir.Doose-Rolinski.2007-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-CapeGhir.Doose-Rolinski.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.737217
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Kim.Cape_Ghir__NW_Africa.2007
+#------------------
+# Investigators
+#     Investigators: Kim, Jung-Hyun;Meggers, Helge;Rimbu, Norel;Lohmann, Gerrit;Freudenthal, Tim;Müller, Peter J.;Schneider, Ralph R.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Atlantic1578Kim2007_GeoB6007-2 Revised age model for GeoB6007-2 from Morley et al., (2011) was applied to GeoB6007-2 alkenone data from Kim et al., (2007).;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset does not contain updated age constraints and does not combine data from nearby cores (age model is combined into one composite)
+#------------------
+# Publication
+#     Authors: Kim, Jung-Hyun;Meggers, Helge;Rimbu, Norel;Lohmann, Gerrit;Freudenthal, Tim;Müller, Peter J.;Schneider, Ralph R.
+#     Published_Date_or_Year: 2007
+#     Published_Title: Impacts of the North Atlantic gyre circulation on Holocene climate off northwest Africa
+#     Journal_Name: Geology
+#     Volume: 35
+#     Edition: 
+#     Issue: 5
+#     Pages: 387-390
+#     Report: 
+#     DOI: 10.1130/G23251A.1
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Cape Ghir, NW Africa
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 30.85
+#     Southernmost_Latitude: 30.85
+#     Easternmost_Longitude: -10.2685
+#     Westernmost_Longitude: -10.2685
+#     Elevation: -900
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 753.63
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone SST, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenone, N,  MUE1998: Muller et al. 1998 sediment core top based calibration; n=370; R2=0.958); paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; MUE1998: T(sediments) = (Uk’37-0.044)/0.033; [Müller et al.; 1998; global (60S-60N); 0-29ºC; annual at 0 m; n=370; R2=0.958];  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1950.0	18.9	
+1913.21	19.0	
+1876.42	18.9	
+1839.62	18.8	
+1802.83	19.0	
+1766.04	19.0	
+1729.25	19.1	
+1692.45	19.2	
+1655.66	19.3	
+1618.87	19.2	
+1582.08	18.9	
+1545.28	18.9	
+1508.49	18.9	
+1471.7	18.7	
+1434.91	19.1	
+1398.11	19.0	
+1361.32	19.0	
+1324.53	18.9	
+1287.74	19.1	
+1250.94	19.0	
+1214.15	19.3	
+1177.36	19.3	
+1140.57	19.4	
+1103.77	19.4	
+1066.98	19.6	
+1030.19	19.6	
+993.4	19.5	
+964.0	19.5	
+942.0	19.5	
+920.0	19.5	
+898.0	19.4	
+876.0	19.4	
+854.0	19.4	
+832.0	19.5	
+811.38	19.4	
+792.13	19.5	
+772.88	19.5	
+753.63	19.4	

@@ -1,0 +1,149 @@
+# Keigwin.Laurentian_Fan__western_subpolar_North_Atlantic.2005
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-LaurentianFan.Keigwin.2005-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-LaurentianFan.Keigwin.2005.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/keigwin2005
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Keigwin.Laurentian_Fan__western_subpolar_North_Atlantic.2005
+#------------------
+# Investigators
+#     Investigators: Keigwin, L. D.;Sachs, J. P.;Rosenthal, Y.;Boyle, E. A.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Atlantic0195aKeigwin2005__OCE326 26GGC_alkenone;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Identical to O2kLR_030; Dataset truncated at -200 CE
+#------------------
+# Publication
+#     Authors: Keigwin, L. D.;Sachs, J. P.;Rosenthal, Y.;Boyle, E. A.
+#     Published_Date_or_Year: 2005
+#     Published_Title: The 8200 year B.P. event in the slope water system, western subpolar North Atlantic
+#     Journal_Name: Paleoceanography
+#     Volume: 20
+#     Edition: 
+#     Issue: 
+#     Pages: PA2003
+#     Report: 
+#     DOI: 10.1029/2004PA001074
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Laurentian Fan, western subpolar North Atlantic
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 43.48
+#     Southernmost_Latitude: 43.48
+#     Easternmost_Longitude: -54.87
+#     Westernmost_Longitude: -54.87
+#     Elevation: -3975
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -230.0
+#     Most_Recent_Year: 1850.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+useInAgeModel  supportedActivityactivityUncertaintythickness      materialDated  labID          reservoirAge14CUncertaintydelta13C       ageUncertainty age14C         reservoirAge14CfractionModern age14Cuncertaintyage            depth          fractionModernUncertaintyactivity       delta13Cuncertaintyx210PbModel	
+nan	nan	nan	nan	alkenones (400 yr marine reservoir)	39019.0	nan	nan	201.0	2740.0	400.0	nan	35.0	2428.0	35.0	nan	nan	nan	nan	
+nan	nan	nan	nan	N. pachyderma s. (400 yr marine reservoir)	31452.0	nan	nan	48.0	2610.0	400.0	nan	40.0	2303.0	66.0	nan	nan	nan	nan	
+nan	nan	nan	nan	N. pachyderma s. (400 yr marine reservoir)	31453.0	nan	nan	184.0	3380.0	400.0	nan	75.0	3248.0	96.0	nan	nan	nan	nan	
+nan	nan	nan	nan	G. inflata (400 yr marine reservoir)	26436.0	nan	nan	116.0	3950.0	400.0	nan	45.0	3923.0	120.0	nan	nan	nan	nan	
+nan	nan	nan	nan	mixed planktonics (400 yr marine reservoir)	35599.0	nan	nan	142.0	5050.0	400.0	nan	45.0	5431.0	161.0	nan	nan	nan	nan	
+nan	nan	nan	nan	N. pachyderma s. (400 yr marine reservoir)	31454.0	nan	nan	145.0	6110.0	400.0	nan	50.0	6530.0	195.0	nan	nan	nan	nan	
+nan	nan	nan	nan	N. pachyderma s. (400 yr marine reservoir)	31455.0	nan	nan	110.0	6190.0	400.0	nan	50.0	6633.0	204.5	nan	nan	nan	nan	
+nan	nan	nan	nan	G. menardii (400 yr marine reservoir)	31456.0	nan	nan	91.0	7180.0	400.0	nan	55.0	7643.0	234.5	nan	nan	nan	nan	
+nan	nan	nan	nan	N. pachyderma s. (400 yr marine reservoir)	38435.0	nan	nan	151.0	7640.0	400.0	nan	60.0	8103.0	240.5	nan	nan	nan	nan	
+nan	nan	nan	nan	N. pachyderma s. (400 yr marine reservoir)	31476.0	nan	nan	191.0	8090.0	400.0	nan	75.0	8544.0	248.5	nan	nan	nan	nan	
+nan	nan	nan	nan	mixed planktonics (400 yr marine reservoir)	38436.0	nan	nan	98.0	8420.0	400.0	nan	40.0	8919.0	270.5	nan	nan	nan	nan	
+nan	nan	nan	nan	G. inflata (400 yr marine reservoir)	26437.0	nan	nan	628.0	8940.0	400.0	nan	50.0	9500.0	310.0	nan	nan	nan	nan	
+nan	nan	nan	nan	alkenones (400 yr marine reservoir)	41480.0	nan	nan	498.0	10050.0	400.0	nan	65.0	10982.0	370.0	nan	nan	nan	nan	
+nan	nan	nan	nan	G. inflata (400 yr marine reservoir)	26438.0	nan	nan	292.0	9720.0	400.0	nan	55.0	10327.0	395.0	nan	nan	nan	nan	
+nan	nan	nan	nan	mixed planktonics (400 yr marine reservoir)	38437.0	nan	nan	492.0	10050.0	400.0	nan	50.0	10982.0	441.0	nan	nan	nan	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenones, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,U37K index, N,  PRA&WAK1987: E. huxleyi culture-based UK37 calibration. No RMSE is reported in the original publication; so a RMSE was calculated by taking a regression off of the five culture T-UK37 datapoints reported in the publication.; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; PRA&WAK1987: T(cultures) = (UK37+0.11)/0.04; (Prahl & Wakeham; (1987); cultures E. huxleyi; 8-25ºC; n=5; R2=0.989);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1850.0	8.32	
+1690.0	8.31	
+1530.0	8.44	
+1390.0	8.66	
+1240.0	9.4	
+1090.0	9.55	
+950.0	9.15	
+800.0	8.86	
+670.0	9.59	
+540.0	9.7	
+410.0	9.09	
+290.0	9.33	
+160.0	9.65	
+30.0	9.77	
+-100.0	9.58	
+-230.0	10.0	

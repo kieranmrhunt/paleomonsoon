@@ -1,0 +1,152 @@
+# ZhangD..Middle_reaches_of_the_Yangtze_River.1980
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-MiddleYangtzeRiver.Zhang.1980.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-MiddleYangtzeRiver.Zhang.1980.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: documents
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: ZhangD..Middle_reaches_of_the_Yangtze_River.1980
+#------------------
+# Investigators
+#     Investigators: Zhang D.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Decadal resolution. Elevation estimated from GoogleEarth; rounded to 100 m
+#------------------
+# Publication
+#     Authors: Zhang D.
+#     Published_Date_or_Year: 1980
+#     Published_Title: Winter temperature changes during the last 500 years in south China
+#     Journal_Name: Chin. Sci. Bull.
+#     Volume: 6
+#     Edition: 
+#     Issue: 
+#     Pages: 497–500
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Middle reaches of the Yangtze River
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 30.5
+#     Southernmost_Latitude: 30.5
+#     Easternmost_Longitude: 114.5
+#     Westernmost_Longitude: 114.5
+#     Elevation: 1900
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1470.0
+#     Most_Recent_Year: 1960.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , documents, ,,N,   
+##temperature	Frequency of cold/warm years; winter temperature, ,,index, winter, documents, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1470.0	0.252149776250829	
+1480.0	1.4663298234116	
+1490.0	-0.333368470158386	
+1500.0	0.825341008914856	
+1510.0	-0.678516408430029	
+1520.0	0.221333235653672	
+1530.0	0.480193567941921	
+1540.0	0.84999503640523	
+1550.0	0.84999503640523	
+1560.0	-0.129978209490564	
+1570.0	0.474030061069328	
+1580.0	0.849994438482537	
+1590.0	0.843830931609944	
+1600.0	0.245986665221353	
+1610.0	-0.370349116382432	
+1620.0	-0.10532527722159	
+1630.0	0.498683490637008	
+1640.0	-0.814110182486534	
+1650.0	-1.59685592947064	
+1660.0	-1.50440556173111	
+1670.0	1.07803922477104	
+1680.0	-0.370349116382432	
+1690.0	0.849994438482537	
+1700.0	1.45400167868608	
+1710.0	-0.955867397718981	
+1720.0	0.813014853384161	
+1730.0	1.05954916569303	
+1740.0	-0.345695620286496	
+1750.0	0.819178360256754	
+1760.0	0.837667887108724	
+1770.0	0.227496606974946	
+1780.0	0.800687839638973	
+1790.0	-1.54138589277755	
+1800.0	0.806851346511567	
+1810.0	-1.52289586945848	
+1820.0	-1.89269696536356	
+1830.0	-1.55371263126208	
+1840.0	-0.937377346957003	
+1850.0	-0.481289763574818	
+1860.0	-2.20086470481367	
+1870.0	-1.04215497709107	
+1880.0	-0.94970436070219	
+1890.0	-0.388839148017537	
+1900.0	0.18435208464649	
+1910.0	1.39237052930597	
+1920.0	0.769871738128301	
+1930.0	0.763708231255708	
+1940.0	1.38620702243338	
+1950.0	0.221333041058526	
+1960.0	-0.413492017916272	

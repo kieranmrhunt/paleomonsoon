@@ -1,0 +1,144 @@
+# Luoto.Lake_Pieni-Kauro.2010
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-LakePieni-Kauro.Luoto.2010.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-LakePieni-Kauro.Luoto.2010.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/14188
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Luoto.Lake_Pieni-Kauro.2010
+#------------------
+# Investigators
+#     Investigators: Luoto, Tomi P.;Helama, Samuli
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Luoto, Tomi P.;Helama, Samuli
+#     Published_Date_or_Year: 2010
+#     Published_Title: Palaeoclimatological and palaeolimnological records from fossil midges and tree-rings: the role of the North Atlantic Oscillation in eastern Finland through the Medieval Climate Anomaly and Little Ice Age
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 29
+#     Edition: 
+#     Issue: 17-18
+#     Pages: 2411-2423
+#     Report: 
+#     DOI: 10.1016/j.quascirev.2010.06.015
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Lake Pieni-Kauro
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 64.28
+#     Southernmost_Latitude: 64.28
+#     Easternmost_Longitude: 30.12
+#     Westernmost_Longitude: 30.12
+#     Elevation: 188.4
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 462.4
+#     Most_Recent_Year: 1978.9
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+age14C         age14CUncertaintyageUncertainty depth          age            labID	
+nan	nan	1.0	0.0	-50.0	NA	
+975.0	25.0	nan	21.0	nan	Poz-29598	
+1440.0	40.0	nan	27.0	nan	Poz-29599	
+1260.0	30.0	nan	30.0	nan	Poz-29600	
+1540.0	120.0	nan	35.0	nan	Poz-29601	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	chironomid assemblages derived temperature, ,,degC, 7, lake sediment, ,,,  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1978.9	16.0638	
+1935.3	15.5643	
+1891.15	14.7516	
+1848.0	15.013	
+1803.5	15.2795	
+1758.55	14.8696	
+1714.8	15.0404	
+1671.25	15.0354	
+1627.65	15.0765	
+1583.35	14.917	
+1538.6	15.3767	
+1493.9	15.006	
+1449.8	15.0699	
+1406.2	15.391	
+1361.8	15.0222	
+1316.85	14.9895	
+1272.5	14.8651	
+1228.65	15.2748	
+1184.5	15.7886	
+1139.65	15.2087	
+1095.25	15.5188	
+1050.7	15.4316	
+1005.75	15.5385	
+961.1	15.577	
+916.05	15.9068	
+871.35	16.0269	
+826.9	15.9062	
+785.1	15.3044	
+750.4	15.2633	
+719.75	16.3229	
+687.45	16.1583	
+647.65	15.538	
+601.75	15.2082	
+555.8	15.4056	
+509.2	14.5046	
+462.4	15.6389	

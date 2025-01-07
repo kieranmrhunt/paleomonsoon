@@ -1,0 +1,333 @@
+# Motizuki.Dome_F_1993.2014
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeF1993.Uemura.2014.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeF1993.Uemura.2014.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: glacier ice
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Motizuki.Dome_F_1993.2014
+#------------------
+# Investigators
+#     Investigators: Motizuki, Y.;Nakai, Y.;Takahashi, K.;Igarashi, M.;Motoyama, H.;Suzuki, K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Motizuki, Y.;Nakai, Y.;Takahashi, K.;Igarashi, M.;Motoyama, H.;Suzuki, K.
+#     Published_Date_or_Year: 2014
+#     Published_Title: Dating of a Dome Fuji (Antarctica) shallow ice core by volcanic signal synchronization with B32 and EDML1 chronologies
+#     Journal_Name: The Cryosphere Discussions
+#     Volume: 8
+#     Edition: 
+#     Issue: 
+#     Pages: 769-804
+#     Report: 
+#     DOI: 10.5194/tcd-8-769-2014
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Dome F 1993
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -77.32
+#     Southernmost_Latitude: -77.32
+#     Easternmost_Longitude: 39.7
+#     Westernmost_Longitude: 39.7
+#     Elevation: 3810
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 423.79413
+#     Most_Recent_Year: 1467.208751
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , glacier ice, ,,N,   
+##d18O	,oxygen isotope ratio of O16:O18 in H2O from melted ice compared to VSMOW, ,permil, 1 2 3 4 5 6 7 8 9 10 11 12, glacier ice, deviation of oxygen isotope ratio 18O:16O in H2O sample compared to standard mean ocean water (V-SMOW), mass spectrometer, N,  ; climateInterpretation_seasonality changed - was originally Multi-annual averages; archiveType changed - was originally ice core;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1467.208751	-54.32	
+1461.8507	-54.56	
+1456.7067	-53.06	
+1452.6747	-53.4	
+1448.8615	-53.22	
+1445.9423	-54.81	
+1441.2205	-52.89	
+1436.4911	-54.2	
+1432.8828	-54.91	
+1429.27	-55.31	
+1425.6529	-55.02	
+1422.2579	-55.72	
+1420.6722	-57.55	
+1416.591	-57.26	
+1410.2314	-56.65	
+1407.0466	-56.96	
+1402.2631	-54.67	
+1397.7004	-54.22	
+1393.8167	-54.63	
+1389.9281	-55.65	
+1385.8053	-54.02	
+1382.3655	-53.94	
+1378.9218	-53.1	
+1370.8716	-52.8	
+1364.8779	-57.02	
+1360.4905	-57.4	
+1355.8656	-56.1	
+1353.7822	-56.71	
+1350.0749	-53.64	
+1346.3633	-53.19	
+1342.4148	-57.28	
+1335.9007	-56.01	
+1335.4349	-54.74	
+1331.0064	-53.08	
+1327.5058	-52.02	
+1322.1308	-54.08	
+1319.557	-55.5	
+1315.8095	-56.86	
+1312.0577	-55.78	
+1308.3015	-56.43	
+1303.1296	-55.92	
+1296.7709	-55.89	
+1293.2329	-56.14	
+1289.6911	-56.11	
+1286.3819	-55.11	
+1282.1224	-55.92	
+1278.3315	-54.76	
+1275.2481	-54.47	
+1271.2117	-54.52	
+1267.4082	-55.67	
+1263.8385	-54.96	
+1259.7881	-55.26	
+1255.7329	-56.43	
+1251.9116	-56.85	
+1245.9321	-57.17	
+1241.6203	-56.66	
+1236.3428	-56.48	
+1230.8166	-53.71	
+1225.5221	-54.54	
+1219.737	-54.55	
+1216.8407	-54.65	
+1211.5245	-55.59	
+1207.653	-57.25	
+1204.2618	-55.74	
+1200.382	-55.6	
+1196.0121	-55.25	
+1192.1231	-54.82	
+1187.7427	-54.11	
+1178.7212	-54.07	
+1173.1015	-55.64	
+1171.8786	-55.7	
+1167.7176	-55.96	
+1163.5517	-54.07	
+1159.6263	-54.13	
+1157.1708	-55.53	
+1152.2545	-55.68	
+1147.3314	-56.19	
+1142.6481	-54.47	
+1138.9464	-56.15	
+1134.9937	-57.04	
+1130.5417	-57.65	
+1126.5797	-57.26	
+1122.6134	-56.38	
+1118.146	-55.76	
+1113.9217	-56.73	
+1110.4392	-55.56	
+1104.9599	-53.63	
+1099.9715	-55.76	
+1097.9743	-55.08	
+1093.9765	-53.29	
+1089.9743	-53.99	
+1085.9678	-55.36	
+1081.4552	-56.73	
+1076.9371	-55.34	
+1072.6649	-54.99	
+1068.6395	-55.7	
+1064.6097	-57.08	
+1060.5756	-54.67	
+1055.2742	-54.51	
+1047.6876	-54.61	
+1042.3679	-55.82	
+1036.7868	-55.87	
+1035.2632	-54.43	
+1030.9431	-54.94	
+1026.8726	-54.12	
+1022.7978	-55.45	
+1015.9115	-55.1	
+1009.2686	-53.23	
+1006.9664	-55.23	
+1002.8702	-55.0	
+998.76969	-54.55	
+996.46121	-54.7	
+992.8675	-54.93	
+988.24209	-55.65	
+983.61115	-54.57	
+976.13854	-55.08	
+970.97666	-55.2	
+968.65158	-56.12	
+963.99727	-55.99	
+958.56025	-56.56	
+951.81827	-55.87	
+945.3247	-56.96	
+942.72429	-56.01	
+937.51833	-54.8	
+932.56635	-55.39	
+927.34707	-55.55	
+922.12096	-55.55	
+916.36435	-54.23	
+911.9104	-56.33	
+907.97634	-57.32	
+903.2504	-56.88	
+899.04492	-56.64	
+896.94054	-55.98	
+892.99188	-55.28	
+889.30299	-54.86	
+884.2913	-55.25	
+880.06614	-55.78	
+875.57212	-52.29	
+871.33794	-53.35	
+867.09939	-53.67	
+862.85647	-53.67	
+858.34357	-54.53	
+854.09163	-55.04	
+849.83532	-54.25	
+845.57464	-55.24	
+840.77614	-55.33	
+835.97211	-53.24	
+833.03359	-53.19	
+825.54439	-54.98	
+820.45481	-53.98	
+815.62741	-54.25	
+811.60036	-53.51	
+807.30059	-55.28	
+801.91974	-55.53	
+797.61014	-53.38	
+794.10537	-54.24	
+790.05781	-56.47	
+785.73619	-55.64	
+780.86913	-54.19	
+773.55817	-56.42	
+767.32049	-55.9	
+762.97591	-54.28	
+758.62696	-56.38	
+753.72916	-55.72	
+749.09838	-53.89	
+744.46266	-54.97	
+740.36822	-53.79	
+734.35609	-55.82	
+726.69234	-55.49	
+721.75857	-54.68	
+716.81926	-53.26	
+712.97376	-53.99	
+707.7495	-56.06	
+703.34534	-54.6	
+698.38544	-54.34	
+694.24796	-55.58	
+689.27791	-55.97	
+684.30233	-54.58	
+679.59809	-53.1	
+674.88891	-55.26	
+669.61987	-57.25	
+665.45574	-56.11	
+660.45372	-55.9	
+655.44617	-56.73	
+643.74035	-54.12	
+639.27306	-54.58	
+635.08101	-54.8	
+630.60526	-56.7	
+625.00441	-55.43	
+620.7993	-55.22	
+616.59034	-54.8	
+611.53451	-54.54	
+607.0358	-54.97	
+603.9404	-56.49	
+599.15253	-55.22	
+594.35973	-54.09	
+590.12669	-54.43	
+585.60721	-54.92	
+580.80047	-52.9	
+575.98879	-53.55	
+570.03814	-56.21	
+566.06686	-55.24	
+560.956	-55.14	
+555.83961	-54.98	
+551.00239	-54.26	
+545.87524	-53.64	
+541.02785	-53.6	
+536.17552	-54.51	
+532.74738	-55.14	
+527.31445	-56.22	
+521.87536	-56.02	
+517.2903	-54.56	
+513.27478	-55.46	
+507.24522	-56.34	
+501.49578	-54.15	
+497.17921	-53.21	
+492.85881	-55.61	
+487.9577	-55.9	
+483.05166	-55.38	
+478.4297	-54.48	
+473.51407	-54.61	
+468.30391	-56.48	
+463.95789	-56.59	
+458.73758	-55.21	
+453.80221	-55.52	
+448.86191	-56.11	
+443.62562	-56.7	
+438.09242	-54.87	
+433.71974	-52.78	
+428.7594	-55.33	
+423.79413	-55.72	

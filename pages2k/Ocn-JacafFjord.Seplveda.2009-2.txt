@@ -1,0 +1,190 @@
+# Jacaf Fjord marine sediment Uk'37
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-JacafFjord.Seplveda.2009-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-JacafFjord.Seplveda.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:471580410000037::::P1_STUDY_ID:12898
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Jacaf Fjord marine sediment Uk'37
+#------------------
+# Investigators
+#     Investigators: Sepúlveda, J.; Pantoja, S.; Hughen, K.A.; Bertrand, S.; Figueroa, D.; León, T.; Drenzek, N.J.; Lange, C.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; see "Data (QC) tab" cell C6 for details
+#------------------
+# Publication
+#     Authors: Sepúlveda, Julio;Pantoja, Silvio;Hughen, Konrad A.;Bertrand, Sébastien;Figueroa, Dante;León, Tania;Drenzek, Nicholas J.;Lange, Carina
+#     Published_Date_or_Year: 2009
+#     Published_Title: Late Holocene sea-surface temperature and precipitation variability in northern Patagonia, Chile (Jacaf Fjord, 44°S)
+#     Journal_Name: Quaternary Research
+#     Volume: 72
+#     Edition: 
+#     Issue: 3
+#     Pages: 400-409
+#     Report: 
+#     DOI: 10.1016/j.yqres.2009.06.010
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Jacaf Fjord
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -44.33
+#     Southernmost_Latitude: -44.33
+#     Easternmost_Longitude: -72.97
+#     Westernmost_Longitude: -72.97
+#     Elevation: -510
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 211.87
+#     Most_Recent_Year: 1784.11
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Uk37	alkenone data, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_UK_37;  
+##temperature	inferred sea-surface temperature, Marine Sediment, ,degC, 9 10 11, marine sediment, ,Alkenone, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally SON; climateInterpretation_seasonality changed - was originally 9/10/11; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25¼C; n=22; R2=0.994);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Uk37           temperature    depth	
+1873.68	25.1904408140532	10.15	1.5	
+1857.39	25.313494336392	10.37	3.5	
+1849.25	25.23040595318	12.06	4.5	
+1841.11	25.332103644488	10.04	5.5	
+1824.82	25.2013280674558	11.76	7.5	
+1816.68	25.334186511607	11.36	8.5	
+1784.11	25.3046376516532	11.76	12.5	
+1767.82	25.3361199831608	11.27	14.5	
+1759.68	25.3278094364782	11.39	15.5	
+1751.53	25.3223284986338	11.46	16.5	
+1702.67	25.2992914745971	11.27	22.5	
+1694.53	25.2703809593081	10.57	23.5	
+1686.39	25.4733750148369	11.55	24.5	
+1661.96	25.2704721048243	11.09	27.5	
+1645.67	25.3694324170715	9.65	29.5	
+1613.1	25.406894823396	10.26	33.5	
+1604.95	25.2958636815253	11.84	34.5	
+1580.52	25.4035124777853	9.83	37.5	
+1572.38	25.2985666478332	11.34	38.5	
+1564.24	25.3476089754224	10.84	39.5	
+1539.81	25.3358612955289	10.06	42.5	
+1507.23	25.3723551996213	9.65	46.5	
+1482.8	25.3317380293507	11.8	49.5	
+1466.52	25.4299079316695	9.92	51.5	
+1442.09	25.3429137658947	11.72	54.5	
+1433.94	25.3221377037309	12.09	55.5	
+1409.51	25.3166712292686	11.65	58.5	
+1401.37	25.1946090790075	11.17	59.5	
+1376.94	25.3658318007011	10.8	62.5	
+1360.65	25.3832296148222	11.48	64.5	
+1319.94	25.3719390371897	11.2	69.5	
+1279.22	25.3060751233157	10.46	74.5	
+1238.5	25.3986292835094	10.03	79.5	
+1214.07	25.3753209878479	9.7	82.5	
+1182.74	25.4228771447025	10.89	84.5	
+1170.61	25.3626410478122	11.74	85.5	
+1158.47	25.3925072836318	11.48	86.5	
+1134.2	25.41192510184	12.05	88.5	
+1122.06	25.3471214387006	11.13	89.5	
+1097.79	25.4792771836639	11.08	91.5	
+1073.52	25.4173570428906	11.82	93.5	
+1061.38	25.4573609175877	11.58	94.5	
+1049.25	25.4284789482857	12.56	95.5	
+1037.11	25.4302041277751	11.19	96.5	
+1012.84	25.3404700918942	12.48	98.5	
+976.43	25.3982607394113	10.69	101.5	
+940.02	25.4567786142758	12.12	104.5	
+915.75	25.4335364197774	12.38	106.5	
+879.34	25.361279317162	12.81	109.5	
+867.21	25.4010694482199	12.02	110.5	
+830.8	25.4197273965237	11.4	113.5	
+806.53	25.3889561889436	12.12	115.5	
+770.12	25.4091777782737	12.07	118.5	
+721.58	25.42927795443	12.19	122.5	
+685.17	25.4315834541472	13.03	125.5	
+660.9	25.4520649547765	11.82	127.5	
+624.49	25.3531124483322	12.28	130.5	
+575.95	25.3747093637567	12.81	134.5	
+563.81	25.3720178061516	12.74	135.5	
+551.67	25.4307697410364	12.04	136.5	
+527.4	25.2949863076162	11.62	138.5	
+515.27	25.396941514685	12.95	139.5	
+478.86	25.4973725620555	12.42	142.5	
+454.59	25.4440738478854	12.34	144.5	
+418.18	25.4759580430196	12.59	147.5	
+369.64	25.4200096911212	11.55	151.5	
+345.36	25.4226728169282	12.67	153.5	
+284.68	25.432882020165	12.99	158.5	
+211.87	25.3651798786024	11.71	164.5	
+211.87	25.4401190562599	12.51	164.5	
+nan	nan	nan	nan	

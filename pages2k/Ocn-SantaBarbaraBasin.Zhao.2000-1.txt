@@ -1,0 +1,634 @@
+# Zhao.Santa_Barbara_Basin_(California).2000
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SantaBarbaraBasin.Zhao.2000-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SantaBarbaraBasin.Zhao.2000.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://www.ncdc.noaa.gov/paleo/study/17755
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Zhao.Santa_Barbara_Basin_(California).2000
+#------------------
+# Investigators
+#     Investigators: Zhao, Meixun;Eglinton, Geoffrey;Read, Gareth;Schimmelmann, Arndt
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Pacific1582Zhao2000_Hendy2012_Schimmelmann2013_SABA87-2, SABA88-1 Zhao et al., (2000) alkenone record with the age model from Hendy et al., (2012) and Schimmelmann et al., (2013). Combination of two cores (SABA87-2 and SABA88-1) recovered from the same drill site. Data sorted based on age.;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset contains NaN values and datapoints whose chronology is not QC'd;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.
+#------------------
+# Publication
+#     Authors: Zhao, Meixun;Eglinton, Geoffrey;Read, Gareth;Schimmelmann, Arndt
+#     Published_Date_or_Year: 2000
+#     Published_Title: An alkenone (U37K′) quasi-annual sea surface temperature record (A.D. 1440 to 1940) using varved sediments from the Santa Barbara Basin
+#     Journal_Name: Organic Geochemistry
+#     Volume: 31
+#     Edition: 
+#     Issue: 
+#     Pages: 903-917
+#     Report: 
+#     DOI: 10.1016/S0146-6380(00)00034-6
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Santa Barbara Basin (California)
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 34.23
+#     Southernmost_Latitude: 34.23
+#     Easternmost_Longitude: -120.02
+#     Westernmost_Longitude: -120.02
+#     Elevation: -590
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1297.54
+#     Most_Recent_Year: 1941.3
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenone, N,  PRA1988: T(cultures) = (Uk37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994); paleoData_units changed - was originally deg C; PRA1988: T(cultures) = (Uk37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25�C; n=22; R2=0.994);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1941.3	16.4	
+1940.1	16.4	
+1938.7	16.0	
+1937.5	15.7	
+1936.9	15.4	
+1936.0	15.5	
+1934.7	15.2	
+1934.0	15.1	
+1933.4	15.3	
+1932.7	14.9	
+1931.7	15.4	
+1930.9	15.1	
+1930.3	15.5	
+1929.4	14.9	
+1928.6	15.1	
+1927.7	15.4	
+1927.0	15.2	
+1926.1	15.1	
+1925.2	15.2	
+1924.3	15.4	
+1923.5	15.4	
+1922.7	15.3	
+1922.3	15.5	
+1921.6	15.3	
+1920.9	15.4	
+1920.4	15.0	
+1919.9	15.0	
+1919.5	15.5	
+1919.2	15.7	
+1918.6	15.6	
+1918.1	15.3	
+1917.0	15.6	
+1916.2	15.4	
+1915.2	15.3	
+1914.2	15.3	
+1913.7	15.8	
+1913.3	15.5	
+1912.8	14.9	
+1912.6	15.1	
+1912.1	14.7	
+1911.6	14.9	
+1911.1	15.1	
+1910.8	15.5	
+1910.6	15.0	
+1910.3	14.8	
+1909.4	14.9	
+1908.3	14.9	
+1907.8	15.0	
+1905.9	14.7	
+1905.1	14.8	
+1904.6	14.6	
+1904.1	14.6	
+1902.9	14.6	
+1901.7	14.5	
+1900.9	13.9	
+1900.6	14.5	
+1899.9	14.5	
+1899.5	14.8	
+1899.0	14.9	
+1898.4	15.1	
+1897.4	15.4	
+1896.4	14.9	
+1895.8	15.0	
+1895.3	15.1	
+1894.9	14.6	
+1894.7	15.5	
+1894.6	15.3	
+1894.4	15.3	
+1894.2	15.1	
+1894.0	15.0	
+1893.8	15.3	
+1892.9	15.1	
+1892.4	15.6	
+1892.0	15.4	
+1891.4	15.4	
+1891.0	15.2	
+1890.7	15.4	
+1890.0	15.0	
+1889.7	15.5	
+1889.4	15.4	
+1889.0	15.2	
+1888.5	14.6	
+1888.0	14.9	
+1887.5	15.0	
+1887.1	14.7	
+1886.8	14.9	
+1886.3	14.9	
+1885.7	15.2	
+1885.3	15.3	
+1884.5	15.2	
+1883.6	16.0	
+1882.6	15.9	
+1881.5	15.7	
+1880.9	15.7	
+1880.0	14.9	
+1879.4	15.5	
+1878.82	15.9	
+1878.6	15.6	
+1878.1	15.7	
+1877.6	15.1	
+1877.1	16.0	
+1876.5	16.0	
+1875.8	16.2	
+1874.5	15.2	
+1874.1	15.8	
+1873.8	17.5	
+1873.6	16.3	
+1873.2	16.1	
+1872.8	16.0	
+1872.4	16.3	
+1872.0	16.4	
+1871.1	16.1	
+1870.0	16.4	
+1869.0	15.1	
+1868.0	15.7	
+1867.13	16.1	
+1865.67	15.9	
+1864.91	16.3	
+1864.18	15.9	
+1863.36	15.9	
+1862.41	15.8	
+1861.72	15.6	
+1861.04	15.0	
+1860.0	15.9	
+1858.7	15.8	
+1858.0	15.6	
+1857.0	15.9	
+1856.6	15.1	
+1856.0	15.8	
+1855.1	15.7	
+1854.2	15.5	
+1853.2	15.6	
+1852.0	15.3	
+1850.0	15.6	
+1849.6	15.6	
+1848.0	15.8	
+1846.2	15.3	
+1844.0	15.7	
+1843.0	15.3	
+1842.0	15.3	
+1840.6	16.0	
+1839.8	15.7	
+1838.9	15.6	
+1838.0	15.5	
+1837.1	15.6	
+1836.0	15.5	
+1835.0	15.6	
+1830.9	15.3	
+1828.5	15.0	
+1826.7	14.9	
+1825.0	15.5	
+1822.7	15.1	
+1820.8	15.4	
+1819.0	15.6	
+1817.0	15.6	
+1815.9	16.3	
+1814.4	15.6	
+1812.0	15.7	
+1811.0	15.7	
+1809.8	15.4	
+1808.2	15.2	
+1806.5	15.0	
+1804.8	15.3	
+1803.7	15.6	
+1802.1	15.2	
+1800.0	15.6	
+1799.1	15.3	
+1797.8	15.5	
+1795.0	15.4	
+1793.4	15.6	
+1792.0	15.8	
+1790.9	15.4	
+1789.3	15.4	
+1788.1	15.4	
+1787.0	15.5	
+1786.0	15.4	
+1784.0	15.5	
+1783.0	15.7	
+1781.2	15.6	
+1779.9	16.1	
+1778.2	16.1	
+1777.2	16.3	
+1776.0	15.6	
+1775.0	15.9	
+1774.6	16.0	
+1774.1	15.9	
+1773.0	16.0	
+1771.9	15.7	
+1771.0	15.6	
+1770.2	15.6	
+1769.0	15.6	
+1768.2	15.6	
+1767.5	15.5	
+1767.1	15.9	
+1766.5	16.4	
+1765.9	16.1	
+1765.0	16.2	
+1764.0	16.0	
+1763.6	15.8	
+1762.5	15.9	
+1761.0	15.8	
+1760.5	16.1	
+1759.3	15.9	
+1758.4	15.6	
+1757.0	15.6	
+1755.9	15.8	
+1753.9	15.5	
+1752.0	15.7	
+1751.1	15.6	
+1749.7	15.5	
+1748.9	15.9	
+1748.3	16.2	
+1747.4	15.4	
+1746.5	15.3	
+1745.8	15.6	
+1745.0	15.7	
+1744.5	16.3	
+1744.0	15.9	
+1743.1	15.8	
+1742.0	16.1	
+1740.7	16.0	
+1740.2	16.2	
+1739.0	15.9	
+1738.0	15.9	
+1736.9	15.3	
+1736.0	15.4	
+1735.0	15.3	
+1734.0	15.3	
+1732.0	15.5	
+1730.6	15.2	
+1729.0	15.4	
+1728.3	15.4	
+1727.8	15.5	
+1727.4	15.6	
+1726.9	15.4	
+1726.5	15.6	
+1725.8	15.3	
+1725.1	15.3	
+1724.6	15.2	
+1723.9	15.4	
+1723.1	15.8	
+1722.5	15.4	
+1722.0	15.5	
+1721.5	15.4	
+1720.9	15.6	
+1720.3	15.7	
+1719.8	15.8	
+1719.2	15.5	
+1718.8	15.9	
+1718.1	15.7	
+1717.5	15.8	
+1716.9	15.7	
+1716.0	15.2	
+1715.6	15.3	
+1715.2	15.7	
+1714.7	15.4	
+1713.9	15.6	
+1712.9	15.7	
+1712.1	15.4	
+1711.6	15.5	
+1711.1	15.4	
+1710.7	15.1	
+1710.0	15.1	
+1709.0	15.0	
+1707.9	15.1	
+1707.0	15.3	
+1706.0	15.6	
+1704.5	15.7	
+1703.0	15.6	
+1702.0	15.8	
+1701.4	15.5	
+1700.9	15.4	
+1700.6	15.7	
+1700.2	15.6	
+1697.95	15.7	
+1696.39	15.6	
+1694.82	15.5	
+1693.26	15.6	
+1691.53	15.4	
+1689.8	15.4	
+1687.72	15.3	
+1686.85	15.9	
+1685.98	15.3	
+1684.77	15.1	
+1683.9	15.2	
+1682.51	14.1	
+1681.65	15.5	
+1680.61	15.9	
+1679.04	15.9	
+1678.52	15.5	
+1677.66	15.7	
+1676.96	15.4	
+1675.75	15.2	
+1674.88	15.2	
+1673.84	15.1	
+1672.11	15.4	
+1670.37	15.2	
+1669.51	15.4	
+1668.47	15.5	
+1667.08	15.4	
+1665.87	15.4	
+1664.31	15.4	
+1663.27	15.6	
+1661.7	15.8	
+1659.97	15.6	
+1658.24	15.6	
+1656.85	15.3	
+1655.81	15.4	
+1654.42	15.6	
+1651.47	15.4	
+1649.57	15.4	
+1648.01	16.4	
+1647.14	16.6	
+1646.1	16.5	
+1645.4	16.3	
+1644.54	15.5	
+1644.02	16.0	
+1642.8	15.9	
+1642.11	16.1	
+1641.07	15.9	
+1640.38	15.4	
+1632.23	15.4	
+1631.36	16.0	
+1630.49	16.4	
+1629.63	16.4	
+1628.06	16.6	
+1626.5	15.6	
+1624.42	16.4	
+1622.86	16.4	
+1621.82	16.8	
+1620.96	16.4	
+1620.26	15.1	
+1618.35	16.3	
+1616.27	16.4	
+1615.58	16.7	
+1614.89	16.5	
+1614.02	15.1	
+1612.98	16.0	
+1611.59	16.2	
+1610.55	16.6	
+1608.99	16.3	
+1607.43	15.2	
+1605.18	15.6	
+1604.14	16.2	
+1602.92	16.1	
+1600.84	15.9	
+1599.45	15.1	
+1598.93	16.1	
+1598.24	16.4	
+1597.72	16.3	
+1596.51	16.0	
+1594.42	15.2	
+1593.21	16.1	
+1592.17	16.1	
+1590.61	15.3	
+1588.88	15.5	
+1585.93	14.8	
+1584.37	15.6	
+1581.94	15.7	
+1580.55	16.0	
+1578.47	15.5	
+1576.56	14.9	
+1574.14	15.4	
+1571.88	15.4	
+1569.63	15.4	
+1568.07	15.1	
+1566.51	14.8	
+1564.43	15.7	
+1562.52	15.8	
+1560.61	15.9	
+1558.53	15.9	
+1557.32	15.1	
+1555.58	15.3	
+1553.85	15.6	
+1552.46	15.1	
+1550.73	15.9	
+1548.99	15.4	
+1545.35	15.8	
+1543.62	15.6	
+1542.06	15.3	
+1540.67	14.9	
+1539.98	15.9	
+1538.94	15.5	
+1537.72	15.2	
+1536.68	14.1	
+1535.12	14.3	
+1530.46	15.4	
+1529.27	15.9	
+1526.53	15.3	
+1524.31	15.8	
+1521.92	15.5	
+1519.87	15.5	
+1516.8	15.6	
+1513.21	15.0	
+1509.8	15.5	
+1507.07	15.0	
+1504.67	15.4	
+1502.11	15.1	
+1499.89	14.7	
+1497.5	15.1	
+1494.26	15.8	
+1491.87	16.0	
+1489.3	15.6	
+1487.25	15.5	
+1483.33	16.3	
+1480.76	15.5	
+1479.06	15.6	
+1477.35	15.8	
+1475.64	15.3	
+1473.25	15.8	
+1471.88	15.7	
+1468.81	15.7	
+1466.25	15.8	
+1464.88	15.26	
+1461.98	15.85	
+1458.73	15.74	
+1456.85	15.59	
+1455.32	15.56	
+1453.1	14.79	
+1451.39	15.32	
+1448.31	15.71	
+1446.61	15.68	
+1444.9	15.74	
+1443.02	15.91	
+1441.48	15.59	
+1439.78	15.76	
+1438.07	15.85	
+1436.02	15.71	
+1432.94	15.74	
+1431.24	15.53	
+1429.53	15.41	
+1428.33	15.68	
+1426.97	15.47	
+1425.77	15.76	
+1424.4	15.59	
+1423.55	15.5	
+1422.01	15.15	
+1420.99	15.53	
+1419.62	15.74	
+1418.26	16.03	
+1417.23	15.56	
+1415.87	14.88	
+1414.16	15.03	
+1411.6	15.71	
+1410.23	15.53	
+1408.86	15.74	
+1407.33	15.94	
+1405.45	15.68	
+1403.91	16.29	
+1402.2	15.94	
+1401.01	15.79	
+1399.3	15.76	
+1397.08	15.74	
+1395.37	15.21	
+1393.32	15.15	
+1391.78	15.21	
+1389.39	15.18	
+1386.83	15.68	
+1385.12	15.97	
+1383.07	16.32	
+1381.54	16.18	
+1379.15	16.82	
+1378.3	17.18	
+1376.6	15.44	
+1375.47	15.5	
+1374.11	15.56	
+1372.07	15.62	
+1369.81	15.76	
+1367.54	15.44	
+1365.28	15.74	
+1364.14	15.59	
+1363.12	15.79	
+1361.88	15.71	
+1360.74	15.82	
+1359.16	15.59	
+1357.69	16.0	
+1356.21	15.97	
+1355.31	15.82	
+1353.95	15.82	
+1352.82	15.91	
+1351.57	15.85	
+1350.44	15.62	
+1349.42	15.71	
+1348.29	15.59	
+1347.61	15.71	
+1346.02	15.79	
+1344.89	15.85	
+1342.85	15.62	
+1340.47	15.59	
+1339.22	15.38	
+1337.87	15.97	
+1336.96	15.5	
+1335.6	15.47	
+1333.56	15.68	
+1331.52	15.41	
+1329.82	15.21	
+1328.12	15.24	
+1326.09	15.44	
+1324.61	16.06	
+1323.25	15.94	
+1322.23	15.68	
+1320.08	15.41	
+1318.72	15.47	
+1317.36	15.26	
+1315.21	14.88	
+1313.4	15.03	
+1311.02	15.12	
+1309.78	15.85	
+1307.85	15.62	
+1307.06	15.65	
+1306.04	15.82	
+1304.11	15.38	
+1302.87	15.5	
+1300.94	15.53	
+1299.47	15.09	
+1298.56	14.79	
+1297.54	14.97	

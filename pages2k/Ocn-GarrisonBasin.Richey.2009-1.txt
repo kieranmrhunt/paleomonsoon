@@ -1,0 +1,152 @@
+# Richey.Garrison_Basin__Gulf_of_Mexico.2009
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GarrisonBasin.Richey.2009-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-GarrisonBasin.Richey.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/cdo/f?p=519:1:784943880673501::::P1_STUDY_ID:10492
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Richey.Garrison_Basin__Gulf_of_Mexico.2009
+#------------------
+# Investigators
+#     Investigators: Richey, Julie N.;Poore, Richard Z.;Flower, Benjamin P.;Quinn, Terrence M.;Hollander, David J.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Atlantic0043aRichey2009__Garrison_PE07-2_Mg/Ca Note that raw 14C ages in Richey et al. (2009) are reported with the 400-year reservoir age subtracted (Pers. Comm. J. Richey 1 April 2015).;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Identical to O2kLR_017
+#------------------
+# Publication
+#     Authors: Richey, Julie N.;Poore, Richard Z.;Flower, Benjamin P.;Quinn, Terrence M.;Hollander, David J.
+#     Published_Date_or_Year: 2009
+#     Published_Title: Regionally coherent Little Ice Age cooling in the Atlantic Warm Pool
+#     Journal_Name: Geophys. Res. Lett.
+#     Volume: 36
+#     Edition: 
+#     Issue: 21
+#     Pages: 
+#     Report: 
+#     DOI: 10.1029/2009GL040445
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Garrison Basin, Gulf of Mexico
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 26.68
+#     Southernmost_Latitude: 26.68
+#     Easternmost_Longitude: -93.93
+#     Westernmost_Longitude: -93.93
+#     Elevation: -1570
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1370.825
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+age_error      depth_top_mm   age_cal        cal_age_range_oldmaterial       depth_mm       thickness_mm   age_cal_error  cal_age_range_younglab_id         notes          age_14c        age_bp         depth_bot_mm	
+35.0	0.0	0.0	nan	planktic foramnifers (400 yr reservoir )	2.5	5.0	nan	nan	nan	using the CALIB 5.0 program	140.0	nan	5.0	
+25.0	0.0	41.0	nan	planktic foramnifers (400 yr reservoir )	2.5	5.0	nan	nan	nan	using the CALIB 5.0 program	455.0	nan	5.0	
+35.0	70.0	186.0	nan	planktic foramnifers (400 yr reservoir )	72.5	5.0	nan	nan	nan	using the CALIB 5.0 program	935.0	nan	75.0	
+45.0	120.0	604.0	nan	planktic foramnifers (400 yr reservoir )	122.5	5.0	nan	nan	nan	using the CALIB 5.0 program	1435.0	nan	125.0	
+20.0	200.0	1248.0	nan	planktic foramnifers (400 yr reservoir )	202.5	5.0	nan	nan	nan	using the CALIB 5.0 program	2080.0	nan	205.0	
+35.0	270.0	1666.0	nan	planktic foramnifers (400 yr reservoir )	272.5	5.0	nan	nan	nan	using the CALIB 5.0 program	2495.0	nan	275.0	
+35.0	340.0	2695.0	nan	planktic foramnifers (400 yr reservoir )	342.5	5.0	nan	nan	nan	using the CALIB 5.0 program	3300.0	nan	345.0	
+30.0	390.0	3064.0	nan	planktic foramnifers (400 yr reservoir )	392.5	5.0	nan	nan	nan	using the CALIB 5.0 program	3640.0	nan	395.0	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ANA2003: G. ruber white 250-350um based on sediment trap data; with an assumed exponential constant of 0.090. Because this value is assumed; there is no proper way to estimate uncertainty.; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; BLA2007: Mg/Ca=0.048*exp(0.173*SST); (Black et al.; (2007); G. bulloides);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1950.0	25.4398148964985	
+1938.173	25.0805799694363	
+1925.286	25.3996300023853	
+1911.354	24.9974086908995	
+1896.392	24.6475065976384	
+1880.415	24.4697234798037	
+1863.438	24.867554222919	
+1845.476	23.7553062384731	
+1826.544	24.1991920485789	
+1806.657	25.1894543100277	
+1785.83	24.1703053107935	
+1764.078	24.2964945922909	
+1741.416	23.7212461288377	
+1717.859	24.3189417700231	
+1693.422	23.5312352460592	
+1668.12	23.6834864385897	
+1641.968	24.3501094263777	
+1614.981	24.0526072140409	
+1587.174	24.0217913366123	
+1558.562	25.6312085669139	
+1529.16	24.8261375401906	
+1498.983	23.7031675674129	
+1468.046	24.4851558876552	
+1436.364	23.6567615791384	
+1403.952	23.6147066702864	
+1370.825	23.9562923808814	

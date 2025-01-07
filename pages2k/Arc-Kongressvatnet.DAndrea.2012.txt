@@ -1,0 +1,213 @@
+# D'Andrea.Kongressvatnet.2012
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-Kongressvatnet.DAndrea.2012.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-Kongressvatnet.DAndrea.2012.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/13458
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: D'Andrea.Kongressvatnet.2012
+#------------------
+# Investigators
+#     Investigators: D'Andrea, W. J.;Vaillencourt, D. A.;Balascio, N. L.;Werner, A.;Roof, S. R.;Retelle, M.;Bradley, R. S.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: strong correlation. However, opposite long-term (orbital) trend to most other Arctic records (FCL)
+#------------------
+# Publication
+#     Authors: D'Andrea, W. J.;Vaillencourt, D. A.;Balascio, N. L.;Werner, A.;Roof, S. R.;Retelle, M.;Bradley, R. S.
+#     Published_Date_or_Year: 2012
+#     Published_Title: Mild Little Ice Age and unprecedented recent warmth in an 1800 year lake sediment record from Svalbard
+#     Journal_Name: Geology
+#     Volume: 40
+#     Edition: 
+#     Issue: 
+#     Pages: 1007-1010
+#     Report: 
+#     DOI: 10.1130/G33365.1
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Kongressvatnet
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 78.0217
+#     Southernmost_Latitude: 78.0217
+#     Easternmost_Longitude: 13.9311
+#     Westernmost_Longitude: 13.9311
+#     Elevation: 94
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 232.0
+#     Most_Recent_Year: 2008.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	inferred temperature, ,,degC, 6 7 8, lake sediment, Reconstructed JJA temperature, ,N,  ; climateInterpretation_seasonality changed - was originally 6/7/2008; climateInterpretation_seasonality changed - was originally 6/7/2008;  
+##Uk37	depth, ,,NA, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    Uk37	
+2008.0	5.9	-0.65	
+2004.0	5.1	-0.67	
+2000.0	6.1	-0.65	
+1996.0	5.3	-0.67	
+1990.0	4.3	-0.69	
+1987.0	4.8	-0.68	
+1982.0	3.8	-0.71	
+1976.0	4.8	-0.68	
+1968.0	4.3	-0.7	
+1960.0	4.1	-0.7	
+1952.0	4.4	-0.69	
+1946.0	4.1	-0.7	
+1941.0	3.2	-0.72	
+1930.0	3.7	-0.71	
+1921.0	4.6	-0.69	
+1910.0	4.0	-0.7	
+1899.0	4.5	-0.69	
+1888.0	3.8	-0.71	
+1877.0	3.1	-0.73	
+1867.0	3.7	-0.71	
+1856.0	4.3	-0.69	
+1846.0	3.9	-0.7	
+1836.0	4.1	-0.7	
+1826.0	3.6	-0.71	
+1815.0	3.9	-0.7	
+1805.0	4.1	-0.7	
+1796.0	3.4	-0.72	
+1786.0	2.9	-0.73	
+1776.0	4.7	-0.68	
+1766.0	4.7	-0.68	
+1756.0	4.4	-0.69	
+1747.0	5.1	-0.68	
+1737.0	3.6	-0.71	
+1728.0	2.5	-0.74	
+1719.0	3.8	-0.71	
+1709.0	3.8	-0.71	
+1700.0	3.5	-0.72	
+1691.0	3.1	-0.73	
+1682.0	3.7	-0.71	
+1673.0	2.2	-0.75	
+1664.0	3.9	-0.7	
+1646.0	4.1	-0.7	
+1637.0	1.3	-0.77	
+1628.0	4.2	-0.7	
+1620.0	3.6	-0.71	
+1611.0	3.6	-0.71	
+1603.0	2.5	-0.74	
+1594.0	3.9	-0.7	
+1586.0	3.1	-0.73	
+1577.0	2.8	-0.73	
+1561.0	3.0	-0.73	
+1553.0	1.7	-0.76	
+1544.0	3.5	-0.71	
+1536.0	2.2	-0.75	
+1528.0	3.0	-0.73	
+1512.0	3.3	-0.72	
+1496.0	3.2	-0.72	
+1489.0	2.5	-0.74	
+1481.0	2.8	-0.73	
+1473.0	2.9	-0.73	
+1465.0	3.8	-0.71	
+1458.0	2.1	-0.75	
+1450.0	2.6	-0.74	
+1443.0	3.1	-0.73	
+1435.0	3.4	-0.72	
+1428.0	3.3	-0.72	
+1420.0	2.7	-0.74	
+1413.0	3.6	-0.71	
+1405.0	3.3	-0.72	
+1398.0	3.4	-0.72	
+1391.0	2.5	-0.74	
+1362.0	3.0	-0.73	
+1348.0	2.5	-0.74	
+1334.0	2.9	-0.73	
+1319.0	2.9	-0.73	
+1305.0	2.1	-0.75	
+1291.0	2.1	-0.75	
+1276.0	2.0	-0.75	
+1246.0	1.9	-0.76	
+1230.0	2.7	-0.73	
+1214.0	2.2	-0.75	
+1198.0	2.7	-0.74	
+1180.0	2.7	-0.74	
+1162.0	2.2	-0.75	
+1124.0	2.1	-0.75	
+1104.0	2.3	-0.75	
+1083.0	2.5	-0.74	
+1061.0	3.6	-0.71	
+1038.0	2.9	-0.73	
+1014.0	3.2	-0.72	
+989.0	1.9	-0.75	
+964.0	2.5	-0.74	
+937.0	1.9	-0.76	
+911.0	2.2	-0.75	
+883.0	3.0	-0.73	
+855.0	3.0	-0.73	
+796.0	2.7	-0.74	
+766.0	2.1	-0.75	
+735.0	3.7	-0.71	
+704.0	2.6	-0.74	
+673.0	2.2	-0.75	
+641.0	3.6	-0.71	
+542.0	2.9	-0.73	
+475.0	2.7	-0.74	
+440.0	2.7	-0.73	
+406.0	3.0	-0.73	
+371.0	2.0	-0.75	
+337.0	3.1	-0.72	
+267.0	2.9	-0.73	
+232.0	4.3	-0.69	

@@ -1,0 +1,161 @@
+# Stable isotope and luminescence data for Montastaea faveolata andSidereastrea siderea from Buccoo Reef, Tobago
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-BuccooReefTobagoSidereastrea.Moses.2006-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-BuccooReefTobagoSidereastrea.Moses.2006.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/1924
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Stable isotope and luminescence data for Montastaea faveolata andSidereastrea siderea from Buccoo Reef, Tobago
+#------------------
+# Investigators
+#     Investigators: Christopher S. Moses
+#------------------
+# Description_Notes_and_Keywords
+#     Description: d13C: not SST sensitive
+#------------------
+# Publication
+#     Authors: Moses, C.S.;P.K. Swart
+#     Published_Date_or_Year: 2006
+#     Published_Title: Stable isotope and growth records in corals from the island of Tobago: Not simply a record of the Orinoco
+#     Journal_Name: Proceedings of the 10th International Coral Reef Symposium (Okinawa)
+#     Volume: 
+#     Edition: 
+#     Issue: 
+#     Pages: 580-587
+#     Report: 
+#     DOI: 
+#     Online_Resource: 
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Buccoo Reef, Tobago
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 11.17
+#     Southernmost_Latitude: 11.17
+#     Easternmost_Longitude: -60.85
+#     Westernmost_Longitude: -60.85
+#     Elevation: -2
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1932.0
+#     Most_Recent_Year: 1990.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Siderastrea,Siderastrea siderea
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##d18O	,,,permil, 1 2 3 4 5 6 7 8 9 10 11 12, coral, ,,, ; climateInterpretation_seasonality changed - was originally annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1990.0	-2.69	
+1989.0	-2.8634	
+1988.0	-2.6136	
+1987.0	-3.1404	
+1986.0	-2.7658	
+1985.0	-2.7281	
+1984.0	-2.7897	
+1983.0	-2.7708	
+1982.0	-2.8447	
+1981.0	-2.98	
+1980.0	-2.9254	
+1979.0	-3.0441	
+1978.0	-2.8227	
+1977.0	-3.1602	
+1976.0	-3.5327	
+1975.0	-3.3967	
+1974.0	-3.3526	
+1973.0	-3.3359	
+1972.0	-3.3899	
+1971.0	-3.4539	
+1970.0	-3.7483	
+1969.0	-3.8451	
+1968.0	-3.5141	
+1967.0	-3.8403	
+1966.0	-4.0008	
+1965.0	-4.1157	
+1964.0	-3.8351	
+1963.0	-3.9726	
+1962.0	-3.6811	
+1961.0	-3.5102	
+1960.0	-3.4092	
+1959.0	-3.5449	
+1958.0	-3.6542	
+1957.0	-3.5679	
+1956.0	-3.2387	
+1955.0	-3.3948	
+1954.0	-3.7145	
+1953.0	-3.4612	
+1952.0	-3.5454	
+1951.0	-3.8674	
+1950.0	-3.8294	
+1949.0	-3.4925	
+1948.0	-3.9492	
+1947.0	-4.1113	
+1946.0	-3.7768	
+1945.0	-3.5541	
+1944.0	-4.3245	
+1943.0	-4.1972	
+1942.0	-3.7436	
+1941.0	-3.3937	
+1940.0	-3.6783	
+1939.0	-3.8027	
+1938.0	-3.6401	
+1937.0	-3.7858	
+1936.0	-3.4142	
+1935.0	-3.0658	
+1934.0	-4.1729	
+1933.0	-4.4304	
+1932.0	-3.7296	

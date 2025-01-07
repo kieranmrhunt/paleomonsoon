@@ -1,0 +1,159 @@
+# Fisk Basin Gulf of Mexico marine sediment Mg/Ca SST
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-FiskBasin.Richey.2009-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-FiskBasin.Richey.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/cdo/f?p=519:1:784943880673501::::P1_STUDY_ID:10492
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Fisk Basin Gulf of Mexico marine sediment Mg/Ca SST
+#------------------
+# Investigators
+#     Investigators: Richey, J.N.; Poore, R.Z.; Flower, B.P.; Quinn, T.M.; Hollander D.J.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; see "Data (QC) tab" cell C6 for details
+#------------------
+# Publication
+#     Authors: Richey, Julie N.;Poore, Richard Z.;Flower, Benjamin P.;Quinn, Terrence M.;Hollander, David J.
+#     Published_Date_or_Year: 2009
+#     Published_Title: Regionally coherent Little Ice Age cooling in the Atlantic Warm Pool
+#     Journal_Name: Geophysical Research Letters
+#     Volume: 36
+#     Edition: 
+#     Issue: 21
+#     Pages: L21703
+#     Report: 
+#     DOI: 10.1029/2009GL040445
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Fisk Basin, Gulf of Mexico
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 27.55
+#     Southernmost_Latitude: 27.55
+#     Easternmost_Longitude: -93.93
+#     Westernmost_Longitude: -93.93
+#     Elevation: -817
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1198.0
+#     Most_Recent_Year: 1950.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	Mg/Ca on G. ruber (W), ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; BLA2007: Mg/Ca=0.048*exp(0.173*SST); (Black et al.; (2007); G. bulloides);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature	
+1950.0	4.75107094162477	26.2122493918725	
+1931.2	4.37053101715776	25.2846323020985	
+1912.4	4.13255880082113	24.6625463413948	
+1893.6	4.16418725755012	24.7472612397185	
+1874.8	4.29387577756958	25.0880240108248	
+1856.0	4.27744344209673	25.0454210638896	
+1837.2	3.7191992675646	23.4915642855612	
+1818.4	3.76778132614738	23.6357634645332	
+1799.6	3.8761153028525	23.95073147471	
+1780.8	3.60490023088955	23.1447387376647	
+1762.0	3.75008993675445	23.5834690452126	
+1743.2	3.68835814027895	23.3990422426611	
+1724.4	3.59607153522591	23.1174933405646	
+1705.6	3.69064594214251	23.4059320671515	
+1686.8	3.817429008979	23.7812172552269	
+1668.0	3.89461798077562	24.0036442929157	
+1649.2	3.89295004862216	23.9988847634461	
+1630.4	3.94505539102005	24.1466154028376	
+1611.6	3.88405056580749	23.9734551176353	
+1592.8	3.93923752753044	24.1302174987864	
+1574.0	3.71755558534629	23.4866526980698	
+1555.2	4.07712139702522	24.5124843411191	
+1536.4	3.94970922582431	24.1597150414214	
+1517.6	4.26025019102884	25.000669778723	
+1498.8	3.68945746376082	23.4023534410158	
+1480.0	4.18062988625095	24.7910479657171	
+1461.2	4.27746226994827	25.0454699711148	
+1442.4	3.91704114938041	24.0674327911012	
+1423.6	4.0515998462887	24.4427135347996	
+1404.8	4.5262724839948	25.6736793421296	
+1386.0	4.20404877115467	24.853116059092	
+1367.2	4.03351510291186	24.3930068999627	
+1348.4	4.24814049478945	24.9690416421553	
+1329.6	4.04235520977183	24.4173320674018	
+1310.8	4.13962238057032	24.681521805493	
+1292.0	4.09722845900605	24.567146119562	
+1273.2	4.24105984048339	24.950506573628	
+1254.4	4.08837949588995	24.5431230167591	
+1235.6	4.21828715281562	24.8906838770512	
+1216.8	4.47656228123469	25.550975501844	
+1198.0	4.6319262042333	25.9300577739456	

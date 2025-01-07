@@ -1,0 +1,177 @@
+# Mohtadi.Southern_Chile_Margin.2007
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SouthernChileMargin.Mohtadi.2007-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SouthernChileMargin.Mohtadi.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.676709
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Mohtadi.Southern_Chile_Margin.2007
+#------------------
+# Investigators
+#     Investigators: Mohtadi, Mahyar;Romero, Oscar E.;Kaiser, Jérôme;Hebbeln, Dierk
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Southern0485aMohtadi2007_GeoB7186-3;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Dataset contains NaN values and datapoints whose chronology is not QC'd
+#------------------
+# Publication
+#     Authors: Mohtadi, Mahyar;Romero, Oscar E.;Kaiser, Jérôme;Hebbeln, Dierk
+#     Published_Date_or_Year: 2007
+#     Published_Title: Cooling of the southern high latitudes during the Medieval Period and its effect on ENSO
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 26
+#     Edition: 
+#     Issue: 
+#     Pages: 1055-1066
+#     Report: 
+#     DOI: 10.1016/j.quascirev.2006.12.008
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Southern Chile Margin
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -44.15
+#     Southernmost_Latitude: -44.15
+#     Easternmost_Longitude: -75.16
+#     Westernmost_Longitude: -75.16
+#     Elevation: -1169
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -167.5
+#     Most_Recent_Year: 1988.46
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, Marine Sediment, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Alkenone, N,  All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement;Êsee "Data (QC) tab" cell C6 for details; climateInterpretation_seasonality changed - was originally Annual; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25¼C; n=22; R2=0.994);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1988.46	13.14	
+1969.23	13.06	
+1900.53	13.01	
+1851.05	12.7	
+1801.58	13.11	
+1752.11	13.12	
+1702.63	12.92	
+1653.16	13.25	
+1554.21	13.23	
+1504.74	12.32	
+1452.5	13.35	
+1397.5	13.38	
+1342.5	13.09	
+1287.5	12.93	
+1232.5	13.33	
+1177.5	13.24	
+1122.5	13.22	
+1067.5	13.06	
+1023.91	13.28	
+991.74	13.4	
+959.57	13.37	
+927.39	13.42	
+895.22	13.24	
+863.04	13.39	
+830.87	13.53	
+798.7	13.77	
+766.52	13.78	
+734.35	13.97	
+702.17	13.67	
+670.0	14.06	
+636.67	14.56	
+603.33	14.36	
+570.0	14.34	
+536.67	13.99	
+503.33	14.28	
+470.0	13.9	
+436.67	13.85	
+403.33	13.92	
+370.0	14.15	
+336.67	14.14	
+307.5	14.05	
+282.5	14.12	
+257.5	14.23	
+232.5	14.13	
+207.5	14.26	
+182.5	14.35	
+157.5	14.35	
+132.5	14.15	
+107.5	13.99	
+82.5	14.06	
+57.5	14.11	
+32.5	14.3	
+7.5	14.26	
+-17.5	14.24	
+-42.5	14.43	
+-67.5	14.4	
+-92.5	14.56	
+-117.5	14.2	
+-142.5	14.34	
+-167.5	14.28	

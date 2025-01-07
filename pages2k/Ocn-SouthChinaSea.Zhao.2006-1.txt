@@ -1,0 +1,176 @@
+# South China Sea, alkenones
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SouthChinaSea.Zhao.2006-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-SouthChinaSea.Zhao.2006.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://doi.pangaea.de/10.1594/PANGAEA.758916
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: South China Sea, alkenones
+#------------------
+# Investigators
+#     Investigators: Zhao,M;Huang,C-Y;Wang,C-C;Wei, G.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Zhao, Meixun;Huang, Chi-Yue;Wang, Chia-Chun;Wei, Ganjian
+#     Published_Date_or_Year: 2006
+#     Published_Title: A millennial-scale U37K′ sea-surface temperature record from the South China Sea (8°N) over the last 150 kyr: Monsoon and sea-level influence
+#     Journal_Name: Palaeogeography, Palaeoclimatology, Palaeoecology
+#     Volume: 236
+#     Edition: 
+#     Issue: 
+#     Pages: 39-55
+#     Report: 
+#     DOI: 10.1016/j.palaeo.2005.11.033
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: NSF
+#     Grant: INT9911756
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: National Science Council (ROC)
+#     Grant: NSC88-2611-M- 002-025-IM, NSC89-2611-M-002-011-IM and NSC89- 2611-M-002-053
+#------------------
+# Site_Information
+#     Site_Name: South China Sea
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 8.73
+#     Southernmost_Latitude: 8.73
+#     Easternmost_Longitude: 109.869
+#     Westernmost_Longitude: 109.869
+#     Elevation: -1598
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -182.03
+#     Most_Recent_Year: 992.55
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+nan	66.0	nan	938.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	30.0	1437.0	nan	
+nan	56.0	nan	1353.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	350.0	1897.0	nan	
+nan	56.0	nan	2143.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	710.0	2575.0	nan	
+nan	67.0	nan	2743.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	910.0	2986.0	nan	
+nan	65.0	nan	3697.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	1270.0	3869.0	nan	
+nan	57.0	nan	4499.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	1710.0	4404.0	nan	
+nan	67.0	nan	5648.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	2110.0	5323.0	nan	
+nan	66.0	nan	7276.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	2510.0	6810.0	nan	
+nan	72.0	nan	9927.0	nan	nan	nan	nan	nan	Planktonic foram (400-year reservoir correction)	C14 ages obtained using calcareous tests of single species of the planktonic foraminifer G. sacculifer	3110.0	9329.0	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Uk37	,,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_UK_37;  
+##temperature	sea surface temperature, alkenones, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenones, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; PEL&GRI1997: T(sediments)= (Uk'37-0.092)/(0.031);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Uk37           temperature    depth	
+992.55	0.944	27.47	4.5	
+979.58	0.931	27.05	5.5	
+966.61	0.95	27.69	6.5	
+940.67	0.96	28.01	8.5	
+927.7	0.942	27.43	9.5	
+914.73	0.935	27.19	10.5	
+888.8	0.944	27.48	12.5	
+875.83	0.936	27.23	13.5	
+862.86	0.963	28.1	14.5	
+836.92	0.939	27.33	16.5	
+823.95	0.941	27.37	17.5	
+810.98	0.946	27.56	18.5	
+785.05	0.929	26.99	20.5	
+772.08	0.931	27.07	21.5	
+759.11	0.944	27.47	22.5	
+733.17	0.949	27.65	24.5	
+720.2	0.932	27.09	25.5	
+707.23	0.952	27.73	26.5	
+681.3	0.938	27.29	28.5	
+668.33	0.929	26.99	29.5	
+655.36	0.933	27.14	30.5	
+629.42	0.941	27.37	32.5	
+603.48	0.961	28.03	34.5	
+564.08	0.941	27.39	36.5	
+542.14	0.929	26.99	37.5	
+520.19	0.954	27.82	38.5	
+476.31	0.936	27.23	40.5	
+432.42	0.937	27.26	42.5	
+388.53	0.935	27.2	44.5	
+344.64	0.92	26.7	46.5	
+300.75	0.938	27.28	48.5	
+278.81	0.937	27.25	49.5	
+256.86	0.935	27.2	50.5	
+212.97	0.942	27.42	52.5	
+169.08	0.944	27.49	54.5	
+125.19	0.937	27.27	56.5	
+81.31	0.955	27.83	58.5	
+37.42	0.939	27.34	60.5	
+-6.47	0.954	27.79	62.5	
+-50.36	0.93	27.02	64.5	
+-94.25	0.952	27.73	66.5	
+-138.14	0.955	27.83	68.5	
+-182.03	0.96	28.0	70.5	

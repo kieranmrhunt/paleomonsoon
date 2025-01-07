@@ -1,0 +1,217 @@
+# West Australian coral growth records, 1900-2010
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-BundegireefNingaloo.Cooper.2012.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-BundegireefNingaloo.Cooper.2012.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://data.aims.gov.au/metadataviewer/uuid/4f39c641-8450-4ea0-b2b6-4f3d582645f8
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: West Australian coral growth records, 1900-2010
+#------------------
+# Investigators
+#     Investigators: Cooper
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Individual coral growth records. Composites used in database instead (following approach of original publication);Metadata available at: http://data.aims.gov.au/metadataviewer/uuid/4f39c641-8450-4ea0-b2b6-4f3d582645f8
+#------------------
+# Publication
+#     Authors: Cooper, T. F.;O'Leary, R. A.;Lough, J. M.
+#     Published_Date_or_Year: 2012
+#     Published_Title: Growth of Western Australian Corals in the Anthropocene
+#     Journal_Name: Science
+#     Volume: 335
+#     Edition: 
+#     Issue: 6068
+#     Pages: 593-596
+#     Report: 
+#     DOI: 10.1126/science.1214570
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Bundegi reef, Ningaloo
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -21.8333
+#     Southernmost_Latitude: -21.8333
+#     Easternmost_Longitude: 114.1833
+#     Westernmost_Longitude: 114.1833
+#     Elevation: -6
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1900.0
+#     Most_Recent_Year: 2010.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Porites,Porites sp.
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##calcification1	calcification rate measurements from individual samples, ,,g/cm/yr, , coral, ,,N,   
+##calcification2	calcification rate measurements from individual samples, ,,g/cm/yr, , coral, ,,,  
+##calcification4	calcification rate measurements from individual samples, ,,g/cm/yr, , coral, ,,,  
+##composite	composite of individual samples; after standardization, ,,percent, 1 2 3 4 5 6 7 8 9 10 11 12, coral, ,,,  
+##calcification3	calcification rate measurements from individual samples, ,,g/cm/yr, , coral, ,,,  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           calcification1 calcification2 calcification4 composite      calcification3	
+1900.0	0.724	nan	nan	-29.80451	1.454	
+1901.0	1.872	nan	nan	10.97039	1.531	
+1902.0	2.575	nan	nan	28.05434	1.329	
+1903.0	1.934	nan	nan	21.96584	1.813	
+1904.0	1.636	nan	nan	-2.702643	1.348	
+1905.0	2.011	nan	nan	22.9232	1.762	
+1906.0	1.365	nan	nan	11.09755	2.07	
+1907.0	1.229	nan	nan	2.473093	1.941	
+1908.0	1.435	nan	nan	-11.78878	1.273	
+1909.0	1.453	1.431	nan	2.532047	1.736	
+1910.0	1.283	1.622	nan	-0.909518	1.54	
+1911.0	1.344	1.439	1.058	-13.73955	1.408	
+1912.0	1.353	1.386	2.253	12.9897	1.988	
+1913.0	1.819	1.617	1.641	7.722103	1.5	
+1914.0	1.633	1.29	1.982	5.568632	1.593	
+1915.0	1.31	1.523	2.035	3.994122	1.524	
+1916.0	2.183	1.442	1.899	21.40586	1.925	
+1917.0	2.024	1.557	1.547	9.597321	1.56	
+1918.0	2.21	1.699	1.547	16.11818	1.618	
+1919.0	1.963	1.619	2.066	11.9187	1.199	
+1920.0	1.239	1.869	1.071	6.415762	2.302	
+1921.0	1.554	1.496	1.379	-4.923176	1.369	
+1922.0	1.563	1.507	1.881	0.3843055	1.196	
+1923.0	1.57	1.678	1.645	6.265121	1.599	
+1924.0	2.266	1.701	1.412	7.073521	1.116	
+1925.0	1.347	1.383	1.165	1.5731	2.331	
+1926.0	1.195	1.004	1.531	-10.38635	1.802	
+1927.0	2.21	1.579	1.268	11.4999	1.73	
+1928.0	2.292	1.926	1.308	18.19271	1.642	
+1929.0	1.969	2.038	1.428	24.33228	2.13	
+1930.0	1.801	1.742	1.414	-3.404721	0.897	
+1931.0	1.221	1.192	1.298	-17.86366	1.319	
+1932.0	1.276	1.114	1.128	-12.00013	1.883	
+1933.0	1.113	1.035	1.756	-10.52784	1.627	
+1934.0	1.087	1.091	2.464	1.628287	1.674	
+1935.0	1.286	1.051	2.293	1.988262	1.697	
+1936.0	1.09	1.339	1.686	-6.971817	1.606	
+1937.0	1.329	1.67	2.092	12.64494	1.832	
+1938.0	1.73	1.658	1.245	-5.558638	1.093	
+1939.0	1.912	1.329	2.034	7.818126	1.347	
+1940.0	1.419	1.266	1.971	2.179885	1.642	
+1941.0	1.486	1.348	1.604	-1.079452	1.63	
+1942.0	1.39	1.4	2.02	5.16792	1.665	
+1943.0	1.39	1.503	1.954	-1.565596	1.189	
+1944.0	1.245	1.096	2.391	-1.02221	1.405	
+1945.0	1.476	1.24	1.816	-4.52993	1.337	
+1946.0	1.506	0.993	1.882	-3.594124	1.575	
+1947.0	1.749	1.004	1.058	-7.110512	1.883	
+1948.0	1.876	1.756	1.675	13.01671	1.587	
+1949.0	1.894	1.609	2.291	10.71938	0.989	
+1950.0	2.159	1.667	1.923	16.16796	1.346	
+1951.0	1.065	1.657	0.861	-17.9031	1.388	
+1952.0	1.318	1.389	2.168	5.789566	1.649	
+1953.0	1.487	1.519	1.023	-4.974937	1.756	
+1954.0	1.687	1.716	1.503	11.59829	1.908	
+1955.0	1.177	0.891	1.509	-12.56861	1.83	
+1956.0	1.209	1.461	2.026	-2.544553	1.295	
+1957.0	1.194	1.036	1.202	-9.697207	2.13	
+1958.0	1.266	1.73	1.783	14.39567	2.242	
+1959.0	1.279	1.905	2.092	17.68355	1.942	
+1960.0	1.524	1.928	1.647	13.40567	1.819	
+1961.0	1.169	1.197	1.067	-18.07353	1.579	
+1962.0	1.271	1.272	1.048	-12.03558	1.788	
+1963.0	1.384	1.401	1.017	-2.959568	2.129	
+1964.0	1.808	1.143	1.852	1.189361	1.421	
+1965.0	1.44	1.258	2.181	2.47831	1.444	
+1966.0	1.009	1.228	1.268	-9.56816	2.056	
+1967.0	1.613	1.274	1.098	-20.33431	0.852	
+1968.0	1.474	1.002	1.382	-10.34326	1.657	
+1969.0	1.518	1.838	0.991	-3.53161	1.491	
+1970.0	0.877	1.307	1.003	-26.37995	1.302	
+1971.0	1.203	0.724	1.011	-26.76243	1.574	
+1972.0	1.158	1.226	1.624	-7.524681	1.685	
+1973.0	1.758	1.625	2.228	20.48615	1.793	
+1974.0	1.716	1.759	1.208	3.565733	1.608	
+1975.0	1.363	1.826	2.056	16.62233	1.909	
+1976.0	2.138	1.756	1.191	10.99488	1.652	
+1977.0	1.401	1.466	1.843	-4.526727	1.139	
+1978.0	1.456	1.322	1.02	-10.25324	1.677	
+1979.0	1.543	1.683	1.527	4.788205	1.643	
+1980.0	1.397	1.367	1.463	-7.306218	1.446	
+1981.0	1.216	1.504	1.375	-5.566305	1.68	
+1982.0	1.517	2.012	0.67	1.011841	1.897	
+1983.0	1.49	1.725	1.119	-7.314183	1.283	
+1984.0	1.438	1.771	1.984	3.618083	1.139	
+1985.0	1.627	1.526	1.828	1.08478	1.203	
+1986.0	1.489	1.678	2.359	16.167	1.618	
+1987.0	1.77	1.43	1.465	3.067283	1.636	
+1988.0	1.107	1.371	2.685	8.140598	1.539	
+1989.0	1.47	1.558	2.157	12.44439	1.732	
+1990.0	1.546	1.575	2.088	9.171815	1.493	
+1991.0	1.214	1.308	1.957	-8.979604	1.12	
+1992.0	0.949	1.227	2.348	-9.036244	1.107	
+1993.0	1.403	1.218	1.539	-13.61349	1.133	
+1994.0	0.764	1.104	1.692	-13.03798	1.822	
+1995.0	1.197	1.105	1.56	-9.223708	1.733	
+1996.0	1.501	1.269	1.721	-1.42031	1.567	
+1997.0	2.166	1.389	1.546	19.18941	2.204	
+1998.0	1.852	1.38	1.382	1.761637	1.603	
+1999.0	1.648	1.311	2.205	6.428842	1.392	
+2000.0	1.398	1.348	0.983	-23.43772	0.912	
+2001.0	1.391	1.338	1.404	-14.54997	1.084	
+2002.0	1.474	1.367	2.231	3.229775	1.286	
+2003.0	1.459	1.202	1.399	-11.32557	1.372	
+2004.0	1.467	1.253	1.55	-7.345562	1.412	
+2005.0	1.245	1.13	2.13	4.8447	1.991	
+2006.0	1.33	1.005	0.85	-23.16693	1.511	
+2007.0	1.114	1.16	1.61	-4.539425	2.007	
+2008.0	1.056	1.076	1.859	-13.22944	1.371	
+2009.0	nan	nan	nan	nan	nan	
+2010.0	nan	nan	nan	nan	nan	

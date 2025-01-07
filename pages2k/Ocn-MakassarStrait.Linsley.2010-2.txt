@@ -1,0 +1,165 @@
+# Linsley.Makassar_Strait.2010
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MakassarStrait.Linsley.2010-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MakassarStrait.Linsley.2010.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/linsley2010/linsley2010.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Linsley.Makassar_Strait.2010
+#------------------
+# Investigators
+#     Investigators: Linsley, Braddock K.;Rosenthal, Yair;Oppo, Delia W.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Pacific0173aLinsley2010_13GGC;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Identical to LPD30c5b95c; Datapoints close to 0 CE are not constrained and hence not included
+#------------------
+# Publication
+#     Authors: Linsley, Braddock K.;Rosenthal, Yair;Oppo, Delia W.
+#     Published_Date_or_Year: 2010
+#     Published_Title: Holocene evolution of the Indonesian throughflow and the western Pacific warm pool
+#     Journal_Name: Nature Geoscience
+#     Volume: 3
+#     Edition: 
+#     Issue: 
+#     Pages: 578-583
+#     Report: 
+#     DOI: 10.1038/ngeo920
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Makassar Strait
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -7.4
+#     Southernmost_Latitude: -7.4
+#     Easternmost_Longitude: 115.2
+#     Westernmost_Longitude: 115.2
+#     Elevation: -594
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 174.78
+#     Most_Recent_Year: 1780.82
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, G. ruber, Mg/Ca, N,  All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1780.82	27.4739768995185	
+1757.76	27.4707379304902	
+1727.6	27.0606043634645	
+1695.07	27.6076736372638	
+1662.53	27.5084832808706	
+1630.0	27.192049165142	
+1597.47	26.2032372955651	
+1564.93	26.9515319747034	
+1532.4	26.3115044367407	
+1499.87	27.5729539452176	
+1467.33	26.9845071266457	
+1434.8	27.7545128823187	
+1402.27	27.7292242220618	
+1368.45	26.7206823855481	
+1333.34	27.8134032203882	
+1298.23	27.6275325656043	
+1263.12	27.9113548741201	
+1228.01	27.3477410760717	
+1192.91	27.7333000889419	
+1157.8	27.5866880707284	
+1122.69	26.3594742449748	
+1087.58	27.2501026985365	
+1052.47	27.9648622629156	
+1017.37	27.4710374877989	
+982.26	27.8241920526158	
+947.15	27.5560903349497	
+912.04	28.0844317926099	
+876.94	27.3851581416064	
+841.83	26.8315934611385	
+806.72	27.2170662401498	
+771.61	27.8401028722397	
+736.5	27.4668989683065	
+701.4	26.7188771317912	
+666.29	27.144620421696	
+631.18	27.0380678289974	
+596.07	27.6510712765483	
+560.96	27.5333750281064	
+525.86	27.7436729848315	
+490.75	27.5405357912401	
+455.64	26.982032113086	
+420.53	27.1383244339242	
+385.42	26.8987208982762	
+350.32	27.5319812546048	
+315.21	27.05809664276	
+280.1	26.677714467559	
+244.99	27.4778290904124	
+209.88	27.8014977944636	
+174.78	28.1180455124436	

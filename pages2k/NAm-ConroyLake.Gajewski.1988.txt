@@ -1,0 +1,171 @@
+# Gajewski.Conroy_Lake.1988
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-ConroyLake.Gajewski.1988.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/NAm-ConroyLake.Gajewski.1988.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/6221
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Gajewski.Conroy_Lake.1988
+#------------------
+# Investigators
+#     Investigators: Gajewski, K.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Gajewski, K.
+#     Published_Date_or_Year: 1988
+#     Published_Title: Late holocene climate changes in eastern North America estimated from pollen data
+#     Journal_Name: Quaternary Research
+#     Volume: 29
+#     Edition: 
+#     Issue: 3
+#     Pages: 255-262
+#     Report: 
+#     DOI: 10.1016/0033-5894(88)90034-8
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Conroy Lake
+#     Location: 
+#     Country: USA
+#     Northernmost_Latitude: 46.3
+#     Southernmost_Latitude: 46.3
+#     Easternmost_Longitude: -67.9
+#     Westernmost_Longitude: -67.9
+#     Elevation: 140
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -17.0
+#     Most_Recent_Year: 1940.0
+#     Time_Unit: BP
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	Mean temperature of the warmest month, ,,degC, 7, lake sediment, ,,, ; climateInterpretation_seasonality changed - was originally July;  
+##age	Years before present (1950) BP, ,,BP, , lake sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature    age	
+1967.0	17.1	-17.0	
+1959.0	17.7	-9.0	
+1951.0	17.2	-1.0	
+1943.0	17.6	7.0	
+1935.0	17.3	15.0	
+1927.0	17.1	23.0	
+1919.0	17.7	31.0	
+1911.0	17.6	39.0	
+1904.0	16.8	46.0	
+1896.0	17.2	54.0	
+1888.0	17.3	62.0	
+1880.0	17.4	70.0	
+1872.0	17.3	78.0	
+1864.0	16.6	86.0	
+1856.0	16.9	94.0	
+1848.0	16.9	102.0	
+1840.0	17.1	110.0	
+1832.0	17.5	118.0	
+1824.0	16.7	126.0	
+1816.0	17.3	134.0	
+1808.0	17.5	142.0	
+1786.0	17.0	164.0	
+1765.0	17.0	185.0	
+1725.0	17.9	225.0	
+1664.0	18.2	286.0	
+1614.0	17.5	336.0	
+1568.0	18.1	382.0	
+1526.0	18.0	424.0	
+1488.0	18.1	462.0	
+1453.0	18.2	497.0	
+1421.0	18.3	529.0	
+1390.0	18.2	560.0	
+1360.0	18.3	590.0	
+1331.0	18.6	619.0	
+1307.0	19.0	643.0	
+1282.0	18.8	668.0	
+1256.0	18.7	694.0	
+1229.0	18.5	721.0	
+1200.0	18.2	750.0	
+1167.0	18.6	783.0	
+1134.0	18.6	816.0	
+1098.0	19.4	852.0	
+1061.0	18.5	889.0	
+1023.0	19.2	927.0	
+986.0	19.0	964.0	
+947.0	18.3	1003.0	
+906.0	18.9	1044.0	
+864.0	18.1	1086.0	
+820.0	18.6	1130.0	
+779.0	19.2	1171.0	
+741.0	18.0	1209.0	
+702.0	18.5	1248.0	
+667.0	18.8	1283.0	
+634.0	18.8	1316.0	
+601.0	19.1	1349.0	
+567.0	18.6	1383.0	
+531.0	18.8	1419.0	
+493.0	18.8	1457.0	
+449.0	19.2	1501.0	
+400.0	18.1	1550.0	
+349.0	18.7	1601.0	
+298.0	18.4	1652.0	
+246.0	18.1	1704.0	
+196.0	17.7	1754.0	
+146.0	19.1	1804.0	
+100.0	18.5	1850.0	
+54.0	19.2	1896.0	
+10.0	18.7	1940.0	

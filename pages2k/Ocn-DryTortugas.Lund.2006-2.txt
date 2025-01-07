@@ -1,0 +1,177 @@
+# Dry Tortugas
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-DryTortugas.Lund.2006-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-DryTortugas.Lund.2006.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/lund2006/lund2006.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Dry Tortugas
+#------------------
+# Investigators
+#     Investigators: Lund, D.C.; Curry, W.B.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Lund, David C.;Curry, William
+#     Published_Date_or_Year: 2006
+#     Published_Title: Florida Current surface temperature and salinity variability during the last millennium
+#     Journal_Name: Paleoceanography
+#     Volume: 21
+#     Edition: 
+#     Issue: 
+#     Pages: PA2009
+#     Report: 
+#     DOI: 10.1029/2005PA001218
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Dry Tortugas
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 24.59
+#     Southernmost_Latitude: 24.59
+#     Easternmost_Longitude: -83.58
+#     Westernmost_Longitude: -83.58
+#     Elevation: -530
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 658.84
+#     Most_Recent_Year: 1949.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from Lunds "Avg Mg/Ca" column and are in units of mmol/mol; note that in original source; there are also MgCa estimates for std. dev & std. error, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature	
+1949.0	5.2	29.06	
+1844.19	4.95	28.52	
+1756.84	4.91	28.42	
+1721.91	4.75	28.06	
+1686.97	4.95	28.53	
+1652.03	4.24	26.8	
+1617.09	4.44	27.31	
+1582.16	5.03	28.7	
+1547.22	4.53	27.52	
+1512.28	4.22	26.76	
+1477.34	4.37	27.13	
+1442.41	5.29	29.25	
+1407.47	4.35	27.09	
+1385.08	4.92	28.45	
+1375.25	4.61	27.74	
+1365.42	4.48	27.42	
+1345.75	4.5	27.47	
+1335.92	4.59	27.69	
+1326.08	4.85	28.29	
+1316.25	4.08	26.38	
+1306.42	4.46	27.35	
+1296.58	4.75	28.06	
+1286.75	4.85	28.29	
+1276.92	4.65	27.82	
+1267.08	4.85	28.3	
+1257.25	4.31	26.99	
+1247.42	4.41	27.25	
+1237.58	4.55	27.59	
+1217.92	4.36	27.11	
+1208.08	4.4	27.21	
+1198.25	4.34	27.06	
+1188.42	4.44	27.32	
+1178.58	4.37	27.15	
+1168.75	4.83	28.25	
+1158.92	4.26	26.86	
+1142.79	4.54	27.56	
+1120.37	4.63	27.77	
+1097.95	4.89	28.4	
+1075.53	4.05	26.29	
+1053.12	4.79	28.16	
+1030.7	4.15	26.57	
+1008.28	4.08	26.38	
+985.86	4.32	27.01	
+963.44	4.64	27.8	
+941.02	4.11	26.45	
+918.6	4.18	26.64	
+896.19	4.36	27.11	
+873.77	4.06	26.33	
+851.35	5.07	28.79	
+828.93	4.12	26.49	
+806.51	4.18	26.64	
+784.09	4.34	27.05	
+761.67	4.06	26.32	
+739.26	4.8	28.18	
+716.84	4.25	26.83	
+694.42	4.27	26.87	
+672.0	4.4	27.22	
+665.42	4.27	26.89	
+658.84	4.35	27.09	

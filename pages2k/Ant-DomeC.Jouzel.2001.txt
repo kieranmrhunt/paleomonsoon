@@ -1,0 +1,242 @@
+# Jouzel.Dome_C.2001
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeC.Jouzel.2001.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeC.Jouzel.2001.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/6080
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: glacier ice
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Jouzel.Dome_C.2001
+#------------------
+# Investigators
+#     Investigators: Jouzel, J.;Masson, V.;Cattani, O.;Falourd, S.;Stievenard, M.;Stenni, B.;Longinelli, A.;Johnsen, S. J.;Steffenssen, J. P.;Petit, J. R.;Schwander, J.;Souchez, R.;Barkov, N. I.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Jouzel, J.;Masson, V.;Cattani, O.;Falourd, S.;Stievenard, M.;Stenni, B.;Longinelli, A.;Johnsen, S. J.;Steffenssen, J. P.;Petit, J. R.;Schwander, J.;Souchez, R.;Barkov, N. I.
+#     Published_Date_or_Year: 2001
+#     Published_Title: A new 27 ky high resolution East Antarctic climate record
+#     Journal_Name: Geophyscial Research Letters
+#     Volume: 28
+#     Edition: 
+#     Issue: 16
+#     Pages: 3199-3202
+#     Report: 
+#     DOI: 10.1029/2000GL012243
+#     Online_Resource: 
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Dome C
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -75.1
+#     Southernmost_Latitude: -75.1
+#     Easternmost_Longitude: 123.39
+#     Westernmost_Longitude: 123.39
+#     Elevation: 3233
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 2.6
+#     Most_Recent_Year: 1918.9435
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , glacier ice, ,,N,   
+##dD	,melted ice, ,permil, 1 2 3 4 5 6 7 8 9 10 11 12, glacier ice, deviation of deuterium isotope ratio 2H:1H in H2O sample compared to standard mean ocean water (V-SMOW), mass spectrometer, N,  ; climateInterpretation_seasonality changed - was originally Multi-annual averages; archiveType changed - was originally ice core; 0.5 per mil (+/-);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           dD	
+1918.9435	-390.9	
+1910.2775	-385.1	
+1901.6115	-377.8	
+1892.9455	-394.1	
+1883.6156	-398.7	
+1874.2857	-395.9	
+1864.9558	-395.9	
+1855.1349	-399.3	
+1845.3139	-391.4	
+1835.493	-399.5	
+1825.329	-402.9	
+1815.165	-393.9	
+1805.001	-398.6	
+1794.5563	-389.8	
+1784.1117	-394.5	
+1773.667	-400.5	
+1763.265	-403.6	
+1752.863	-393.1	
+1742.461	-410.9	
+1731.6487	-393.6	
+1720.8363	-391.1	
+1710.024	-391.9	
+1698.6157	-396.3	
+1687.2073	-397.0	
+1675.799	-404.7	
+1663.8347	-398.2	
+1651.8703	-395.2	
+1639.906	-403.5	
+1627.7247	-398.6	
+1615.5433	-399.7	
+1603.362	-396.0	
+1590.6103	-400.2	
+1577.8587	-401.6	
+1565.107	-405.4	
+1552.1583	-399.0	
+1539.2097	-396.9	
+1526.261	-394.9	
+1513.6063	-406.6	
+1500.9517	-395.2	
+1488.297	-395.3	
+1475.464	-399.5	
+1462.631	-401.0	
+1449.798	-393.6	
+1436.5787	-410.4	
+1423.3593	-401.3	
+1410.14	-398.3	
+1396.9193	-388.5	
+1383.6987	-391.9	
+1370.478	-400.8	
+1357.6033	-387.7	
+1344.7287	-401.4	
+1331.854	-401.0	
+1319.3017	-387.3	
+1306.7493	-390.2	
+1294.197	-394.5	
+1280.55	-401.9	
+1266.903	-399.8	
+1253.256	-399.9	
+1238.7507	-399.1	
+1224.2453	-401.9	
+1209.74	-404.8	
+1195.14	-401.6	
+1180.54	-396.7	
+1165.94	-397.1	
+1152.3607	-394.2	
+1138.7813	-395.9	
+1125.202	-392.7	
+1112.4527	-390.4	
+1099.7033	-389.0	
+1086.954	-387.0	
+1073.3227	-402.3	
+1059.6913	-392.5	
+1046.06	-404.6	
+1031.4513	-390.5	
+1016.8427	-402.3	
+1002.234	-400.1	
+987.30133	-399.4	
+972.36867	-400.6	
+957.436	-393.8	
+942.614	-398.5	
+927.792	-398.7	
+912.97	-401.8	
+898.53667	-395.2	
+884.10333	-390.1	
+869.67	-393.9	
+854.89	-400.6	
+840.11	-400.9	
+825.33	-391.7	
+810.41	-399.3	
+795.49	-386.7	
+780.57	-401.5	
+766.33667	-398.1	
+752.10333	-390.4	
+737.87	-389.8	
+723.54333	-390.7	
+709.21667	-399.3	
+694.89	-392.5	
+679.82333	-393.8	
+664.75667	-394.4	
+649.69	-397.0	
+634.60667	-397.8	
+619.52333	-388.6	
+604.44	-394.7	
+589.52667	-390.6	
+574.61333	-397.0	
+559.7	-386.6	
+545.16667	-390.6	
+530.63333	-397.0	
+516.1	-396.1	
+499.82	-398.9	
+483.54	-400.2	
+467.26	-398.7	
+451.20667	-389.7	
+435.15333	-401.6	
+419.1	-397.9	
+403.11	-399.2	
+387.12	-397.6	
+371.13	-390.5	
+354.92	-401.5	
+338.71	-395.7	
+322.5	-394.5	
+305.73333	-402.9	
+288.96667	-401.0	
+272.2	-391.5	
+255.49333	-403.4	
+238.78667	-393.4	
+222.08	-393.8	
+205.19333	-400.8	
+188.30667	-399.3	
+171.42	-396.6	
+154.52667	-395.3	
+137.63333	-392.6	
+120.74	-404.4	
+103.37	-394.4	
+86.0	-402.2	
+68.63	-401.9	
+52.176667	-393.8	
+35.723333	-402.3	
+19.27	-385.1	
+2.6	-395.9	

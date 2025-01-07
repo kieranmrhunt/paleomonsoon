@@ -1,0 +1,192 @@
+# Ifaty reef and Tulear Reef mean annual oxygen isotope records, 1660-1994
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-IfatyTul3.Zinke.2014.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-IfatyTul3.Zinke.2014.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/16438
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Ifaty reef and Tulear Reef mean annual oxygen isotope records, 1660-1994
+#------------------
+# Investigators
+#     Investigators: Zinke
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Zinke, J.;Loveday, B. R.;Reason, C. J. C.;Dullo, W.-C.;Kroon, D.
+#     Published_Date_or_Year: 2014
+#     Published_Title: Madagascar corals track sea surface temperature variability in the Agulhas Current core region over the past 334 years
+#     Journal_Name: Sci. Rep.
+#     Volume: 4
+#     Edition: 
+#     Issue: 
+#     Pages: 
+#     Report: 
+#     DOI: 10.1038/srep04393
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Ifaty
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -23.3572
+#     Southernmost_Latitude: -23.3572
+#     Easternmost_Longitude: 43.6195
+#     Westernmost_Longitude: 43.6195
+#     Elevation: -1.1
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1905.0
+#     Most_Recent_Year: 1994.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Porites,NaN
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##d18O	,,,permil, 3 4 5 6 7 8 9 10 11 12 13 14, coral, ,,, ; climateInterpretation_seasonality changed - was originally 3 4 5 6 7 8 9 10 11 12 13 14;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1905.0	-4.556	
+1906.0	-4.39	
+1907.0	-4.405	
+1908.0	-4.214	
+1909.0	-4.242	
+1910.0	-4.488	
+1911.0	-4.58	
+1912.0	-4.644	
+1913.0	-4.305	
+1914.0	-4.352	
+1915.0	-4.619	
+1916.0	-4.175	
+1917.0	-4.521	
+1918.0	-4.449	
+1919.0	-4.619	
+1920.0	-4.443	
+1921.0	-4.605	
+1922.0	-4.431	
+1923.0	-4.583	
+1924.0	-4.359	
+1925.0	-4.445	
+1926.0	-4.439	
+1927.0	-4.357	
+1928.0	-4.615	
+1929.0	-4.604	
+1930.0	-4.26	
+1931.0	-4.39	
+1932.0	-4.346	
+1933.0	-4.148	
+1934.0	-4.471	
+1935.0	-4.083	
+1936.0	-4.571	
+1937.0	-4.31	
+1938.0	-4.345	
+1939.0	-4.699	
+1940.0	-4.613	
+1941.0	-4.402	
+1942.0	-4.537	
+1943.0	-4.504	
+1944.0	-4.42	
+1945.0	-4.336	
+1946.0	-4.49	
+1947.0	-4.587	
+1948.0	-4.603	
+1949.0	-4.552	
+1950.0	-4.533	
+1951.0	-4.442666667	
+1952.0	-4.795	
+1953.0	-4.605	
+1954.0	-4.516	
+1955.0	-4.358	
+1956.0	-4.48	
+1957.0	-4.6685	
+1958.0	-4.478	
+1959.0	-4.588	
+1960.0	-4.667	
+1961.0	-4.471	
+1962.0	-4.548	
+1963.0	-4.466	
+1964.0	-4.295	
+1965.0	-4.605	
+1966.0	-4.6615	
+1967.0	-4.71	
+1968.0	-4.503	
+1969.0	-4.557	
+1970.0	-4.446	
+1971.0	-4.552	
+1972.0	-4.6235	
+1973.0	-4.618	
+1974.0	-4.544	
+1975.0	-4.541	
+1976.0	-4.423	
+1977.0	-4.552	
+1978.0	-4.516	
+1979.0	-4.617	
+1980.0	-4.499	
+1981.0	-4.535	
+1982.0	-4.747	
+1983.0	-4.584	
+1984.0	-4.533	
+1985.0	-4.635	
+1986.0	-4.773	
+1987.0	-4.534	
+1988.0	-4.758333333	
+1989.0	-4.72	
+1990.0	-4.64	
+1991.0	-4.694	
+1992.0	-4.711	
+1993.0	-4.9225	
+1994.0	-4.6355	

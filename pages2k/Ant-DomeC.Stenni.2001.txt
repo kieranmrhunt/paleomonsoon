@@ -1,0 +1,242 @@
+# Stenni.Dome_C.2001
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeC.Stenni.2001.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ant-DomeC.Stenni.2001.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/2492
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: glacier ice
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Stenni.Dome_C.2001
+#------------------
+# Investigators
+#     Investigators: Stenni, B.; Masson-Delmotte, V;Johnsen, S.;Jouzel, J.;Longinelli, A.;Monnin, E.;Röthlisberger, R.,;Selmo, E.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Stenni, B.; Masson-Delmotte, V;Johnsen, S.;Jouzel, J.;Longinelli, A.;Monnin, E.;Röthlisberger, R.,;Selmo, E.
+#     Published_Date_or_Year: 2001
+#     Published_Title: An oceanic cold reversal during the last deglaciation
+#     Journal_Name: Science
+#     Volume: 293
+#     Edition: 
+#     Issue: 5537
+#     Pages: 2074-2077
+#     Report: 
+#     DOI: 10.1126/science.1059702
+#     Online_Resource: 
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Dome C
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -75.1
+#     Southernmost_Latitude: -75.1
+#     Easternmost_Longitude: 123.39
+#     Westernmost_Longitude: 123.39
+#     Elevation: 3233
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 2.6
+#     Most_Recent_Year: 1918.9435
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , glacier ice, ,,N,   
+##d18O	,melted ice, ,permil, 1 2 3 4 5 6 7 8 9 10 11 12, glacier ice, deviation of oxygen isotope ratio 18O:16O in H2O sample compared to standard mean ocean water (V-SMOW), mass spectrometer, N,  ; climateInterpretation_seasonality changed - was originally Multi-annual averages; archiveType changed - was originally ice core;  0.05 per mil (+/-);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O	
+1918.9435	-50.12	
+1910.2775	-49.16	
+1901.6115	-48.14	
+1892.9455	-50.35	
+1883.6156	-50.94	
+1874.2857	-50.6	
+1864.9558	-50.52	
+1855.1349	-51.07	
+1845.3139	-49.97	
+1835.493	-50.89	
+1825.329	-51.6	
+1815.165	-50.45	
+1805.001	-50.81	
+1794.5563	-49.98	
+1784.1117	-50.62	
+1773.667	-51.07	
+1763.265	-51.72	
+1752.863	-50.11	
+1742.461	-52.51	
+1731.6487	-50.22	
+1720.8363	-49.92	
+1710.024	-49.86	
+1698.6157	-50.44	
+1687.2073	-50.7	
+1675.799	-51.7	
+1663.8347	-50.98	
+1651.8703	-50.72	
+1639.906	-51.68	
+1627.7247	-51.17	
+1615.5433	-51.26	
+1603.362	-50.64	
+1590.6103	-51.5	
+1577.8587	-51.56	
+1565.107	-51.89	
+1552.1583	-51.0	
+1539.2097	-50.55	
+1526.261	-50.58	
+1513.6063	-51.93	
+1500.9517	-50.5	
+1488.297	-50.49	
+1475.464	-51.06	
+1462.631	-51.24	
+1449.798	-50.23	
+1436.5787	-52.52	
+1423.3593	-51.03	
+1410.14	-50.94	
+1396.9193	-49.54	
+1383.6987	-50.14	
+1370.478	-51.18	
+1357.6033	-49.53	
+1344.7287	-51.2	
+1331.854	-51.18	
+1319.3017	-49.33	
+1306.7493	-49.82	
+1294.197	-50.43	
+1280.55	-51.31	
+1266.903	-51.06	
+1253.256	-51.1	
+1238.7507	-51.02	
+1224.2453	-51.49	
+1209.74	-51.68	
+1195.14	-51.58	
+1180.54	-50.7	
+1165.94	-50.82	
+1152.3607	-50.44	
+1138.7813	-50.65	
+1125.202	-50.24	
+1112.4527	-49.93	
+1099.7033	-49.7	
+1086.954	-49.57	
+1073.3227	-51.58	
+1059.6913	-50.27	
+1046.06	-51.79	
+1031.4513	-49.99	
+1016.8427	-51.45	
+1002.234	-51.04	
+987.30133	-51.16	
+972.36867	-51.28	
+957.436	-50.41	
+942.614	-51.06	
+927.792	-50.98	
+912.97	-51.55	
+898.53667	-50.61	
+884.10333	-49.76	
+869.67	-50.36	
+854.89	-51.06	
+840.11	-51.2	
+825.33	-50.17	
+810.41	-51.09	
+795.49	-49.6	
+780.57	-51.35	
+766.33667	-50.9	
+752.10333	-49.91	
+737.87	-49.89	
+723.54333	-50.1	
+709.21667	-51.15	
+694.89	-50.29	
+679.82333	-50.31	
+664.75667	-50.3	
+649.69	-50.8	
+634.60667	-50.77	
+619.52333	-49.77	
+604.44	-50.47	
+589.52667	-50.0	
+574.61333	-50.9	
+559.7	-49.43	
+545.16667	-50.25	
+530.63333	-50.89	
+516.1	-50.76	
+499.82	-51.0	
+483.54	-51.03	
+467.26	-50.98	
+451.20667	-49.87	
+435.15333	-51.44	
+419.1	-50.93	
+403.11	-50.99	
+387.12	-50.65	
+371.13	-50.03	
+354.92	-51.38	
+338.71	-50.48	
+322.5	-50.38	
+305.73333	-51.65	
+288.96667	-51.3	
+272.2	-50.27	
+255.49333	-51.61	
+238.78667	-50.43	
+222.08	-50.47	
+205.19333	-51.28	
+188.30667	-51.11	
+171.42	-50.64	
+154.52667	-50.55	
+137.63333	-50.16	
+120.74	-51.68	
+103.37	-50.68	
+86.0	-51.41	
+68.63	-51.45	
+52.176667	-50.2	
+35.723333	-51.44	
+19.27	-49.36	
+2.6	-50.68	

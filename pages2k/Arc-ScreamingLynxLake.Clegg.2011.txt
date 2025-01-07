@@ -1,0 +1,230 @@
+# Clegg.Screaming_Lynx_Lake.2011
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-ScreamingLynxLake.Clegg.2011.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-ScreamingLynxLake.Clegg.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/12443
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Clegg.Screaming_Lynx_Lake.2011
+#------------------
+# Investigators
+#     Investigators: Clegg, B.F.;Kelly, R.;Clarke, G.H.;Walker, I.R.;Hu, Feng Sheng
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Mind dating uncertainty
+#------------------
+# Publication
+#     Authors: Clegg, B.F.;Kelly, R.;Clarke, G.H.;Walker, I.R.;Hu, Feng Sheng
+#     Published_Date_or_Year: 2011
+#     Published_Title: Nonlinear response of summer temperature to Holocene insolation forcing in Alaska
+#     Journal_Name: Proceedings of the National Academy of Sciences
+#     Volume: 108
+#     Edition: 
+#     Issue: 48
+#     Pages: 19299-19304
+#     Report: 
+#     DOI: 10.1073/pnas.1110913108
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: Barley, Erin M.;Walker, Ian R.;Kurek, Joshua;Cwynar, Les C.;Mathewes, Rolf W.;Gajewski, Konrad;Finney, Bruce P.
+#     Published_Date_or_Year: 2006
+#     Published_Title: A northwest North American training set: distribution of freshwater midges in relation to air temperature and lake depth
+#     Journal_Name: Journal of Paleolimnology
+#     Volume: 36
+#     Edition: 
+#     Issue: 3
+#     Pages: 295-314
+#     Report: 
+#     DOI: 10.1007/s10933-006-0014-6
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Screaming Lynx Lake
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 66.07
+#     Southernmost_Latitude: 66.07
+#     Easternmost_Longitude: -145.4
+#     Westernmost_Longitude: -145.4
+#     Elevation: 223
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -1067.3
+#     Most_Recent_Year: 1987.75
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+age14C         age14CUncertaintyageUncertainty depth          age            labID	
+nan	nan	1.0	0.25	-57.0	210pb	
+nan	nan	1.131318084	0.75	-53.77735891	210pb	
+nan	nan	1.125716498	1.25	-52.75326305	210pb	
+nan	nan	1.126155582	1.75	-51.67913685	210pb	
+nan	nan	1.126153774	2.25	-50.5221561	210pb	
+nan	nan	1.125480934	2.75	-49.60999801	210pb	
+nan	nan	1.124617809	3.25	-48.73284695	210pb	
+nan	nan	1.124871212	3.75	-47.90562457	210pb	
+nan	nan	1.122972133	4.25	-47.4367121	210pb	
+nan	nan	1.130115361	4.75	-46.00392572	210pb	
+nan	nan	1.134857608	5.75	-44.00181587	210pb	
+nan	nan	1.289224966	6.75	-39.78015286	210pb	
+nan	nan	1.235075142	7.25	-36.0814942	210pb	
+nan	nan	1.434586238	7.75	-31.40572585	210pb	
+nan	nan	1.45851044	8.25	-25.54354682	210pb	
+nan	nan	1.396554171	8.75	-17.19104063	210pb	
+nan	nan	1.914859097	9.25	-5.524037165	210pb	
+nan	nan	2.568429169	9.75	-3.578400398	210pb	
+nan	nan	2.292629572	10.25	7.779285586	210pb	
+nan	nan	2.551308515	10.75	11.55004274	210pb	
+nan	nan	2.119100245	11.25	16.22159659	210pb	
+nan	nan	1.432130267	11.75	19.66419524	210pb	
+nan	nan	1.37569951	12.25	21.96107681	210pb	
+nan	nan	1.795367595	12.75	26.92513307	210pb	
+nan	nan	1.676479047	13.25	29.19826897	210pb	
+nan	nan	1.828739064	13.75	32.8007714	210pb	
+nan	nan	2.090171634	14.25	37.10283635	210pb	
+635.0	35.0	nan	56.75	nan	ID139048	
+1295.0	45.0	nan	73.875	nan	ID142851	
+1980.0	60.0	nan	101.25	nan	ID139049	
+2820.0	30.0	nan	137.375	nan	ID143942	
+3365.0	30.0	nan	167.625	nan	ID143941	
+4565.0	35.0	nan	214.875	nan	ID145646	
+5895.0	35.0	nan	242.625	nan	ID143944	
+6655.0	30.0	nan	256.625	nan	ID145300	
+8120.0	60.0	nan	281.625	nan	ID144795	
+8925.0	35.0	nan	340.125	nan	ID142654	
+9345.0	50.0	nan	383.375	nan	ID138454	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	,,,degC, 7, lake sediment, ,,,  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1987.75	15.4	
+1927.9	14.3324	
+1900.6	14.5103	
+1841.55	14.5678	
+1828.15	15.2673	
+1814.65	14.578	
+1801.05	14.9832	
+1773.9	15.4738	
+1747.1	14.1979	
+1720.45	15.3451	
+1710.45	14.8523	
+1703.75	13.9883	
+1694.1	15.4621	
+1684.625	14.6445	
+1678.275	14.4401	
+1668.8	14.9007	
+1659.325	14.8652	
+1652.975	14.4496	
+1643.4	14.998	
+1633.475	14.7377	
+1626.425	15.374	
+1615.85	14.8081	
+1605.25	15.6259	
+1598.15	15.5403	
+1587.55	15.5125	
+1576.95	15.6362	
+1569.85	15.5328	
+1559.4	14.9697	
+1504.95	14.7067	
+1479.45	14.7675	
+1454.5	14.2456	
+1429.5	14.4358	
+1403.05	14.7169	
+1376.4	15.6751	
+1335.2	15.4318	
+1288.15	15.0971	
+1235.6	14.0065	
+1166.1	14.6268	
+1028.25	14.8746	
+1010.9	14.849	
+845.2	15.5328	
+772.675	15.156	
+705.825	14.579	
+649.1	14.0824	
+592.975	15.1131	
+535.475	14.0585	
+477.7	14.3985	
+423.325	14.5213	
+372.85	14.7256	
+322.225	14.1894	
+271.225	14.4632	
+219.625	14.4917	
+143.8	14.6249	
+67.825	14.7936	
+23.7249999999999	14.8467	
+-73.5500000000002	15.9322	
+-127.9	15.0523	
+-180.45	15.1794	
+-234.05	15.8398	
+-289.35	15.0151	
+-344.35	15.2998	
+-396.3	15.0007	
+-447.9	14.6895	
+-499.25	15.412	
+-552.6	15.0778	
+-632.5	15.6016	
+-685.5	15.0813	
+-738.6	15.3936	
+-794.15	14.434	
+-852.15	14.7028	
+-909.3	15.0148	
+-963.65	14.9816	
+-1019.1	14.7579	
+-1067.3	14.044	

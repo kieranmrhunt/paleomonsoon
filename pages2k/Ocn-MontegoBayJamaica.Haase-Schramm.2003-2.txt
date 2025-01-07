@@ -1,0 +1,286 @@
+# Montego Bay, Jamaica sclerosponge isotopes
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MontegoBayJamaica.Haase-Schramm.2003-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-MontegoBayJamaica.Haase-Schramm.2003.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/1878
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: sclerosponge
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Montego Bay, Jamaica sclerosponge isotopes
+#------------------
+# Investigators
+#     Investigators: Haase-Schramm
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Haase-Schramm, Alexandra;Böhm, Florian;Eisenhauer, Anton;Dullo, Wolf-Christian;Joachimski, Michael M.;Hansen, Bent;Reitner, Joachim
+#     Published_Date_or_Year: 2003
+#     Published_Title: Sr/Ca ratios and oxygen isotopes from sclerosponges: Temperature history of the Caribbean mixed layer and thermocline during the Little Ice Age
+#     Journal_Name: Paleoceanography
+#     Volume: 18
+#     Edition: 
+#     Issue: 
+#     Pages: PA1073
+#     Report: 
+#     DOI: 10.1029/2002PA000830
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Montego Bay Jamaica
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 18.4667
+#     Southernmost_Latitude: 18.4667
+#     Easternmost_Longitude: -77.95
+#     Westernmost_Longitude: -77.95
+#     Elevation: -20
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1356.0
+#     Most_Recent_Year: 1991.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Ceratoporella,nicholsoni
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , sclerosponge, ,,N,   
+##Sr_Ca	,,,mmol/mol, -12 -11 -10 -9 -8 1 2 3 4 5 6 7, sclerosponge, ,,, ; paleoData_variableName changed - was originally Sr_Ca; climateInterpretation_seasonality changed - was originally -12 -11 -10 -9 -8 1 2 3 4 5 6 7; paleoData_variableName changed - was originally Sr_Ca;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Sr_Ca	
+1991.0	9.525	
+1986.0	9.494	
+1982.0	9.52	
+1976.0	nan	
+1975.0	9.54	
+1971.0	9.4745	
+1967.0	9.509	
+1962.0	9.483	
+1960.0	9.584	
+1957.0	9.536	
+1954.0	9.267	
+1947.0	9.468	
+1940.0	9.618	
+1932.0	9.435	
+1926.0	9.696	
+1921.0	9.604	
+1915.0	9.603	
+1909.0	9.728	
+1904.0	9.774	
+1899.0	9.658	
+1893.0	9.665	
+1888.0	9.755	
+1883.0	9.541	
+1878.0	9.668	
+1873.0	9.702	
+1869.0	9.712	
+1864.0	9.64	
+1860.0	9.729	
+1855.0	9.63	
+1850.0	9.81	
+1845.0	9.727	
+1840.0	9.849	
+1834.0	9.761	
+1830.0	9.82	
+1826.0	nan	
+1821.0	9.685	
+1817.0	9.902	
+1813.0	9.874	
+1808.0	9.887	
+1805.0	9.878	
+1800.0	9.827	
+1795.0	9.797	
+1784.0	9.773	
+1780.0	9.7035	
+1775.0	nan	
+1770.0	nan	
+1765.0	9.702	
+1761.0	nan	
+1756.0	9.763	
+1754.0	9.751	
+1747.0	9.564	
+1744.0	9.735	
+1739.0	9.7205	
+1735.0	9.811	
+1730.0	9.65	
+1726.0	9.806	
+1722.0	9.769	
+1718.0	9.704	
+1714.0	9.704	
+1709.0	9.827	
+1705.0	9.767	
+1701.0	9.832	
+1698.0	9.798	
+1694.0	9.8075	
+1690.0	9.853	
+1686.0	9.775	
+1682.0	9.7615	
+1677.0	9.7965	
+1674.0	9.826	
+1671.0	9.748	
+1667.0	9.5685	
+1663.0	9.7595	
+1660.0	9.727	
+1656.0	9.79	
+1654.0	9.656	
+1650.0	9.797	
+1646.0	9.778	
+1643.0	9.782	
+1642.0	9.757	
+1639.0	9.75866666666666	
+1636.0	9.69666666666667	
+1634.0	9.7335	
+1633.0	9.672	
+1631.0	9.7265	
+1630.0	9.701	
+1627.0	9.751	
+1624.0	9.75666666666667	
+1622.0	9.5815	
+1621.0	9.753	
+1618.0	9.74766666666667	
+1616.0	9.77655555555556	
+1614.0	9.756	
+1612.0	nan	
+1610.0	9.805	
+1609.0	nan	
+1606.0	nan	
+1605.0	9.751	
+1603.0	9.787	
+1600.0	9.762	
+1597.0	9.742	
+1594.0	9.703	
+1591.0	9.666	
+1589.0	9.77	
+1585.0	9.738	
+1582.0	9.73	
+1580.0	9.74	
+1577.0	9.787	
+1575.0	9.761	
+1572.0	9.789	
+1570.0	9.784	
+1567.0	9.698	
+1565.0	9.74	
+1562.0	9.646	
+1559.0	9.624	
+1555.0	9.592	
+1551.0	9.65	
+1548.0	nan	
+1547.0	9.611	
+1546.0	nan	
+1545.0	9.701	
+1544.0	nan	
+1542.0	9.68	
+1541.0	nan	
+1539.0	9.683	
+1537.0	9.602	
+1535.0	9.667	
+1532.0	9.595	
+1529.0	9.691	
+1527.0	9.594	
+1524.0	9.626	
+1520.0	9.683	
+1517.0	9.642	
+1514.0	9.646	
+1510.0	9.758	
+1508.0	9.6665	
+1505.0	nan	
+1503.0	9.589	
+1500.0	9.658	
+1496.0	9.698	
+1493.0	9.65	
+1491.0	9.642	
+1490.0	9.785	
+1486.0	9.597	
+1483.0	9.569	
+1480.0	9.568	
+1477.0	9.669	
+1475.0	9.638	
+1472.0	9.577	
+1469.0	9.672	
+1466.0	9.606	
+1463.0	nan	
+1460.0	9.642	
+1457.0	9.625	
+1454.0	9.688	
+1451.0	9.699	
+1447.0	9.687	
+1445.0	9.684	
+1441.0	9.699	
+1438.0	9.67	
+1436.0	9.673	
+1433.0	9.625	
+1430.0	9.754	
+1427.0	9.638	
+1425.0	9.599	
+1421.0	9.701	
+1418.0	9.765	
+1416.0	9.698	
+1412.0	9.72	
+1409.0	9.741	
+1405.0	9.728	
+1402.0	9.682	
+1399.0	9.621	
+1395.0	9.673	
+1393.0	9.723	
+1390.0	9.556	
+1386.0	9.686	
+1383.0	9.683	
+1380.0	9.681	
+1377.0	9.615	
+1372.0	9.675	
+1369.0	9.672	
+1365.0	9.639	
+1361.0	9.661	
+1356.0	9.744	

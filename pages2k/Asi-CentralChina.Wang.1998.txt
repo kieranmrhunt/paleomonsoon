@@ -1,0 +1,155 @@
+# Wang.Central_China.1998
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-CentralChina.Wang.1998.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Asi-CentralChina.Wang.1998.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: this study
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: documents
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Wang.Central_China.1998
+#------------------
+# Investigators
+#     Investigators: Wang, S.W.;Ye, J.L.;Gong, D.Y
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Decadal resolution. Elevation estimated from GoogleEarth; rounded to 100 m
+#------------------
+# Publication
+#     Authors: Wang, S.W.;Ye, J.L.;Gong, D.Y
+#     Published_Date_or_Year: 1998
+#     Published_Title: Climate in China during the Little Ice Age
+#     Journal_Name: Quaternary Sciences
+#     Volume: 1
+#     Edition: 
+#     Issue: 
+#     Pages: 54-64
+#     Report: 
+#     DOI: 
+#     Online_Resource: Manually Entered
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Central China
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 29
+#     Southernmost_Latitude: 29
+#     Easternmost_Longitude: 113
+#     Westernmost_Longitude: 113
+#     Elevation: 3000
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1470.0
+#     Most_Recent_Year: 1990.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , documents, ,,N,   
+##temperature	Cold/warm descriptions; annual temperature, ,,index, 1 2 3 4 5 6 7 8 9 10 11 12, documents, ,,N,  ; climateInterpretation_seasonality changed - was originally annual;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1470.0	0.985659299601441	
+1480.0	1.4316141454475	
+1490.0	-0.691130905762617	
+1500.0	0.423756203912687	
+1510.0	-0.441396193274386	
+1520.0	0.129426003875945	
+1530.0	-0.218418770351357	
+1540.0	1.68134885793573	
+1550.0	0.120506907354211	
+1560.0	-1.3689822661136	
+1570.0	1.06593117323689	
+1580.0	-0.566263549518502	
+1590.0	0.0937496202589312	
+1600.0	0.575380849722003	
+1610.0	1.01241659163656	
+1620.0	-1.00329929637291	
+1630.0	0.56646175320027	
+1640.0	0.941063819462694	
+1650.0	-1.65439336221884	
+1660.0	-1.37790136263533	
+1670.0	-0.378962512682407	
+1680.0	-0.637616321692372	
+1690.0	-0.0311177384551056	
+1700.0	0.789439171183456	
+1710.0	-0.744645487362941	
+1720.0	0.307807941720384	
+1730.0	1.14620304440241	
+1740.0	-1.44033503828747	
+1750.0	-0.387881611674062	
+1760.0	0.0580732292321533	
+1770.0	0.584299946243737	
+1780.0	0.56646175320027	
+1790.0	-0.450315292266042	
+1800.0	-0.423558000230919	
+1810.0	-0.584101742561969	
+1820.0	-0.700049999814429	
+1830.0	-1.44925413727912	
+1840.0	-0.717888195327818	
+1850.0	0.272131553163527	
+1860.0	-2.7157658878239	
+1870.0	-0.218418770351357	
+1880.0	0.289969748676916	
+1890.0	0.191859681998002	
+1900.0	0.20969787504147	
+1910.0	0.780520074661722	
+1920.0	2.03811272868477	
+1930.0	1.53864330864815	
+1940.0	2.12730369884195	
+1950.0	0.334565233755506	
+1960.0	0.584299946243737	
+1970.0	0.191859681998002	
+1980.0	0.0134777466234846	
+1990.0	2.15406099087707	

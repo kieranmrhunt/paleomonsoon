@@ -1,0 +1,177 @@
+# Clegg.Moose_Lake.2010
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-MooseLake.Clegg.2010.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Arc-MooseLake.Clegg.2010.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/9953
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: lake sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Clegg.Moose_Lake.2010
+#------------------
+# Investigators
+#     Investigators: Clegg, Benjamin F.;Clarke, Gina H.;Chipman, Melissa L.;Chou, Michael;Walker, Ian R.;Tinner, Willy;Hu, Feng Sheng
+#------------------
+# Description_Notes_and_Keywords
+#     Description: Mind dating uncertainty
+#------------------
+# Publication
+#     Authors: Clegg, Benjamin F.;Clarke, Gina H.;Chipman, Melissa L.;Chou, Michael;Walker, Ian R.;Tinner, Willy;Hu, Feng Sheng
+#     Published_Date_or_Year: 2010
+#     Published_Title: Six millennia of summer temperature variation based on midge analysis of lake sediments from Alaska
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 29
+#     Edition: 
+#     Issue: 23-24
+#     Pages: 3308-3316
+#     Report: 
+#     DOI: 10.1016/j.quascirev.2010.08.001
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Moose Lake
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 61.35
+#     Southernmost_Latitude: 61.35
+#     Easternmost_Longitude: -143.6
+#     Westernmost_Longitude: -143.6
+#     Elevation: 437
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -718.15
+#     Most_Recent_Year: 1963.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+age14C         age14CUncertaintyageUncertainty depth          age            labID	
+nan	nan	1.0	0.0	-50.0	NA	
+nan	nan	5.0	10.0	64.0	NA	
+320.0	35.0	nan	24.5	nan	131673a	
+370.0	35.0	nan	29.5	nan	14756b	
+600.0	45.0	nan	40.5	nan	131674a	
+1575.0	35.0	nan	51.5	nan	145304a	
+1730.0	40.0	nan	55.5	nan	80803a	
+2970.0	50.0	nan	78.5	nan	145305a	
+3485.0	40.0	nan	110.5	nan	84950a	
+4005.0	45.0	nan	130.5	nan	80799a	
+5250.0	40.0	nan	168.5	nan	80800a	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , lake sediment, ,,N,   
+##temperature	,,,degC, 7, lake sediment, ,,,  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1963.0	13.77	
+1940.35	13.43	
+1929.0	13.63	
+1917.8	13.79	
+1906.55	13.52	
+1876.6	13.46	
+1836.85	13.51	
+1816.35	13.76	
+1795.6	13.63	
+1753.6	13.04	
+1733.2	13.44	
+1712.3	13.51	
+1690.85	12.82	
+1669.8	13.35	
+1649.15	13.31	
+1628.55	13.76	
+1608.05	13.55	
+1588.45	13.52	
+1569.85	13.6	
+1552.15	14.29	
+1535.3	13.91	
+1518.75	13.45	
+1502.55	14.05	
+1484.15	13.67	
+1463.6	13.27	
+1442.45	13.74	
+1421.0	13.57	
+1389.9	13.34	
+1358.7	13.18	
+1338.05	13.7	
+1317.75	13.68	
+1297.9	13.77	
+1272.2	14.13	
+1240.25	13.99	
+1187.25	13.93	
+1113.5	13.96	
+1038.65	14.23	
+962.8	13.73	
+886.0	13.82	
+808.0	14.03	
+695.6	13.72	
+586.05	13.92	
+515.1	13.43	
+456.25	13.36	
+409.95	13.46	
+363.55	13.27	
+317.3	13.81	
+265.55	13.7	
+209.0	13.55	
+151.85	13.32	
+93.3499999999999	13.81	
+35.0	14.08	
+-23.1500000000001	13.99	
+-80.5	13.8	
+-136.85	13.79	
+-193.85	14.18	
+-251.5	13.81	
+-309.45	14.14	
+-367.8	13.57	
+-425.7	13.98	
+-482.95	13.68	
+-600.25	13.92	
+-718.15	13.65	

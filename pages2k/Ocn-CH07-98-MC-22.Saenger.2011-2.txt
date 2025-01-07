@@ -1,0 +1,143 @@
+# WEq Atlantic marine sediment Mg/Ca SST (MC-22)
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-CH07-98-MC-22.Saenger.2011-2.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-CH07-98-MC-22.Saenger.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:3800011116671332::::P1_STUDY_ID:11816
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: WEq Atlantic marine sediment Mg/Ca SST (MC-22)
+#------------------
+# Investigators
+#     Investigators: Saenger, C.; Came, R.E.; Oppo, D.W.; Keigwin, L.D.; Cohen, A.L.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Saenger, Casey;Came, Rosemarie E.;Oppo, Delia W.;Keigwin, Lloyd D.;Cohen, Anne L.
+#     Published_Date_or_Year: 2011
+#     Published_Title: Regional climate variability in the western subtropical North Atlantic during the past two millennia
+#     Journal_Name: Paleoceanography
+#     Volume: 26
+#     Edition: 
+#     Issue: 2
+#     Pages: PA2206
+#     Report: 
+#     DOI: 10.1029/2010pa002038
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: CH07-98-MC-22, Carolina Slope, western North Atlantic
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 32.784
+#     Southernmost_Latitude: 32.784
+#     Easternmost_Longitude: -76.276
+#     Westernmost_Longitude: -76.276
+#     Elevation: -1895
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 250.0
+#     Most_Recent_Year: 1850.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from foram G. ruber; and are in units of mmol/mol, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature	
+1850.0	4.56	25.44	
+1750.0	4.47	25.25	
+1650.0	4.5	25.32	
+1550.0	4.5	25.29	
+1450.0	4.37	25.02	
+1350.0	4.4	25.18	
+1250.0	4.49	25.3	
+1150.0	4.44	25.18	
+1050.0	4.5	25.31	
+950.0	4.44	25.28	
+850.0	4.38	25.11	
+750.0	4.45	25.22	
+650.0	4.47	25.21	
+550.0	4.4	25.04	
+450.0	4.3	24.81	
+350.0	4.25	24.75	
+250.0	4.42	25.12	

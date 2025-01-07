@@ -1,0 +1,226 @@
+# ENAM9606,M200309_North Atlantic_marine sediment Mg/Ca SST based om Globigerina bulloides
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-FeniDrift.Richter.2009-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-FeniDrift.Richter.2009.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: ENAM9606,M200309_North Atlantic_marine sediment Mg/Ca SST based om Globigerina bulloides
+#------------------
+# Investigators
+#     Investigators: Richter, T.O.; Peeters, F.J.C.; van Weering, T.C.E.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Richter, T.O.;Peeters, F.J.C.;van Weering, T.C.E.
+#     Published_Date_or_Year: 2009
+#     Published_Title: Late Holocene (0–2.4kaBP) surface water temperature and salinity variability, Feni Drift, NE Atlantic Ocean
+#     Journal_Name: Quaternary Science Reviews
+#     Volume: 28
+#     Edition: 
+#     Issue: 19-20
+#     Pages: 1941-1955
+#     Report: 
+#     DOI: 10.1016/j.quascirev.2009.04.008
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: EU, NWO
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: European Union FP5 (PACLIVA, Patterns of Climate variability in the North Atlantic - T.O.R., T.C.E.v.W.). Dutch Science Foundation (NWO) within RAPID initiative (VAMOC, Variability of Atlantic Meridional Overturning Circulation - F.J.C.P., T.C.E.v.W.)
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Feni Drift
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 55.5
+#     Southernmost_Latitude: 55.5
+#     Easternmost_Longitude: -13.9
+#     Westernmost_Longitude: -13.9
+#     Elevation: -2543
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -368.0
+#     Most_Recent_Year: 1998.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratio from which SST was calculated; values are from foram G. bulloides; and are in units of mmol/mol, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca (G. bulloides), ,degC, 4 5 6 7, marine sediment, ,Mg/Ca, N,  ; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally AMJJ; ANA2003: Mg/Ca=0.38*exp(0.09*SST); multiple species; Mg/Ca =0.449*exp(0.09*SST); G ruber; (Anand et al.; (2003); sediment trap; error ±1.2°C);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature	
+1998.0	2.31	12.94	
+1987.0	1.973	10.99	
+1975.0	1.901	10.53	
+1962.0	1.887	10.44	
+1949.0	2.038	11.39	
+1936.0	2.394	13.38	
+1924.0	1.836	10.1	
+1911.0	2.387	13.34	
+1898.0	2.406	13.44	
+1885.0	2.211	12.4	
+1871.0	2.294	12.85	
+1835.0	2.349	13.15	
+1799.0	2.647	14.62	
+1763.0	2.547	14.14	
+1727.0	2.32	12.99	
+1691.0	2.666	14.71	
+1655.0	2.612	14.46	
+1618.0	2.564	14.23	
+1582.0	2.472	13.78	
+1560.0	2.075	11.61	
+1547.0	2.132	11.95	
+1535.0	2.258	12.66	
+1522.0	2.313	12.96	
+1510.0	2.359	13.19	
+1497.0	2.032	11.35	
+1485.0	2.035	11.37	
+1472.0	2.204	12.36	
+1460.0	2.09	11.7	
+1448.0	2.174	12.19	
+1436.0	2.307	12.92	
+1424.0	2.26	12.67	
+1413.0	2.408	13.45	
+1401.0	2.556	14.19	
+1389.0	2.158	12.1	
+1378.0	2.37	13.25	
+1366.0	2.532	14.07	
+1354.0	2.386	13.34	
+1342.0	2.635	14.56	
+1329.0	2.229	12.5	
+1317.0	2.331	13.05	
+1304.0	2.456	13.69	
+1291.0	2.62	14.49	
+1277.0	2.375	13.28	
+1263.0	2.612	14.45	
+1249.0	2.587	14.34	
+1234.0	2.29	12.83	
+1220.0	2.635	14.56	
+1204.0	2.498	13.91	
+1188.0	2.356	13.18	
+1172.0	2.518	14.0	
+1156.0	2.744	15.06	
+1139.0	2.615	14.47	
+1121.0	2.435	13.59	
+1103.0	2.589	14.35	
+1085.0	2.553	14.17	
+1066.0	2.525	14.04	
+1047.0	2.292	12.84	
+1027.0	2.371	13.26	
+1006.0	2.433	13.58	
+986.0	2.611	14.45	
+964.0	2.613	14.46	
+943.0	2.566	14.24	
+920.0	2.318	12.98	
+897.0	2.475	13.79	
+874.0	2.559	14.2	
+851.0	2.71	14.91	
+827.0	2.663	14.69	
+802.0	2.568	14.24	
+777.0	2.652	14.64	
+751.0	2.804	15.33	
+726.0	2.263	12.68	
+699.0	2.434	13.58	
+672.0	2.361	13.21	
+645.0	2.556	14.19	
+617.0	2.507	13.95	
+589.0	2.443	13.63	
+560.0	2.737	15.03	
+531.0	2.648	14.62	
+501.0	2.779	15.22	
+471.0	2.44	13.62	
+440.0	2.414	13.48	
+409.0	2.629	14.54	
+377.0	2.758	15.13	
+345.0	2.516	13.99	
+312.0	2.877	15.65	
+279.0	2.881	15.66	
+245.0	2.607	14.43	
+212.0	2.873	15.63	
+177.0	2.833	15.46	
+143.0	2.431	13.57	
+108.0	2.337	13.08	
+72.0	2.726	14.98	
+37.0	2.567	14.24	
+1.0	2.726	14.98	
+-36.0	2.386	13.34	
+-72.0	2.795	15.29	
+-109.0	2.697	14.85	
+-145.0	2.648	14.62	
+-182.0	2.74	15.04	
+-219.0	2.448	13.65	
+-256.0	2.479	13.81	
+-294.0	2.719	14.95	
+-331.0	2.832	15.45	
+-368.0	2.874	15.64	

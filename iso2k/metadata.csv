@@ -1,0 +1,1753 @@
+paleoData_TSid,datasetName,archiveType,geo_meanLon,geo_meanLat,geo_siteName,pub1_dataUrl,resolution
+CO13CAHN01A,,Coral,-86.9508,16.0644,"Diamond Caye, Utila, Honduras",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:17378,0.13273453093812376
+CO13CAHN02A,,Coral,-86.9508,16.0644,"Diamond Caye, Utila, Honduras",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:17378,0.13309148264984244
+Ocean2kHR_171,,Coral,124.833,-1.5,Bunaken Island,doi.org,0.08333120612635604
+WEB0738fe31,,Wood,79.85,29.633,Jageshwar,,1.0025906735751295
+IC10VISA01B,,GlacierIce,-35.82,70.63,Site A,,1.0
+IC10VISA01A,,GlacierIce,-35.82,70.63,Site A,,1.0
+IC10NAB501A,,GlacierIce,11.59,-71.34,IND 25B5 Coastal DML,,0.07958333333333341
+CO14CABT01B,,Coral,172.7469,3.0731,"Butaritari Atoll, Gilbert Islands",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:17289,0.16666666666666666
+CO14CABT01B2,,Coral,172.7469,3.0731,"Butaritari Atoll, Gilbert Islands",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:17289,0.16666666666666666
+CO14CABT01A,,Coral,172.7469,3.0731,"Butaritari Atoll, Gilbert Islands",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_study_id:17289,0.16666666666666666
+IC82STVE01A,,GlacierIce,10.8256,46.8842,Vernagtferner VF79_core1,,1.0
+IC82STVE01B,,GlacierIce,10.8256,46.8842,Vernagtferner VF79_core1,,1.0
+IC82STVE01C,,GlacierIce,10.8256,46.8842,Vernagtferner VF79_core1,,1.0
+MS11CSCN01b,,MarineSediment,-76.32,32.98,Carolina Slope North,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,24.875
+LPD96499b34s,,MarineSediment,-76.32,32.98,Carolina Slope North,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,24.49230769230769
+LPDa2107e777,,MarineSediment,-76.32,32.98,Carolina Slope North,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,24.49230769230769
+LPDa2107e773,,MarineSediment,-76.32,32.98,Carolina Slope North,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,32.8125
+LPDa2107e77t,,MarineSediment,-76.32,32.98,Carolina Slope North,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,31.215686274509803
+MS11CSCN01a,,MarineSediment,-76.32,32.98,Carolina Slope North,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,23.761194029850746
+Ocean2kHR_019,,Coral,34.32,27.85,"Ras Umm Sidd, Red Sea",doi.org,0.16666666666666666
+WEB4632d6d9,,Wood,85.183,28.183,Ganesh,,1.0
+IC08THGZ01A,,GlacierIce,-70.36,-73.59,Gomez,,1.0
+LS14FEZA01B,,LakeSediment,-120.0392,34.7778,Zaca Lake,,6.2531380753138075
+LPDd72fd146,,LakeSediment,-120.0392,34.7778,Zaca Lake,,6.671875
+LS14FEZA01C,,LakeSediment,-120.0392,34.7778,Zaca Lake,,6.1
+LPD9e7bf79e,,LakeSediment,-120.0392,34.7778,Zaca Lake,,6.2012448132780085
+LS14FEZA01D,,LakeSediment,-120.0392,34.7778,Zaca Lake,,6.112474437627812
+LPD9e7bf79e2,,LakeSediment,-120.0392,34.7778,Zaca Lake,,6.227083333333334
+LS14FEZA01E,,LakeSediment,-120.0392,34.7778,Zaca Lake,,7.324324324324325
+LPDd239c465,,LakeSediment,-120.0392,34.7778,Zaca Lake,,7.920212765957447
+LS14FEZA01A,,LakeSediment,-120.0392,34.7778,Zaca Lake,,5.781431334622824
+LPD8ec8baf1,,LakeSediment,-120.0392,34.7778,Zaca Lake,,5.837890625
+SP08HUCN01A,,Speleothem,110.416,30.45,"Heshang Cave, China",https://www.ncdc.noaa.gov/paleo-search/study/6095,7.798525798525799
+SP08HUCN01A_d13C,,Speleothem,110.416,30.45,"Heshang Cave, China",https://www.ncdc.noaa.gov/paleo-search/study/6095,7.798525798525799
+IC10VIGR01A,,GlacierIce,-37.64,72.58,GRIP,,1.0
+SP13SLNA01A,,Speleothem,17.883,-19.4,"Dante Cave, Namibia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14268,14.64968152866242
+IC08VI7901A,,GlacierIce,-73.1,80.7,Agassiz A79,,20.0
+IC02STTA02A,,GlacierIce,159.06,-72.8,TD96 Talos Dome,,1.0
+Ocean2kHR_096,,Coral,-66.75,11.77,"Cayo Sal, Los Roques Archipelago, Venezuela",doi.org,0.08333333333333333
+MS09DTNA01b,,MarineSediment,-17.82,62.08,RApiD-12-1K Subpolar North Atlantic,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/thornalley2009/thornalley2009.txt,80.7312925170068
+MS09DTNA02a,,MarineSediment,-17.82,62.08,RApiD-12-1K Subpolar North Atlantic,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/thornalley2009/thornalley2009.txt,63.462566844919785
+LPD2d0bd641,,MarineSediment,-17.82,62.08,RApiD-12-1K Subpolar North Atlantic,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/thornalley2009/thornalley2009.txt,78.07565789473684
+LPD44e382ee,,MarineSediment,-17.82,62.08,RApiD-12-1K Subpolar North Atlantic,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/thornalley2009/thornalley2009.txt,78.07565789473684
+MS09DTNA01a,,MarineSediment,-17.82,62.08,RApiD-12-1K Subpolar North Atlantic,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/thornalley2009/thornalley2009.txt,61.809895833333336
+IC12SIWG01A,,GlacierIce,169.08,-72.9,Whitehall Glacier WGH,,1.0
+TR08HORA01,,Wood,60.0,68.1,Northwestern Russian Tundra,http://www1.ncdc.noaa.gov/pub/data/paleo/treering/isotope/asia/russia/,1.0
+IC99OE0601A,,GlacierIce,8.01,-75.0,DML Plateau Amundsenisen FB97DML06,,1.0319148936170213
+TR15YOLL00,,Wood,-4.228,52.2217,"Allt Lanlas, Ceredigion",,1.0
+IC10VIGI01B,,GlacierIce,-38.5,72.6,GISP2 Summer,,1.0
+IC10VIGI01A,,GlacierIce,-38.5,72.6,GISP2 Summer,,1.0
+IC13ST2201A,,GlacierIce,-104.99,-83.5,US-ITASE-2002-2,,0.04617661808829828
+IC11BEVL01A,,GlacierIce,162.53,-77.33,VLG,,1.0
+WEB4de479a5,,Wood,-133.8,68.4,"Mackenzie Delta, NWT, Canada",,1.0
+IC02GR1701A,,GlacierIce,6.5,-75.17,B33Site DML17,,1.0142421159715158
+IC99ISS201A,,GlacierIce,4.82,-70.25,DML Fimbulisen S20,,1.0
+IC99OE0101A,,GlacierIce,-2.55,-74.86,DML Plateau Amundsenisen FB96DML01,,1.0208333333333333
+CO04MGNG01A,,Coral,143.6819,-3.6206,Papua New Guinea,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9813,1.0235294117647058
+IC10VICR01C,,GlacierIce,-37.32,71.12,Crete,,1.0
+IC10VICR01A,,GlacierIce,-37.32,71.12,Crete,,1.0
+IC10VICR01B,,GlacierIce,-37.32,71.12,Crete,,1.0
+SP06DYCN01A,,Speleothem,108.08,25.28,"Dongge Cave, China",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:5441,17.450716648291067
+LS01HOCH,,LakeSediment,-88.75,19.8333,Lake Chichancanab,doi.org,14.852576158940398
+CO98SWPR01A,,Coral,7.5833,1.6667,"Principe, Gulf of Guinea",,1.0
+IC11LAB401A,,GlacierIce,11.54,-70.86,IND 22B4 Coastal DML,,1.0
+IC76FIDE01A,,GlacierIce,-82.5,75.33,Devon Ice Cap,,5.0
+IC76FIDE02A,,GlacierIce,-82.5,75.33,Devon Ice Cap,,1.0
+Ocean2kHR_174,,Coral,167.2,-15.7,"Malo Channel, Espiritu Santo Island, Vanuatu",doi.org,0.06714285714285721
+Ocean2kHR_175,,Coral,167.2,-15.7,"Malo Channel, Espiritu Santo Island, Vanuatu",doi.org,0.06714285714285721
+Ocean2kHR_176,,Coral,167.2,-15.7,"Malo Channel, Espiritu Santo Island, Vanuatu",doi.org,0.06714285714285721
+LS09MAAS,,LakeSediment,39.4833,12.5833,Ashenge,doi.org,108.96894409937889
+LS09RUWA01B,,LakeSediment,30.271,0.4167,Lake Wandakara,,124.07142857142857
+LS09RUWA01B2,,LakeSediment,30.271,0.4167,Lake Wandakara,,124.07142857142857
+LS09RUWA01A,,LakeSediment,30.271,0.4167,Lake Wandakara,,75.6
+IC99OE0801A,,GlacierIce,3.29,-75.75,DML Plateau Amundsenisen FB97DML08,,1.0547945205479452
+TR11XUPH07,,Wood,101.2,19.9,"Phu Leuy, Northern Laos",Asia 2K,1.0
+TR11XUPH01,,Wood,101.2,19.9,"Phu Leuy, Northern Laos",Asia 2K,1.0761904761904761
+TR11XUPH02,,Wood,101.2,19.9,"Phu Leuy, Northern Laos",Asia 2K,1.0072992700729928
+TR11XUPH03,,Wood,101.2,19.9,"Phu Leuy, Northern Laos",Asia 2K,1.0168674698795181
+TR11XUPH05,,Wood,101.2,19.9,"Phu Leuy, Northern Laos",Asia 2K,1.0390625
+TR11XUPH06,,Wood,101.2,19.9,"Phu Leuy, Northern Laos",Asia 2K,1.02
+TR11XUPH00,,Wood,101.2,19.9,"Phu Leuy, Northern Laos",Asia 2K,1.0
+IC08DILO01A,,GlacierIce,17.42,78.86,Lomonosovfonna,,2.5902335456475583
+LS14ATJU01B,,LakeSediment,-89.4833,0.9,El Junco Lake,doi.org,50.527272727272724
+MAT6c43cd5d85,,LakeSediment,-89.4833,0.9,El Junco Lake,doi.org,45.557377049180324
+LS14ATJU01A,,LakeSediment,-89.4833,0.9,El Junco Lake,doi.org,89.64516129032258
+IC00EIGG01A,,GlacierIce,7.8675,45.9244,Grenzgletscher,,1.0175438596491229
+LS04YUWA,,LakeSediment,-119.16,37.87,Walker Lake,,3.0683760683760686
+WEBbfa46c07,,LakeSediment,-119.16,37.87,Walker Lake,,3.0815450643776825
+WEBa4c9285c,,LakeSediment,-119.16,37.87,Walker Lake,,3.0815450643776825
+WEBedf590e2,,LakeSediment,-119.16,37.87,Walker Lake,,3.0683760683760686
+LPD7e8e8eaa,,MarineSediment,117.48,-5.2,Makassar straits south,https://www.ncdc.noaa.gov/cdo/f?p=519:1:2067546222526901::::P1_STUDY_ID:12906,10.763736263736265
+MS11ANMS01b,,MarineSediment,117.48,-5.2,Makassar straits south,https://www.ncdc.noaa.gov/cdo/f?p=519:1:2067546222526901::::P1_STUDY_ID:12906,11.236994219653178
+LPD378db911t,,MarineSediment,117.48,-5.2,Makassar straits south,https://www.ncdc.noaa.gov/cdo/f?p=519:1:2067546222526901::::P1_STUDY_ID:12906,10.763736263736265
+MS11ANMS01a,,MarineSediment,117.48,-5.2,Makassar straits south,https://www.ncdc.noaa.gov/cdo/f?p=519:1:2067546222526901::::P1_STUDY_ID:12906,10.62295081967213
+CO92SHPU01A,,Coral,-89.1667,-0.6667,"Punta pitt, Isla San Cristobal, Galapagos island, Ecuador",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1848,0.2554945054945055
+WEBa8749551,,Wood,90.0,27.983,"Wache, Bhutan",,1.0
+LS98CUPE,,LakeSediment,-89.7848,17.0003,Lake Peten-Itza,doi.org,28.59398039772727
+IC10VIP200B,,GlacierIce,-43.83,65.1833,PC2,,1.0
+IC10VIP200A,,GlacierIce,-43.83,65.1833,PC2,,1.0
+IC13STWD02A,,GlacierIce,-112.09,-79.46,WDC05A,,1.0
+IC13STWD02A2,,GlacierIce,-112.09,-79.46,WDC05A,,1.0
+IC13STWD01A,,GlacierIce,-112.09,-79.46,WDC05A,,1.0
+CO98QUNC01A,,Coral,166.45,-22.48,"Amedee Island, New Caledonia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1843,0.25
+SAm_035,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_036,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_037,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_038,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_039,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_040,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_041,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_042,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_043,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_044,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_045,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+SAm_046,,GlacierIce,-70.8333,-13.9333,Quelccaya Ice Cap,doi.org,1.0
+IC09OPAN01A,,GlacierIce,94.82,80.52,Akademii Nauk,,1.0
+IC09OPAN01C,,GlacierIce,94.82,80.52,Akademii Nauk,,1.0
+IC09OPAN01B,,GlacierIce,94.82,80.52,Akademii Nauk,,1.0
+IC98THSA01A,,GlacierIce,-68.9,-18.1,Sajama,,100.004
+MS05ESCR01c,,MarineSediment,11.2217,-5.5883,Congo River mouth,http://doi.pangaea.de/10.1594/PANGAEA.738200,176.97272727272727
+MS05ESCR01a,,MarineSediment,11.2217,-5.5883,Congo River mouth,http://doi.pangaea.de/10.1594/PANGAEA.738200,189.0
+Ocean2kHR_135,,Coral,-157.2473,1.6792,Kiritimati,doi.org,0.08333283132530134
+Ocean2kHR_136,,Coral,-157.2473,1.6792,Kiritimati,doi.org,0.08333283132530134
+IC00OE2201A,,GlacierIce,6.5,-75.08,DML Plateau (DML22) FB9811,,1.0208333333333333
+Ocean2kHR_133,,Coral,167.0,-15.0,"Tangoa Island, Vanuatu",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:1839,1.0
+IC99OE1001A,,GlacierIce,11.35,-75.22,DML Plateau Amundsenisen FB97DML10,,1.0434782608695652
+WEBb0fd9bd0,,Wood,1.0025,42.6411,"Lake Estanyola de Gerber, Spanish Pyrenees",,1.0
+IC00SC2901A,,GlacierIce,-43.492,76.0039,B29,,1.0
+LPD257214a7accr,,GlacierIce,-43.492,76.0039,B29,,1.0
+TR16LAAN00,,Wood,0.3,45.7333,"Angouleme, France",,1.0
+IC95FI8701A,,GlacierIce,-73.1,80.7,Agassiz A87,,1.0
+MS07KPPB002,,MarineSediment,9.5,35.5,Panama Basin,https://www.ncdc.noaa.gov/cdo/fpermilp=519:1:599517670057801::::P1_STUDY_ID:12916,11.953199999999997
+MS07KPPB0022,,MarineSediment,9.5,35.5,Panama Basin,https://www.ncdc.noaa.gov/cdo/fpermilp=519:1:599517670057801::::P1_STUDY_ID:12916,21.882222222222214
+MAT73bc71a7eb2,,MarineSediment,9.5,35.5,Panama Basin,https://www.ncdc.noaa.gov/cdo/fpermilp=519:1:599517670057801::::P1_STUDY_ID:12916,21.882222222222214
+MAT662a3e00c02,,MarineSediment,9.5,35.5,Panama Basin,https://www.ncdc.noaa.gov/cdo/fpermilp=519:1:599517670057801::::P1_STUDY_ID:12916,21.882222222222214
+MS11KWFS01,,MarineSediment,6.7672,78.9157,eastern Fram Strait,http://doi.pangaea.de/10.1594/PANGAEA.761540,23.108695652173914
+TR07REVI01,,Wood,8.77,46.5,"Vigera, Switzerland",,1.0092307692307692
+IC97THGL01A,,GlacierIce,81.4833,35.2833,Guliya,,10.0
+Ocean2kHR_097,,Coral,-61.49,16.2,Guadeloupe,doi.org,0.08590041493775932
+Ocean2kHR_098,,Coral,-61.49,16.2,Guadeloupe,doi.org,0.08590041493775932
+SP10CACN01A,,Speleothem,109.1,33.57,"Jiuxian Cave, China",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9742,10.56341463414634
+SP10CACN02A,,Speleothem,109.1,33.57,"Jiuxian Cave, China",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9742,88.62616822429906
+IC09KAD301A,,GlacierIce,-43.83,65.18,DYE-3,,10.0
+IC11DILO01A,,GlacierIce,17.42,78.86,Lomonosovfonna,,1.0
+Ocean2kHR_172,,Coral,145.82,-5.22,"Madang, Papua New Guinea",doi.org,0.25
+LS14PRLO01a,,LakeSediment,76.5077,19.9763,Lonar,http://www.sciencedirect.com/science/article/pii/S0012821X14000594,19.181965719063545
+MATa94d069e77,,LakeSediment,76.5077,19.9763,Lonar,http://www.sciencedirect.com/science/article/pii/S0012821X14000594,19.14994240400668
+LS10STSP,,LakeSediment,12.32,63.12,Lake Spaime,doi.org,233.8921691
+IC13PALD01A,,GlacierIce,112.81,-66.77,DSS Law Dome,,1.0
+IC99SCFH01A,,GlacierIce,8.0461,46.5481,Fiescherhorn,,1.0
+IC92HOML01A,,GlacierIce,-140.58,60.58,Mt Logan (NWCol),,1.0
+Ocean2kHR_173,,Coral,-91.234,-0.4084,"Urvina Bay, Galapagos Islands",doi.org,1.03601108033241
+WEB69678476,,LakeSediment,-50.98,68.6374,Lake N3,,105.41341293243244
+WEB08e3980f,,LakeSediment,-50.98,68.6374,Lake N3,,105.41341293243244
+WEBfd7e019e,,LakeSediment,-50.98,68.6374,Lake N3,,105.41341293243244
+WEB00087524,,LakeSediment,-50.98,68.6374,Lake N3,,106.85743228767123
+WEB61208225,,LakeSediment,-50.98,68.6374,Lake N3,,106.85743228767123
+WEB956729cc,,LakeSediment,-50.98,68.6374,Lake N3,,106.85743228767123
+WEB2bbc35a8,,LakeSediment,-50.98,68.6374,Lake N3,,106.85743228767123
+WEB63a13e10,,LakeSediment,-50.98,68.6374,Lake N3,,108.34156329166666
+WEB708ebec7,,LakeSediment,-50.98,68.6374,Lake N3,,106.85743228767123
+IC13ST0601A,,GlacierIce,-124.48,-78.33,US-ITASE-2000-6,,0.08803733333333366
+MS09DOIP01b,,MarineSediment,119.2,-3.53,Makassar Strait,doi.org,10.779198113207546
+O2kLR_148,,MarineSediment,119.2,-3.53,Makassar Strait,doi.org,10.527227272727272
+LPDc9f784381,,MarineSediment,119.2,-3.53,Makassar Strait,doi.org,10.527227272727272
+LPDc9f78438u,,MarineSediment,119.2,-3.53,Makassar Strait,doi.org,7.7858940397350995
+MS09DOIP01a,,MarineSediment,119.2,-3.53,Makassar Strait,doi.org,8.052534246575343
+IC05ISAU01A,,GlacierIce,24.0,79.83,Austfonna,,1.081374321880651
+TR15NACA00,,Wood,-71.2,54.56,QuebecLabrador,,1.0
+CO13HENG01A,,Coral,152.8115,-10.6907,"Misima Island, Papua New Guinea",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:15794,0.08803954545454541
+IC13ST0101A,,GlacierIce,-111.24,-79.38,US-ITASE-2000-1,,0.10107732880937695
+SP08ZHCN01A,,Speleothem,105.0,33.3,"Wanxiang Cave, China",https://www.ncdc.noaa.gov/paleo-search/study/862,2.5724431818181817
+CO99KUHO01Aa,,Coral,113.7683,-28.4617,Houtman Abrolhos Islands,,0.13067408376963355
+CO99KUHO01Ab,,Coral,113.7683,-28.4617,Houtman Abrolhos Islands,,0.16666945606694566
+MS08UAPM01,,MarineSediment,-9.5083,38.625,Portuguese Margin,http://doi.pangaea.de/10.1594/PANGAEA.717637,11.992395437262358
+IC16WE2001A,,GlacierIce,-36.5,78.8333,B20,,1.0
+IC94THDP01A,,GlacierIce,-64.87,-70.68,Dyer Plateau,,1.0
+IC00OE1901A,,GlacierIce,-1.0,-75.17,DML Plateau (DML19) FB9805,,1.0051546391752577
+MS99LWSC01,,MarineSediment,117.3833,20.1167,South China Sea,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/179401_2-tab.txt,56.247606019151846
+LPD7311e8295,,MarineSediment,117.3833,20.1167,South China Sea,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/179401_2-tab.txt,1116.8285714285714
+IC03HOIL01A,,GlacierIce,-67.77,-16.62,Illimani,,1.0
+LS14TAKA01a,,LakeSediment,73.26,38.86,Lake Karakul,doi.org,200.85
+IC00STTY01A,,GlacierIce,158.72,-77.78,Taylor Dome,,1.8569208554926517
+LS15BHAL,,LakeSediment,-97.5338,19.0915,Laguna de Aljojuca,doi.org,23.010439560439558
+Ocean2kHR_163,,Coral,142.1941,27.1059,Miyanohama,doi.org,0.16666711956521726
+Ocean2kHR_164,,Coral,142.1941,27.1059,Miyanohama,doi.org,0.16666711956521726
+Ocean2kHR_165,,Coral,142.1941,27.1059,Miyanohama,doi.org,0.16666711956521726
+IC16WE2701A,,GlacierIce,-46.4837,76.6594,B27,,1.0256739409499358
+LPD55779927accr,,GlacierIce,-46.4837,76.6594,B27,,1.0
+IC01JO0101A,,GlacierIce,123.39,-75.1,EDC Dome C,,13.786643884892088
+IC10VID301A,,GlacierIce,-43.83,65.18,DYE3,,1.0
+IC10VID302A,,GlacierIce,-43.83,65.18,DYE3,,1.0
+IC10VID302B,,GlacierIce,-43.83,65.18,DYE3,,1.0
+IC10VID303A,,GlacierIce,-43.83,65.18,DYE3,,1.0
+IC10VID304B,,GlacierIce,-43.83,65.18,DYE3,,1.0
+IC10VID305A,,GlacierIce,-43.83,65.18,DYE3,,1.0
+IC10VID305B,,GlacierIce,-43.83,65.18,DYE3,,1.0
+IC10VID302A2,,GlacierIce,-43.83,65.18,DYE3,,1.0
+LS01HUFA01b,,LakeSediment,-153.6333,62.55,Farewell Lake,doi.org,54.24932432432433
+LS01HUFA01a,,LakeSediment,-153.6333,62.55,Farewell Lake,doi.org,54.24932432432433
+Ocean2kHR_107,,Coral,-22.8883,16.75,"Pedra de Lume, Cape Verde Islands",doi.org,0.08333333333333333
+LS07ANMA,,LakeSediment,-133.8,60.1,Marcella,doi.org,39.84166666666667
+IC99OE0901A,,GlacierIce,7.22,-75.93,DML Plateau Amundsenisen FB97DML09,,1.0103092783505154
+LS96CUPUb,,LakeSediment,-87.61,20.63,Punta Laguna,doi.org,5.913673805601317
+MAT96f4f77e8e,,LakeSediment,-87.61,20.63,Punta Laguna,doi.org,5.8653594771241835
+LS96CUPUa,,LakeSediment,-87.61,20.63,Punta Laguna,doi.org,6.231944444444444
+LS11KOMA01A,,LakeSediment,34.1878,-10.0183,Lake Malawi,doi.org,187.8
+LS14ZHJU01A,,LakeSediment,-89.4833,-0.9,El Junco Lake,,108.98690476190478
+LPD796b99d7,,LakeSediment,-89.4833,-0.9,El Junco Lake,,114.43625
+Ocean2kHR_138,,Coral,-82.05,7.98,"Secas Island, Gulf of Chiriqui, Panama",doi.org,0.10167156502571638
+IC09KANG01A,,GlacierIce,-42.32,75.1,NGRIP,,1.0
+WEB04cd805a,,Coral,96.875,-12.087,Direction Island,,0.168956594323873
+WEB8500c738,,Coral,96.875,-12.087,Direction Island,,0.16496332518337398
+WEBc0eedb9c,,Coral,96.875,-12.087,Direction Island,,0.1700924369747898
+GH319a119c,,LakeSediment,18.7,68.33,tibetanus,doi.org,172.6483050847458
+GHc1be714b,,LakeSediment,18.7,68.33,tibetanus,doi.org,172.6483050847458
+LS02ROSA,,LakeSediment,18.7,68.33,tibetanus,doi.org,172.6483050847458
+LPD797006f7,,LakeSediment,18.7,68.33,tibetanus,doi.org,172.6483050847458
+LPDe54dc6d7,,LakeSediment,18.7,68.33,tibetanus,doi.org,172.6483050847458
+LS12THAY01E,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+LS12THAY01B,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+LS12THAY01C,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,9.525862068965518
+LS12THAY01D,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+LS12THAY0130s,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+LS12THAY0124s,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+LS12THAY0126s,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,9.692982456140351
+LS12THAY0128s,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+LS12THAY01A,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+LS12THAY0122s,,LakeSediment,-70.086,70.459,Ayr Lake,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13114,1.3414634146341464
+Ocean2kHR_013,,Coral,55.25,-21.0333,"La Reunion, Southwestern Indian Ocean",doi.org,0.1666700610997964
+MS07MMNP01a,,MarineSediment,-75.16,-44.15,Southern Chile Margin,doi.org,17.958000000000002
+O2kLR_195,,MarineSediment,-75.16,-44.15,Southern Chile Margin,doi.org,36.280701754385966
+O2kLR_197,,MarineSediment,-75.16,-44.15,Southern Chile Margin,doi.org,36.54169491525424
+MS15BATP02,,MarineSediment,-9.33,38.55,Tagus prodelta,http://doi.pangaea.de/10.1594/PANGAEA.858741,59.861111111111114
+MAT903b5bd19b,,MarineSediment,-9.33,38.55,Tagus prodelta,http://doi.pangaea.de/10.1594/PANGAEA.858741,7.135761589403973
+MAT778c477373,,MarineSediment,-9.33,38.55,Tagus prodelta,http://doi.pangaea.de/10.1594/PANGAEA.858741,7.135761589403973
+MS15BATP01,,MarineSediment,-9.33,38.55,Tagus prodelta,http://doi.pangaea.de/10.1594/PANGAEA.858741,7.159468438538206
+Ocean2kHR_140,,Coral,145.817,-5.217,"Deplik Tabat Reef, Madang Lagoon",doi.org,0.25
+Ocean2kHR_141,,Coral,145.817,-5.217,"Deplik Tabat Reef, Madang Lagoon",doi.org,0.25
+IC09KA7901A,,GlacierIce,-73.1,80.7,Agassiz A79,,1.0
+IC16WENG00A,,GlacierIce,-46.0,76.0,NG-stack,,1.0
+TR06TRBO00,,Wood,74.98,36.62,"Boibar Valley, Northern Pakistan",http://www1.ncdc.noaa.gov/pub/data/paleo/treering/isotope/asia/pakistan/,1.0
+IC13ST2401A,,GlacierIce,-107.99,-86.5,US-ITASE-2002-4,,0.11758453475014363
+MAT7d9c16f020,,GlacierIce,-107.99,-86.5,US-ITASE-2002-4,,0.11704669811320757
+LPD10e9f8f7,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,18.571428571428573
+LPD312b2365,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,18.571428571428573
+MS12AMMM01b,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,36.26535714285715
+LPD10e9f8f7d,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,36.26535714285715
+LPD312b2365e,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,36.26535714285715
+MS12AMMM01a,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,35.94736842105262
+MS12AMMM02b,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,28.96
+LPD10e9f8f75,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,28.052372881355925
+LPD312b2365d,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,28.052372881355925
+MS12AMMM02a,,MarineSediment,4.03,40.5,Mediterranean (Minorca),http://doi.pangaea.de/10.1594/PANGAEA.780423,28.4519298245614
+Ocean2kHR_132,,Coral,-149.8333,-17.5,"Moorea, French Polynesia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1876,1.0
+MS11CSCS01b,,MarineSediment,-76.28,32.78,Carolina Slope South,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,35.77358490566038
+LPD0fd7fc829,,MarineSediment,-76.28,32.78,Carolina Slope South,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,35.111111111111114
+LPDa03ec713v,,MarineSediment,-76.28,32.78,Carolina Slope South,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,35.111111111111114
+LPDa03ec713e4,,MarineSediment,-76.28,32.78,Carolina Slope South,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,47.18421052631579
+MS11CSCS01a,,MarineSediment,-76.28,32.78,Carolina Slope South,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1626287132058201::::P1_STUDY_ID:11816,35.111111111111114
+LS06TIST,,LakeSediment,-94.7,46.0,Steel,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8647,5.115321252059308
+Ocean2kHR_105,,Coral,-64.7,32.467,"North East Breakers, Bermuda",doi.org,0.08333333333333333
+Ocean2kHR_106,,Coral,-64.7,32.467,"North East Breakers, Bermuda",doi.org,0.08333333333333333
+IC99OE0702A,,GlacierIce,-3.44,-74.59,DML Plateau Amundsenisen FB97DML07,,1.0114942528735633
+LS10WRNA01a,,LakeSediment,90.6066,30.7252,Nam Co,doi.org,13.268292682926829
+IC00COPR01A,,GlacierIce,43.0,-84.0,Plateau Remote,,1.0
+Ocean2kHR_162,,Coral,-162.13,5.87,Palmyra,doi.org,0.08333085501858731
+Ocean2kHR_161,,Coral,-162.13,5.87,Palmyra,doi.org,0.08332838038632975
+Ocean2kHR_160,,Coral,-162.13,5.87,Palmyra,doi.org,0.08332838038632975
+LPD1a0245b7,,MarineSediment,125.83,6.3,Southern Philippines,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1741917826736301::::P1_STUDY_ID:6400,22.535714285714285
+LPD1a0245b72,,MarineSediment,125.83,6.3,Southern Philippines,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1741917826736301::::P1_STUDY_ID:6400,52.060476190476194
+MS07LSSP01b,,MarineSediment,125.83,6.3,Southern Philippines,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1741917826736301::::P1_STUDY_ID:6400,72.83133333333333
+LPD776b7bec2,,MarineSediment,125.83,6.3,Southern Philippines,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1741917826736301::::P1_STUDY_ID:6400,52.060476190476194
+MS07LSSP01a,,MarineSediment,125.83,6.3,Southern Philippines,https://www.ncdc.noaa.gov/cdo/f?p=519:1:1741917826736301::::P1_STUDY_ID:6400,59.727322404371584
+Ocean2kHR_006,,Coral,115.5757,-8.2573,"Lombok Strait, Bali, Indonesia",doi.org,0.08333333333333333
+IW17OPOY00A,,GroundIce,143.5,72.7,Oyogos Yar,,142.42307692307693
+WEBd316bfdc,,Coral,-174.6423,-20.2792,Fonoifua Island,,0.13927956371986222
+CO13CABL01A,,Coral,-88.2497,16.1292,Belize,https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:17378,0.14490066225165585
+CO13CABL02A,,Coral,-88.2497,16.1292,Belize,https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:17378,0.1484375
+WEB1d361c0a,,Wood,97.033,31.15,"Qamdo, China",,1.0
+CO99SWFB01A,,Coral,-80.75,24.9167,"Lignumvitae Basin, Florida Bay",http://www1.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/florida-bay-1999.txt,1.0
+WEB6a279c31,,Coral,-80.75,24.9167,"Lignumvitae Basin, Florida Bay",http://www1.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/florida-bay-1999.txt,1.0
+CO99SWFB02A,,Coral,-80.75,24.9167,"Lignumvitae Basin, Florida Bay",http://www1.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/florida-bay-1999.txt,1.0
+SP03BMIL01A,,Speleothem,35.03,32.58,"Soreq Cave, Israel",https://www.ncdc.noaa.gov/paleo-search/study/5423,132.75613275613276
+LS91BEWA,,LakeSediment,-119.16,37.87,Walker Lake,doi.org,5.919934782608696
+WEB3e43f177,,Wood,96.43,29.45,"MiMei, China",,1.0
+LS07LAHA,,LakeSediment,39.72,11.35,Hayq,doi.org,20.853448275862068
+WEB77324fc3,,Wood,-84.1833,34.6667,Frick Creek,,1.0
+WEB67f8c5ec,,Wood,-84.1833,34.6667,Frick Creek,,1.0
+IC99IS8901A,,GlacierIce,12.8,-74.65,Eastern DML L89 (DML Ice divide traverse L),,1.0
+CO98CHPI01A,,Coral,70.0,22.6,Pirotan Island,https://www.ncdc.noaa.gov/cdo/f?p=519:1:382555218830501::::P1_STUDY_ID:1901,0.3074074074074074
+IC16WE3001A,,GlacierIce,-42.0004,75.0016,B30,,1.0
+LPDa4fe7b7faccr,,GlacierIce,-42.0004,75.0016,B30,,1.0
+LS04JOCH,,LakeSediment,32.48,67.95,Chuna,,62.766891891891895
+IC10VISG01B,,GlacierIce,-35.84,71.15,Site E,,1.0
+IC10VISG01A,,GlacierIce,-35.84,71.15,Site E,,1.0
+SP09FLTR01A,,Speleothem,31.934,41.416,"Sofular Cave, Turkey",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8637,12.661761006289309
+SP10MEMX01A,,Speleothem,-89.47,20.75,"Tzabnah Cave, Mexico",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9791,2.142542372881356
+WEB73fbe78c,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEBf7bafce3,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEB53aebb8d,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEB10668658,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEBa755355a,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEBa617473b,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEBfb6b61e3,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEB5fb47861,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+WEB0c2a385a,,GroundIce,-138.32,65.21,"DHP174 site, Yukon, NW Canada",,194.97142857142856
+IC07KARB01A,,GlacierIce,86.96,28.03,East Rongbuk Glacier,,5.0
+SP11BOAT01A,,Speleothem,10.55,46.95,"Klapferloch Cave, Austria",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:12841,1.445142580956984
+WEB0e874eb3,,Coral,122.15,18.54,Palaui Island,,0.0833443708609274
+WEB34c958f0,,Coral,122.15,18.54,Palaui Island,,0.08334285714285736
+WEB9aced55a,,Coral,122.15,18.54,Palaui Island,,0.08334285714285736
+WEB1b49cf10,,Coral,122.15,18.54,Palaui Island,,0.08334285714285736
+TR07RECA01,,Wood,8.6,46.35,"Cavergno, Switzerland",,1.0110803324099722
+TR11BAPU02,,Wood,-69.2,-12.6,Puerto Maldonado Peru,http://www1.ncdc.noaa.gov/pub/data/paleo/treering/isotope/southamerica/,1.0
+TR11BAPU01,,Wood,-69.2,-12.6,Puerto Maldonado Peru,http://www1.ncdc.noaa.gov/pub/data/paleo/treering/isotope/southamerica/,1.0
+SP13KAPE01A,,Speleothem,-75.79,-11.27,"Huagapo Cave, Peru",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:16405,4.961672473867596
+CO09NUTB01B,,Coral,-159.2859,3.9062,Fanning Island,http://www1.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/lineislands2009.txt,0.08331670822942606
+Ocean2kHR_156,,Coral,179.2333,-16.8167,"Savusavu Bay, Fiji",doi.org,1.0
+SP08VBPE01A,,Speleothem,-77.31,-5.94,"Cueva del Tigre Perdido, Peru",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9790,14.905923344947736
+SP08VBPE03A,,Speleothem,-77.31,-5.94,"Cueva del Tigre Perdido, Peru",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9790,951.4285714285714
+IC14MAFH01A,,GlacierIce,8.07,46.55,Fiescherhorn,,1.0
+IC00OE1801A,,GlacierIce,-6.0,-75.25,DML Plateau (DML18) FB9804,,1.0
+IC02HEWD01A,,GlacierIce,64.0,81.0,Windy Dome,,1.0
+IW15MELD00A,,GroundIce,126.0,72.4,Lena River Delta,,186.5897435897436
+IC00OE1601A,,GlacierIce,5.0,-75.17,DML Plateau (DML16) FB9813,,1.0051020408163265
+MS03SMAS01,,MarineSediment,65.98,24.62,Arabian Sea,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:2606,15.774352651048089
+MS10JTMA001,,MarineSediment,119.45,-3.8833,Makassar Strait,https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:10438,32.7887323943662
+MAT7b76ac5f05,,MarineSediment,119.45,-3.8833,Makassar Strait,https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:10438,32.7887323943662
+SP05MAAT01A,,Speleothem,11.67,47.09,"Spannagel Cave, Austria",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:5433,2.868271954674221
+IC17EKN301A,,GlacierIce,102.17,-76.41,NVFL-3,,1.0
+IC13THFE01A,,GlacierIce,-86.9,-74.57,Ferrigno,,1.0
+IC16WE2801A,,GlacierIce,-46.4837,76.6594,B28,,1.0
+IC00OE1101A,,GlacierIce,-8.5,-74.85,DML Plateau (DML11) FB9803,,1.0
+CO14WUCL01A,,Coral,-109.22,10.3,Clipperton Atoll,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:17380,0.0833770161290323
+LS99LASI,,LakeSediment,5.0,33.05,Lake Sidi Ali,doi.org,188.6588823529412
+LS15LAOH01a,,LakeSediment,20.6728,41.0658,Ohrid,doi.org,37.45985401459854
+WEB640da8ea,,Wood,95.07,30.42,"Xinpu, China",,1.0
+LS09SHJO,,LakeSediment,-113.1426,47.0457,Jones,,15.002715466351829
+MATa0deabb6a2,,LakeSediment,-113.1426,47.0457,Jones,,15.002715466351829
+MATb0401ca5f0,,LakeSediment,-113.1426,47.0457,Jones,,15.002715466351829
+LS99CUVAc,,LakeSediment,-67.75,10.1667,Lake Valencia,doi.org,44.49454545454545
+LS99CUVAb,,LakeSediment,-67.75,10.1667,Lake Valencia,doi.org,26.243746666666667
+LS99CUVAa,,LakeSediment,-67.75,10.1667,Lake Valencia,doi.org,54.98166666666666
+LS15ABSH01a,,LakeSediment,39.4333,20.7,Shuaiba Lagoon,doi.org,81.53452731379309
+LS06STFO,,LakeSediment,-114.4,48.2,Foy,doi.org,6.691868131868132
+MATb35e4d829b,,LakeSediment,-114.4,48.2,Foy,doi.org,56.64744186046512
+Ocean2kHR_144,,Coral,151.9772,-4.1916,Rabaul,doi.org,0.08332906530089619
+Ocean2kHR_145,,Coral,151.9772,-4.1916,Rabaul,doi.org,0.08332906530089619
+Ocean2kHR_146,,Coral,151.9772,-4.1916,Rabaul,doi.org,0.08332906530089619
+MS03BRNS02,,MarineSediment,7.6393,66.9698,Nordic Seas,http://doi.pangaea.de/10.1594/PANGAEA.510799,18.362784471218205
+LPD05340dbb,,MarineSediment,7.6393,66.9698,Nordic Seas,http://doi.pangaea.de/10.1594/PANGAEA.510799,17.795336787564768
+MS03BRNS01,,MarineSediment,7.6393,66.9698,Nordic Seas,http://doi.pangaea.de/10.1594/PANGAEA.510799,18.196026490066224
+LPD05340dbbh,,MarineSediment,7.6393,66.9698,Nordic Seas,http://doi.pangaea.de/10.1594/PANGAEA.510799,17.795336787564768
+SP10SUSE01A,,Speleothem,14.16,64.89,"Korallgrottan, Sweden",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9745,9.337135922330097
+IC17BERI01A,,GlacierIce,-161.7,-79.36,RICE (Rosevelt Island),,1.0
+IC15GANK01A,,GlacierIce,90.2,29.04,Noijin Kangsang Glacier,,1.0
+IC15GANK01B,,GlacierIce,90.2,29.04,Noijin Kangsang Glacier,,1.0
+IC00OE2301A,,GlacierIce,6.5,-75.25,DML Plateau (DML23) FB9812,,1.0054347826086956
+IC00OEKC01A,,GlacierIce,-9.75,-74.21,DML Plateau (Kottas Camp) FB9802,,1.0
+MS09TCIS01,,MarineSediment,17.8986,39.7619,Ionian Sea,http://doi.pangaea.de/10.1594/PANGAEA.857573,3.8699999999999997
+WEB942f4ab3,,Wood,-124.0683,40.875,"Arcata Community Forest, N California",,1.0
+WEBd4a1702f,,Wood,-124.0683,40.875,"Arcata Community Forest, N California",,1.0
+WEB1393eb44,,Wood,-124.0683,40.875,"Arcata Community Forest, N California",,1.0
+WEB2a8bacaa,,Wood,-124.0683,40.875,"Arcata Community Forest, N California",,1.0
+WEBbe879e76,,Wood,-124.0683,40.875,"Arcata Community Forest, N California",,1.0
+WEBc909cb91,,Wood,-124.0683,40.875,"Arcata Community Forest, N California",,1.0
+IC02GR0701A,,GlacierIce,-3.43,-75.58,B31Site DML07,,1.0091370558375634
+IC10VIP300B,,GlacierIce,-43.83,65.1833,PC3,,1.0
+IC10VIP300A,,GlacierIce,-43.83,65.1833,PC3,,1.0
+IC12WACD01A,,GlacierIce,6.8478,45.8411,Col du Dome,,1.0
+IC08VI8401A,,GlacierIce,-73.1,80.7,Agassiz A84,,20.0
+IC00SC2601A,,GlacierIce,-49.2167,77.2533,B26,,1.0
+LPDd7ba1947,,LakeSediment,75.1961,41.7939,Sonk11D,,61.55816326530612
+LPD343ffe05,,LakeSediment,75.1961,41.7939,Sonk11D,,62.192783505154644
+IC13ST9101A,,GlacierIce,-122.63,-80.62,US-ITASE-1999-1,,0.5117121296296298
+LS07ROTI,,LakeSediment,18.7,68.3,Tibetanus,doi.org,12.223255813953488
+IC00SC2101A,,GlacierIce,-41.1374,80.0,B21,,1.0
+CO99LICL01A,,Coral,-109.2131,10.2773,Clipperton Atoll,doi.org,0.08332247557003233
+CO99LICL02A,,Coral,-109.2131,10.2773,Clipperton Atoll,doi.org,0.08333333333333333
+CO99LICL03A,,Coral,-109.2131,10.2773,Clipperton Atoll,doi.org,0.08333333333333333
+Ocean2kHR_010,,Coral,98.52,-0.13,"Mantawai Islands, West Sumatra, Indonesia",doi.org,0.08368484122228884
+LS09SCMI,,LakeSediment,-148.15,60.95,Mica,doi.org,212.15555555555557
+IC13STSP01A,,GlacierIce,144.39,-89.93,SPRESSO (South Pole),,1.0
+IC10VIRE01B,,GlacierIce,-26.73,71.27,Renland,,1.0
+IC10VIRE01A,,GlacierIce,-26.73,71.27,Renland,,1.0
+CO99DRGB01A,,Coral,153.0,-22.1,"Abraham Reef, Great Barrier Reef, Australia",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/abraham1999iso.txt,1.032934131736527
+IC16WE2201A,,GlacierIce,-45.9116,79.3414,B22,,1.0
+LPD3eabac7b1,,GlacierIce,-45.9116,79.3414,B22,,1.0
+IC06WAML01A,,GlacierIce,90.76,35.81,Malan Glacier,,1.0
+CO08KIPR01A,,Coral,-67.001,17.933,"Turrumote Reef, La Parguera, Puerto Rico","http://www1.ncdc.noaa.gov/pub/data/paleo/coral/caribbean/turrumote2008.txthttps://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:6117,",1.003968253968254
+LS10GOBL01a,,LakeSediment,140.01,-37.01,"Blue Lake, Mount Gambier",doi.org,57.74956521739131
+LS10ZHHU01a,,LakeSediment,96.8838,37.2908,Hurleg Lake,doi.org,333.20226415094334
+TR11MAJA02,,Wood,82.33,19.08,"Jagdalpur, Central India",,1.2321428571428572
+TR11MAJA01,,Wood,82.33,19.08,"Jagdalpur, Central India",,1.2432432432432432
+SP04DEUS01A,,Speleothem,-92.25,44.8333,"Crystal Cave, Wisconsin",https://www.ncdc.noaa.gov/paleo/study/5428,23.6260162601626
+SP04DEUS01A_d13C,,Speleothem,-92.25,44.8333,"Crystal Cave, Wisconsin",https://www.ncdc.noaa.gov/paleo/study/5428,23.6260162601626
+Ocean2kHR_139,,Coral,-162.13,5.87,Palmyra (composite),doi.org,0.20633121264700208
+CO03COPM01A,,Coral,-162.13,5.87,Palmyra (composite),doi.org,0.05632898696088273
+LS11BIPU01a,,LakeSediment,-76.06,-10.7,Laguna Pumacocha,doi.org,1.9433106382978722
+TR12SAMU06,,Wood,104.1,21.67,"Mu Cang Chai, Northern Vietnam",Asia 2K,1.0033557046979866
+TR12SAMU01,,Wood,104.1,21.67,"Mu Cang Chai, Northern Vietnam",Asia 2K,1.005050505050505
+TR12SAMU02,,Wood,104.1,21.67,"Mu Cang Chai, Northern Vietnam",Asia 2K,1.0
+TR12SAMU03,,Wood,104.1,21.67,"Mu Cang Chai, Northern Vietnam",Asia 2K,1.0
+TR12SAMU04,,Wood,104.1,21.67,"Mu Cang Chai, Northern Vietnam",Asia 2K,1.0
+TR12SAMU05,,Wood,104.1,21.67,"Mu Cang Chai, Northern Vietnam",Asia 2K,1.0
+TR12SAMU00,,Wood,104.1,21.67,"Mu Cang Chai, Northern Vietnam",Asia 2K,1.0
+IC13BOCG04A,,GlacierIce,7.877,45.9297,Colle Gnifetti KCI,,1.0
+IC13BOCG02A,,GlacierIce,7.877,45.9297,Colle Gnifetti KCI,,1.0
+IC13BOCG03A,,GlacierIce,7.877,45.9297,Colle Gnifetti KCI,,1.0
+IC13BOCG01A,,GlacierIce,7.877,45.9297,Colle Gnifetti KCI,,1.0
+Ocean2kHR_181,,Coral,134.2503,7.2859,Palau,doi.org,0.08333333333333333
+Ocean2kHR_182,,Coral,134.2503,7.2859,Palau,doi.org,0.08333333333333333
+Ocean2kHR_183,,Coral,134.2503,7.2859,Palau,doi.org,0.08333333333333333
+Ocean2kHR_184,,Coral,134.2503,7.2859,Palau,doi.org,0.08333333333333333
+IC96ISE901A,,GlacierIce,-12.43,-73.6,DML Ritscherflya E91,,1.0
+IC11LIMI01A,,GlacierIce,94.32,43.05,Miaoergou,,0.15806153846153884
+IC13ST0401A,,GlacierIce,-120.08,-78.08,US-ITASE-2000-4,,0.08524866581956804
+IC00OE1201A,,GlacierIce,-6.5,-75.0,DML Plateau (DML12) FB9817,,1.0260416666666667
+O2kLR_189,,MarineSediment,-74.45,-41.0,"Chilean margin, Southern Ocean (Pacific sector)",doi.org,91.08004404761905
+LS12STRE,,LakeSediment,-118.2,48.8,Renner,doi.org,5.0
+SP10HAUS01A,,Speleothem,-80.4,37.976,"Buckeye Creek Cave, West Virginia",https://www.ncdc.noaa.gov/paleo-search/study/9741,34.71356783919598
+SP10HAUS03A,,Speleothem,-80.4,37.976,"Buckeye Creek Cave, West Virginia",https://www.ncdc.noaa.gov/paleo-search/study/9741,46.57988165680474
+IC14EKVK00A,,GlacierIce,106.83,-78.47,Vostok composite VRS13 ( a stack of 15 individual isotopic records from snow pits and shallow cores recovered in the vicinity of Vostok Station),,1.0
+IC13ST0301A,,GlacierIce,-111.92,-78.43,US-ITASE-2000-3,,0.04321777939042078
+WEB27c0dc78,,Coral,120.762,21.9564,Nanwan Bay,,0.0833386837881221
+IC00OE1501A,,GlacierIce,2.5,-75.08,DML Plateau (DML15) FB9814,,1.2564102564102564
+SP98KUCN01A,,Speleothem,115.9,39.8,"ShiHua Cave, China",http://www1.ncdc.noaa.gov/pub/data/paleo/speleothem/china/shihua1998.txt,3.534090909090909
+MATbd0dc7795c,,Speleothem,115.9,39.8,"ShiHua Cave, China",http://www1.ncdc.noaa.gov/pub/data/paleo/speleothem/china/shihua1998.txt,3.534090909090909
+MAT0620ae64ea,,Speleothem,115.9,39.8,"ShiHua Cave, China",http://www1.ncdc.noaa.gov/pub/data/paleo/speleothem/china/shihua1998.txt,3.534090909090909
+RjezL069pAb,,Speleothem,115.9,39.8,"ShiHua Cave, China",http://www1.ncdc.noaa.gov/pub/data/paleo/speleothem/china/shihua1998.txt,3.534090909090909
+LS08STCR,,LakeSediment,-110.5999,45.0,Crevice,doi.org,33.4963768115942
+WEBabc68a57,,LakeSediment,-110.5999,45.0,Crevice,doi.org,33.4963768115942
+WEB255443f2,,Wood,-66.3,-10.0833,"Selva Negra, Bolivia",,1.0
+IC16WE1901A,,GlacierIce,-36.3978,78.0006,B19,,1.0
+LPD4c60df181,,GlacierIce,-36.3978,78.0006,B19,,1.0
+CO13COTB00A,,Coral,-159.2859,3.9062,Fanning Island (composite),http://www1.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/line-islands2013.txt,0.08333333333333333
+IC00OE2001A,,GlacierIce,1.0,-74.75,DML Plateau (DML20) FB9808,,1.0103092783505154
+LS12STLI,,LakeSediment,-117.3,48.9,Lime,doi.org,5.0
+CO04PFCH02A,,Coral,71.77,-5.43,Peros Banhos Atoll,https://www.ncdc.noaa.gov/cdo/fpermilp=519:1:::::P1_STUDY_ID:1891,0.16666666666666666
+CO04PFCH01A,,Coral,71.77,-5.43,Peros Banhos Atoll,https://www.ncdc.noaa.gov/cdo/fpermilp=519:1:::::P1_STUDY_ID:1891,0.16666666666666666
+IC06VIGR01A,,GlacierIce,-37.4,72.3,GRIP Full,,20.0
+LS09SAJU01An,,LakeSediment,-89.4833,0.9,El Junco Lake,doi.org,34.4
+LS09SAJU01As,,LakeSediment,-89.4833,0.9,El Junco Lake,doi.org,38.83870967741935
+LS09SAJU01A,,LakeSediment,-89.4833,0.9,El Junco Lake,doi.org,34.4
+WEB45a0b5cd,,Wood,15.26,57.815,SE Sweden,,5.023809523809524
+LS15JOPA01,,LakeSediment,51.8,29.514,Lake Parishan,doi.org,72.9074074074074
+LS11ANSE,,LakeSediment,-136.4,62.2,Seven mile,doi.org,12.756410256410257
+IC11KIPW01A,,GlacierIce,-80.4,78.4,Prince-of-Wales,,1.0
+WEB52961c1d,,LakeSediment,100.0,37.0,Lake Qinghai,,132.12970711297072
+WEBe8bdb85c,,LakeSediment,100.0,37.0,Lake Qinghai,,137.8995633187773
+WEBe23a77e6,,LakeSediment,100.0,37.0,Lake Qinghai,,182.53757225433526
+WEBd65b7686,,LakeSediment,100.0,37.0,Lake Qinghai,,182.53757225433526
+WEB32b3a4fd,,LakeSediment,100.0,37.0,Lake Qinghai,,132.12970711297072
+WEBaddada01,,LakeSediment,100.0,37.0,Lake Qinghai,,132.12970711297072
+WEB8e46b7f7,,LakeSediment,100.0,37.0,Lake Qinghai,,132.68487394957984
+WEB9b609be4,,LakeSediment,100.0,37.0,Lake Qinghai,,132.12970711297072
+SL13TEAK01C,,TerrestrialSediment,39.3646,13.3322,Adi Kolan,doi.org,528.5384615384615
+SL13TEAK01B,,TerrestrialSediment,39.3646,13.3322,Adi Kolan,doi.org,528.5384615384615
+SL13TEAK01C2,,TerrestrialSediment,39.3646,13.3322,Adi Kolan,doi.org,528.5384615384615
+SL13TEAK01A,,TerrestrialSediment,39.3646,13.3322,Adi Kolan,doi.org,528.5384615384615
+IC17EK4K01A,,GlacierIce,95.62,-69.95,400th km,,4.919463087248322
+IC97GRGI01A,,GlacierIce,-38.5,72.6,GISP2,,1.0
+Ocean2kHR_154,,Coral,166.04,-15.94,Vanuatu,doi.org,0.08333333333333333
+Ocean2kHR_155,,Coral,166.04,-15.94,Vanuatu,doi.org,0.08333333333333333
+Ocean2kHR_026,,Coral,113.749,-28.4589,Houtman Abrolhos,doi.org,1.0728476821192052
+Ocean2kHR_027,,Coral,113.749,-28.4589,Houtman Abrolhos,doi.org,1.087248322147651
+IC16WE1701A,,GlacierIce,-37.6248,75.2504,B17,,1.0
+SP99DEUS01A,,Speleothem,-91.97,43.47,"Cold Water Cave, Iowa",https://www.ncdc.noaa.gov/paleo-search/study/5425,57.051094890510946
+SP99DEUS01A_d13C,,Speleothem,-91.97,43.47,"Cold Water Cave, Iowa",https://www.ncdc.noaa.gov/paleo-search/study/5425,57.051094890510946
+SP05CRBR01A,,Speleothem,-49.16,-27.22,"Botuvera Cave, Brazil",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:5431,168.5921625544267
+IC08VI8701A,,GlacierIce,-73.1,80.7,Agassiz A87,,20.0
+WEB7c902e21,,Wood,91.5167,30.3083,"Reting site, China",,1.0
+Ocean2kHR_012,,Coral,40.1,-3.2,Malindi,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/indian_ocean/malindi2009.txt,0.0834534967555876
+WEB9251bbf1,,Wood,-124.0767,41.7883,"Jedediah Smith State Park, N California",,1.0
+WEB68260459,,Wood,-124.0767,41.7883,"Jedediah Smith State Park, N California",,1.0192307692307692
+WEBfbf93fe8,,Wood,-124.0767,41.7883,"Jedediah Smith State Park, N California",,1.0
+WEBb58581f1,,Wood,-124.0767,41.7883,"Jedediah Smith State Park, N California",,1.0
+WEBf2452ae3,,Wood,-124.0767,41.7883,"Jedediah Smith State Park, N California",,1.0192307692307692
+WEB79b7abaa,,Wood,-124.0767,41.7883,"Jedediah Smith State Park, N California",,1.0
+WEB3638db18,,Wood,81.93,29.85,"Humla, Nepal",,1.0
+WEB30c97fa8,,Wood,77.2167,32.2167,Manali,,1.0
+WEB04cd805a2,,Coral,96.875,-12.087,Direction Island,,0.08692607003891108
+WEB8500c7382,,Coral,96.875,-12.087,Direction Island,,0.08658914728682227
+WEBc0eedb9c2,,Coral,96.875,-12.087,Direction Island,,0.08726562500000057
+MS04BLCB02,,MarineSediment,-64.7,10.75,Cariaco Basin,http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/black2004/black2004.txt,1.5498676012461057
+MAT4f63984f8e,,MarineSediment,-64.7,10.75,Cariaco Basin,http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/black2004/black2004.txt,1.5307923076923076
+MS04BLCB01,,MarineSediment,-64.7,10.75,Cariaco Basin,http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/black2004/black2004.txt,1.534333076329992
+LPD21b789e2a,,Coral,113.965,-21.905,"Ningaloo Reef, West Australia",,0.1522875816993464
+CO00KUNI01Aa,,Coral,113.965,-21.905,"Ningaloo Reef, West Australia",,0.1522875816993464
+CO00KUNI01Ab,,Coral,113.965,-21.905,"Ningaloo Reef, West Australia",,0.16667625899280597
+WEBf4409c5a,,MolluskShells,24.0983,71.0622,Ingoya,,1.0
+WEB8d8f0a7b,,MolluskShells,24.0983,71.0622,Ingoya,,1.0
+WEBab3eac63,,LakeSediment,25.6275,58.1969,Lake Nuudsaku,,21.13533333333333
+IC00THDS03B,,GlacierIce,85.72,28.38,Dasuopu,,9.969696969696969
+IC00THDS03A,,GlacierIce,85.72,28.38,Dasuopu,,1.0
+Ocean2kHR_094,,Coral,-64.9888,30.6486,Bermuda south shore,doi.org,1.0
+Ocean2kHR_095,,Coral,-64.9888,30.6486,Bermuda south shore,doi.org,1.0
+IC06VID301A,,GlacierIce,-43.83,65.18,DYE-3,,20.0
+SP13LAMX01A,,Speleothem,-99.2,17.4,"Juxtlahuaca Cave, Mexico",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14350,2.0038336052202284
+Ocean2kHR_007,,Coral,39.5,-8.0167,"Mafia Archipelago, Tanzania",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:10808,0.20677570093457945
+IC02MUBI01A,,GlacierIce,-45.72,-79.57,Berkner Island (South) B25,,1.002020202020202
+MS96LKSS02,,MarineSediment,-57.62,33.7,Sargasso Sea,https://www.ncdc.noaa.gov/paleo-search/study/2519,61.536
+MS96LKSS01,,MarineSediment,-57.62,33.7,Sargasso Sea,https://www.ncdc.noaa.gov/paleo-search/study/2519,61.040909090909096
+MAT0b60979970,,MarineSediment,-57.62,33.7,Sargasso Sea,https://www.ncdc.noaa.gov/paleo-search/study/2519,61.040909090909096
+MAT73ef8bc319,,MarineSediment,-57.62,33.7,Sargasso Sea,https://www.ncdc.noaa.gov/paleo-search/study/2519,61.040909090909096
+LPD179d915e,,LakeSediment,-122.617,54.685,Paradise,,24.552010723860583
+LPDb99b434c,,LakeSediment,-122.617,54.685,Paradise,,24.552010723860583
+IC99OE0401A,,GlacierIce,7.22,-74.41,DML Plateau Amundsenisen FB97DML04,,1.0112359550561798
+IC17KOEL00B,,GlacierIce,42.4267,43.3483,Elbrus,,1.010204081632653
+IC17KOEL00D,,GlacierIce,42.4267,43.3483,Elbrus,,1.010204081632653
+IC17KOEL00A,,GlacierIce,42.4267,43.3483,Elbrus,,1.0103092783505154
+IC17KOEL00C,,GlacierIce,42.4267,43.3483,Elbrus,,1.0103092783505154
+Ocean2kHR_178,,Coral,173.0333,1.4167,"Tarawa Atoll, Republic of Kiribati",doi.org,0.08333333333333333
+SP09GRID02A,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8632,67.9759493670886
+LPD5578b6f4b,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8632,67.54842767295598
+LPDbe7e0702b,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8632,67.54842767295598
+SP09GRID01A,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8632,67.54842767295598
+Ocean2kHR_112,,Sclerosponge,-75.75,23.67,Exuma Sound Bahamas,doi.org,1.0
+Ocean2kHR_113,,Sclerosponge,-75.75,23.67,Exuma Sound Bahamas,doi.org,1.0
+Ocean2kHR_157,,Coral,179.2333,-16.8167,Savusavu Bay,doi.org,1.0
+Ocean2kHR_158,,Coral,179.2333,-16.8167,Savusavu Bay,doi.org,1.0
+WEBcdcf63cd,,Wood,-70.1167,-50.5167,Perito Moreno,,1.0
+SP08SPUS01A,,Speleothem,-80.4,37.976,"Buckeye Creek Cave, West Virginia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8640,34.71859296482412
+LPDe86e42a4d13c,,Speleothem,-80.4,37.976,"Buckeye Creek Cave, West Virginia",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:8640,34.71859296482412
+TR08VOOL00,,Wood,107.6333,53.2833,"Olkhan Island, Russia",,1.002932551319648
+IC99OE0301A,,GlacierIce,1.97,-74.49,DML Plateau Amundsenisen FB97DML03,,1.0
+LPD7dc5b9ba,,LakeSediment,-116.39,50.83,Cleland Lake,,3.408549686660698
+LPD87c74b66,,LakeSediment,-116.39,50.83,Cleland Lake,,3.408549686660698
+IC09EIBE01A,,GlacierIce,86.56,49.8067,Belukha glacier,,10.0
+IC02THKI05A,,GlacierIce,37.35,-3.08,Kilimanjaro SIF2,,10.0
+IC02THKI02A,,GlacierIce,37.35,-3.08,Kilimanjaro SIF2,,10.583333333333334
+IC02THKI03A,,GlacierIce,37.35,-3.08,Kilimanjaro SIF2,,10.0
+IC02THKI04A,,GlacierIce,37.35,-3.08,Kilimanjaro SIF2,,10.067567567567568
+IC02THKI01A,,GlacierIce,37.35,-3.08,Kilimanjaro SIF2,,10.0
+IC13ST1201A,,GlacierIce,-110.01,-82.0,US-ITASE-2001-2,,0.03705073875083948
+Ocean2kHR_126,,Sclerosponge,-77.95,18.47,"Montego Bay, Jamaica",doi.org,3.718390804597701
+Ocean2kHR_128,,Sclerosponge,-77.95,18.47,"Montego Bay, Jamaica",doi.org,5.153846153846154
+Ocean2kHR_127,,Sclerosponge,-77.95,18.47,"Montego Bay, Jamaica",doi.org,3.757396449704142
+Ocean2kHR_129,,Sclerosponge,-77.95,18.47,"Montego Bay, Jamaica",doi.org,5.428571428571429
+IC09VIRE01A,,GlacierIce,-26.73,71.27,Renland,,5.0
+IC16GOBP01A,,GlacierIce,-64.08,-66.04,Bruce Plateau,,1.0
+WEB302321b9,,Wood,-74.0167,41.4,Black Rock Forest,,1.0
+WEBbc9c2816,,Wood,-74.0167,41.4,Black Rock Forest,,1.0
+IC17EKPV01A,,GlacierIce,79.93,-72.81,PV-10,,1.0
+WEB7105d7a6,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.0204081632653061
+WEBad27530f,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.0851063829787233
+WEB81ca9328,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.0
+WEBd9f73e6a,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.0
+WEB93ccadc2,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.0
+WEBa9c47a40,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.0
+WEBaba520fa,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.02
+WEBd5fd45b6,,Wood,-124.0467,41.4567,"Prairie Creek State Park, N California",,1.0
+IC00OE0302A,,GlacierIce,1.96,-74.5,DML Plateau (DML03) FB9809,,1.037037037037037
+IC13ST1501A,,GlacierIce,-89.14,-77.06,US-ITASE-2001-5,,0.07803975438596489
+MAT21862c0845,,GlacierIce,-89.14,-77.06,US-ITASE-2001-5,,0.07782130860741775
+WEBc5c2e8ea,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,178.9986111111111
+WEBba4d631e,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,178.9986111111111
+WEB13dc04eb,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,178.9986111111111
+WEBbdc9dedb,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,178.9986111111111
+WEBd7a384df,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,181.51971830985914
+WEBa1b29ebc,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,181.51971830985914
+WEBf388e826,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,184.11285714285714
+WEB1e989b0d,,LakeSediment,10.7378,79.7733,Haklyutvatnet,,184.11285714285714
+LS10HOLO,,LakeSediment,-6.69,54.35,Lough-na-Shade,doi.org,5.951515151515151
+Ocean2kHR_193,,Coral,148.43,-17.73,Coral Sea,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/flinders2007.txt,5.0
+Ocean2kHR_194,,Coral,148.43,-17.73,Coral Sea,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/great_barrier/flinders2007.txt,5.0
+SP12FOAT01A,,Speleothem,11.67,47.09,"Spannagel Cave, Austria",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:14510,2.316775396085741
+IC04FIML01A,,GlacierIce,-140.5,60.59,Mt Logan (PRCol),,1.0
+IC13OPAN01A,,GlacierIce,94.82,80.52,Akademii Nauk,,1.0
+Ocean2kHR_108,,Coral,-60.85,11.17,"Buccoo Reef, Tobago",,1.0
+Ocean2kHR_109,,Coral,-60.85,11.17,"Buccoo Reef, Tobago",,1.0
+Ocean2kHR_110,,Coral,-60.85,11.17,"Buccoo Reef, Tobago",,1.0
+Ocean2kHR_111,,Coral,-60.85,11.17,"Buccoo Reef, Tobago",,1.0
+Ocean2kHR_142,,Coral,179.2333,-16.8167,"Savusavu Bay, Fiji",doi.org,1.0
+IC13STN701A,,GlacierIce,7.94,-73.72,NUS 07-1,,0.2161689730517117
+TR08THCO00,,Wood,-118.0,52.5,"Columbia Icefield, British Columbia, Canada",,10.0
+SP13AYID01_compo,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/paleo-search/study/16357,100.0
+LPD7d948e2c,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/paleo-search/study/16357,132.95454545454547
+SP13AYID01A,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/paleo-search/study/16357,142.93413173652695
+LPD7d948e2f,,Speleothem,120.433,-8.533,"Liang Luar Cave, Indonesia",https://www.ncdc.noaa.gov/paleo-search/study/16357,142.93413173652695
+LPD76e57382,,LakeSediment,8.8225,45.9166,Lake Ghirla,,133.56701030927834
+LPD8b59dec3,,LakeSediment,8.8225,45.9166,Lake Ghirla,,140.3695652173913
+LPD9b09f13e,,LakeSediment,8.8225,45.9166,Lake Ghirla,,133.56701030927834
+LPD35a37878,,LakeSediment,8.8225,45.9166,Lake Ghirla,,133.56701030927834
+LPD31e25c27,,LakeSediment,8.8225,45.9166,Lake Ghirla,,137.18085106382978
+CO04LIRA01A,,Coral,-159.8278,-21.2378,"Rarotonga, Cook Islands, South Pacific",,0.12500231374363727
+CO04LIRA02A,,Coral,-159.8278,-21.2378,"Rarotonga, Cook Islands, South Pacific",,0.125
+CO04LIRA03A,,Coral,-159.8278,-21.2378,"Rarotonga, Cook Islands, South Pacific",,0.1249932705248989
+LS12ANBI,,LakeSediment,-107.3,39.8,Bison,doi.org,36.691489361702125
+IC10VISD01B,,GlacierIce,-39.62,70.64,Site D,,1.0
+IC10VISD01A,,GlacierIce,-39.62,70.64,Site D,,1.0
+Ocean2kHR_001,,Coral,40.1433,-3.2556,Malindi Marine Park,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/indian_ocean/malindi_2000.txt,1.0
+Ocean2kHR_021,,Coral,43.6195,-23.3572,"Tulear Reef, SW Madagascar",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:16438,1.0
+Ocean2kHR_022,,Coral,43.6195,-23.3572,"Tulear Reef, SW Madagascar",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:16438,1.0
+IC15MANE00A,,GlacierIce,-51.06,77.45,NEEM,,1.0
+LPD007e999e,,GlacierIce,-51.06,77.45,NEEM,,1.0
+IC15MANE01B,,GlacierIce,-51.06,77.45,NEEM,,1.0
+LPD007e999e1,,GlacierIce,-51.06,77.45,NEEM,,1.0
+LS91HOMI,,LakeSediment,-73.046,18.402,Miragoane,http://www.nature.com/nature/journal/v352/n6338/abs/352790a0.html,22.541199226305608
+IC10VIP100B,,GlacierIce,-43.83,65.1833,PC1,,1.0
+IC10VIP100A,,GlacierIce,-43.83,65.1833,PC1,,1.0
+TR16LAFO00,,Wood,2.6667,48.3833,"Fontainebleau, France",,1.0243161094224924
+IC98FIPE01A,,GlacierIce,-66.75,67.25,Penny Ice cap,,25.0
+SP12LAMX01A,,Speleothem,-99.2,17.4,"Juxtlahuaca Cave, Mexico",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:12972,2.003800978792822
+IC12MUJR01A,,GlacierIce,-57.69,-64.2,James Ross Island,,1.0
+WEB4d49a073,,Coral,117.914,-5.382,Doangdoangan Besar,,0.08333333333333333
+WEB1a9fc096,,Coral,117.914,-5.382,Doangdoangan Besar,,0.1686309523809524
+LS10CLTA,,LakeSediment,-153.67,67.35,Takahula,https://www.ncdc.noaa.gov/cdo/fpermilp=519:1:::::P1_STUDY_ID:8663,65.264
+IC06THDD01A,,GlacierIce,96.4,38.1,Dunde Ice Cap,,9.96938775510204
+CO14CATI01B,,Coral,123.5167,-10.2,"Ombai Strait, Timor Island",http://onlinelibrary.wiley.com/doi/10.1002/2013JC009594/full,0.08332715477293777
+CO14CATI01A,,Coral,123.5167,-10.2,"Ombai Strait, Timor Island",http://onlinelibrary.wiley.com/doi/10.1002/2013JC009594/full,0.08333333333333333
+LS06JONA01a,,LakeSediment,34.46,38.34,Lake Nar,doi.org,1.6212406015037595
+IC09VIA800A,,GlacierIce,-73.1,80.7,Agassiz A84-A87,,20.0
+CO99GUMI01A,,Coral,166.9283,-0.533,Nauru,doi.org,0.05920873124147321
+CO99GUMI01B,,Coral,166.9283,-0.533,Nauru,doi.org,0.25
+WEB9ec53927,,Wood,-105.0,38.8,"Almagre Mountain site, Colorado",,1.001926782273603
+O2kLR_114,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,16.91953125
+LPD292174f8m,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+MS01HDAS01a,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+addRU9fGkukENqL5PbK2,,MarineSediment,65.92,24.83,Arabian Sea,doi.org,37.84108527131783
+TR11BAVO02,,Wood,-66.0,-22.0,"Volcan Granada, Argentina",http://www1.ncdc.noaa.gov/pub/data/paleo/treering/isotope/southamerica/,1.0
+TR11BAVO01,,Wood,-66.0,-22.0,"Volcan Granada, Argentina",http://www1.ncdc.noaa.gov/pub/data/paleo/treering/isotope/southamerica/,1.0
+LS10ANBL01a,,LakeSediment,14.65,62.0,Lake Blektjarnen,doi.org,59.27342186666667
+LS15OEPO01a,,LakeSediment,-70.38,-51.95,Laguna Potrok Aike,doi.org,22.753056234718827
+IC00OE2101A,,GlacierIce,4.0,-74.67,DML Plateau (DML21) FB9810,,1.005128205128205
+IC06VING01A,,GlacierIce,-42.32,75.1,NGRIP,,20.0
+TR15YONW00,,Wood,-4.1515,51.8399,National Botanic Gardens of Wales,,1.0
+IC02GR0501A,,GlacierIce,0.01,-75.0,B32Site DML05,,1.0
+IC00OE1401A,,GlacierIce,-1.5,-74.96,DML Plateau (DML14) FB9815,,1.0
+LS12ANYE,,LakeSediment,-107.4,39.7,Yellow,doi.org,39.095238095238095
+WEB73c78c6a,,Wood,-89.6,37.0667,Crowley's Ridge,,1.0
+IC08VIRE01A,,GlacierIce,-26.73,71.27,Renland,,62.857142857142854
+IC00SC1801A,,GlacierIce,-36.4033,76.617,B18,,1.004492362982929
+NPM11111,,GlacierIce,-36.4033,76.617,B18,,1.004492362982929
+IC17EKN101A,,GlacierIce,95.07,-77.11,NVFL-1,,1.0130434782608695
+IC13ST0501A,,GlacierIce,-124.0,-77.68,US-ITASE-2000-5,,0.17610395480225988
+IC00OE1301A,,GlacierIce,-4.51,-75.0,DML Plateau (DML13) FB9816,,1.005128205128205
+IC00SC1601A,,GlacierIce,-37.6299,73.9402,B16,,1.0
+IC09VICC01A,,GlacierIce,-61.13,77.17,Camp Century,,1.0
+CO94HEAQ02A,,Coral,34.9667,29.4333,"Aqaba, Jordan",,1.0
+CO94HEAQ01A,,Coral,34.9667,29.4333,"Aqaba, Jordan",,1.0049261083743843
+IC02SCGN01A,,GlacierIce,-8.37,-70.62,DML Georg-von-Neumayer Station B04,,1.0
+SS05ROTN02A,,Sclerosponge,-76.83,23.92,"Tongue of the Ocean, Bahamas",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1920,1.0
+RYiV0il9NAZ,,Sclerosponge,-76.83,23.92,"Tongue of the Ocean, Bahamas",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:1920,1.0
+IC06KAS101A,,GlacierIce,4.8,-70.24,DML Fimbulisen S100,,1.0
+TR04EVLI01,,Wood,-85.0,10.0,"Liberia, Costa Rica",http://www1.ncdc.noaa.gov/pub/data/paleo/treering/isotope/southamerica/peru/,0.049356643356643304
+IC16WE2301A,,GlacierIce,-44.0,78.0,B23,,1.0
+LPD66bfd9f9accr,,GlacierIce,-44.0,78.0,B23,,1.0
+LS05ANJE,,LakeSediment,-134.8,60.4,Jellybean,doi.org,21.922190201729105
+SP12KEBZ01A,,Speleothem,-89.0735,16.2086,"Yok Balum Cave, Belize",https://www.ncdc.noaa.gov/paleo-search/study/13519,0.5098851722416375
+SP12KEBZ01A_d13C,,Speleothem,-89.0735,16.2086,"Yok Balum Cave, Belize",https://www.ncdc.noaa.gov/paleo-search/study/13519,0.5096307385229542
+TR11MAPE01,,Wood,76.93,10.43,"Perambikulam, Kerala, India",,1.047008547008547
+SP12NOBR00A,,Speleothem,-41.57,-12.37,"Diva de Maura Cave, Brazil",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:13670,5.057513914656772
+WEB1fa7c61b,,Wood,-68.716,-11.4,"Purisima, Northern Bolivia",,1.0
+CO04BAFI01A,,Coral,179.2333,-16.8167,"Savusavu Bay, Fiji",,0.16025495750708196
+CO04BAFI02A,,Coral,179.2333,-16.8167,"Savusavu Bay, Fiji",,0.166774193548387
+CO04BAFI00A,,Coral,179.2333,-16.8167,"Savusavu Bay, Fiji",,1.0
+IC95THHU02B,,GlacierIce,-77.5,-9.0,Nevado HuascarA¡n Core 2,,1.0
+IC95THHU02A,,GlacierIce,-77.5,-9.0,Nevado HuascarA¡n Core 2,,1.0
+IC95THHU01B,,GlacierIce,-77.5,-9.0,Nevado HuascarA¡n Core 2,,1.0
+IC95THHU01A,,GlacierIce,-77.5,-9.0,Nevado HuascarA¡n Core 2,,1.0
+IC95THHU02C,,GlacierIce,-77.5,-9.0,Nevado HuascarA¡n Core 2,,0.08333333333333333
+IC95THHU01C,,GlacierIce,-77.5,-9.0,Nevado HuascarA¡n Core 2,,0.08333333333333333
+IC95THHU02D,,GlacierIce,-77.5,-9.0,Nevado HuascarA¡n Core 2,,100.0
+LS15AIKA01B,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,35.72649572649573
+LS15AIKA01A2,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,37.32142857142857
+NPM147147,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,38.0
+NPM147147a,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,38.0
+NPM147147b,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,36.34782608695652
+NPM147147c,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,34.833333333333336
+NPM147147d,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,35.42372881355932
+LS15AIKA01A1,,LakeSediment,75.0572,38.4397,Lake Karakuli,doi.org,37.32142857142857
+IC10VISE01B,,GlacierIce,-35.85,71.76,Site G,,1.0
+IC10VISE01A,,GlacierIce,-35.85,71.76,Site G,,1.0
+MS14CCBC02,,MarineSediment,-50.2427,-32.5052,Brazil Current,https://doi.pangaea.de/10.1594/PANGAEA.841891,26.86046511627907
+MS14CCBC01a,,MarineSediment,-50.2427,-32.5052,Brazil Current,https://doi.pangaea.de/10.1594/PANGAEA.841891,61.80769230769231
+MS14CCBC01b,,MarineSediment,-50.2427,-32.5052,Brazil Current,https://doi.pangaea.de/10.1594/PANGAEA.841891,107.52272727272727
+LPD08287935c,,MarineSediment,-50.2427,-32.5052,Brazil Current,https://doi.pangaea.de/10.1594/PANGAEA.841891,100.4375
+LPD08287935r,,MarineSediment,-50.2427,-32.5052,Brazil Current,https://doi.pangaea.de/10.1594/PANGAEA.841891,107.52272727272727
+MS15VIBC01,,MarineSediment,-50.2427,-32.5052,Brazil Current,https://doi.pangaea.de/10.1594/PANGAEA.841891,115.03305785123968
+LPD08287935,,MarineSediment,-50.2427,-32.5052,Brazil Current,https://doi.pangaea.de/10.1594/PANGAEA.841891,92.89333333333333
+Ocean2kHR_177,,Coral,173.0,0.933,"Maiana Atoll, Republic of Kiribati",doi.org,0.16666666666666666
+CO00URMA01A,,Coral,173.0,0.933,"Maiana Atoll, Republic of Kiribati",doi.org,0.16666666666666666
+TR10ANMO00,,Wood,-85.35,10.2,"Monteverde Cloud Forest, Costa Rica",,0.08333333333333333
+Ocean2kHR_166,,Coral,144.836,13.598,Guam Coral,doi.org,0.08333465503568599
+TR11SIMO01,,Wood,89.04,50.23,"Russia, Mongun taiga, Tuva Republic",,1.0294117647058822
+LS11NECA,,LakeSediment,-119.6,48.5,Castor,doi.org,5.732084905660377
+MS11SENS01,,MarineSediment,5.25,63.76,Norwegian Sea,,12.408450704225352
+MAT72174380d3,,MarineSediment,5.25,63.76,Norwegian Sea,,12.408450704225352
+CO96SWBB01A,,Coral,-80.1715,25.3903,"Alinas Reef, Biscayne National Park, Florida",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:1885,1.0
+SP07ASUS01A,,Speleothem,-105.1667,32.083,"pink Panter Cave, New Mexico",https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:9739,17.770925110132158
+WEBd22ea8c1,,Wood,-94.6333,34.6833,Ouachita National Forest,,1.0
+SP13PAVU01A,,Speleothem,167.0,-15.5,"Santo, Vanuatu",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_study_id:14988,0.2746461538461538
+IC12RHME01A,,GlacierIce,167.68,-77.52,Mt Erebus Saddle - MES,,0.0820788139499155
+LS96VOAM01,,LakeSediment,11.0166,47.1,Ammersee,doi.org,18.683173652694613
+MAT887ebe2143,,LakeSediment,11.0166,47.1,Ammersee,doi.org,18.683173652694613
+WEB1c82ec4b,,Wood,-95.0,16.65,"Nizanda, S Mexico",,1.0
+IC00OE0202A,,GlacierIce,3.92,-74.97,DML Plateau (DML02) SS9813,,1.005128205128205
+Ocean2kHR_124,,Coral,-64.7,32.3,"Northeast Breakers, Bermuda",https://doi.pangaea.de/10.1594/PANGAEA.711835,2.909090909090909
+Ocean2kHR_125,,Coral,-64.7,32.3,"Northeast Breakers, Bermuda",https://doi.pangaea.de/10.1594/PANGAEA.711835,2.9583333333333335
+IC13STN801A,,GlacierIce,1.6,-74.88,NUS 08-7,,0.25946496683250414
+IC00OE0503A,,GlacierIce,0.04,-75.0,DML Plateau (DML05) FB9807,,1.0
+IC85LAD201A,,GlacierIce,-46.18,66.38,DYE2,,1.0
+Ocean2kHR_020,,Coral,43.58,-23.15,"Ifaty Reef, SW Madagascar",ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/indian_ocean/ifaty2004.txt,0.16666666666666666
+IC13ST1301A,,GlacierIce,-95.65,-78.12,US-ITASE-2001-3,,0.048783921302577964
+IC03HORB01A,,GlacierIce,86.92,27.98,East Rongbuk Glacier,,0.08175690021231422
+WEB396032ca,,Coral,110.656,19.287,Hainan Island,,1.0
+WEBa131bf7e,,Coral,110.656,19.287,Hainan Island,,1.0
+SP13MCUS01A,,Speleothem,-118.78,36.57,"Crystal Cave, California",https://www.ncdc.noaa.gov/paleo/study/14652,1.0
+WEB44d2f1ea,,Coral,-68.3998,12.222,Northwestern shore,,0.1690355450236969
+WEBbac6c4f7,,Coral,-68.3998,12.222,Northwestern shore,,0.16666559139784973
+IC11STTA01A,,GlacierIce,159.18,-72.82,TALDICE -Talos Dome,,10.915043956043954
+SP13ASBC01,,Speleothem,-104.26,32.1,"Bat Cave, New Mexico",http://www.pnas.org/content/110/24/9651.full.pdf?with-ds=yes,10.013698630136986
+LS06DENA01b,,LakeSediment,34.46,38.34,Lake Nar,,12.838345864661655
+CO15ABSP01A,,Coral,100.5167,-3.1833,Taitaitanopo Island,https://www.ncdc.noaa.gov/cdo/f?p=519:1:::::P1_STUDY_ID:18895,0.08333333333333333
+SP14APPE01A,,Speleothem,-77.35,-5.92,"Palestina Cave, northwestern Peru",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:19301,4.317708333333333
+MATab160c351c,,Speleothem,-77.35,-5.92,"Palestina Cave, northwestern Peru",https://www.ncdc.noaa.gov/cdo/f?p=519:1:0::::P1_STUDY_ID:19301,4.295336787564767
+IC99OE0201A,,GlacierIce,3.92,-74.97,DML Plateau Amundsenisen FB96DML02,,1.027027027027027
+IC93BAGI01A,,GlacierIce,-38.46,72.59,GISP2-B,,1.0
+IC93BAGI02A,,GlacierIce,-38.46,72.59,GISP2-B,,0.11890155938951562
+IC93BAGI02Ay,,GlacierIce,-38.46,72.59,GISP2-B,,0.11890155938951562
+IC99OE0502A,,GlacierIce,0.01,-75.0,DML Plateau Amundsenisen FB97DML05,,1.03125
+IC96MOSS01A,,GlacierIce,-84.25,-75.92,Siple Station,,1.0
+GH2d3d5a0b,,LakeSediment,-105.723,37.675,San Luis Lake,,66.24
+GH8f461f71,,LakeSediment,-105.723,37.675,San Luis Lake,,66.24
+IC13ST2101A,,GlacierIce,-110.01,-82.0,US-ITASE-2002-1,,0.07252999510284037
+IC00STHN01A,,GlacierIce,165.4,-73.1,Hercules NA©vA©,,1.0
+IC10VIMI01B,,GlacierIce,-44.58,70.3,Milcent,,1.0
+IC10VIMI01A,,GlacierIce,-44.58,70.3,Milcent,,1.0
+LPD873b43d0,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.95145631067961
+LPDb7290ea4,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.95145631067961
+LPDba471ae7,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.95145631067961
+LPD071f9a58,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.95145631067961
+LPD47182517,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.97087378640777
+LPDbceb5d84,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.97087378640777
+MS09TRFD01b,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.97087378640777
+LPD873b43d05,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.97087378640777
+MS09TRFD01a,,MarineSediment,-13.9,55.5,Feni Drift,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/richter2009/richter2009.txt,22.97087378640777
+WEBfe31d859,,Coral,-80.06,19.7,Little Cayman,,0.08333333333333333
+WEB1ae4dccd,,Coral,-80.06,19.7,Little Cayman,,0.08333333333333333
+WEB3309bb9e,,Coral,-80.06,19.7,Little Cayman,,0.08333333333333333
+WEBa95b590f,,Coral,-80.06,19.7,Little Cayman,,0.08333333333333333
+LS11TICH01A,,LakeSediment,37.7,-3.3167,Lake Challa,doi.org,179.5107913669065
+LS14LESA01a,,LakeSediment,73.1833,37.7,Sasikul Lake,doi.org,33.43421052631579
+IC14VL1K01A,,GlacierIce,93.38,-67.43,105th km,,1.0043668122270741
+IC08VISV01A,,GlacierIce,-73.32,-46.58,San Valentin,,0.22971590909090817
+TR13SIKO01,,Wood,86.0,49.0,"Russia, Koksu, Russian Altai",,1.0
+CO96SWFB01A,,Coral,-80.75,24.9167,"Lignumvitae Basin, Florida Bay",,1.0
+WEB477e36ed,,MolluskShells,-16.6,13.9,Saloum shell middens,,5.0
+WEB9bab95ac,,MolluskShells,-16.6,13.9,Saloum shell middens,,5.0
+WEBf820da9c,,MolluskShells,-16.6,13.9,Saloum shell middens,,5.0
+Ocean2kHR_011,,Coral,55.4244,-4.6062,"Beau Vallon Bay, Mahe Island, Republic of the Seychelles",doi.org,0.08333707234997204

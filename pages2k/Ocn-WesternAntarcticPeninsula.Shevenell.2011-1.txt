@@ -1,0 +1,171 @@
+# Western Antarctic Peninsula marine sediment TEX86
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-WesternAntarcticPeninsula.Shevenell.2011-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-WesternAntarcticPeninsula.Shevenell.2011.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://doi.pangaea.de/10.1594/PANGAEA.769699
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Western Antarctic Peninsula marine sediment TEX86
+#------------------
+# Investigators
+#     Investigators: Shevenell, A.E.; Ingalls, A.E.; Domack, E.W.; Kelly, C.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement; see "Data (QC) tab" cell C6 for details
+#------------------
+# Publication
+#     Authors: Shevenell, A. E.;Ingalls, A. E.;Domack, E. W.;Kelly, C.
+#     Published_Date_or_Year: 2011
+#     Published_Title: Holocene Southern Ocean surface temperature variability west of the Antarctic Peninsula
+#     Journal_Name: Nature
+#     Volume: 470
+#     Edition: 
+#     Issue: 7333
+#     Pages: 250-254
+#     Report: 
+#     DOI: 10.1038/nature09751
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: NSF
+#     Grant: OPP-0620099
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: ODP
+#     Grant: OPP-0732467
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: USAP
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Western Antarctic Peninsula
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -64.87
+#     Southernmost_Latitude: -64.87
+#     Easternmost_Longitude: -64.2
+#     Westernmost_Longitude: -64.2
+#     Elevation: -1011
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: -78.0
+#     Most_Recent_Year: 1870.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+AA29169 (Core LMG98KCI)	40.0	113.0	33.0	nan	20.0	80.0	0.0	-47.0	Organic Carbon (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was acquired for this study; Magnetic Sus. Says that 1098B does NOT have top 0.1 kyrs; Calib = Marine09; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	10.0	1265.0	nan	
+AA29168 (Core LMG98KCI)	40.0	48.0	-32.0	nan	340.0	80.0	300.0	-112.0	Organic Carbon (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was acquired for this study; Magnetic Sus. Says that 1098B does NOT have top 0.1 kyrs; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	320.0	1200.0	nan	
+AA29123 (Hole 1098C)	50.0	1070.0	970.0	nan	1400.0	100.0	1380.0	870.0	Organic Carbon (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was acquired for this study; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	1390.0	2200.0	nan	
+AA13980 (Core PD92-30)	55.0	1140.0	1030.0	nan	20.0	110.0	0.0	920.0	Organic Carbon (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was acquired for this study; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	10.0	2260.0	nan	
+AA12706 (Core PD92-30)	70.0	1520.0	1380.0	nan	1560.0	140.0	1520.0	1240.0	Foraminifera (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was acquired for this study; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	1540.0	2615.0	nan	
+AA29124 (Hole 1098C)	45.0	1340.0	1250.0	nan	3170.0	90.0	3150.0	1160.0	Organic Carbon (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was acquired for this study; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	3160.0	2480.0	nan	
+AA12707 (Core PD92-30)	60.0	1980.0	1860.0	nan	3160.0	120.0	3120.0	1740.0	Foraminifera (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was analyzed; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	3140.0	3095.0	nan	
+AA12708 (Core PD92-30)	60.0	2120.0	2000.0	nan	3960.0	120.0	3920.0	1880.0	Foraminifera (Reservoir = 1230 yrs)	NOT 1098B which is the core where TEX86 data was analyzed; Note: The actual Hole 1098B does NOT contain any radiocarbon dates or age control over the last 2000 years	3940.0	3235.0	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##TEX86	TEX86 data from core 178-1098B Drake Passage, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_TEX86;  
+##temperature	inferred sea-surface temperature, Marine Sediment, ,degC, 9 10 11, marine sediment, ,TEX86, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally SO; KIM2008: SST (¡C)= (0.0125*TEX86)+0.3038; (Kim et al.; (2008); error ±2.2¡C);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           TEX86          temperature    depth	
+1870.0	0.298502127	-0.42	11.0	
+1870.0	0.283081819	-1.66	11.0	
+1816.0	0.285567423	-1.46	21.0	
+1761.0	0.283181179	-1.65	31.0	
+1707.0	0.285424794	-1.47	41.0	
+1600.0	0.308127837	0.35	61.0	
+1600.0	0.318512842	1.18	61.0	
+1547.0	0.315871475	0.97	71.0	
+1494.0	0.320836166	1.36	81.0	
+1442.0	0.348906797	3.61	91.0	
+1338.0	0.349526596	3.66	111.0	
+1286.0	0.314556018	0.86	121.0	
+1139.0	0.332282352	2.28	131.0	
+1083.0	0.352285747	3.88	150.0	
+1033.0	0.311403228	0.61	161.0	
+1033.0	0.295433106	-0.67	161.0	
+984.0	0.332908639	2.33	171.0	
+934.0	0.328566257	1.98	181.0	
+885.0	0.382262862	6.28	191.0	
+837.0	0.352649164	3.91	211.0	
+788.0	0.335327107	2.52	221.0	
+740.0	0.331309527	2.2	231.0	
+692.0	0.355954272	4.17	241.0	
+598.0	0.342568699	3.1	261.0	
+551.0	0.357284339	4.28	271.0	
+504.0	0.326195326	1.79	281.0	
+366.0	0.336696281	2.63	300.0	
+366.0	0.360393341	4.53	311.0	
+320.0	0.349243545	3.64	321.0	
+275.0	0.29691145	-0.55	331.0	
+140.0	0.280414341	-1.87	361.0	
+96.0	0.294309135	-0.76	371.0	
+52.0	0.281434424	-1.79	381.0	
+8.0	0.295391635	-0.67	391.0	
+-78.0	0.29618143	-0.61	411.0	

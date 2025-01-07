@@ -1,0 +1,150 @@
+# Subpolar North Atlantic ODP984 Holocene Planktic  Mg/Ca Data
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ODP984.Came.2007-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ODP984.Came.2007.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/came2007/came2007.txt
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Subpolar North Atlantic ODP984 Holocene Planktic  Mg/Ca Data
+#------------------
+# Investigators
+#     Investigators: Came, R.E.; Oppo, D.W. ; McManus, J.F.
+#------------------
+# Description_Notes_and_Keywords
+#     Description: All O2K-LR records have been quality-controlled according to protocols published in Nature Geoscience supplement.
+#------------------
+# Publication
+#     Authors: Came, Rosemarie E.;Oppo, Delia W.;McManus, Jerry F.
+#     Published_Date_or_Year: 2007
+#     Published_Title: Amplitude and timing of temperature and salinity variability in the subpolar North Atlantic over the past 10 k.y.
+#     Journal_Name: Geology
+#     Volume: 35
+#     Edition: 
+#     Issue: 
+#     Pages: 315
+#     Report: 
+#     DOI: 10.1130/G23455A.1
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: NSF, WHOI, MIT
+#     Grant: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: Massachusetts Institute of Technology John Lyons Fellowship, Woods Hole Oceanographic Institution Ocean and Climate Change Institute, US National Science Foundation grants OCE-0220776, OCE-80256500, and OCE-0215905.
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: ODP984
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: 61.43
+#     Southernmost_Latitude: 61.43
+#     Easternmost_Longitude: -24.085
+#     Westernmost_Longitude: -24.085
+#     Elevation: -1648
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 152.0
+#     Most_Recent_Year: 1396.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+labId          age_error      cal_age_range_oldcalibratedAge  age            depth_top      x2             depth_bot      cal_age_range_youngdatedMaterial  notes          depth          age14c         thickness	
+OS-19325	40.0	506.0	446.0	nan	nan	nan	nan	333.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	10.0	805.0	nan	
+OS-36742	35.0	1072.0	985.0	nan	nan	nan	nan	906.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	310.0	1440.0	nan	
+OS-36743	40.0	1900.0	1798.0	nan	nan	nan	nan	1689.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	590.0	2200.0	nan	
+OS-19326	40.0	3716.0	3604.0	nan	nan	nan	nan	3470.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	950.0	3609.0	nan	
+OS-36744	40.0	4655.0	4524.0	nan	nan	nan	nan	4406.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	1230.0	4380.0	nan	
+OS-36745	45.0	6190.0	6075.0	nan	nan	nan	nan	5942.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	1630.0	5670.0	nan	
+OS-19322	65.0	7471.0	7350.0	nan	nan	nan	nan	7228.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	1950.0	6830.0	nan	
+OS-36746	50.0	7956.0	7857.0	nan	nan	nan	nan	7733.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	2150.0	7390.0	nan	
+OS-22738	55.0	9508.0	9408.0	nan	nan	nan	nan	9276.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	2535.0	8730.0	nan	
+OS-22943	45.0	10326.0	10204.0	nan	nan	nan	nan	10116.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	2735.0	9360.0	nan	
+OS-22740	55.0	10407.0	10259.0	nan	nan	nan	nan	10152.0	14C dating on planktic foraminifera	Calib 5.01 Marine04	2835.0	9410.0	nan	
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##Mg_Ca	native Mg/Ca ratios (mmol/mol) from which SST was determined; these are Came et als "mean Mg/Ca" values, ,,,, marine sediment, ,,N,  ; paleoData_variableName changed - was originally native_MgCa; paleoData_variableName changed - was originally Mg_Ca; paleoData_variableName changed - was originally Mg_Ca;  
+##temperature	inferred sea-surface temperature, foram Mg/Ca (G. bulloides), ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,Mg/Ca, N,  ; paleoData_variableName changed - was originally temp_C; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally annual; vLA2005: Mg/Ca=0.51*exp(0.10*T); (von Langen et al.; (2005); N. pachyderma);  
+##depth	depth, ,,cm, , marine sediment, ,,N,   
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           Mg_Ca          temperature    depth	
+1396.0	1.28	9.0	7.0	
+1342.0	1.04	6.9	10.0	
+1324.0	1.18	8.2	11.0	
+1217.0	1.17	8.1	17.0	
+1181.0	1.0	6.6	19.0	
+965.0	1.0	6.6	31.0	
+907.0	1.18	8.2	33.0	
+791.0	1.13	7.7	37.0	
+733.0	1.18	8.2	39.0	
+500.0	1.52	10.7	47.0	
+442.0	1.27	9.0	49.0	
+384.0	1.51	10.7	51.0	
+326.0	0.95	6.0	53.0	
+210.0	1.1	7.5	57.0	
+152.0	1.13	7.7	59.0	

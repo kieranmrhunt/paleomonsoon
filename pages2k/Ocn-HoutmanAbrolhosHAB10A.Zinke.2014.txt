@@ -1,0 +1,266 @@
+# Houtman Abrolhos, East Wallaby Islands, mean annual oxygen isotope and Sr/Ca records, 1795-2010
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-HoutmanAbrolhosHAB10A.Zinke.2014.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-HoutmanAbrolhosHAB10A.Zinke.2014.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/16316
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: coral
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Houtman Abrolhos, East Wallaby Islands, mean annual oxygen isotope and Sr/Ca records, 1795-2010
+#------------------
+# Investigators
+#     Investigators: Zinke
+#------------------
+# Description_Notes_and_Keywords
+#     Description: 
+#------------------
+# Publication
+#     Authors: Zinke, J.;Rountrey, A.;Feng, M.;Xie, S.-P.;Dissard, D.;Rankenburg, K.;Lough, J.M.;McCulloch, M.T.
+#     Published_Date_or_Year: 2014
+#     Published_Title: Corals record long-term Leeuwin current variability including Ningaloo Niño/Niña since 1795
+#     Journal_Name: Nature Communications
+#     Volume: 5
+#     Edition: 
+#     Issue: 
+#     Pages: 
+#     Report: 
+#     DOI: 10.1038/ncomms4607
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Houtman Abrolhos
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -28.4589
+#     Southernmost_Latitude: -28.4589
+#     Easternmost_Longitude: 113.749
+#     Westernmost_Longitude: 113.749
+#     Elevation: -8
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 1848.0
+#     Most_Recent_Year: 2010.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: Porites,NaN
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , coral, ,,N,   
+##d18O	,,,permil, 1 2 3 4 5 6 7 8 9 10 11 12, coral, ,,, ; climateInterpretation_seasonality changed - was originally 1 2 3 4 5 6 7 8 9 10 11 12;  
+##Sr_Ca	,,,mmol/mol, 1 2 3 4 5 6 7 8 9 10 11 12, coral, ,,, ; paleoData_variableName changed - was originally Sr_Ca; climateInterpretation_seasonality changed - was originally 1 2 3 4 5 6 7 8 9 10 11 12; paleoData_variableName changed - was originally Sr_Ca;  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           d18O           Sr_Ca	
+1848.0	-2.963531469	9.238645786	
+1849.0	-2.889080062	9.22468198	
+1850.0	-3.119403732	9.170891616	
+1851.0	-3.293086807	9.213116191	
+1852.0	-3.189651345	9.191941499	
+1853.0	-3.177095276	9.258292206	
+1854.0	-3.236584495	9.375093533	
+1855.0	-2.775135115	9.250596466	
+1856.0	-3.056678698	9.209347627	
+1857.0	-3.274722864	9.19838585	
+1858.0	-3.202594606	9.221314897	
+1859.0	-3.209080065	9.306768572	
+1860.0	-3.009704064	9.246640657	
+1861.0	-3.036765989	9.240813207	
+1862.0	-3.208582247	9.21620929	
+1863.0	-3.20912155	9.210149777	
+1864.0	-3.66074259	9.200775778	
+1865.0	-3.276401518	9.200440384	
+1866.0	-3.310871076	9.237024939	
+1867.0	-3.006591884	9.233733548	
+1868.0	nan	9.181196654	
+1869.0	-3.64917932	nan	
+1870.0	-3.15614351	9.22153872	
+1871.0	-3.522266531	9.19169505	
+1872.0	-3.444894882	nan	
+1873.0	-3.52925169	9.180231662	
+1874.0	-3.657548925	9.178298076	
+1875.0	-3.538282053	9.187269002	
+1876.0	-3.554801011	9.208426477	
+1877.0	-3.667900804	9.22980202	
+1878.0	-3.165834632	9.271277722	
+1879.0	-3.36703553	9.210051475	
+1880.0	-3.467580917	9.173563767	
+1881.0	-3.471104961	9.207595336	
+1882.0	-3.461634092	9.199814009	
+1883.0	-3.260355291	9.225640766	
+1884.0	-3.221778833	9.258830769	
+1885.0	-3.232681345	9.258697113	
+1886.0	-3.229928185	9.307561631	
+1887.0	-3.387408911	9.344408279	
+1888.0	nan	9.366801859	
+1889.0	nan	9.245694406	
+1890.0	-3.109449924	9.242940183	
+1891.0	-3.188190287	9.254476867	
+1892.0	-3.137091646	9.270419138	
+1893.0	-3.281907838	nan	
+1894.0	-3.204819371	9.243888891	
+1895.0	-3.259221803	9.286946692	
+1896.0	-3.287964789	9.297471689	
+1897.0	-3.116387886	9.341955675	
+1898.0	-3.04932092	9.30588963	
+1899.0	-3.098877792	9.264921439	
+1900.0	-3.310210318	9.231918876	
+1901.0	nan	9.311944213	
+1902.0	-3.342036842	nan	
+1903.0	-3.332455847	9.281431344	
+1904.0	-3.131915706	9.288707297	
+1905.0	-3.176186511	9.26217658	
+1906.0	nan	9.281434332	
+1907.0	-3.233342103	9.266523207	
+1908.0	-3.220016811	9.240592507	
+1909.0	-3.260763572	9.212929047	
+1910.0	-3.375295009	nan	
+1911.0	-3.305364757	nan	
+1912.0	-3.362079843	9.318477667	
+1913.0	nan	9.344200802	
+1914.0	-3.081918329	9.267922699	
+1915.0	-2.94007555	9.26621304	
+1916.0	-3.217873143	9.232358992	
+1917.0	-3.599598718	9.27540019	
+1918.0	-3.321642141	9.218754499	
+1919.0	-3.475491434	9.230284771	
+1920.0	-3.418522364	9.211399554	
+1921.0	-3.478881149	9.203823733	
+1922.0	nan	9.214307092	
+1923.0	-3.71710426	9.184534344	
+1924.0	-3.302670675	nan	
+1925.0	-3.383531764	9.231139794	
+1926.0	-3.642571549	9.238530255	
+1927.0	-3.315737477	9.207815295	
+1928.0	-3.366255156	9.240502067	
+1929.0	-3.449467176	9.260837258	
+1930.0	-3.502390458	9.217407878	
+1931.0	-3.428035433	9.234552197	
+1932.0	-3.197862894	nan	
+1933.0	-3.336513146	nan	
+1934.0	-3.419834512	9.158367588	
+1935.0	-3.641587438	9.239996415	
+1936.0	-3.45712137	9.23158413	
+1937.0	-3.370191598	9.215548189	
+1938.0	-3.46411949	9.24419735	
+1939.0	-3.369754216	9.218497278	
+1940.0	-3.579588469	9.222148336	
+1941.0	-3.49834467	9.209804062	
+1942.0	-3.375002806	9.21389352	
+1943.0	-3.370957018	9.167061814	
+1944.0	-3.856670281	9.26600097	
+1945.0	-3.444984005	9.240874785	
+1946.0	-3.615235142	9.274120663	
+1947.0	-3.30316273	9.184250115	
+1948.0	-3.705171919	9.172778239	
+1949.0	-3.583019188	9.189106115	
+1950.0	-3.682810738	9.194725076	
+1951.0	-3.119899464	9.144650651	
+1952.0	-3.532132468	9.124198582	
+1953.0	-3.733765799	9.196081774	
+1954.0	-3.555423086	9.152971938	
+1955.0	-2.904925966	9.216786354	
+1956.0	-3.197124811	9.25214152	
+1957.0	-3.453841001	nan	
+1958.0	-3.341761736	9.209691763	
+1959.0	-3.448920448	9.206147477	
+1960.0	-3.364833663	9.210649294	
+1961.0	-3.178713183	9.182794384	
+1962.0	-3.509879728	9.203802655	
+1963.0	-3.426276753	9.178167108	
+1964.0	-3.61707418	9.184477614	
+1965.0	-3.306036324	9.157309437	
+1966.0	-3.212322715	9.256889537	
+1967.0	-3.356698204	9.204045875	
+1968.0	-3.1917753	9.203762859	
+1969.0	nan	9.23127798	
+1970.0	-2.991519539	9.173174845	
+1971.0	-3.507814115	9.177867847	
+1972.0	-3.388524955	9.138356854	
+1973.0	-3.583760344	9.145491061	
+1974.0	-3.682412786	9.112522912	
+1975.0	-3.459000415	9.092053573	
+1976.0	-3.668605793	9.172055018	
+1977.0	-3.657299279	9.107617587	
+1978.0	-3.631098607	9.093605859	
+1979.0	-3.662300237	9.13939408	
+1980.0	-3.636969297	9.105296061	
+1981.0	-3.673715468	9.117979284	
+1982.0	nan	9.147555844	
+1983.0	-3.620335675	9.170165651	
+1984.0	-3.511727909	9.168309267	
+1985.0	-3.279618218	9.234966089	
+1986.0	-3.203081814	9.228244775	
+1987.0	-2.966840898	9.083696937	
+1988.0	nan	9.097189215	
+1989.0	-3.245046377	9.088287794	
+1990.0	-3.863534447	9.138660914	
+1991.0	-3.707308861	nan	
+1992.0	nan	9.096917118	
+1993.0	-3.397793035	nan	
+1994.0	-3.514622485	nan	
+1995.0	-3.582624645	9.119854644	
+1996.0	-3.608920444	9.062770733	
+1997.0	-3.648384527	9.149997023	
+1998.0	-3.703068918	9.160466058	
+1999.0	-3.626206365	9.046781261	
+2000.0	-3.502487008	9.092253198	
+2001.0	-3.795477928	9.125593371	
+2002.0	-3.578479829	9.157323895	
+2003.0	-3.481178577	9.119826155	
+2004.0	-3.594787301	9.147842868	
+2005.0	-3.285923774	9.164837375	
+2006.0	-3.437583268	9.172642055	
+2007.0	-3.677629261	9.155936791	
+2008.0	-3.582284906	9.120566528	
+2009.0	-3.891474583	9.124146834	
+2010.0	-3.612467319	9.12881193	

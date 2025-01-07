@@ -1,0 +1,142 @@
+# Lamy.Chilean_margin__Southern_Ocean_(Pacific_sector).2002
+#-----------------------------------------------------------------------            
+#                World Data Service for Paleoclimatology, Boulder            
+#                                  and            
+#                     NOAA Paleoclimatology Program            
+#             National Centers for Environmental Information (NCEI)            
+#-----------------------------------------------------------------------            
+# Template Version 3.0            
+# Encoding: UTF-8            
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.             
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ChileanMargin.Lamy.2002-1.txt
+#     Online_Resource_Description:  This file.  NOAA WDS Paleo formatted metadata and data for version 2.0.0 of this dataset.
+#
+# Online_Resource:  https://www1.ncdc.noaa.gov/pub/data/paleo/pages2k/pages2k-temperature-v2-2017/data-version-2.0.0/Ocn-ChileanMargin.Lamy.2002.lpd
+#     Online_Resource_Description:  Linked Paleo Data (LiPD) formatted file containing the same metadata and data as this file, for version 2.0.0 of this dataset.
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/lamy2002/
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: marine sediment
+# Parameter_Keywords: 
+# Dataset_DOI: 
+#
+#------------------
+# Contribution_Date
+#     Date: 
+#------------------
+# File_Last_Modified_Date
+#     Modified_Date: 2017-05-19
+#------------------
+# Title
+#     Study_Name: Lamy.Chilean_margin__Southern_Ocean_(Pacific_sector).2002
+#------------------
+# Investigators
+#     Investigators: Lamy, Frank;Rühlemann, Carsten;Hebbeln, Dierk;Wefer, Gerold
+#------------------
+# Description_Notes_and_Keywords
+#     Description: HVM, BM, 20/4/2016 Southern0045aLamy2002_GeoB3313-1;These are the original, not quality controlled data. O2kLR recommends only using the Quality controlled data.Inadequate chronological constraints, final record that was entered contained an updated age model and dating constraints;
+#------------------
+# Publication
+#     Authors: Lamy, Frank;Rühlemann, Carsten;Hebbeln, Dierk;Wefer, Gerold
+#     Published_Date_or_Year: 2002
+#     Published_Title: High- and low-latitude climate control on the position of the southern Peru-Chile Current during the Holocene
+#     Journal_Name: Paleoceanography
+#     Volume: 17
+#     Edition: 
+#     Issue: 
+#     Pages: PA000727
+#     Report: 
+#     DOI: 10.1029/2001PA000727
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Publication
+#     Authors: McGregor, Helen V.;Evans, Michael N.;Goosse, Hugues;Leduc, Guillaume;Martrat, Belen;Addison, Jason A.;Mortyn, P. Graham;Oppo, Delia W.;Seidenkrantz, Marit-Solveig;Sicre, Marie-Alexandrine;Phipps, Steven J.;Selvaraj, Kandasamy;Thirumalai, Kaustubh;Filipsson, Helena L.;Ersek, Vasile
+#     Published_Date_or_Year: 2015
+#     Published_Title: Robust global ocean cooling trend for the pre-industrial Common Era
+#     Journal_Name: Nature Geoscience
+#     Volume: 8
+#     Edition: 
+#     Issue: 9
+#     Pages: 671-677
+#     Report: 
+#     DOI: 10.1038/ngeo2510
+#     Online_Resource: doi.org
+#     Full_Citation: 
+#     Abstract: 
+#------------------
+# Funding_Agency
+#     Funding_Agency_Name: 
+#     Grant: 
+#------------------
+# Site_Information
+#     Site_Name: Chilean margin, Southern Ocean (Pacific sector)
+#     Location: 
+#     Country: 
+#     Northernmost_Latitude: -41
+#     Southernmost_Latitude: -41
+#     Easternmost_Longitude: -74.45
+#     Westernmost_Longitude: -74.45
+#     Elevation: -852
+#------------------
+# Data_Collection
+#     Collection_Name: 
+#     Earliest_Year: 4.0
+#     Most_Recent_Year: 1650.0
+#     Time_Unit: AD
+#     Core_Length: 
+#     Notes: 
+#------------------
+# Species
+#     Species_Name: 
+#     Species_Code: 
+#     Common_Name: 
+#------------------
+# Chronology:        
+
+#------------------
+# Variables        
+#
+# Data variables follow that are preceded by "##" in columns one and two.        
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components ( 10 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data, additional_information)
+#
+##year	Year AD, ,,AD, , marine sediment, ,,N,   
+##temperature	inferred sea-surface temperature, alkenone, ,degC, 1 2 3 4 5 6 7 8 9 10 11 12, marine sediment, ,alkenone, N,  PRA1988: T(cultures) = (Uk37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994); paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual; PRA1988: T(cultures) = (Uk'37-0.039)/(0.034); (Prahl et al.; (1988); cultures E. huxleyi; 8-25ºC; n=22; R2=0.994);  
+#
+#------------------
+# Data:        
+# Data lines follow (have no #)        
+# Data line format - tab-delimited text, variable short name as header)        
+# Missing_Values: nan
+#
+year           temperature	
+1650.0	14.67	
+1572.0	14.91	
+1494.0	14.62	
+1416.0	14.81	
+1338.0	14.89	
+1260.0	15.03	
+1182.0	14.97	
+1104.0	15.34	
+1026.0	15.33	
+948.0	15.2	
+870.0	15.03	
+792.0	15.16	
+717.0	15.17	
+679.0	15.14	
+642.0	15.14	
+567.0	15.35	
+491.0	15.29	
+416.0	15.59	
+379.0	15.56	
+341.0	15.44	
+266.0	15.28	
+191.0	15.18	
+154.0	15.08	
+79.0	15.04	
+4.0	15.01	
